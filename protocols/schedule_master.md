@@ -46,12 +46,13 @@
 - **4:30:** Gate 4 (protein) — carbs light unless you somehow roll hard again (you shouldn’t)
 - **Flow PM:** Lil Rollers · Kids · Adults — **strict coach-mode** (no second Gulag)
 
-### Friday — Lift B + Flow Comp coach (no GB noon)
+### Friday — Lift B + FREE evening (no Flow teach)
+You do **not** teach Friday Flow classes.
 - **11:00:** Wake → Collagen → Gate 1 (+35g pre-lift carbs)
 - **11:45–12:33:** **Lift Day B**
-- **3:00:** Sertraline · **4:30:** Gate 4
-- **Flow PM:** Kids Comp 5:30 · Adults Comp 6:30 — **run the room**; not your athlete Gulag
-- Gate 6 dinner; fingers get true relief Sat AM teach + Sun off hard rolls if Sat GB skipped
+- **3:00:** Sertraline
+- **PM default:** Complete mat rest — family / social evening, Gate 6 Milpa dinner, spare finger flexors after Thu GB Gulag
+- **PM exception only:** If Thu GB Gulag was missed, optional GB ~3:00–5:00pm secondary hard (Gate 5), then still protect bedtime. Do **not** stack Thu Gulag + Fri GB + Sat GB in the same week.
 
 ### Saturday — Flow AM coach → optional GB open mat
 - **≈7:30–8:00:** Wake → scale → Gate 1

@@ -61,7 +61,7 @@ If poor sleep or heavy Thursday sparring slows bar speed on Friday midday, reduc
 ## AMPK–mTOR Interference Guard
 - Zone 2: Sunday required; Wed only if not teaching AM classes
 - No marathon running
-- Keep ≥4–6 hr between midday lift and evening coaching (Tue/Fri ≈5–6 hr to Lil Rollers/Kids/Comp)
-- **Tuesday/Friday:** Noon hour is the lift — no GB Northridge class those days
+- Keep ≥4–6 hr between Tue lift and Flow evening coaching
+- **Tuesday/Friday:** Noon hour is the lift — no GB Northridge at 12pm those days
 - **Thursday:** No lift; GB Gulag occupies midday before Flow coaching
-- **Friday:** Lift B midday + Flow Comp coaching at night (coach-mode, not Gulag) — keep Lift B inside phase RPE
+- **Friday:** Lift B midday then **free evening** (no Flow teach) — default rest after Thu Gulag; Zero-Grinder 5% if Thu sparring slowed bar speed
