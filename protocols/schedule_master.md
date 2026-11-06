@@ -68,7 +68,7 @@ You do **not** teach Friday Flow. **Prefer not to train at GB.**
 ## Daily Gates (unchanged doses; clocks flex for dual gym)
 
 ### Gate 1 — Breakfast on wake
-45g protein + D3/K2 + half Ω-3s.
+45g protein + **Kirkland D3 2,000 IU (1 softgel)** + **Nature’s Bounty fish oil (1 softgel)** (+ eggs/avocado fat for D3 absorption).
 
 ### Gate 2 — Pre-lunch psyllium (~12:40 most days; 2.5g Wk 1)
 Never within 2 hrs of hard GB rounds or ±2 hrs of 3:00 sertraline.
@@ -82,14 +82,15 @@ Never within 2 hrs of hard GB rounds or ±2 hrs of 3:00 sertraline.
 Skip Sat afternoon version if morning protein + post-mat shakes already clear the floor.
 
 ### Gate 5 — Hard athlete days only (Thu GB + Sat GB if attended)
-1. T−45 clamp → 2. T+15 WPI+creatine → 3. T+45 psyllium (sertraline-safe) → 4. Milpa dinner  
+1. T−45 clamp → 2. T+15 WPI+creatine → 3. T+45 psyllium (sertraline-safe) → 4. Milpa dinner + **fish oil 2nd softgel**  
 
 Flow coach nights without GB hard work → Gate 6, not full Gate 5.
 
 ### Gate 6 — Teach-only dinner after Flow
-Psyllium → Milpa + Ω-3s (+ creatine if unused).
+Psyllium → Milpa + **fish oil 2nd softgel** (+ creatine if unused).
 
 ### Gate 7 — Mg T−60 → allergy med at bed
+**Nature’s Bounty Mg glycinate 240 mg** serving 60 min pre-bed → allergy med at lights-out. Never with lunch multi.
 
 ---
 

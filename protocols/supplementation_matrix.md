@@ -1,42 +1,62 @@
 # Ergogenic & Micronutrient Supplementation Matrix
 
-Source guideline: Grappler Body Recomposition Playbook §5. Clock times below use the **~11:00 AM wake** schedule (`protocols/schedule_master.md`).
+Clock times follow the late-wake / dual-gym schedule in `protocols/schedule_master.md`.
 
-## Kirkland Signature Daily Multi — Clinical Gaps
+## On-hand bottles (photo inventory — Nov 6, 2026)
 
-Baseline 1 tablet USP Daily Multi covers B-complex, C, A/E, iodine, Zn, Se, Cu, Mn, Cr, Mo, boron, lutein, lycopene — but four gaps require stacking:
+| Bottle | Label dose | How you take it |
+|--------|------------|-----------------|
+| **Kirkland Signature Vitamin D3** | 50 mcg (**2,000 IU**) softgels, USP | **1 softgel** with Gate 1 breakfast (dietary fat) |
+| **Nature’s Bounty Odor-Less Fish Oil** | **1,400 mg** fish oil → **980 mg** omega-3 / softgel, USP | **1 softgel** Gate 1 + **1 softgel** dinner (= 2/day) |
+| **Nature’s Bounty Magnesium Glycinate** | **240 mg** / serving, high absorption | **1 serving** Gate 7 — **60 min pre-bed** (never with lunch multi) |
+| **Kirkland Signature Daily Multi** | 1 tablet, USP | **1 tablet** Gate 3 lunch only (with food/fat) |
 
-1. **Low D3 / K:** Only 400–600 IU D3 and ~25 mcg K → add dedicated D3 + K2 (MK-7).
-2. **Poor Mg form:** 100 mg as oxide (low bioavailability) → evening bisglycinate + L-threonate.
-3. **Iron / cation competition:** 18 mg ferrous fumarate + 200 mg Ca + Zn oxide → never stack with bedtime Mg.
-4. **Fat-soluble uptake:** Take with a solid, fat-containing meal (lunch avocado/beans) for A/D/E/K + carotenoids.
+Still buy / already planned elsewhere (not in photo): creatine 5g, zero-lactose WPI, psyllium, collagen + Vit C (lift days), electrolytes. Optional later: **K2 (MK-7)** and **Mg L-threonate** (nice-to-haves; not blockers).
 
-**Stacking rule:** 1 tablet **strictly at Gate 3 lunch (~2:30 PM)** with solid protein + black beans + avocado. Separates iron/calcium from bedtime magnesium by ≥9 hours.
+## Daily timing with your gates
 
-## Evidence-Ranked Stack
+| Clock | What |
+|-------|------|
+| **Wake / Gate 1 breakfast** | D3 **2,000 IU** (1 softgel) + Fish oil **1 softgel** + half of any split creatines if non-mat day + protein meal |
+| **≈12:40 / 1:00 lunch** | Psyllium → meal → **Kirkland Multi 1 tablet** (iron/Ca away from bedtime Mg) |
+| **3:00 PM** | Sertraline 75 mg (no fiber ±2 hrs) |
+| **4:30 PM** | Gate 4 protein before Flow |
+| **Post hard GB / after Flow if Gate 5** | WPI + creatine |
+| **Dinner** | Fish oil **2nd softgel** + Milpa meal |
+| **T−60 bedtime** | **Mg glycinate 240 mg** serving |
+| **Lights-out** | Allergy med as prescribed |
 
-| Rank | Compound | Dose / Form | Mechanism | Timing (11 AM wake) |
-|------|----------|-------------|-----------|---------------------|
-| 1 | Creatine Monohydrate (micronized USP) | 5.0g daily (no loading) | ATP–PCr for scrambles; ICW support | Post-BJJ WPI shake (Mon/Thu/Sat) **or** with breakfast water on non-sparring days |
-| 2 | Whey Protein Isolate (zero-lactose) | 25–30g / serving, 1–2× as needed | Fast EAA/leucine; avoids LCT-13910 CC lactose GI risk | Gate 4 @ 4:30 PM if needed; T+15 locker-room brake |
-| 3 | EPA/DHA Omega-3 (molecularly distilled) | 2,000–3,000 mg combined EPA+DHA | Joint / vascular / anti-inflammatory; hepatic lipid modulation | Split: half @ Gate 1 breakfast (~11:15 AM); half @ dinner |
-| 4 | Vitamin D3 + K2 (MK-7) | 2,000–5,000 IU D3 + 100–180 mcg K2 | Plugs multi gap; bone / immune / neuromuscular | Gate 1 with whole eggs (dietary fat) |
-| 5 | Mg Bisglycinate + Mg L-Threonate | 200–300 mg elemental (bisglycinate) + 144 mg elemental (L-threonate) | Sleep architecture / CNS downshift after evening mats | Gate 7 — **60 min pre-bed** (≈1:00–2:00 AM if bedtime 2–3 AM) |
-| 6 | Grappler Electrolytes (zero-sugar) | 500–1,000 mg Na+, 200 mg K+, 60 mg Mg per hard session | Plasma volume / neuromuscular under gi sweat | Pre/intra sparring & Zone 2; start 45 min pre-spar with fast carbs |
-| 7 | Hydrolyzed Collagen + Vitamin C | 15–20g collagen/gelatin + 50–200 mg Vit C | Doubles tendon collagen synthesis in 6–10 min loading window | Tue & Fri ≈11:00–11:15 AM (30–60 min before lift) |
-| Baseline | Kirkland Daily Multi | 1 tablet | B-complex + trace minerals | Gate 3 lunch only (~2:30 PM) |
+## Kirkland Multi — why lunch-only still matters
 
-## Prescription Medications (Fixed Clocks)
+Multi still has low D (hence dedicated D3), weak Mg oxide (hence glycinate at night), and **18 mg iron + calcium** that compete with evening Mg — keep multi at lunch, Mg at pre-bed (≥9 hrs apart).
 
-| Med | Dose | Clock | Stacking notes |
-|-----|------|-------|----------------|
-| **Sertraline** | **75 mg** daily | **3:00 PM** | Keep prescribed time. Separate all psyllium doses by ≥2 hrs (lunch fiber @ ~12:40 PM; dinner fiber ≥5:00 PM / evening). Do not crush into shakes with fiber. Food optional; water OK. |
-| **Allergy medication** | As prescribed | **Bedtime** (with Gate 7) | Take at lights-out after magnesium (T−60). Compatible with Mg sleep stack; do not move to daytime unless clinician directs. |
+## Playbook targets vs your bottles
 
-## Hard Stacking Constraints
-- Zero GLP-1 agonists
-- Zero-lactose protein only (Mesoamerican LCT-13910 CC prevalence)
-- Never take psyllium within 2 hours of BJJ
-- Never take psyllium within ±2 hours of **3:00 PM sertraline**
-- Never co-ingest lunch multi with bedtime magnesium
-- Do not change sertraline dose/time or stop allergy med for training — train around the meds
+| Playbook aim | Your bottle | Status |
+|--------------|-------------|--------|
+| D3 2,000–5,000 IU | Kirkland 2,000 IU ×1 | **Good** (floor dose; can go to 2 softgels in winter only if bloodwork/clinician OK) |
+| K2 100–180 mcg | — | **Missing** — optional add later |
+| EPA+DHA 2–3 g | Fish oil 980 mg Ω-3 ×2/day | **Adequate proxy** — check softgel back for EPA/DHA split; 2/day is the plan |
+| Mg 200–300 mg glycinate + L-threonate | Glycinate 240 mg | **Glycinate covered**; L-threonate optional |
+| Daily multi | Kirkland Daily Multi | **On plan** |
+
+## Other stack (unchanged)
+
+| Compound | Dose | Timing |
+|----------|------|--------|
+| Creatine monohydrate | 5.0g daily | Post-GB/Flow Gate 5 shake **or** breakfast water on easy days |
+| Whey isolate (zero-lactose) | 25–30g as needed | Gate 4 / post-roll |
+| Collagen + Vit C | 15–20g + 50–200 mg C | Tue/Fri wake, 30–60 min pre-lift |
+| Electrolytes | 500–1,000 mg Na+ etc. | Pre/intra hard GB |
+
+## Prescription meds
+
+| Med | Dose | Clock |
+|-----|------|-------|
+| Sertraline | 75 mg | 3:00 PM — psyllium ≥2 hrs away |
+| Allergy med | as prescribed | Bedtime after Mg |
+
+## Hard constraints
+- Multi @ lunch only; Mg glycinate @ pre-bed only — never together
+- Psyllium ≥2 hrs from sertraline and from hard mat rounds
+- Zero GLP-1; zero-lactose protein only
