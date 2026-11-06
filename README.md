@@ -71,6 +71,8 @@ Before answering training or nutrition queries, read:
 
 Give exact gram, pound, RPE, and tempo directives on the late-wake clock. Never cut calories in Weeks 1–3 if navel waist is tightening (ICW buffer).
 
+**Food/supplement shares:** Always deep-dive exact label nutrition, quality seals/forms, meds conflicts, and Phase macro/gate impact (see `.cursor/rules/recomp.mdc`).
+
 ## Is the Week-21 “stocky” target realistic?
 
 **Leaner / tighter gi / stronger in 21 weeks — yes.** Fat loss of ~1 lb/week and waist drop are coherent with the deficit model, especially returning from a lifting layoff.
