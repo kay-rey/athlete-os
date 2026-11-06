@@ -53,4 +53,5 @@ Run this audit **immediately on waking Sunday (~11:00 AM)** — underwear only, 
 ### 6. Decision Log
 - Calorie phase adjustment?: Hold / advance only per `protocols/nutrition_phases.csv`
 - Milestone check vs `protocols/milestones.csv`:
+- Success tier this week (see `protocols/trajectory_realism.md`): A floor / B plan / C stocky (usually post-Wk21)
 - Action items for Monday:

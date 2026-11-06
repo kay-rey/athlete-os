@@ -14,7 +14,8 @@ athlete-os/
 │   ├── milestones.csv                # Anthropometric & strength benchmarks by week
 │   ├── lifts_registry.md             # 2-day microcycle (midday Tue/Fri), tempos, RPE
 │   ├── schedule_master.md            # Late-wake 7-day timetable + satiety gates
-│   └── supplementation_matrix.md     # Stack doses, forms, timing
+│   ├── supplementation_matrix.md     # Stack doses, forms, timing + Rx meds
+│   └── trajectory_realism.md         # Honest Tier A/B/C success framing
 ├── data/
 │   ├── weigh_ins.csv                 # Daily scale, waist, gi overlap log
 │   └── lifting_log.csv               # Session-level set log
@@ -63,3 +64,9 @@ Before answering training or nutrition queries, read:
 6. `protocols/supplementation_matrix.md`
 
 Give exact gram, pound, RPE, and tempo directives on the late-wake clock. Never cut calories in Weeks 1–3 if navel waist is tightening (ICW buffer).
+
+## Is the Week-21 “stocky” target realistic?
+
+**Leaner / tighter gi / stronger in 21 weeks — yes.** Fat loss of ~1 lb/week and waist drop are coherent with the deficit model, especially returning from a lifting layoff.
+
+**Finished stocky density by Week 21 — usually no.** Treat milestones as Tier B aims; full yoke/shelf fullness often needs **Weeks 22–30 at maintenance (2,500 kcal)**. See `protocols/trajectory_realism.md`.

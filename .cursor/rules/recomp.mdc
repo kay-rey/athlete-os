@@ -52,5 +52,8 @@ During Weeks 1–3, 5g/day creatine and myonuclear domain re-inflation pull +3.8
 - Tue/Fri midday lifts; Mon/Tue/Thu evening BJJ; Sat open mat afternoon by default
 - Lift→mat separation ≥4–6 hours (late-wake yields ~5.5–6.5 hr on Tue)
 
+## Trajectory Realism
+Week-21 milestones in `protocols/milestones.csv` are **aspirational (Tier B→C)**. Score wins against Tier A floor first — see `protocols/trajectory_realism.md`. Full “stocky” density often consolidates in Wk 22–30 maintenance, not on the Wk 21 scale day. Never deepen the deficit solely because LBM/stockiness lags while waist is moving.
+
 ## Agent Directives
-Always read `@data/weigh_ins.csv`, `@data/lifting_log.csv`, `@protocols/milestones.csv`, `@protocols/nutrition_phases.csv`, `@protocols/schedule_master.md`, and `@protocols/supplementation_matrix.md` before answering queries. Prefer `@research/grappler_recomp_playbook.md` for mechanism depth, but **never prescribe 6–7 AM wake times**. Give exact gram, pound, RPE, and tempo directives on the late-wake clock.
+Always read `@data/weigh_ins.csv`, `@data/lifting_log.csv`, `@protocols/milestones.csv`, `@protocols/nutrition_phases.csv`, `@protocols/schedule_master.md`, `@protocols/supplementation_matrix.md`, and `@protocols/trajectory_realism.md` before answering queries. Prefer `@research/grappler_recomp_playbook.md` for mechanism depth, but **never prescribe 6–7 AM wake times**. Give exact gram, pound, RPE, and tempo directives on the late-wake clock.
