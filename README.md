@@ -1,6 +1,6 @@
 # athlete-os
 
-21-week BJJ body recomposition operating system for a 32yo brown belt (baseline Nov 6, 2026 → target Apr 2, 2027).
+21-week BJJ body recomposition operating system for a 32yo brown belt (**Phase 1 start Mon Nov 9, 2026** → Week 21 **Apr 4, 2027**; planned KBBQ weekend Nov 7–8 before launch).
 
 Built from the Grappler Body Recomposition Playbook research, with clocks remapped to an **≈11:00 AM wake** chronotype (not the playbook’s 7:00 AM template).
 
@@ -15,7 +15,8 @@ athlete-os/
 │   ├── lifts_registry.md             # 2-day microcycle (midday Tue/Fri), tempos, RPE
 │   ├── schedule_master.md            # Late-wake 7-day timetable + satiety gates
 │   ├── supplementation_matrix.md     # Stack doses, forms, timing + Rx meds
-│   └── trajectory_realism.md         # Honest Tier A/B/C success framing
+│   ├── trajectory_realism.md         # Honest Tier A/B/C success framing
+│   └── weekend_prestart.md           # KBBQ weekend rules + Mon Nov 9 launch
 ├── data/
 │   ├── weigh_ins.csv                 # Daily scale, waist, gi overlap log
 │   └── lifting_log.csv               # Session-level set log
@@ -29,7 +30,7 @@ athlete-os/
 
 ## Trajectory Snapshot
 
-| | Week 0 (Nov 6, 2026) | Week 21 (Apr 2, 2027) |
+| | Week 0 (Nov 9, 2026) | Week 21 (Apr 4, 2027) |
 |--|----------------------|------------------------|
 | Weight | 189.7 lbs | 172.0 lbs (170–174) |
 | BF% | 26.1–27.0% | 14.9% |
