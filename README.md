@@ -43,12 +43,13 @@ athlete-os/
 | ≈11:00 AM | Wake → void → scale → (collagen on lift days) |
 | ≈11:15 AM | Gate 1 breakfast (45g protein + D3/K2 + Ω-3) |
 | ≈11:45 AM–12:33 PM | Lift A/B *or* Zone 2 *or* mobility |
-| ≈2:10 / 2:30 PM | Psyllium → Lunch + Kirkland multi |
+| ≈12:40 / 1:00 PM | Psyllium → Lunch + Kirkland multi (≥2 hrs before sertraline) |
+| **3:00 PM** | **Sertraline 75 mg** |
 | 4:30 PM | Gate 4 protein anchor (≥100g by 5:00 PM) |
 | 5:00 PM | Peri-mat carbs on sparring evenings |
 | 6–8 PM | BJJ (Mon/Tue/Thu) |
 | Sat 1–3 PM | Open mat (default; morning alt if gym-only) |
-| 60 min pre-bed | Magnesium stack; kitchen closed |
+| 60 min pre-bed → bedtime | Magnesium stack → **allergy med** at lights-out |
 
 ## Agent Usage
 

@@ -26,8 +26,17 @@ Baseline 1 tablet USP Daily Multi covers B-complex, C, A/E, iodine, Zn, Se, Cu, 
 | 7 | Hydrolyzed Collagen + Vitamin C | 15–20g collagen/gelatin + 50–200 mg Vit C | Doubles tendon collagen synthesis in 6–10 min loading window | Tue & Fri ≈11:00–11:15 AM (30–60 min before lift) |
 | Baseline | Kirkland Daily Multi | 1 tablet | B-complex + trace minerals | Gate 3 lunch only (~2:30 PM) |
 
+## Prescription Medications (Fixed Clocks)
+
+| Med | Dose | Clock | Stacking notes |
+|-----|------|-------|----------------|
+| **Sertraline** | **75 mg** daily | **3:00 PM** | Keep prescribed time. Separate all psyllium doses by ≥2 hrs (lunch fiber @ ~12:40 PM; dinner fiber ≥5:00 PM / evening). Do not crush into shakes with fiber. Food optional; water OK. |
+| **Allergy medication** | As prescribed | **Bedtime** (with Gate 7) | Take at lights-out after magnesium (T−60). Compatible with Mg sleep stack; do not move to daytime unless clinician directs. |
+
 ## Hard Stacking Constraints
 - Zero GLP-1 agonists
 - Zero-lactose protein only (Mesoamerican LCT-13910 CC prevalence)
 - Never take psyllium within 2 hours of BJJ
+- Never take psyllium within ±2 hours of **3:00 PM sertraline**
 - Never co-ingest lunch multi with bedtime magnesium
+- Do not change sertraline dose/time or stop allergy med for training — train around the meds

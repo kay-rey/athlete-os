@@ -25,12 +25,13 @@ Run this audit **immediately on waking Sunday (~11:00 AM)** — underwear only, 
 | Gate | Days Hit / 7 | Miss Notes |
 |------|--------------|------------|
 | Gate 1 Breakfast ~11:15 (45g protein + D3/K2 + Ω-3) | /7 | |
-| Gate 2 Pre-Lunch Psyllium ~2:10 | /7 | |
-| Gate 3 Lunch ~2:30 (50g protein + Milpa + Multi) | /7 | |
+| Gate 2 Pre-Lunch Psyllium ~12:40 (≥2 hrs before sertraline) | /7 | |
+| Gate 3 Lunch ~1:00 (50g protein + Milpa + Multi) | /7 | |
+| Gate 3.5 Sertraline 75 mg @ 3:00 PM | /7 | |
 | Gate 4 Pre-Mat Anchor 4:30 (≥100g by 5:00 PM; target 110–125g) | /7 | |
-| Gate 5 Peri-Sparring Loop (Mon/Thu/Sat) | /_ | |
+| Gate 5 Peri-Sparring Loop (Mon/Thu/Sat; Sat gel ≥5:00 PM) | /_ | |
 | Gate 6 Non-Sparring Dinner + Psyllium | /_ | |
-| Gate 7 Magnesium 60 min pre-bed | /7 | |
+| Gate 7 Mg @ T−60 + allergy med at bedtime | /7 | |
 
 ### 4. Training Load
 | Session | Completed | RPE Range | Double-Progression Trigger? |

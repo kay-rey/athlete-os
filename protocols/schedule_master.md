@@ -2,7 +2,11 @@
 
 **Chronotype lock:** Habitual wake ≈ **11:00 AM**. All clock times below are shifted from the Gemini playbook’s 7:00 AM template. Physiological rules (protein floor before 5:00 PM, peri-sparring T−45 / T+15 loop, psyllium 15–20 min pre-meal, Baar collagen 30–60 min pre-load, ≥4–6 hr lift→mat separation) are unchanged.
 
-**Assumed sleep bank:** ~2:00–3:00 AM lights-out for ~8–9 hrs → Gate 7 magnesium **60 min before habitual bedtime** (not a fixed 9:30 PM).
+**Assumed sleep bank:** ~2:00–3:00 AM lights-out for ~8–9 hrs → Gate 7 magnesium + allergy med **60 min before / at habitual bedtime** (not a fixed 9:30 PM).
+
+**Prescription meds (non-negotiable clocks):**
+- **Sertraline 75 mg daily @ 3:00 PM** (water; food optional). Psyllium must be ≥**2 hours before or after** this dose — lunch fiber is therefore pulled forward to ~12:40 PM.
+- **Allergy medication at bedtime** with Gate 7 (exact agent as prescribed).
 
 ---
 
@@ -45,7 +49,8 @@
 - **11:00 AM:** Wake → void → scale → Gate 1
 - **12:15 PM:** Glycemic clamp (45g fast carbs + 750mg Na+ in 16 oz) — T−45 before mats
 - **1:00–3:00 PM:** BJJ Competition Sparring / Open Mat (RPE 8.5–9; ≥36 hrs after Fri midday lift)
-- **PM:** Complete Rest + Gate 5 post-roll loop
+- **3:00 PM:** Sertraline 75 mg (at mat exit or immediately after)
+- **PM:** Complete Rest + Gate 5 post-roll loop with **psyllium delayed to ≥5:00 PM**
 
 **Alternate (only if gym open mat is morning-only 10:30 AM–12:30 PM):** Wake ≈ **9:45 AM** that day only; clamp @ 9:30 AM; mats 10:30–12:30.
 
@@ -62,11 +67,14 @@
 ### Gate 1 (≈11:15 AM Breakfast)
 45g protein (3 whole pasture eggs + 200g egg whites w/ spinach/salsa, **OR** 250g 0% lactose-free Greek yogurt + 1 scoop Whey Isolate) + D3 (2,000–5,000 IU)/K2 (100–180 mcg) + half-dose Omega-3s (1,000–1,500mg EPA/DHA).
 
-### Gate 2 (≈2:10 PM Pre-Lunch Fiber)
-5g unflavored psyllium husk (2.5g in Wk 1) in 12 oz cold water + 6 oz water chaser (15–20 min pre-lunch). Never within 2 hrs of BJJ.
+### Gate 2 (≈12:40 PM Pre-Lunch Fiber)
+5g unflavored psyllium husk (2.5g in Wk 1) in 12 oz cold water + 6 oz water chaser (15–20 min pre-lunch). Never within 2 hrs of BJJ. **Pulled forward so lunch fiber clears ≥2 hrs before 3:00 PM sertraline.**
 
-### Gate 3 (≈2:30 PM Lunch)
-50g protein (6.5 oz / 185g cooked chicken breast or flank steak) + 150g cooked black beans + fajita veggies + **1 tablet Kirkland Signature Daily Multi** (with solid food/fat; separates 18mg iron & 200mg calcium from bedtime magnesium by ≥9 hours).
+### Gate 3 (≈1:00 PM Lunch)
+50g protein (6.5 oz / 185g cooked chicken breast or flank steak) + 150g cooked black beans + fajita veggies + **1 tablet Kirkland Signature Daily Multi** (with solid food/fat; separates 18mg iron & 200mg calcium from bedtime magnesium by ≥9 hours). Finish lunch by ~1:30 PM so the gut is clear before sertraline.
+
+### Gate 3.5 (3:00 PM — Sertraline 75 mg)
+Take **sertraline 75 mg** with water at **3:00 PM daily** (prescribed clock). No psyllium, multi, or large mineral bolus within ±2 hours. Gate 4 protein at 4:30 PM is fine (≥90 min later).
 
 ### Gate 4 (4:30 PM Pre-Mat Anchor)
 25g protein (1 scoop zero-lactose Whey Isolate in water or 4 oz turkey breast) → crosses the mandatory **≥100g** daytime protein threshold before 5:00 PM (target **110–125g**). Absolute 5:00 PM clock stays — it anchors evening food-noise control before mat class, independent of wake time.
@@ -76,14 +84,17 @@ Applies Mon / Thu evenings and Saturday open mat.
 
 1. **T−45m Pre-Sparring (Glycemic Clamp):** 35–45g fast, low-fiber carbs + 500–750mg sodium in 16 oz water (1 large ripe banana + 1 tbsp honey + sea salt, **OR** 2 salted rice cakes + 1.5 tbsp honey/jam, **OR** 40g cyclic dextrin in electrolyte water).
 2. **T+15m Post-Roll (Locker-Room Brake):** 30g Whey Isolate + 5g Creatine Monohydrate in 12 oz cold water before driving home.
-3. **T+45m Post-Roll (Intestinal Gel Pre-Load):** 5g psyllium (2.5g Wk 1) in 12 oz water upon arriving home before showering.
-4. **T+65m Post-Roll (Milpa Dinner):** 50g lean protein (7 oz chicken/steak/fish) + 175–200g cooked black beans (~40g slow carbs) + 200g roasted veggies + 50g avocado + second half-dose Omega-3s.
+3. **T+45m Post-Roll (Intestinal Gel Pre-Load):** 5g psyllium (2.5g Wk 1) in 12 oz water upon arriving home before showering — **except Saturday:** if sertraline lands at 3:00 PM near end of open mat, delay this gel until **≥5:00 PM** (≥2 hrs post-sertraline), then plate dinner 15–20 min later.
+4. **T+65m Post-Roll (Milpa Dinner):** 50g lean protein (7 oz chicken/steak/fish) + 175–200g cooked black beans (~40g slow carbs) + 200g roasted veggies + 50g avocado + second half-dose Omega-3s. (Saturday: shift later to follow the delayed gel.)
+
+**Mon/Thu evenings:** Class ends ~8:00 PM → T+15 shake ~8:15 → gel ~8:45 → dinner ~9:05. Sertraline at 3:00 PM is already ≥5 hrs clear — no conflict.
 
 ### Gate 6 (Non-Sparring Dinner — ≈8:10 / 8:30 PM or whenever dinner lands)
-5g psyllium 15–20 min before plating, then Milpa Dinner + half-dose Omega-3s (add 5g Creatine if non-sparring day and creatine not already taken post-roll).
+5g psyllium 15–20 min before plating, then Milpa Dinner + half-dose Omega-3s (add 5g Creatine if non-sparring day and creatine not already taken post-roll). Dinner fiber is ≥5 hrs after 3:00 PM sertraline — safe.
 
-### Gate 7 (Sleep Architecture — 60 min pre-bed)
-200–300mg elemental Magnesium Bisglycinate + 144mg elemental Magnesium L-Threonate; kitchen closed. With ~11:00 AM wake, expect bedtime ≈ **2:00–3:00 AM** → magnesium ≈ **1:00–2:00 AM**.
+### Gate 7 (Sleep Architecture — 60 min pre-bed → bedtime)
+1. **T−60 min:** 200–300mg elemental Magnesium Bisglycinate + 144mg elemental Magnesium L-Threonate; kitchen closed.
+2. **Bedtime:** Take **allergy medication as prescribed** (same nightly slot). With ~11:00 AM wake, expect bedtime ≈ **2:00–3:00 AM** → Mg ≈ **1:00–2:00 AM**, allergy med at lights-out.
 
 ---
 
