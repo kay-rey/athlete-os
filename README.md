@@ -2,21 +2,26 @@
 
 21-week BJJ body recomposition operating system for a 32yo brown belt (baseline Nov 6, 2026 → target Apr 2, 2027).
 
+Built from the Grappler Body Recomposition Playbook research, with clocks remapped to an **≈11:00 AM wake** chronotype (not the playbook’s 7:00 AM template).
+
 ## Architecture
 
 ```
 athlete-os/
-├── .cursor/rules/recomp.mdc     # Permanent physiological, nutritional, and S&C rules
+├── .cursor/rules/recomp.mdc          # Permanent physiological / S&C / chronotype rules
 ├── protocols/
-│   ├── nutrition_phases.csv     # Phase 1–4 + Maintenance macros & deficits
-│   ├── milestones.csv           # Anthropometric & strength benchmarks by week
-│   ├── lifts_registry.md        # 2-day microcycle, tempos, RPE curve, autoregulation
-│   └── schedule_master.md       # 7-day timetable, satiety gates, peri-sparring, groceries
+│   ├── nutrition_phases.csv          # Phase 1–4 + Maintenance macros & deficits
+│   ├── milestones.csv                # Anthropometric & strength benchmarks by week
+│   ├── lifts_registry.md             # 2-day microcycle (midday Tue/Fri), tempos, RPE
+│   ├── schedule_master.md            # Late-wake 7-day timetable + satiety gates
+│   └── supplementation_matrix.md     # Stack doses, forms, timing
 ├── data/
-│   ├── weigh_ins.csv            # Daily scale, waist, gi overlap log
-│   └── lifting_log.csv          # Session-level set log
+│   ├── weigh_ins.csv                 # Daily scale, waist, gi overlap log
+│   └── lifting_log.csv               # Session-level set log
 ├── reviews/
-│   └── weekly_reviews.md        # Sunday 06:45 AM audit template
+│   └── weekly_reviews.md             # Sunday wake audit template
+├── research/
+│   └── grappler_recomp_playbook.md   # Source research (ignore its early-AM clocks)
 ├── .gitignore
 └── README.md
 ```
@@ -31,6 +36,20 @@ athlete-os/
 | Navel waist | 36.0" | 31.5" (31–32") |
 | Pants / Gi | Size 34 tight; A1 gaps 1.5" | Size 31–32; A1 ≥5.5" overlap |
 
+## Late-Wake Day Skeleton
+
+| Clock | Block |
+|-------|-------|
+| ≈11:00 AM | Wake → void → scale → (collagen on lift days) |
+| ≈11:15 AM | Gate 1 breakfast (45g protein + D3/K2 + Ω-3) |
+| ≈11:45 AM–12:33 PM | Lift A/B *or* Zone 2 *or* mobility |
+| ≈2:10 / 2:30 PM | Psyllium → Lunch + Kirkland multi |
+| 4:30 PM | Gate 4 protein anchor (≥100g by 5:00 PM) |
+| 5:00 PM | Peri-mat carbs on sparring evenings |
+| 6–8 PM | BJJ (Mon/Tue/Thu) |
+| Sat 1–3 PM | Open mat (default; morning alt if gym-only) |
+| 60 min pre-bed | Magnesium stack; kitchen closed |
+
 ## Agent Usage
 
 Before answering training or nutrition queries, read:
@@ -39,5 +58,7 @@ Before answering training or nutrition queries, read:
 2. `data/lifting_log.csv`
 3. `protocols/milestones.csv`
 4. `protocols/nutrition_phases.csv`
+5. `protocols/schedule_master.md`
+6. `protocols/supplementation_matrix.md`
 
-Give exact gram, pound, RPE, and tempo directives. Never cut calories in Weeks 1–3 if navel waist is tightening (ICW buffer).
+Give exact gram, pound, RPE, and tempo directives on the late-wake clock. Never cut calories in Weeks 1–3 if navel waist is tightening (ICW buffer).
