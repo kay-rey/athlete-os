@@ -36,25 +36,27 @@ GB Northridge published hours (verify on [gbnorthridge.com/schedule](https://gbn
 
 ## GB Northridge — athlete sessions (home gym)
 
-**Target: ≥2 sessions/week.** Preferred pair = **Wed midday + Thu midday**. Avoid Friday Northridge unless nothing else worked.
+**Target: ≥2 sessions/week.**  
+**Locked:** Thursday midday.  
+**2nd hit:** Wednesday *or* Saturday — whichever you can actually make.  
+**Avoid:** Friday Northridge unless both 2nd-hit options failed.
 
 | Priority | Session | When | Purpose |
 |----------|---------|------|---------|
-| **1 — Session A (required)** | GB adults / advanced midday | **Wednesday ≈12:00–1:15pm** | Athlete rounds RPE 7–8 (hard technical / controlled porrada). After Flow AM teach if scheduled; then Flow PM = strict coach-mode. Replaces Wed Zone 2. |
-| **2 — Session B / Gulag (required)** | GB adults / advanced midday | **Thursday ≈12:00–1:15pm** | Hard rounds RPE 8–9. Peak athlete day. Flow PM coach-mode only. |
-| **3 — Makeup if Wed missed** | GB open mat | **Saturday ≈12:00–2:00pm** | Only if mat cleanup finishes early enough. Counts toward the 2× week. |
-| **4 — Last resort** | GB afternoon | **Friday ≈3:00–5:00pm** | **Avoid by preference.** Use only if you still need a 2nd hit and both Wed + Sat failed (or Thu failed and you need Gulag makeup). Never plan the week on Fri GB. |
+| **1 — Gulag (required)** | GB adults / advanced midday | **Thursday ≈12:00–1:15pm** | Hard rounds RPE 8–9. Always protect this. Flow PM coach-mode only. |
+| **2a — 2nd hit (try)** | GB adults / advanced midday | **Wednesday ≈12:00–1:15pm** | **Conditional.** Flow AM toddler/rollers often leave you tired/sleepy — go **only if** you’re reasonably alert after AM teach. RPE 7–8. If wiped → skip, no guilt; use Sat or (last resort) Fri. |
+| **2b — 2nd hit (backup)** | GB open mat | **Saturday ≈12:00–2:00pm** | After Flow AM + **mat cleanup**. Go if cleanup finishes and legs allow. Primary way to hit 2× when Wed is skipped. |
+| **3 — Last resort** | GB afternoon | **Friday ≈3:00–5:00pm** | **Avoid by preference.** Only if you still need a 2nd hit and Wed + Sat both failed (or Thu missed). |
 | **Do not stack** | GB 12pm | Tue or Fri noon | Those noons are **Lift A / Lift B** |
 
-Mon–Thu evening GB conflicts with Flow coaching. Wed+Thu back-to-back is intentional — keep Flow evenings easy both days.
+Wed decision rule: after Flow AM, ask “alert enough to train hard?” If no → eat, sertraline later, Flow PM coach-mode, chase 2nd hit Sat.
 
 ---
 
 ## Non-negotiables
-- **≥2× GB Northridge / week** via **Wed + Thu midday** whenever possible.
+- **≥2× GB / week** = **Thu + (Wed if fresh OR Sat if cleanup allows)**. Fri only as last resort.
 - **Lifts:** Tue + Fri midday only (no GB those noons).
 - **Monday daytime:** wife-off errands; no lift; no GB; Flow coach PM.
-- **Friday:** No Flow teach → **Lift B + free evening**. Prefer **not** to go to Northridge Friday.
-- **Saturday:** Mat cleanup after Flow — GB only as Wed makeup.
+- **Friday:** No Flow teach → **Lift B + free evening**. Prefer **not** Northridge.
 - **Sunday:** Flow off · GB closed → Zone 2 + audit + groceries.
 - Confirm live GB times on their booking calendar before each hard day.
