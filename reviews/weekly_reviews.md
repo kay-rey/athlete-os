@@ -38,10 +38,11 @@ Run this audit **immediately on waking Sunday (~11:00 AM)** — underwear only, 
 |---------|-----------|-----------|----------------------------|
 | Tue Day A (11:45–12:33) | Y / N | | Top-of-range all 3 sets? → +5/+10 lbs |
 | Fri Day B (11:45–12:33) | Y / N | | Top-of-range all 3 sets? → +5/+10 lbs |
-| Thu Gulag | Y / N | | |
-| Sat Open Mat (default 1–3 PM) | Y / N | | |
-| Wed Zone 2 | Y / N | 125–138 bpm | |
-| Sun Zone 2 | Y / N | 125–138 bpm | |
+| Fri Adults Comp (primary Gulag) | Y / N | | |
+| Sat Adults 9:00am (secondary hard) | Y / N | | |
+| Coach-mode Mon–Thu (limited rounds) | Y / N | | |
+| Wed Zone 2 (only if no AM teach) | Y / N | 125–138 bpm | |
+| Sun Zone 2 (required) | Y / N | 125–138 bpm | |
 
 ### 5. Autoregulation Notes
 - Sleep window (bed → wake):

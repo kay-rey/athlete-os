@@ -13,7 +13,8 @@ athlete-os/
 │   ├── nutrition_phases.csv          # Phase 1–4 + Maintenance macros & deficits
 │   ├── milestones.csv                # Anthropometric & strength benchmarks by week
 │   ├── lifts_registry.md             # 2-day microcycle (midday Tue/Fri), tempos, RPE
-│   ├── schedule_master.md            # Late-wake 7-day timetable + satiety gates
+│   ├── coaching_calendar.md          # Academy class grid + coach vs athlete intensity
+│   ├── schedule_master.md            # Coach+athlete timetable + satiety gates
 │   ├── supplementation_matrix.md     # Stack doses, forms, timing + Rx meds
 │   ├── trajectory_realism.md         # Honest Tier A/B/C success framing
 │   └── weekend_prestart.md           # KBBQ weekend rules + Mon Nov 9 launch
@@ -49,8 +50,8 @@ athlete-os/
 | **3:00 PM** | **Sertraline 75 mg** |
 | 4:30 PM | Gate 4 protein anchor (≥100g by 5:00 PM) |
 | 5:00 PM | Peri-mat carbs on sparring evenings |
-| 6–8 PM | BJJ (Mon/Tue/Thu) |
-| Sat 1–3 PM | Open mat (default; morning alt if gym-only) |
+| 5:00–7:30 PM | Coach block (kids → adults; Fri = Comp / Gulag) |
+| Sat ≈7:30 wake | Adults 9:00am + Lil Rollers/Kids (early exception) |
 | 60 min pre-bed → bedtime | Magnesium stack → **allergy med** at lights-out |
 
 ## Agent Usage
@@ -61,8 +62,9 @@ Before answering training or nutrition queries, read:
 2. `data/lifting_log.csv`
 3. `protocols/milestones.csv`
 4. `protocols/nutrition_phases.csv`
-5. `protocols/schedule_master.md`
-6. `protocols/supplementation_matrix.md`
+5. `protocols/coaching_calendar.md`
+6. `protocols/schedule_master.md`
+7. `protocols/supplementation_matrix.md`
 
 Give exact gram, pound, RPE, and tempo directives on the late-wake clock. Never cut calories in Weeks 1–3 if navel waist is tightening (ICW buffer).
 

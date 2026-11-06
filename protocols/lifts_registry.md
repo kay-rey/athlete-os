@@ -59,6 +59,7 @@ Keep working weight constant until hitting the top of the prescribed rep range (
 If poor sleep or heavy Thursday sparring slows bar speed on Friday midday, reduce working load by **5%** to stay strictly within the RPE ceiling.
 
 ## AMPK–mTOR Interference Guard
-- Cap aerobic work at two 45-min Zone 2 rides (Wed/Sun midday)
+- Zone 2: Sunday required; Wed only if not teaching AM classes
 - No marathon running
-- Keep ≥4–6 hr between lift and evening BJJ (late-wake schedule yields ~5.5–6.5 hr on Tue)
+- Keep ≥4–6 hr between midday lift and evening coaching (Tue/Fri ≈5–6 hr to Lil Rollers/Kids/Comp)
+- **Friday:** Lift B midday + Adults Comp hard rounds at night is intentional — stay inside phase RPE on the lift; do not grind Lift B before Gulag
