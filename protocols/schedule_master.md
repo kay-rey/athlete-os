@@ -12,11 +12,14 @@
 
 ## 7-Day Master Timetable
 
-### Monday
+### Monday — Errands / Family NEAT (no lift)
+Wife is typically off work → shared errands day. **Lifting stays Tue/Fri only** — Monday is never a lift day.
 - **Late AM (≈11:00–11:30):** Wake → void → scale log → Gate 1 breakfast
-- **Midday:** 15m mobility + cervical/thoracic decompression + walk (NEAT)
-- **PM (6–8 PM):** BJJ Technical Drilling & Positional Sparring (75–90m, RPE 7)
-- **Carbs:** 35g fast carbs @ 5:00 PM (T−60 to T−45 before class)
+- **Daytime:** Errands with wife count as NEAT (aim to keep walking high; no structured lift, no Zone 2 required)
+- **Optional micro-mobility:** 5–10 min cervical/thoracic openers in the car/parking lot if stiff — not mandatory
+- **PM (6–8 PM):** BJJ Technical Drilling & Positional Sparring (75–90m, RPE 7) — attend if schedule allows after errands; if family evening wins, skip mats and keep Gates + steps (do **not** add a makeup lift)
+- **Carbs:** If going to BJJ → 35g fast carbs @ 5:00 PM. If no mats → 100% Milpa at lunch/dinner (no peri-sparring sugars)
+- **Meds:** Sertraline 75 mg @ 3:00 PM even while out running errands
 
 ### Tuesday — Lift Day A
 - **11:00 AM:** Wake → void → scale → **Collagen + Vit C** (15–20g peptides + 50–200 mg C in 10 oz)
