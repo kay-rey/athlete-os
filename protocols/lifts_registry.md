@@ -62,4 +62,6 @@ If poor sleep or heavy Thursday sparring slows bar speed on Friday midday, reduc
 - Zone 2: Sunday required; Wed only if not teaching AM classes
 - No marathon running
 - Keep ≥4–6 hr between midday lift and evening coaching (Tue/Fri ≈5–6 hr to Lil Rollers/Kids/Comp)
-- **Friday:** Lift B midday + Adults Comp hard rounds at night is intentional — stay inside phase RPE on the lift; do not grind Lift B before Gulag
+- **Tuesday/Friday:** Noon hour is the lift — no GB Northridge class those days
+- **Thursday:** No lift; GB Gulag occupies midday before Flow coaching
+- **Friday:** Lift B midday + Flow Comp coaching at night (coach-mode, not Gulag) — keep Lift B inside phase RPE

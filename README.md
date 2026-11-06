@@ -13,7 +13,7 @@ athlete-os/
 │   ├── nutrition_phases.csv          # Phase 1–4 + Maintenance macros & deficits
 │   ├── milestones.csv                # Anthropometric & strength benchmarks by week
 │   ├── lifts_registry.md             # 2-day microcycle (midday Tue/Fri), tempos, RPE
-│   ├── coaching_calendar.md          # Academy class grid + coach vs athlete intensity
+│   ├── coaching_calendar.md          # Flow (coach) vs GB Northridge (athlete) map
 │   ├── schedule_master.md            # Coach+athlete timetable + satiety gates
 │   ├── supplementation_matrix.md     # Stack doses, forms, timing + Rx meds
 │   ├── trajectory_realism.md         # Honest Tier A/B/C success framing
@@ -50,8 +50,9 @@ athlete-os/
 | **3:00 PM** | **Sertraline 75 mg** |
 | 4:30 PM | Gate 4 protein anchor (≥100g by 5:00 PM) |
 | 5:00 PM | Peri-mat carbs on sparring evenings |
-| 5:00–7:30 PM | Coach block (kids → adults; Fri = Comp / Gulag) |
-| Sat ≈7:30 wake | Adults 9:00am + Lil Rollers/Kids (early exception) |
+| Thu ≈12:00 PM | **GB Northridge Gulag** (home gym athlete session) |
+| 5:00–7:30 PM | **Flow** coach block (job; coach-mode) |
+| Sat ≈7:30 wake | Flow Adults 9:00am teach → optional GB open mat ~12–2 |
 | 60 min pre-bed → bedtime | Magnesium stack → **allergy med** at lights-out |
 
 ## Agent Usage
