@@ -1,0 +1,15 @@
+metric,week_0_baseline,week_6_phase1,week_12_phase2,week_13_reset,week_21_target
+scale_weight_lbs,189.7,184.0,179.0,180.2,172.0
+body_fat_pct,26.1,22.8,19.5,19.4,14.9
+fat_mass_lbs,49.5,42.0,34.9,34.9,25.6
+lean_body_mass_lbs,140.2,142.0,144.1,145.3,146.4
+navel_waist_in,36.0,34.4,33.1,33.0,31.5
+pants_size_fit,34 tight,34 comfortable,32-33 transitional,32 clean fit,31-32 athletic fit
+a1_gi_overlap_in,-1.5 (gaps),2.5,4.0,4.2,5.5+ (IBJJF legal)
+trap_bar_deadlift,Layoff,245x6 @ RPE 7.0,295x5 @ RPE 8.0,255x5 (2 sets) @ RPE 6.0,335x5 @ RPE 8.5
+incline_30_db_press,Layoff,60s x 8 @ RPE 7.0,75s x 7 @ RPE 8.0,65s x 6 (2 sets) @ RPE 6.0,85s x 6 @ RPE 8.5
+chest_supported_row,Layoff,65s x 8 @ RPE 7.0,80s x 7 @ RPE 8.0,70s x 6 (2 sets) @ RPE 6.0,90s x 6 @ RPE 8.5
+front_or_goblet_squat,Layoff,145 (or 80 DB) x 8,175 (or 95 DB) x 7,150 (or 80 DB) x 6 (2 sets),195 (or 110 DB) x 6
+neutral_db_ohp,Layoff,45s x 8 @ RPE 7.0,55s x 7 @ RPE 8.0,45s x 6 (2 sets) @ RPE 6.0,65s x 6 @ RPE 8.5
+neutral_pullup,Layoff,BW(184) x 6 (or 165 PD),BW+15 (194) x 6,BW x 6 (2 sets),BW+35 (207) x 6
+suitcase_farmer_carry,Layoff,70s/hand x 30m,90s/hand x 30m,75s/hand x 30m (2 sets),105s/hand x 30m
