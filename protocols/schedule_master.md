@@ -90,7 +90,7 @@ Flow coach nights without GB hard work → Gate 6, not full Gate 5.
 Psyllium → Milpa + **fish oil 2nd softgel** (+ creatine if unused).
 
 ### Gate 7 — Mg T−60 → allergy med at bed
-**Nature’s Bounty Mg glycinate 240 mg** serving 60 min pre-bed → allergy med at lights-out. Never with lunch multi.
+**Nature’s Bounty Mg glycinate — 2 capsules (240 mg elemental)** 60 min pre-bed → allergy med at lights-out. Never with lunch multi.
 
 ---
 

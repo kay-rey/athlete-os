@@ -6,12 +6,23 @@ Clock times follow the late-wake / dual-gym schedule in `protocols/schedule_mast
 
 | Bottle | Label dose | How you take it |
 |--------|------------|-----------------|
-| **Kirkland Signature Vitamin D3** | 50 mcg (**2,000 IU**) softgels, USP | **1 softgel** with Gate 1 breakfast (dietary fat) |
-| **Nature’s Bounty Odor-Less Fish Oil** | **1,400 mg** fish oil → **980 mg** omega-3 / softgel, USP | **1 softgel** Gate 1 + **1 softgel** dinner (= 2/day) |
-| **Nature’s Bounty Magnesium Glycinate** | **240 mg** / serving, high absorption | **1 serving** Gate 7 — **60 min pre-bed** (never with lunch multi) |
-| **Kirkland Signature Daily Multi** | 1 tablet, USP | **1 tablet** Gate 3 lunch only (with food/fat) |
+| **Kirkland Signature Vitamin D3** | 50 mcg (**2,000 IU**) softgels, **USP Verified** | **1 softgel** with Gate 1 breakfast (dietary fat) |
+| **Nature’s Bounty Odor-Less Fish Oil** | **1,400 mg** fish oil → **980 mg** Ω-3 (**~647 mg EPA + ~253 mg DHA**) / softgel, **USP Verified** | **1 softgel** Gate 1 + **1 softgel** dinner (= **~1,800 mg EPA+DHA/day**) |
+| **Nature’s Bounty Magnesium Glycinate** | **240 mg elemental Mg / 2 capsules** (glycinate/bisglycinate) | **2 capsules** Gate 7 — **60 min pre-bed** (never with lunch multi) |
+| **Kirkland Signature Daily Multi** | 1 tablet, **USP Verified** | **1 tablet** Gate 3 lunch only (with food/fat) |
 
-Still buy / already planned elsewhere (not in photo): creatine 5g, zero-lactose WPI, psyllium, collagen + Vit C (lift days), electrolytes. Optional later: **K2 (MK-7)** and **Mg L-threonate** (nice-to-haves; not blockers).
+### Quality check (looked up — these exact lines)
+
+| Product | Verdict | Notes |
+|---------|---------|-------|
+| Kirkland D3 2,000 IU | **Good keep** | USP Verified cholecalciferol. Carrier is usually soybean oil — fine unless soy-sensitive. |
+| Nature’s Bounty Fish Oil 1400 | **Good keep** | USP Verified; strong EPA/DHA per softgel. Form is **ethyl ester** (not premium triglyceride) — take **with meals** (you already do). Label often says 1/day; **2/day** hits a solid training dose. |
+| Nature’s Bounty Mg Glycinate 240 | **Good keep** | Correct high-absorption **glycinate** form; 240 mg is elemental per **2 caps**. **Not** USP-sealed on this SKU — still a standard Costco/CVS chelate, not oxide junk. |
+| Kirkland Daily Multi | **Good keep** | USP Verified Costco multi. Gaps we already stack around: weak D, Mg as oxide, 18 mg iron → lunch-only vs bedtime Mg. |
+
+**Bottom line:** These are solid warehouse/drugstore picks with real seals where it matters (D3, fish oil, multi). You do **not** need to replace them to start Phase 1. Optional upgrades later (not blockers): triglyceride/rTG fish oil, K2 MK-7, Mg L-threonate.
+
+Still buy / already planned elsewhere (not in photo): creatine 5g, zero-lactose WPI, psyllium, collagen + Vit C (lift days), electrolytes.
 
 ## Daily timing with your gates
 
