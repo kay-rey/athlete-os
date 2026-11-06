@@ -52,8 +52,8 @@ athlete-os/
 | 5:00 PM | Peri-mat carbs on sparring evenings |
 | Thu ≈12:00 PM | **GB Northridge Gulag** (home gym athlete session) |
 | Mon–Thu 5:00–7:30 PM | **Flow** coach block (job; coach-mode) |
-| **Friday PM** | **Free** (no Flow teach) after Lift B — default rest |
-| Sat ≈7:30 wake | Flow Adults 9:00am teach → optional GB open mat ~12–2 |
+| **Friday PM** | **Free** (no Flow teach) after Lift B — default rest; GB only if Thu missed |
+| Sat ≈7:30 wake | Flow Adults 9:00am teach → **mat cleanup** → GB usually skipped |
 | 60 min pre-bed → bedtime | Magnesium stack → **allergy med** at lights-out |
 
 ## Agent Usage

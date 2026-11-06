@@ -10,7 +10,7 @@
 
 **Meds:** Sertraline **75 mg @ 3:00 PM** daily (psyllium ≥2 hrs away). Allergy med at bedtime.
 
-**Athlete hard days:** **Thu GB Northridge midday** (primary Gulag) + **Sat GB open mat** after Flow AM (secondary). Flow stays coach-mode.
+**Athlete hard days:** **Thu GB Northridge midday** is the non-negotiable Gulag. **Fri GB** only if Thu was missed. **Sat GB** is rare/bonus — Flow AM teach + **mat cleanup** usually kills the window. Flow stays coach-mode.
 
 ---
 
@@ -52,17 +52,16 @@ You do **not** teach Friday Flow classes.
 - **11:45–12:33:** **Lift Day B**
 - **3:00:** Sertraline
 - **PM default:** Complete mat rest — family / social evening, Gate 6 Milpa dinner, spare finger flexors after Thu GB Gulag
-- **PM exception only:** If Thu GB Gulag was missed, optional GB ~3:00–5:00pm secondary hard (Gate 5), then still protect bedtime. Do **not** stack Thu Gulag + Fri GB + Sat GB in the same week.
+- **PM exception only:** If Thu GB Gulag was missed, optional GB ~3:00–5:00pm makeup hard (Gate 5). Do **not** stack Thu + Fri GB hard in the same week.
 
-### Saturday — Flow AM coach → optional GB open mat
+### Saturday — Flow AM coach + mat cleanup (GB usually skipped)
 - **≈7:30–8:00:** Wake → scale → Gate 1
-- **≈8:15:** Small clamp if you’ll roll at Flow; otherwise protein breakfast is enough for teach-mode
+- **≈8:15:** Protein breakfast; light carbs only if you’ll roll while teaching
 - **Flow:** Adults 9:00 · Lil Rollers 10:00 · Kids 10:30 (**coach-mode**)
-- **≈11:45–12:00:** Transition / food if driving to GB
-- **Optional secondary hard:** **GB Northridge open mat ≈12:00–2:00** (RPE 7.5–8.5) — only if drive + recovery allow; skip if trashed from Thu Gulag
-- If GB hard: T+15 WPI+creatine, then psyllium respecting sertraline (gel OK ~12:00–1:00 **or** ≥5:00)
+- **After class:** **Mat cleanup** — expect this to eat the midday window
+- **GB Northridge:** **Default = skip.** Only go ~12:00–2:00 if cleanup finishes early *and* you feel good *and* Thu already happened (bonus, not required)
 - **3:00:** Sertraline
-- **PM:** Family / rest
+- **PM:** Family / rest · Gate 6 dinner
 
 ### Sunday — True off-mats (GB closed, Flow off)
 - **≈11:00:** Audit weigh-in + navel waist → Gate 1

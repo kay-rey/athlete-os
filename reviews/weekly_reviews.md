@@ -40,7 +40,7 @@ Run this audit **immediately on waking Sunday (~11:00 AM)** — underwear only, 
 | Fri Day B (11:45–12:33) | Y / N | | Top-of-range all 3 sets? → +5/+10 lbs |
 | Thu GB Northridge midday (primary Gulag) | Y / N | | |
 | Fri free evening after Lift B (default rest) | Y / N | | |
-| Sat GB open mat after Flow (secondary) | Y / N / skipped | | |
+| Sat GB (rare; usually skipped for mat cleanup) | Y / N / skipped | | |
 | Flow coach-mode Mon–Thu + Sat AM | Y / N | | |
 | Wed Zone 2 / easy day (if no hard GB) | Y / N | 125–138 bpm | |
 | Sun Zone 2 (required; GB closed) | Y / N | 125–138 bpm | |

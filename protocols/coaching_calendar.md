@@ -38,19 +38,20 @@ GB Northridge published hours (verify on [gbnorthridge.com/schedule](https://gbn
 
 | Priority | Session | When | Purpose |
 |----------|---------|------|---------|
-| **1 — Primary Gulag** | GB adults / advanced midday | **Thursday ≈12:00–1:15pm** | Hard rounds RPE 8–9 before Flow evening (then coach-mode at Flow) |
-| **2 — Secondary hard** | GB open mat / advanced | **Saturday ≈12:00–2:00pm** (after Flow AM block, if drive time allows) **or** Fri ≈3:00–5:00pm only if Thu Gulag was missed | Extra rounds RPE 7.5–8.5 |
+| **1 — Primary Gulag** | GB adults / advanced midday | **Thursday ≈12:00–1:15pm** | Hard rounds RPE 8–9 before Flow evening (then coach-mode at Flow). **Do not miss this** — it’s the week’s main athlete session. |
+| **2 — Backup hard** | GB afternoon / early evening | **Friday ≈3:00–5:00pm** (Flow off) | Use **only if Thu was missed**. Default Fri = rest after Lift B. |
+| **3 — Rare bonus** | GB open mat | **Saturday ≈12:00–2:00pm** | Usually **skipped** — after Flow AM you **clean mats**, so drive-to-GB is unreliable. Never plan the week around Sat GB. |
 | **Optional technical** | GB 12pm | Wed (only if recovered from Flow AM teach) | Positional / light–moderate; skip if fried |
 | **Do not stack** | GB 12pm | Tue or Fri | Those noons are **Lift A / Lift B** |
 
-Mon–Thu evening GB classes conflict with Flow coaching — out of rotation. **Friday evening GB is available** (Flow off) but default is **rest after Lift B + Thu Gulag** — only use Fri GB if you skipped Thursday.
+Mon–Thu evening GB conflicts with Flow coaching. Sat GB is a long shot after mat cleanup — treat Thu as the non-negotiable Northridge day.
 
 ---
 
 ## Non-negotiables
 - **Lifts:** Tue + Fri midday only (occupy the noon hour — no GB those noons).
 - **Monday daytime:** wife-off errands; no lift; no GB; Flow coach PM.
-- **Friday:** No Flow teach → **Lift B + free evening** (family / CNS rest; spare fingers after Thu GB).
-- **Hard athlete emphasis:** **Thu GB midday** (+ Sat GB open mat optional) — not Flow classes.
+- **Friday:** No Flow teach → **Lift B + free evening** by default (family / fingers after Thu GB). Fri GB only as Thu makeup.
+- **Hard athlete emphasis:** **Thu GB midday is the plan.** Sat GB is bonus-if-cleanup-is-fast, not required.
 - **Sunday:** Flow off · GB closed → Zone 2 + audit + groceries.
 - Confirm live GB times on their booking calendar before each hard day.
