@@ -50,10 +50,11 @@ athlete-os/
 | **3:00 PM** | **Sertraline 75 mg** |
 | 4:30 PM | Gate 4 protein anchor (≥100g by 5:00 PM) |
 | 5:00 PM | Peri-mat carbs on sparring evenings |
-| Thu ≈12:00 PM | **GB Northridge Gulag** (home gym athlete session) |
+| Wed ≈12:00 PM | **GB Session A** (1 of 2 weekly Northridge hits) |
+| Thu ≈12:00 PM | **GB Gulag** (2 of 2) |
 | Mon–Thu 5:00–7:30 PM | **Flow** coach block (job; coach-mode) |
-| **Friday PM** | **Free** (no Flow teach) after Lift B — default rest; GB only if Thu missed |
-| Sat ≈7:30 wake | Flow Adults 9:00am teach → **mat cleanup** → GB usually skipped |
+| **Friday PM** | Free after Lift B — **avoid GB** (last resort only) |
+| Sat | Flow AM + mat cleanup → GB only if Wed missed |
 | 60 min pre-bed → bedtime | Magnesium stack → **allergy med** at lights-out |
 
 ## Agent Usage

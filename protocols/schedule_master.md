@@ -10,7 +10,7 @@
 
 **Meds:** Sertraline **75 mg @ 3:00 PM** daily (psyllium ≥2 hrs away). Allergy med at bedtime.
 
-**Athlete hard days:** **Thu GB Northridge midday** is the non-negotiable Gulag. **Fri GB** only if Thu was missed. **Sat GB** is rare/bonus — Flow AM teach + **mat cleanup** usually kills the window. Flow stays coach-mode.
+**Athlete GB target: ≥2×/week.** Preferred = **Wed midday + Thu midday**. Sat = Wed makeup after cleanup. **Fri Northridge = last resort only** (you’d rather avoid it). Flow stays coach-mode.
 
 ---
 
@@ -30,38 +30,36 @@
 - **Flow PM:** Lil Rollers 5:00 · Kids · Adults — light personal contact only
 - No GB (noon used for lifting)
 
-### Wednesday — Flow AM teach + Flow PM (Zone 2 or easy GB optional)
-- **If teaching Flow Toddler 9:00 / Rollers 10:00:** Wake ≈8:00 → Gate 1 → teach AM
-- **Midday choice (pick one):** (A) rest/NEAT · (B) Zone 2 45 min @ 125–138 · (C) easy GB technical 12pm only if legs/CNS feel good — **not** hard rounds
-- **3:00:** Sertraline → Gate 4 → **Flow PM** full stack (coach-mode)
-- Sunday remains the required Zone 2 if today is all coaching
+### Wednesday — Flow AM + GB Session A + Flow PM
+- **If teaching Flow Toddler 9:00 / Rollers 10:00:** Wake ≈8:00 → Gate 1 → teach AM → transition to GB
+- **If no AM teach:** Wake ≈11:00 → Gate 1 → go straight to GB
+- **≈11:15–11:45:** Pre-GB clamp (35–45g fast carbs + 500–750mg Na+) as needed
+- **≈12:00–1:15:** **GB Northridge Session A** (RPE 7–8) — counts as 1 of 2 weekly hits
+- **≈1:20:** WPI + 5g creatine → lunch/psyllium with sertraline gap
+- **3:00:** Sertraline → Gate 4 → **Flow PM** strict coach-mode
+- **Zone 2:** Skip today when GB happens — Sunday carries Zone 2
 
-### Thursday — GB Gulag midday + Flow coach PM
+### Thursday — GB Gulag (Session B) + Flow coach PM
 - **≈11:00:** Wake → scale → Gate 1
-- **≈11:15–11:45:** Compact pre-GB clamp if rolling hard (35–45g fast carbs + 500–750mg Na+) — or eat Gate 1 with extra banana/honey
-- **≈12:00–1:15:** **GB Northridge PRIMARY GULAG** (RPE 8–9)
-- **≈1:20:** Locker shake 30g WPI + 5g creatine → home/errand buffer
-- **Psyllium:** If before 1:00 lunch window, keep Gate 2 ≥2 hrs before sertraline; else delay gel to **≥5:00 PM**
-- **3:00:** Sertraline
-- **4:30:** Gate 4 (protein) — carbs light unless you somehow roll hard again (you shouldn’t)
-- **Flow PM:** Lil Rollers · Kids · Adults — **strict coach-mode** (no second Gulag)
+- **≈11:15–11:45:** Pre-GB clamp
+- **≈12:00–1:15:** **GB Northridge Session B / PRIMARY GULAG** (RPE 8–9) — 2nd weekly hit
+- **≈1:20:** WPI + 5g creatine
+- **3:00:** Sertraline → Gate 4 (light carbs)
+- **Flow PM:** Lil Rollers · Kids · Adults — **strict coach-mode**
 
-### Friday — Lift B + FREE evening (no Flow teach)
-You do **not** teach Friday Flow classes.
+### Friday — Lift B + FREE evening (avoid Northridge)
+You do **not** teach Friday Flow classes. **Prefer not to train at GB today.**
 - **11:00:** Wake → Collagen → Gate 1 (+35g pre-lift carbs)
 - **11:45–12:33:** **Lift Day B**
 - **3:00:** Sertraline
-- **PM default:** Complete mat rest — family / social evening, Gate 6 Milpa dinner, spare finger flexors after Thu GB Gulag
-- **PM exception only:** If Thu GB Gulag was missed, optional GB ~3:00–5:00pm makeup hard (Gate 5). Do **not** stack Thu + Fri GB hard in the same week.
+- **PM default:** Mat rest / family, Gate 6 dinner (fingers recover after Wed+Thu GB)
+- **Last resort only:** GB ~3:00–5:00pm if you still need a 2nd weekly hit and Wed + Sat both failed, **or** Thu Gulag was missed. Never plan Fri GB as the default.
 
-### Saturday — Flow AM coach + mat cleanup (GB usually skipped)
+### Saturday — Flow AM + mat cleanup (Wed makeup only)
 - **≈7:30–8:00:** Wake → scale → Gate 1
-- **≈8:15:** Protein breakfast; light carbs only if you’ll roll while teaching
-- **Flow:** Adults 9:00 · Lil Rollers 10:00 · Kids 10:30 (**coach-mode**)
-- **After class:** **Mat cleanup** — expect this to eat the midday window
-- **GB Northridge:** **Default = skip.** Only go ~12:00–2:00 if cleanup finishes early *and* you feel good *and* Thu already happened (bonus, not required)
-- **3:00:** Sertraline
-- **PM:** Family / rest · Gate 6 dinner
+- **Flow:** Adults 9:00 · Lil Rollers 10:00 · Kids 10:30 → **mat cleanup**
+- **GB:** Go ~12:00–2:00 **only if Wednesday was missed** and cleanup is done. If Wed+Thu already happened, skip — you already hit 2×.
+- **3:00:** Sertraline · Gate 6 dinner
 
 ### Sunday — True off-mats (GB closed, Flow off)
 - **≈11:00:** Audit weigh-in + navel waist → Gate 1
