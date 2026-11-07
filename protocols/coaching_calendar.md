@@ -5,7 +5,8 @@
 | Gym | Role | What you do there |
 |-----|------|-------------------|
 | **Flow Jiu Jitsu** | **Job / coaching** | Teach the class grid below. Default = **coach-mode** (demo, manage room, limit live rounds). |
-| **Gracie Barra Northridge** (19520 Nordhoff St #10, Northridge) | **Home gym / athlete** | Personal skill + hard sparring. This is where **Gulag** and open mat live — not at Flow. |
+| **Flow mats — Muay Thai** | **Optional athlete striking** | Guest/resident Muay Thai coach runs class **after BJJ** on **Monday & Wednesday** evenings (~after Adults ~7:30pm). Optional for you — not a job duty. |
+| **Gracie Barra Northridge** (19520 Nordhoff St #10, Northridge) | **Home gym / athlete** | Personal BJJ skill + hard sparring. Gulag / 2× week lives here — not at Flow. |
 
 GB Northridge published hours (verify on [gbnorthridge.com/schedule](https://gbnorthridge.com/schedule/)): Mon–Thu 12pm–9pm · Fri 12pm–7pm · Sat 9am–2pm · **Sun closed**. Useful athlete windows that clear Flow evenings: **12:00pm adults**, Sat late-morning/afternoon open mat after Flow AM teach.
 
@@ -53,10 +54,28 @@ Wed decision rule: after Flow AM, ask “alert enough to train hard?” If no �
 
 ---
 
+## Muay Thai @ Flow (Mon & Wed after BJJ) — optional
+
+Runs on Flow mats **after** evening BJJ classes (~**7:30pm+**). Counts as **extra EAT / conditioning**, not a GB BJJ session.
+
+| Day | When MT makes sense | When to skip |
+|-----|---------------------|--------------|
+| **Monday** | Best MT day. No lift, no GB. After coach-mode Adults → join MT if energy/hands feel good (RPE ≤7.5). Helps NEAT/EAT on errand day. | Hands/wrists beat up, sleep debt, or family night wins |
+| **Wednesday** | OK **only if you skipped GB midday** and still feel decent after teaching. Prefer technical pads over hard sparring (RPE ≤7). | **Skipped if you already did Wed GB** — don’t stack GB noon + Flow teach + hard MT. Also skip if sleepy from AM classes |
+
+**MT stacking rules**
+- Does **not** replace GB 2× target (still need Thu + Wed-or-Sat BJJ at Northridge).
+- **Never** hard MT the night before Thu Gulag if you’re already crushed (Mon MT is far enough; Wed MT → Thu GB is tight — keep Wed MT easy or skip).
+- Hands/shins: if MT leaves you swollen, drop intensity next session; don’t grind Lift A/B through angry knuckles.
+- Fuel: if doing MT, use a small peri snack (~25–35g carbs + sodium) near end of Adults / before MT; full Gate 5 only if the session goes hard. Psyllium still ≥2 hrs before mats — dinner gel after MT.
+
+---
+
 ## Non-negotiables
 - **≥2× GB / week** = **Thu + (Wed if fresh OR Sat if cleanup allows)**. Fri only as last resort.
+- **Muay Thai Mon/Wed after Flow** = optional bonus conditioning — never required; never replaces GB.
 - **Lifts:** Tue + Fri midday only (no GB those noons).
-- **Monday daytime:** wife-off errands; no lift; no GB; Flow coach PM.
+- **Monday daytime:** wife-off errands; no lift; no GB; Flow coach PM ± optional MT.
 - **Friday:** No Flow teach → **Lift B + free evening**. Prefer **not** Northridge.
 - **Sunday:** Flow off · GB closed → Zone 2 + audit + groceries.
 - Confirm live GB times on their booking calendar before each hard day.

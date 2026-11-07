@@ -8,9 +8,9 @@ Keep sertraline 3:00 PM + bedtime allergy med. Monday returns to Phase 1 **2,250
 
 | Day | Athlete (GB Northridge / lift) | Job (Flow) |
 |-----|--------------------------------|------------|
-| **Mon 9** | Errands NEAT; Day 1 weigh-in; no lift/GB | Kids 5:30 · Adults/Women’s 6:30 coach-mode |
+| **Mon 9** | Errands NEAT; Day 1 weigh-in; no lift/GB; **optional MT after BJJ** | Kids 5:30 · Adults/Women’s 6:30 coach-mode → MT ~7:30+ |
 | **Tue 10** | **Lift A** 11:45–12:33 | Rollers/Kids/Adults coach-mode |
-| **Wed 11** | GB ≈12:00 **only if alert** after Flow AM; else skip | Toddler/Rollers AM + PM teach |
+| **Wed 11** | GB ≈12:00 **only if alert**; else skip. MT only if no GB | Toddler/Rollers AM + PM teach ± MT |
 | **Thu 12** | **GB Gulag ≈12:00** (locked 1 of 2) | Flow PM coach-mode |
 | **Fri 13** | **Lift B**; free evening — **avoid GB** | Off at Flow |
 | **Sat 14** | GB after cleanup if Wed skipped (2 of 2) | Flow AM + mat cleanup |

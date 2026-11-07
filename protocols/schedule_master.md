@@ -10,39 +10,42 @@
 
 **Meds:** Sertraline **75 mg @ 3:00 PM** daily (psyllium ≥2 hrs away). Allergy med at bedtime.
 
-**Athlete GB target: ≥2×/week.** **Thu midday = locked.** 2nd hit = **Wed if not too tired after Flow AM**, else **Sat after mat cleanup**. **Fri Northridge = last resort only.** Flow stays coach-mode.
+**Athlete GB target: ≥2×/week.** **Thu midday = locked.** 2nd hit = **Wed if not too tired after Flow AM**, else **Sat after mat cleanup**. **Fri Northridge = last resort only.**  
+**Optional:** Muay Thai on Flow mats **Mon & Wed after BJJ** (~7:30pm+) — bonus conditioning, does not replace GB.
 
 ---
 
 ## 7-Day Master Timetable
 
-### Monday — Errands + Flow coach (no lift, no GB)
+### Monday — Errands + Flow coach ± Muay Thai (no lift, no GB)
 - **≈11:00:** Wake → void → scale → Gate 1
 - **Daytime:** Errands with wife (NEAT); sertraline @ 3:00
-- **4:30:** Gate 4 protein
+- **4:30:** Gate 4 protein · light carbs if you’ll train MT later
 - **Flow PM:** Kids 5:30 · Adults/Women’s 6:30 — **coach-mode only**
-- Gate 6 dinner after last class
+- **Optional Muay Thai (~7:30pm+):** Best night for it. Join if hands/energy OK (RPE ≤7.5). Small carb top-up before pads if needed.
+- After: Gate 5-lite (WPI±creatine if hard) → dinner; or Gate 6 if teach-only
 
-### Tuesday — Lift A + Flow coach (no GB)
+### Tuesday — Lift A + Flow coach (no GB, no MT)
 - **11:00:** Wake → scale → Collagen + Vit C → Gate 1 (+30g pre-lift carbs)
 - **11:45–12:33:** **Lift Day A**
 - **3:00:** Sertraline · **4:30:** Gate 4 · light carbs ≈4:45 if needed
 - **Flow PM:** Lil Rollers 5:00 · Kids · Adults — light personal contact only
-- No GB (noon used for lifting)
+- No GB (noon used for lifting); no MT tonight
 
-### Wednesday — Flow AM → energy check → maybe GB → Flow PM
+### Wednesday — Flow AM → maybe GB → Flow PM → maybe MT
 - **Wake ≈8:00** (Toddler 9:00 / Rollers 10:00) → Gate 1 → teach AM
 - **Post-AM decision (honest):**
-  - **Green (alert enough):** Pre-GB clamp → **GB ≈12:00–1:15** (RPE 7–8) → counts as 2nd weekly hit with Thu
-  - **Red (tired/sleepy):** Skip GB — no guilt. Eat lunch, sertraline @ 3:00, Flow PM coach-mode. Chase 2nd hit on **Saturday** (or Fri last resort)
+  - **Green (alert enough):** Pre-GB clamp → **GB ≈12:00–1:15** (RPE 7–8) → counts as 2nd weekly hit with Thu → **skip MT tonight**
+  - **Red (tired/sleepy):** Skip GB — no guilt. Eat lunch, sertraline @ 3:00, Flow PM coach-mode. Chase 2nd hit on **Saturday**. **MT optional tonight** only if you still feel decent (keep it technical, RPE ≤7) — don’t go hard before Thu Gulag
 - If GB: WPI+creatine after; skip Zone 2 (Sunday carries it)
-- If no GB: optional short NEAT walk only — don’t force Zone 2 if sleepy
+- If no GB and no MT: optional short NEAT walk only
 
-### Thursday — GB Gulag (locked) + Flow coach PM
+### Thursday — GB Gulag (locked) + Flow coach PM (no MT)
 - **≈11:00:** Wake → scale → Gate 1 → pre-GB clamp
 - **≈12:00–1:15:** **GB PRIMARY GULAG** (RPE 8–9) — always counts as 1 of 2
 - **≈1:20:** WPI + 5g creatine
 - **3:00:** Sertraline → Gate 4 → Flow PM **strict coach-mode**
+- No Muay Thai Thursday
 
 ### Friday — Lift B + FREE evening (avoid Northridge)
 You do **not** teach Friday Flow. **Prefer not to train at GB.**

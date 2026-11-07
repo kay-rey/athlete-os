@@ -43,6 +43,8 @@ Run this audit **immediately on waking Sunday (~11:00 AM)** — underwear only, 
 | Sat GB (2nd hit if Wed skipped) | Y / N / n/a | | |
 | GB hits this week ≥2? | Y / N | | |
 | Fri avoided Northridge? (Y = good) | Y / N | | |
+| Mon Muay Thai (optional) | Y / N / skipped | | |
+| Wed Muay Thai (only if no Wed GB) | Y / N / n/a | | |
 | Flow coach-mode Mon–Thu + Sat AM | Y / N | | |
 | Wed Zone 2 / easy day (if no hard GB) | Y / N | 125–138 bpm | |
 | Sun Zone 2 (required; GB closed) | Y / N | 125–138 bpm | |

@@ -54,6 +54,7 @@ athlete-os/
 | Wed ≈12:00 PM | GB **if alert** after Flow AM (else skip) |
 | Sat after cleanup | 2nd hit if Wed was skipped |
 | Mon–Thu 5:00–7:30 PM | **Flow** coach block (coach-mode) |
+| Mon/Wed ~7:30pm+ | **Optional Muay Thai** on Flow mats after BJJ |
 | **Friday PM** | Free after Lift B — **avoid GB** (last resort) |
 | 60 min pre-bed → bedtime | Magnesium stack → **allergy med** at lights-out |
 
