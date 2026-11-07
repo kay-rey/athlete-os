@@ -29,10 +29,21 @@ Milpa rule still stands: 65–75% of non-peri carbs from beans/tortillas/veg —
 ### Your build
 Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle/mustard conflict.
 
+### Lean ratio — prefer **99/1** (not 93/7)
+Phase 1 fat cap is **72g**. Chili tomatoes + beans already keep 99/1 moist, so dryness is not a real issue here.
+
+| Per 100g cooked | kcal | P | F |
+|-----------------|------|---|---|
+| **99/1** (fat-free / breast grind) | ~151 | ~32 | **~2.7** |
+| 93/7 | ~213 | ~27 | **~11.6** |
+
+Same ~185g turkey in a Gate bowl: **99/1 ≈ 5g fat** vs **93/7 ≈ 21g fat** — frees ~16g fat for avocado, fish oil, egg yolks, cooking oil. Use 93/7 only if 99/1 is unavailable.
+
 ### Ingredient facts (typical)
 | Ingredient | Reference | Per amount |
 |------------|-----------|------------|
-| 93/7 ground turkey, cooked | USDA | **100g:** 213 kcal · 27.1P · 0C · 11.6F |
+| **99/1** ground turkey, cooked | USDA fat-free crumbles | **100g:** 151 kcal · 31.7P · 0C · 2.7F |
+| 93/7 (fallback) | USDA | **100g:** 213 kcal · 27.1P · 0C · 11.6F |
 | Black/pinto beans, canned, drained+rinsed | USDA | **100g:** ~115 kcal · 7P · 20C · 1.3F · ~200mg Na |
 | Diced tomatoes, canned | USDA | **100g:** 18 kcal · 0.8P · 3.3C · 0.5F · ~125mg Na (higher if not “no salt added”) |
 | Chili seasoning mix (e.g. McCormick Original 1.25 oz pkt) | Label | **9g (1⅓ tbsp ≈ 1 cup chili):** 25 kcal · ~5C · 2 fiber · **340–350mg Na**; ingredients: chili pepper/spices, **enriched wheat flour**, onion, salt, garlic (± sugar on some lots) |
@@ -40,20 +51,20 @@ Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + be
 **Watch-outs:** Packet mix is **sodium-dense** and often contains **wheat flour** (not GF). Prefer **no-salt-added tomatoes** + **rinse beans** to offset. If a packet is very salty, use **½–1 packet per 2 lb turkey** and boost flavor with cumin, chili powder, garlic, onion powder, oregano.
 
 ### Phase 1 plate (Gate 3 lunch **or** Gate 5/6 dinner) — one bowl
-Target ≈ Gate protein (~50g) + bean carbs.
+Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 
 | Component | Amount | ≈ Macros |
 |-----------|--------|----------|
-| 93/7 turkey, cooked | **185g** | 394 kcal · 50P · 0C · 21F |
+| **99/1** turkey, cooked | **160g** (≈50P) | 242 kcal · 51P · 0C · 4F |
 | Beans, drained | **150g** | 173 kcal · 10P · 30C · 2F |
 | Diced tomatoes (with liquid OK) | **200g** | 36 kcal · 2P · 7C · 1F |
 | Chili mix | **~1 label serving (9g)** | 25 kcal · 0P · 5C · 0.5F · ~350mg Na |
-| **Bowl total** | | **≈ 628 kcal · 62P · 42C · 25F** |
+| **Bowl total** | | **≈ 476 kcal · 63P · 42C · 8F** |
 
-**Phase 1 daily budget hit (2,250 / 185P / 215C / 72F):** ~28% kcal · ~34% protein · ~20% carbs · ~35% fat — excellent lunch/dinner anchor. Pair with multi at lunch if Gate 3; skip cheese mountain / sour cream lakes (1 tbsp light crema or 20g avocado OK if fat room).
+**Phase 1 daily budget hit (2,250 / 185P / 215C / 72F):** ~21% kcal · ~34% protein · ~20% carbs · **~11% fat** — leaves fat room for avocado / fish oil. Pair with multi at lunch if Gate 3; light crema optional.
 
 ### Batch cook (Sun) — ~4 Gate bowls
-- **2.0 lbs** raw 93/7 turkey (browned, drain)
+- **2.0 lbs** raw **99/1** turkey (browned; splash water/broth if it sticks)
 - **2 cans** (15 oz) black or pinto beans, **rinsed**
 - **2 cans** (14.5 oz) diced tomatoes — **no salt added** if available
 - **1 packet** chili mix (stretch with extra cumin/chili powder rather than 2 full packets unless you need the salt)

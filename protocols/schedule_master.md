@@ -54,7 +54,7 @@ Doses/brands → `supplementation_matrix.md`.
 ## Weekly groceries
 Quantities for Phase shopping. Flavors/avoid-list → `food_preferences.md` (**no pickles, go easy on mustard**; Mexican + American lean).
 
-- 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin (keep **93/7 ground turkey** for chili) · 2 lbs white fish/tuna
+- 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin (chili = **99/1 ground turkey**; 93/7 only if 99/1 unavailable) · 2 lbs white fish/tuna
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt
 - 8 cans black/pinto beans · 2 packs nixtamalized tortillas · chia · squash
 - 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
