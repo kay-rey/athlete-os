@@ -1,6 +1,6 @@
 # Schedule master — day ops & gates
 
-**SoT links:** locations/priorities → `coaching_calendar.md` · who/Rx/phase dates → `profile.md` · bottles/doses → `supplementation_matrix.md` · lifts → `lifts_registry.md` · macros → `nutrition_phases.csv`
+**SoT links:** locations/priorities → `coaching_calendar.md` · who/Rx/phase dates → `profile.md` · taste → `food_preferences.md` · bottles/doses → `supplementation_matrix.md` · lifts → `lifts_registry.md` · macros → `nutrition_phases.csv`
 
 Class times are not re-listed here — pull from `coaching_calendar.md`.
 
@@ -52,8 +52,11 @@ Doses/brands → `supplementation_matrix.md`.
 ---
 
 ## Weekly groceries
+Quantities for Phase shopping. Flavors/avoid-list → `food_preferences.md` (**no pickles, go easy on mustard**; Mexican + American lean).
+
 - 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin · 2 lbs white fish/tuna
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt
 - 8 cans black/pinto beans · 2 packs nixtamalized tortillas · chia · squash
-- 5–6 avocados · salsa veg · spinach · peppers · bananas · honey · salted rice cakes
-- Dispensary: see on-hand + “still buy” in `supplementation_matrix.md`
+- 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
+- Condiments to keep: salsa, guac fixings, light mayo or crema, tomato-style BBQ — **do not buy pickles or mustard as staples**
+- Dispensary: `supplementation_matrix.md`

@@ -11,6 +11,7 @@ Solo 21-week BJJ recomp OS (Flow coach + GB Northridge athlete).
 protocols/
   SOURCES.md                 # what owns what
   profile.md                 # who / Rx / trajectory / energetics
+  food_preferences.md        # likes/dislikes + meal flavor examples
   coaching_calendar.md       # Flow grid, GB 2×, Muay Thai rules
   schedule_master.md         # day ops + Gates + groceries
   lifts_registry.md          # Lift A/B
