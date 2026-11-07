@@ -30,6 +30,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Sunday audits | `journal/weekly_reviews.md` |
 | Photos / labels | `journal/reference/` |
 | Logging conventions | `journal/README.md` |
+| Apple Health / device history (derived) | `journal/imports/apple_health/` (not raw export.xml) |
 
 ## Archive (not live SoT)
 

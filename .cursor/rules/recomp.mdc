@@ -9,7 +9,7 @@ globs: *
 
 ## Read order (every query)
 1. `SOURCES.md`
-2. `journal/anthro.csv` + `journal/meals.csv` + `journal/lifting.csv` (recent rows)
+2. `journal/anthro.csv` + `journal/meals.csv` + `journal/lifting.csv` (recent rows); device history → `journal/imports/` when relevant
 3. `athlete/profile.md` + `nutrition/preferences.md`
 4. `nutrition/phases.csv` + `athlete/milestones.csv`
 5. `calendar/academies.md` + `day/schedule.md`

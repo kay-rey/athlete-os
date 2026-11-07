@@ -11,6 +11,7 @@ Append-only log of what you **actually** ate, weighed, measured, and lifted. Doc
 | `entries/YYYY-MM-DD.md` | Freeform day notes when needed (travel, KBBQ, “felt flat”) |
 | `weekly_reviews.md` | Sunday audits |
 | `reference/` | Photos (bottles, labels, scale) |
+| `imports/apple_health/` | Derived CSVs from Apple Health export (history); see folder README |
 
 ## Conventions
 - Timezone: **America/Los_Angeles** dates
