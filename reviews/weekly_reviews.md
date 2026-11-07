@@ -1,63 +1,53 @@
-# Weekly Reviews — Sunday Wake Audit Template
+# Weekly review — Sunday on wake
 
-Run this audit **immediately on waking Sunday (~11:00 AM)** — underwear only, after voiding, before food/water/coffee — then Zone 2. Log into `data/weigh_ins.csv` and cross-check `data/lifting_log.csv` + `protocols/milestones.csv`.
-
----
+Weigh/tape per `schedule_master.md` Sunday block. Log `data/weigh_ins.csv`. Score training against `coaching_calendar.md` (don’t reinvent session lists). Macros/phase → `nutrition_phases.csv`. Tiers → `trajectory_realism.md`.
 
 ## Week __ | Date: ________ | Phase: ________
 
 ### 1. Anthropometrics
-| Metric | Value | Prior Week | Δ | Notes |
-|--------|-------|------------|---|-------|
-| Scale weight (lbs) | | | | Upon wake, post-void |
-| 7-day rolling mean (lbs) | | | | |
-| Sunday navel waist (in) | | | | Horizontal @ umbilicus, relaxed exhalation |
-| A1 gi lapel overlap (in) *(bi-weekly: Wks 2,4,6…21)* | | | | Toward ≥5.5" by Wk 21 |
-| IBJJF cuff check (≤2 cm wrist/ankle; ≥7 cm sleeve; 20–30 cm belt tails) | Pass / Fail | | | |
+| Metric | Value | Prior | Δ | Notes |
+|--------|-------|-------|---|-------|
+| Scale lbs | | | | post-void, pre-food |
+| 7-day mean lbs | | | | |
+| Navel waist in | | | | |
+| A1 overlap in (bi-weekly) | | | | |
+| IBJJF cuff/belt check | Pass/Fail | | | |
 | Pants fit | | | | |
 
-### 2. ICW / Diagnostic Flags (Weeks 1–3 critical)
-- [ ] Navel waist tightening despite scale stall (187.5–188.5 lb buffer expected)?
-- [ ] Calories held steady (NO cut if waist is moving)?
-- [ ] Creatine 5g/day adherence?
+### 2. ICW flags (Wk 1–3)
+- [ ] Waist down despite scale stall?
+- [ ] Held Phase calories (no panic cut)?
+- [ ] Creatine 5g/day?
 
-### 3. Nutrition Gate Compliance (late-wake clocks)
-| Gate | Days Hit / 7 | Miss Notes |
-|------|--------------|------------|
-| Gate 1 Breakfast ~11:15 (45g protein + D3/K2 + Ω-3) | /7 | |
-| Gate 2 Pre-Lunch Psyllium ~12:40 (≥2 hrs before sertraline) | /7 | |
-| Gate 3 Lunch ~1:00 (50g protein + Milpa + Multi) | /7 | |
-| Gate 3.5 Sertraline 75 mg @ 3:00 PM | /7 | |
-| Gate 4 Pre-Mat Anchor 4:30 (≥100g by 5:00 PM; target 110–125g) | /7 | |
-| Gate 5 Peri-Sparring Loop (Mon/Thu/Sat; Sat gel ≥5:00 PM) | /_ | |
-| Gate 6 Non-Sparring Dinner + Psyllium | /_ | |
-| Gate 7 Mg @ T−60 + allergy med at bedtime | /7 | |
+### 3. Gates (definitions → `schedule_master.md`)
+| Gate | Hit /7 | Misses |
+|------|--------|--------|
+| 1 Breakfast + D3/FO | /7 | |
+| 2 Psyllium pre-lunch | /7 | |
+| 3 Lunch + multi | /7 | |
+| 3.5 Sertraline 3:00 | /7 | |
+| 4 Protein by 5:00 | /7 | |
+| 5 Hard-day loop | /_ | |
+| 6 Easy dinner | /_ | |
+| 7 Mg + allergy med | /7 | |
 
-### 4. Training Load
-| Session | Completed | RPE Range | Double-Progression Trigger? |
-|---------|-----------|-----------|----------------------------|
-| Tue Day A (11:45–12:33) | Y / N | | Top-of-range all 3 sets? → +5/+10 lbs |
-| Fri Day B (11:45–12:33) | Y / N | | Top-of-range all 3 sets? → +5/+10 lbs |
-| Thu GB Gulag (locked) | Y / N | | |
-| Wed GB (only if alert after Flow AM) | Y / N / skipped-tired | | |
-| Sat GB (2nd hit if Wed skipped) | Y / N / n/a | | |
-| GB hits this week ≥2? | Y / N | | |
-| Fri avoided Northridge? (Y = good) | Y / N | | |
-| Mon Muay Thai (optional) | Y / N / skipped | | |
-| Wed Muay Thai (only if no Wed GB) | Y / N / n/a | | |
-| Flow coach-mode Mon–Thu + Sat AM | Y / N | | |
-| Wed Zone 2 / easy day (if no hard GB) | Y / N | 125–138 bpm | |
-| Sun Zone 2 (required; GB closed) | Y / N | 125–138 bpm | |
+### 4. Training (rules → `coaching_calendar.md` + `lifts_registry.md`)
+| Item | Done | Notes |
+|------|------|-------|
+| Lift A | Y/N | double-progression? |
+| Lift B | Y/N | double-progression? |
+| Thu GB Gulag | Y/N | |
+| Wed GB (if alert) | Y/N/skip | |
+| Sat GB (if Wed skip) | Y/N/n/a | |
+| GB ≥2 this week? | Y/N | |
+| Fri GB avoided? | Y/N | |
+| Mon MT optional | Y/N/skip | |
+| Wed MT (no Wed GB) | Y/N/n/a | |
+| Flow coach-mode | Y/N | |
+| Sun Zone 2 | Y/N | |
 
-### 5. Autoregulation Notes
-- Sleep window (bed → wake):
-- Zero-Grinder 5% load cuts applied?:
-- Injuries / tendon status:
-- Collagen taken 30–60 min pre-lift Tue/Fri?:
-- Next-week load prescriptions:
+### 5. Notes
+Sleep / injuries / Zero-Grinder cuts / next week loads:
 
-### 6. Decision Log
-- Calorie phase adjustment?: Hold / advance only per `protocols/nutrition_phases.csv`
-- Milestone check vs `protocols/milestones.csv`:
-- Success tier this week (see `protocols/trajectory_realism.md`): A floor / B plan / C stocky (usually post-Wk21)
-- Action items for Monday:
+### 6. Decisions
+Phase hold? Milestone vs `milestones.csv`? Tier A/B/C? Monday actions:

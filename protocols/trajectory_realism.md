@@ -1,6 +1,8 @@
-# Trajectory Realism — Honest Framing of the 21-Week Goal
+# Trajectory realism
 
-The playbook’s Week-21 numbers (172 lbs @ 14.9% BF, +6.2 lbs net LBM, 31.5" waist, “stocky lock-in”) are a **best-case concurrent-recomp target**, not a guaranteed physique timeline. Use the tiers below so a good outcome is not mistaken for failure.
+Numbers/dates → `profile.md` + `milestones.csv`. This file owns **Tier framing only**.
+
+Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a good outcome isn’t scored as failure.
 
 ## What is realistic in 21 weeks
 

@@ -3,85 +3,43 @@ description: Permanent physiological, nutritional, and S&C rules for 21-week BJJ
 globs: *
 ---
 
-# Athlete-OS Recomp Rules
+# Athlete-OS rules (pointers + hard constraints)
 
-## Subject Profile
-- 32yo male BJJ brown belt (turning 33 Jan 20, 2027)
-- **Dual academy:** Coaches at **Flow Jiu Jitsu**; trains as athlete at **Gracie Barra Northridge** (home gym)
-- Height: 5'5" (165.1 cm)
-- Guatemalan descent (high prevalence of SLC16A11, LCT-13910 CC lactase non-persistence, ABCA1 R230C)
-- **Chronotype:** Habitual wake ≈ **11:00 AM**; bedtime ≈ 2:00–3:00 AM. **Early exceptions:** Flow Wed AM (≈8:00) and Flow Sat Adults 9:00am (≈7:30–8:00). Use `protocols/coaching_calendar.md` + `protocols/schedule_master.md` — never conflate Flow coaching with GB athlete Gulag.
-- **Prescriptions:** Sertraline **75 mg @ 3:00 PM daily**; allergy medication **at bedtime**. Never advise skipping, doubling, or retiming these without clinician direction. Psyllium ≥2 hrs away from sertraline.
+**DRY:** Facts live in `protocols/` — see `protocols/SOURCES.md`. This file only holds agent constraints and non-negotiables. Do not paste schedules or supplement tables here.
 
-## Transformation Trajectory (147 Days / 21 Weeks)
+## Read order (every query)
+1. `protocols/SOURCES.md`
+2. `data/weigh_ins.csv` + `data/lifting_log.csv`
+3. `protocols/profile.md`
+4. `protocols/nutrition_phases.csv` + `protocols/milestones.csv`
+5. `protocols/coaching_calendar.md` + `protocols/schedule_master.md`
+6. `protocols/supplementation_matrix.md` + `protocols/lifts_registry.md`
+7. `protocols/trajectory_realism.md` (when discussing goals/progress)
 
-### Baseline (Week 0 / Day 1 - Mon Nov 9, 2026)
-- Official Phase 1 start after planned KBBQ weekend (Sat–Sun Nov 7–8); Nov 6 weigh-in is pre-start reference only
-- Scale weight: 189.7 lbs (86.05 kg) reference — re-log Monday AM wake
-- Body fat: 26.1–27.0% BF (49.5–51.2 lbs FM)
-- Lean body mass: 138.5–140.2 lbs LBM
-- Navel waist: 36.0"
-- Pants: tight size 34
-- Gi: standard A1 gi gaps by 1.5" at navel
-
-### Target (Week 21 - Apr 4, 2027)
-- Scale weight: 172.0 lbs (range 170–174 lbs)
-- Body fat: 14.9% BF (25.6 lbs FM; −23.9 lbs pure fat)
-- Lean body mass: 146.4 lbs LBM (+6.2 lbs net LBM: +8.2 lbs gross muscle/glycogen/ICW offset by −2.0 lbs ECW/gut residue)
-- Navel waist: 31.5" (range 31–32")
-- Pants: size 31–32
-- Gi: standard A1 gi ≥5.5" lapel overlap (2026 IBJJF legal: ≤2 cm wrist/ankle gap, ≥7 cm sleeve opening, 20–30 cm belt tails)
-
-## Energetics Model
-- Baseline BMR: 1,737 kcal (Mifflin-St Jeor) / 1,727 kcal (Katch-McArdle)
-- Baseline TDEE: 2,875–2,920 kcal/day (NEAT ~480 kcal @ 8.5k–10k steps, TEF ~265 kcal, EAT ~478 kcal)
-- By Week 21: Mifflin-St Jeor BMR drops to 1,657 kcal, but Katch-McArdle BMR rises to 1,791 kcal (+64 kcal/day) due to +6.2 lbs LBM expansion, supporting a 2,500 kcal permanent maintenance floor
-- Protein 1.23–1.33 g/lb target LBM (180–195 g/day); fat floor ≥70 g/day; carbs never below 185 g/day
-
-## Critical Diagnostic Rule (Weeks 1–3 ICW Buffer)
-During Weeks 1–3, 5g/day creatine and myonuclear domain re-inflation pull +3.8 lbs of intracellular water and glycogen into muscle cells. Scale weight may hover at 187.5–188.5 lbs for the first 14–21 days despite fat loss. **NEVER cut calories during Weeks 1–3 if navel waist is tightening.**
-
-## Hard Guardrails
+## Hard guardrails
 - Zero GLP-1 agonists
-- Enforce ≥100g protein (target 110–125g) before 5:00 PM daily (absolute clock — evening food-noise firewall)
-- Enforce pre-meal unflavored psyllium husk (2.5g Adaptation in Wk 1; 5.0g Operational in Wks 2–21) in 12 oz water + 6 oz chaser 15–20 min before Lunch and Dinner (never within 2 hrs of BJJ; **never within ±2 hrs of 3:00 PM sertraline** — lunch fiber ≈12:40 PM / lunch ≈1:00 PM)
-- Derive 65–75% of non-peri-workout carbs from Milpa resistant starches (cooked black/pinto beans, nixtamalized corn tortillas)
-- Zero-lactose whey only; Kirkland multi only at lunch; **on-hand:** D3 2,000 IU + fish oil 1 softgel AM / 1 dinner + Mg glycinate 240 mg pre-bed (see `protocols/supplementation_matrix.md`); allergy med at lights-out
+- ≥100g protein by 5:00 PM (target 110–125g)
+- Psyllium pre-lunch/dinner per `schedule_master.md`; never within 2h of hard mats or ±2h of 3:00 PM sertraline
+- 65–75% non-peri carbs from Milpa starches
+- Zero-lactose whey; stack per `supplementation_matrix.md`
+- Never cut calories Weeks 1–3 if navel waist tightening (`profile.md` ICW buffer)
+- Never retarget sertraline/allergy med without clinician direction
+- Training priorities only in `coaching_calendar.md` — don’t invent parallel rules
+- Milestones = aspirational; score Tier A floor first (`trajectory_realism.md`)
 
-## Training Architecture Invariants
-- 2×/week MED lifting (<50 min), RPE curve per `protocols/lifts_registry.md`
-- Zone 2: **Sunday required**; Wednesday only if not teaching AM toddler/rollers
-- Tue/Fri midday lifts only; **Monday is errands/family NEAT with wife off — never a lift day**
-- **Flow** = coach-mode job (Mon–Thu evenings + Sat AM). **Friday = OFF at Flow** (does not teach Fri classes)
-- **GB Northridge ≥2×/week:** **Thu midday locked (Gulag)** + 2nd hit = **Wed if not too tired after Flow AM**, else **Sat after mat cleanup**
-- **Avoid Fri Northridge** unless Wed+Sat both failed or Thu missed
-- Wed GB is energy-gated — skipping when sleepy is correct, not a failure
-- **Optional Muay Thai** on Flow mats **Mon & Wed after BJJ** (~7:30pm+): Mon = best night; Wed MT only if GB was skipped and session stays technical; never stacks with Wed GB; does not replace GB 2×
-- No GB on Tue/Fri noons (lifts); Fri evening defaults to rest after Lift B
-- Lift→Flow evening separation ≥4–6 hours (Tue); never add a Monday makeup lift
+## Food & supplement intake (mandatory)
+On any food/meal/grocery/restaurant/supplement share (photo, link, or name):
+1. Exact SKU/product
+2. Full nutrition or Supplement Facts (label / mfr / DSLD)
+3. Quality (USP/NSF/form/red flags)
+4. Genetics/Rx fit (lactose, iron–Mg, psyllium–sertraline, etc.)
+5. Phase macro + Gate impact (`nutrition_phases.csv` + `schedule_master.md`)
+6. Patch owning protocol file if stack/staples change — not chat-only
 
-## Trajectory Realism
-Week-21 milestones in `protocols/milestones.csv` are **aspirational (Tier B→C)**. Score wins against Tier A floor first — see `protocols/trajectory_realism.md`. Full “stocky” density often consolidates in Wk 22–30 maintenance, not on the Wk 21 scale day. Never deepen the deficit solely because LBM/stockiness lags while waist is moving.
+Response: facts → verdict → plan hit → conflicts.
 
-## Food & Supplement Intake Protocol (mandatory)
-Whenever the user shares **food, meals, groceries, restaurants, or supplements** (photo, link, brand name, or description), **do a deep dive before advising**. Do not skim labels or assume from memory alone.
+## Repo workflow (solo)
+Commit/push on **`main` only**. No feature branches/PRs unless user asks.
 
-### Required research steps
-1. **Identify the exact product/SKU** (brand, product line, dose/serving, form).
-2. **Pull full nutrition / Supplement Facts** from the label, manufacturer page, Costco/Amazon listing, or NIH DSLD — macros (kcal/P/C/F/fiber), micros, active amounts (e.g. elemental Mg, EPA/DHA split), other ingredients, allergens.
-3. **Quality check:** third-party seals (USP, NSF, Informed Choice), form bioavailability (glycinate vs oxide; ethyl ester vs rTG fish oil; isolate vs concentrate), Contaminant/recall flags, known brand issues if material.
-4. **Genetics / Rx fit:** lactose (LCT-13910), iron/Ca vs bedtime Mg, psyllium vs **3:00 PM sertraline**, soy if relevant, etc.
-5. **Plan impact:** map onto current phase (`nutrition_phases.csv`) — exact grams toward daily P/C/F/fiber/kcal; which Gate it fills; timing conflicts; keep / swap / dose-adjust.
-6. **Update repo when it changes the stack or staples:** patch `protocols/supplementation_matrix.md`, grocery lists, or gates — don’t leave advice only in chat.
-
-### Response shape
-- Exact facts first (serving, amounts).
-- Verdict: keep / adjust dose / replace.
-- How it hits **today’s Phase macros and gates**.
-- Any conflict with meds, psyllium, or training timing.
-
-## Repo Workflow (solo)
-Single-user repo. **Commit and push directly on `main`.** Do not open feature branches or PRs unless the user explicitly asks. No multi-branch review flow needed.
-
-## Agent Directives
-Always read `@data/weigh_ins.csv`, `@data/lifting_log.csv`, `@protocols/milestones.csv`, `@protocols/nutrition_phases.csv`, `@protocols/coaching_calendar.md`, `@protocols/schedule_master.md`, `@protocols/supplementation_matrix.md`, `@protocols/trajectory_realism.md`, and `@protocols/weekend_prestart.md` before answering queries. Phase 1 does not begin until **Mon Nov 9, 2026** — do not prescribe deficit guilt or compensatory cuts for the planned KBBQ weekend. Prefer `@research/grappler_recomp_playbook.md` for mechanism depth, but **never assign Friday Flow teaching** and never send him to GB evenings that conflict with Mon–Thu Flow coaching. Give exact gram, pound, RPE, and tempo directives. Obey **Food & Supplement Intake Protocol** on every food/supplement share. Obey **Repo Workflow (solo)**.
+## Voice
+Exact grams, pounds, RPE, tempos. Late-wake clocks from `schedule_master.md`. Never assign Friday Flow teaching. Never treat Flow Comp/Adults as GB Gulag.

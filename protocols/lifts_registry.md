@@ -1,6 +1,8 @@
 # Lifts Registry — 2-Day/Week Strength Microcycle
 
-**Session window (late-wake):** Tuesday & Friday **11:45 AM–12:33 PM** (48 min cap), after 11:00 AM wake + Gate 1 breakfast + Baar collagen taken **30–60 min pre-load**.
+Week placement / no-GB-noon rules → `coaching_calendar.md`. Day ops → `schedule_master.md`. Collagen dose → `supplementation_matrix.md`.
+
+**Session window:** Tue & Fri **11:45 AM–12:33 PM** (48 min), after wake + Gate 1 + collagen 30–60 min pre-load.
 
 ## Warm-Up (8 Min Mandatory)
 1. 3 min stationary bike
