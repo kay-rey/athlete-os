@@ -26,15 +26,19 @@ GB hours ([schedule](https://gbnorthridge.com/schedule/)): Mon–Thu 12–9 · F
 
 Coach RPE: kids/rollers 2–4 · adults/women’s 3–5 · Sat adults teach 4–6. **No Gulag at Flow.**
 
-## GB Northridge — ≥2× / week
+## GB Northridge — **≥2× / week (standing goal)**
+
+You want **at least two athlete sessions at GB Northridge every week**. Floor = 1 (Thu Gulag). Target = 2. Three is bonus, not required.
 
 | Priority | When | Rule |
 |----------|------|------|
-| **1 Locked Gulag** | **Thu ≈12:00–1:15** | RPE 8–9. Always protect. |
-| **2a Try** | **Wed ≈12:00–1:15** | Only if alert after Flow AM. RPE 7–8. |
-| **2b Backup** | **Sat ≈12:00–2:00** | If Wed skipped + cleanup done. |
-| **3 Last resort** | **Fri ≈3:00–5:00** | Avoid unless 2× still missing. |
+| **1 Locked Gulag** | **Thu ≈12:00–1:15** | RPE 8–9. **Never skip** if at all possible — this is hit #1. |
+| **2a Try** | **Wed ≈12:00–1:15** | Hit #2 if alert after Flow AM. RPE 7–8. |
+| **2b Backup** | **Sat ≈12:00–2:00** | Hit #2 if Wed skipped + cleanup done. |
+| **3 Last resort** | **Fri ≈3:00–5:00** | Only to finish 2× if Wed+Sat both failed (or Thu makeup). |
 | Blocked | Tue/Fri **noon** | Lift A / Lift B |
+
+**Week score:** Thu only = under target. Thu+Wed or Thu+Sat = **goal met**.
 
 ## Muay Thai (optional)
 
@@ -46,6 +50,7 @@ Coach RPE: kids/rollers 2–4 · adults/women’s 3–5 · Sat adults teach 4–
 MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT.
 
 ## Invariants
+- **GB ≥2×/week** is a standing goal (table above)
 - Lifts Tue + Fri midday only (`lifts_registry.md`)
 - Mon daytime = wife errands (NEAT)
 - Sun = Zone 2 + audit (`schedule_master.md`)

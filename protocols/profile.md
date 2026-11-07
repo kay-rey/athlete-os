@@ -2,7 +2,7 @@
 
 ## Subject
 - 32yo male BJJ brown belt (turns 33 Jan 20, 2027), 5'5" (165.1 cm)
-- Coaches **Flow Jiu Jitsu**; trains athlete BJJ at **Gracie Barra Northridge**
+- Coaches **Flow Jiu Jitsu**; trains athlete BJJ at **Gracie Barra Northridge** (**≥2×/week goal** — see `coaching_calendar.md`)
 - Guatemalan descent (SLC16A11, LCT-13910 CC lactase non-persistence, ABCA1 R230C risk profile)
 - Chronotype: wake ≈ **11:00 AM**; bed ≈ 2:00–3:00 AM  
   Early exceptions: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00
