@@ -1,6 +1,6 @@
 # Supplementation matrix
 
-**Timing/gates** → `schedule_master.md` (do not re-copy clocks here). **Rx** → `profile.md`.
+**Timing/gates** → `day/schedule.md` (do not re-copy clocks here). **Rx** → `athlete/profile.md`. Bottle photo → `journal/reference/`.
 
 ## On-hand (photo Nov 6, 2026)
 

@@ -1,6 +1,6 @@
 # Training locations & priorities
 
-Day-by-day execution → `schedule_master.md`. Profile/Rx → `profile.md`.
+Day-by-day execution → `day/schedule.md`. Profile/Rx → `athlete/profile.md`.
 
 ## Gyms
 
@@ -51,6 +51,6 @@ MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT.
 
 ## Invariants
 - **GB ≥2×/week** is a standing goal (table above)
-- Lifts Tue + Fri midday only (`lifts_registry.md`)
+- Lifts Tue + Fri midday only (`strength/lifts.md`)
 - Mon daytime = wife errands (NEAT)
-- Sun = Zone 2 + audit (`schedule_master.md`)
+- Sun = Zone 2 + audit (`day/schedule.md`); log → `journal/`

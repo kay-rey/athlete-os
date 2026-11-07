@@ -1,8 +1,8 @@
-# Schedule master — day ops & gates
+# Day schedule — ops & gates
 
-**SoT links:** locations/priorities → `coaching_calendar.md` · who/Rx/phase dates → `profile.md` · taste → `food_preferences.md` · bottles/doses → `supplementation_matrix.md` · lifts → `lifts_registry.md` · macros → `nutrition_phases.csv`
+**SoT links:** locations/priorities → `calendar/academies.md` · who/Rx/phase dates → `athlete/profile.md` · taste → `nutrition/preferences.md` · bottles/doses → `stack/supplements.md` · lifts → `strength/lifts.md` · macros → `nutrition/phases.csv` · journal → `journal/`
 
-Class times are not re-listed here — pull from `coaching_calendar.md`.
+Class times are not re-listed here — pull from `calendar/academies.md`.
 
 ---
 
@@ -24,19 +24,19 @@ GB day: WPI+creatine post; Zone 2 deferred to Sunday.
 Wake ≈11 → Gate 1 → clamp → **GB Gulag ≈12:00** (locked 2× credit) → WPI+creatine → sertraline → Gate 4 → Flow PM coach-mode. No MT.
 
 ### Friday — Lift B + free evening
-**Lift B 11:45–12:33**. Prefer **no GB**. Fri GB only last resort per `coaching_calendar.md`. Gate 6 dinner / family.
+**Lift B 11:45–12:33**. Prefer **no GB**. Fri GB only last resort per `calendar/academies.md`. Gate 6 dinner / family.
 
 ### Saturday — Flow AM + cleanup → GB if Wed missed
 Flow AM teach → mat cleanup. GB ≈12–2 **only if Wed skipped**. Else done for 2× with Thu.
 
 ### Sunday — Off mats
-Audit weigh-in + waist → Gate 1 → **Zone 2 45 min @ 125–138** → groceries / sleep bank. Milpa carbs.
+Audit weigh-in + waist → log `journal/anthro.csv` → Gate 1 → **Zone 2 45 min @ 125–138** → groceries / sleep bank. Milpa carbs.
 
 ---
 
 ## Daily gates
 
-Doses/brands → `supplementation_matrix.md`.
+Doses/brands → `stack/supplements.md`.
 
 | Gate | Clock (typical) | Action |
 |------|-----------------|--------|
@@ -52,7 +52,7 @@ Doses/brands → `supplementation_matrix.md`.
 ---
 
 ## Weekly groceries
-Quantities for Phase shopping. Flavors/avoid-list → `food_preferences.md` (**no pickles, go easy on mustard**; Mexican + American lean).
+Quantities for Phase shopping. Flavors/avoid-list → `nutrition/preferences.md` (**no pickles, go easy on mustard**; Mexican + American lean). Chili recipe → `nutrition/recipes/turkey_chili.md`.
 
 - 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin (chili default **99/1 turkey**; swap **96/4 beef** OK; avoid 80/20 chili) · 2 lbs white fish/tuna
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt
@@ -60,4 +60,4 @@ Quantities for Phase shopping. Flavors/avoid-list → `food_preferences.md` (**n
 - 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - Condiments to keep: salsa, guac fixings, light mayo or crema, tomato-style BBQ — **do not buy pickles or mustard as staples**
-- Dispensary: `supplementation_matrix.md`
+- Dispensary: `stack/supplements.md`

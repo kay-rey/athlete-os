@@ -5,28 +5,29 @@ globs: *
 
 # Athlete-OS rules (pointers + hard constraints)
 
-**DRY:** Facts live in `protocols/` — see `protocols/SOURCES.md`. This file only holds agent constraints and non-negotiables. Do not paste schedules or supplement tables here.
+**DRY:** Doctrine lives in domain folders — see `SOURCES.md`. Journal is append-only history in `journal/`. This file only holds agent constraints and non-negotiables. Do not paste schedules or supplement tables here.
 
 ## Read order (every query)
-1. `protocols/SOURCES.md`
-2. `data/weigh_ins.csv` + `data/lifting_log.csv`
-3. `protocols/profile.md` + `protocols/food_preferences.md`
-4. `protocols/nutrition_phases.csv` + `protocols/milestones.csv`
-5. `protocols/coaching_calendar.md` + `protocols/schedule_master.md`
-6. `protocols/supplementation_matrix.md` + `protocols/lifts_registry.md`
-7. `protocols/trajectory_realism.md` (when discussing goals/progress)
+1. `SOURCES.md`
+2. `journal/anthro.csv` + `journal/meals.csv` + `journal/lifting.csv` (recent rows)
+3. `athlete/profile.md` + `nutrition/preferences.md`
+4. `nutrition/phases.csv` + `athlete/milestones.csv`
+5. `calendar/academies.md` + `day/schedule.md`
+6. `stack/supplements.md` + `strength/lifts.md`
+7. `athlete/trajectory.md` (when discussing goals/progress)
+8. `nutrition/recipes/*` when meal-specific
 
 ## Hard guardrails
 - Zero GLP-1 agonists
 - ≥100g protein by 5:00 PM (target 110–125g)
-- Psyllium pre-lunch/dinner per `schedule_master.md`; never within 2h of hard mats or ±2h of 3:00 PM sertraline
+- Psyllium pre-lunch/dinner per `day/schedule.md`; never within 2h of hard mats or ±2h of 3:00 PM sertraline
 - 65–75% non-peri carbs from Milpa starches
-- Honor `food_preferences.md`: Mexican + American lean; **never default pickles / vinegar-bomb sides / mustard**
-- Zero-lactose whey; stack per `supplementation_matrix.md`
-- Never cut calories Weeks 1–3 if navel waist tightening (`profile.md` ICW buffer)
+- Honor `nutrition/preferences.md`: Mexican + American lean; **never default pickles / vinegar-bomb sides / mustard**
+- Zero-lactose whey; stack per `stack/supplements.md`
+- Never cut calories Weeks 1–3 if navel waist tightening (`athlete/profile.md` ICW buffer)
 - Never retarget sertraline/allergy med without clinician direction
-- Training priorities only in `coaching_calendar.md` — don’t invent parallel rules
-- Milestones = aspirational; score Tier A floor first (`trajectory_realism.md`)
+- Training priorities only in `calendar/academies.md` — don’t invent parallel rules
+- Milestones = aspirational; score Tier A floor first (`athlete/trajectory.md`)
 
 ## Food & supplement intake (mandatory)
 On any food/meal/grocery/restaurant/supplement share (photo, link, or name):
@@ -34,13 +35,21 @@ On any food/meal/grocery/restaurant/supplement share (photo, link, or name):
 2. Full nutrition or Supplement Facts (label / mfr / DSLD)
 3. Quality (USP/NSF/form/red flags)
 4. Genetics/Rx fit (lactose, iron–Mg, psyllium–sertraline, etc.)
-5. Phase macro + Gate impact (`nutrition_phases.csv` + `schedule_master.md`)
-6. Patch owning protocol file if stack/staples change — not chat-only
+5. Phase macro + Gate impact (`nutrition/phases.csv` + `day/schedule.md`)
+6. **Append** `journal/meals.csv` (and dated `journal/entries/` if narrative)
+7. Patch owning doctrine file if stack/staples change — not chat-only
 
-Response: facts → verdict → plan hit → conflicts.
+Response: facts → verdict → journal row(s) written → plan hit.
+
+## Weight, measurements, lifts (mandatory)
+On any weigh-in, tape measure, body measurement, or lift report:
+1. **Append** `journal/anthro.csv` and/or `journal/lifting.csv`
+2. Add `journal/entries/YYYY-MM-DD.md` only when narrative is needed
+3. Never overwrite prior journal rows; correct with a new row + note
+4. Compare to phase targets in `athlete/profile.md` / `athlete/milestones.csv` when relevant
 
 ## Repo workflow (solo)
 Commit/push on **`main` only**. No feature branches/PRs unless user asks.
 
 ## Voice
-Exact grams, pounds, RPE, tempos. Late-wake clocks from `schedule_master.md`. Never assign Friday Flow teaching. Never treat Flow Comp/Adults as GB Gulag.
+Exact grams, pounds, RPE, tempos. Late-wake clocks from `day/schedule.md`. Never assign Friday Flow teaching. Never treat Flow Comp/Adults as GB Gulag.

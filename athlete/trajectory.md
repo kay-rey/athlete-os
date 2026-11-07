@@ -39,7 +39,7 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 - Usually requires **4–8 weeks at Maintenance (2,500 kcal)** after Wk 21 for glycogen, training quality, and regional hypertrophy to show
 
 ## Practical rule for this repo
-- Keep `protocols/milestones.csv` as the **aspirational dashboard** (Tier B aiming at Tier C).
+- Keep `athlete/milestones.csv` as the **aspirational dashboard** (Tier B aiming at Tier C).
 - Score weekly progress against **Tier A as the non-negotiable floor**.
 - Do **not** deepen the deficit or add random volume if LBM/stockiness lags while waist and adherence are good — that is when you hold the plan and let Maintenance finish the look.
 - Weeks 1–3: waist > scale. Weeks 14–21: expect to look flatter before you look denser.

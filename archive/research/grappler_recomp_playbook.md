@@ -1,8 +1,10 @@
 # Grappler Body Recomposition Playbook (Research Source)
 
+> **ARCHIVE — NOT LIVE SoT.** Do not copy macros, clocks, or schedules from this file into doctrine or the journal. Live OS → root `SOURCES.md`. Clocks in this dump are obsolete.
+
 Cleaned text extract of the Gemini research playbook used to design athlete-os.
 
-**Chronotype override:** Subject wakes ≈11:00 AM. Do **not** follow 6–7 AM clock times in this document — remap all clocks via `protocols/schedule_master.md`. Keep physiological doses, RPE curves, macros, milestones, and peri-sparring sequencing.
+**Chronotype override:** Subject wakes ≈11:00 AM. Do **not** follow 6–7 AM clock times in this document — remap all clocks via `day/schedule.md`. Keep physiological doses, RPE curves, macros, milestones, and peri-sparring sequencing only as historical research context.
 
 ---
 

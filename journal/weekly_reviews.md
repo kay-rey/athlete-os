@@ -1,6 +1,6 @@
 # Weekly review — Sunday on wake
 
-Weigh/tape per `schedule_master.md` Sunday block. Log `data/weigh_ins.csv`. Score training against `coaching_calendar.md` (don’t reinvent session lists). Macros/phase → `nutrition_phases.csv`. Tiers → `trajectory_realism.md`.
+Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals trail → `journal/meals.csv`. Score training against `calendar/academies.md` (don’t reinvent session lists). Macros/phase → `nutrition/phases.csv`. Tiers → `athlete/trajectory.md`.
 
 ## Week __ | Date: ________ | Phase: ________
 
@@ -19,7 +19,7 @@ Weigh/tape per `schedule_master.md` Sunday block. Log `data/weigh_ins.csv`. Scor
 - [ ] Held Phase calories (no panic cut)?
 - [ ] Creatine 5g/day?
 
-### 3. Gates (definitions → `schedule_master.md`)
+### 3. Gates (definitions → `day/schedule.md`)
 | Gate | Hit /7 | Misses |
 |------|--------|--------|
 | 1 Breakfast + D3/FO | /7 | |
@@ -31,7 +31,7 @@ Weigh/tape per `schedule_master.md` Sunday block. Log `data/weigh_ins.csv`. Scor
 | 6 Easy dinner | /_ | |
 | 7 Mg + allergy med | /7 | |
 
-### 4. Training (rules → `coaching_calendar.md` + `lifts_registry.md`)
+### 4. Training (rules → `calendar/academies.md` + `strength/lifts.md`)
 | Item | Done | Notes |
 |------|------|-------|
 | Lift A | Y/N | double-progression? |
@@ -50,4 +50,4 @@ Weigh/tape per `schedule_master.md` Sunday block. Log `data/weigh_ins.csv`. Scor
 Sleep / injuries / Zero-Grinder cuts / next week loads:
 
 ### 6. Decisions
-Phase hold? Milestone vs `milestones.csv`? Tier A/B/C? Monday actions:
+Phase hold? Milestone vs `athlete/milestones.csv`? Tier A/B/C? Monday actions:

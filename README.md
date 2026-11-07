@@ -1,30 +1,28 @@
 # athlete-os
 
-Solo 21-week BJJ recomp OS (Flow coach + GB Northridge athlete).
+Solo **21-week BJJ recomp OS + health journal** (Flow coach + GB Northridge athlete).
 
 **Start:** Phase 1 Mon Nov 9, 2026 → Week 21 ≈ Apr 4, 2027.  
-**Edit map:** `protocols/SOURCES.md` (DRY — one owner per fact).
+**Edit map:** [`SOURCES.md`](SOURCES.md) (DRY — one owner per fact).
+
+Tell the agent what you ate, weighed, or measured — it appends `journal/` and only patches doctrine when a staple/rule changes.
 
 ## Layout
 
 ```
-protocols/
-  SOURCES.md                 # what owns what
-  profile.md                 # who / Rx / trajectory / energetics
-  food_preferences.md        # likes/dislikes + meal flavor examples
-  coaching_calendar.md       # Flow grid, GB 2×, Muay Thai rules
-  schedule_master.md         # day ops + Gates + groceries
-  lifts_registry.md          # Lift A/B
-  supplementation_matrix.md  # bottles + quality + doses
-  nutrition_phases.csv       # macros by phase
-  milestones.csv             # benchmarks
-  trajectory_realism.md      # Tier A/B/C
-  weekend_prestart.md        # KBBQ → Day 1
-data/                        # weigh_ins, lifting_log
-reviews/weekly_reviews.md    # Sunday audit
-.cursor/rules/recomp.mdc     # agent constraints (pointers)
-research/                    # playbook source (clocks outdated)
+SOURCES.md                   # what owns what
+athlete/                     # profile, trajectory, milestones
+calendar/academies.md        # Flow + GB + Muay Thai rules
+day/                         # schedule (Gates) + weekend prestart
+nutrition/                   # phases, preferences, recipes/
+strength/lifts.md            # Lift A/B
+stack/supplements.md         # bottles + doses
+journal/                     # HEALTH JOURNAL (append-only)
+  anthro.csv · meals.csv · lifting.csv
+  entries/ · weekly_reviews.md · reference/
+archive/research/            # playbook source (NOT live SoT)
+.cursor/rules/recomp.mdc     # agent constraints
 ```
 
 ## Agent
-Follow `.cursor/rules/recomp.mdc`. Deep-dive every food/supplement share. Commit on `main` only.
+Follow `.cursor/rules/recomp.mdc`. Deep-dive every food/supplement share. Journal every intake/anthro/lift report. Commit on `main` only.

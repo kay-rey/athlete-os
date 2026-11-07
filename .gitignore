@@ -48,7 +48,10 @@ temp/
 logs/
 .local/
 
-# --- Data working copies (keep tracked CSVs; ignore exports/edits) ---
+# --- Journal working copies (keep tracked CSVs; ignore exports/edits) ---
+journal/*.local.csv
+journal/*_backup.csv
+journal/.~*
 data/*.local.csv
 data/*_backup.csv
 data/.~*

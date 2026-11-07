@@ -1,6 +1,6 @@
 # Lifts Registry — 2-Day/Week Strength Microcycle
 
-Week placement / no-GB-noon rules → `coaching_calendar.md`. Day ops → `schedule_master.md`. Collagen dose → `supplementation_matrix.md`.
+Week placement / no-GB-noon rules → `calendar/academies.md`. Day ops → `day/schedule.md`. Collagen dose → `stack/supplements.md`. Log sets → `journal/lifting.csv`.
 
 **Session window:** Tue & Fri **11:45 AM–12:33 PM** (48 min), after wake + Gate 1 + collagen 30–60 min pre-load.
 

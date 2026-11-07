@@ -2,15 +2,15 @@
 
 ## Subject
 - 32yo male BJJ brown belt (turns 33 Jan 20, 2027), 5'5" (165.1 cm)
-- Coaches **Flow Jiu Jitsu**; trains athlete BJJ at **Gracie Barra Northridge** (**≥2×/week goal** — see `coaching_calendar.md`)
+- Coaches **Flow Jiu Jitsu**; trains athlete BJJ at **Gracie Barra Northridge** (**≥2×/week goal** — see `calendar/academies.md`)
 - Guatemalan descent (SLC16A11, LCT-13910 CC lactase non-persistence, ABCA1 R230C risk profile)
 - Chronotype: wake ≈ **11:00 AM**; bed ≈ 2:00–3:00 AM  
   Early exceptions: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00
 - Rx: **Sertraline 75 mg @ 3:00 PM daily**; **allergy med at bedtime**  
-  Psyllium ≥2 hrs from sertraline (see Gates in `schedule_master.md`)
+  Psyllium ≥2 hrs from sertraline (see Gates in `day/schedule.md`)
 
 ## Phase calendar
-See `nutrition_phases.csv` for kcal/macros. Dates:
+See `nutrition/phases.csv` for kcal/macros. Dates:
 
 | Phase | Window |
 |-------|--------|
@@ -30,7 +30,7 @@ See `nutrition_phases.csv` for kcal/macros. Dates:
 | Navel waist | 36.0" | 31.5" (31–32") |
 | Pants / A1 gi | 34 tight; gaps 1.5" | 31–32; ≥5.5" overlap |
 
-Strength / fit checkpoints → `milestones.csv`. Realism tiers → `trajectory_realism.md`.
+Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
 ## Energetics
 - BMR baseline: 1,737 Mifflin / 1,727 Katch-McArdle

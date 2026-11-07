@@ -1,35 +1,11 @@
-# Food preferences (taste SoT)
+# Turkey chili (staple recipe)
 
-Macros still come from `nutrition_phases.csv`. Gates → `schedule_master.md`. This file owns **likes / dislikes** only.
+Liked meal deep-dive. Taste rules → `nutrition/preferences.md`. Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`.
 
-## Likes (lean into these)
-- **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
-- **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
-- **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili seasoning mix — keep in rotation (see recipe below)
-
-Milpa rule still stands: 65–75% of non-peri carbs from beans/tortillas/veg — this matches what you already enjoy.
-
-## Dislikes (hard avoid)
-- **Pickles / pickle relish** — despise; never put on plates, burgers, bowls, or “add pickles for volume”
-- **Super vinegary foods** — skip pickle brine, vinegar-forward slaws, heavy vinegar hot sauces as the main flavor, vinegar-heavy BBQ (Carolina-style). Mild salsa acidity / citrus lime is OK unless you say otherwise
-- **Mustard** — don’t default to it; use salsa, guac, light mayo/crema, BBQ, or cheese sparingly instead
-
-## Gate meal examples (Phase 1–shaped)
-
-| Gate | Build it like this |
-|------|-------------------|
-| **1 Breakfast** | Eggs + egg whites, salsa, spinach, corn tortilla **or** lactose-free yogurt + WPI + banana |
-| **3 Lunch** | Chicken or flank + black beans + fajita veg + avocado + multi; tortillas OK in macro budget |
-| **4 Pre-mat** | WPI in water or turkey breast — no deli “with pickle/mustard” kits |
-| **5/6 Dinner** | Steak/chicken/fish + beans + roasted veg + avocado; American night = grilled protein + potato/rice + veg **no pickle spear, no mustard**; **or turkey chili bowl** (below) |
-| **Peri carbs** | Banana + honey + salt, or salted rice cakes + honey/jam — not pickle juice folklore |
-
-## Turkey chili (liked meal — deep dive)
-
-### Your build
+## Your build
 Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle/mustard conflict.
 
-### Meat choice — default **99/1 turkey**; lean beef OK as a swap
+## Meat choice — default **99/1 turkey**; lean beef OK as a swap
 Phase 1 fat cap is **72g**. Chili tomatoes + beans keep ultra-lean meat moist.
 
 | Per 100g cooked (drained) | kcal | P | F | Chili role |
@@ -49,7 +25,7 @@ Phase 1 fat cap is **72g**. Chili tomatoes + beans keep ultra-lean meat moist.
 
 Beef chili is fine American variety (iron/B12 bump). Prefer **96/4** when swapping; **93/7 max** otherwise. Don’t make 80/20 the weekly default.
 
-### Ingredient facts (typical)
+## Ingredient facts (typical)
 | Ingredient | Reference | Per amount |
 |------------|-----------|------------|
 | **99/1** ground turkey, cooked | USDA fat-free crumbles | **100g:** 151 kcal · 31.7P · 0C · 2.7F |
@@ -61,7 +37,7 @@ Beef chili is fine American variety (iron/B12 bump). Prefer **96/4** when swappi
 
 **Watch-outs:** Packet mix is **sodium-dense** and often contains **wheat flour** (not GF). Prefer **no-salt-added tomatoes** + **rinse beans** to offset. If a packet is very salty, use **½–1 packet per 2 lb turkey** and boost flavor with cumin, chili powder, garlic, onion powder, oregano.
 
-### Phase 1 plate (Gate 3 lunch **or** Gate 5/6 dinner) — one bowl
+## Phase 1 plate (Gate 3 lunch **or** Gate 5/6 dinner) — one bowl
 Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 
 | Component | Amount | ≈ Macros |
@@ -74,7 +50,7 @@ Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 
 **Phase 1 daily budget hit (2,250 / 185P / 215C / 72F):** ~21% kcal · ~34% protein · ~20% carbs · **~11% fat** — leaves fat room for avocado / fish oil. Pair with multi at lunch if Gate 3; light crema optional.
 
-### Batch cook (Sun) — ~4 Gate bowls
+## Batch cook (Sun) — ~4 Gate bowls
 - **2.0 lbs** raw **99/1 turkey** (default) **or 96/4 beef** (swap); browned — drain beef well; splash water/broth if turkey sticks
 - **2 cans** (15 oz) black or pinto beans, **rinsed**
 - **2 cans** (14.5 oz) diced tomatoes — **no salt added** if available
@@ -82,10 +58,3 @@ Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 - Optional: onion, bell pepper, jalapeño for volume
 
 Store 3–4 days fridge or freeze. Reheat for Gate 3 or post-mat dinner. Tortilla on the side only if carbs remain that day.
-
-## Restaurant / takeout defaults
-- Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
-- American spots: grilled entrées, burgers without pickle/mustard (say so explicitly), BBQ with sweeter tomato sauce; avoid pickle sides and mustard-heavy dressings
-
-## Agent rule
-Never suggest pickles, pickle juice, or mustard as a default condiment. Prefer Mexican seasoning profiles and clean American grilled plates that hit Phase protein/bean targets.
