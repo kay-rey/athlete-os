@@ -33,6 +33,7 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
+- **“Carb-free” / zero-net-carb tortillas** (liked) — taste OK; **not the healthiest default** — see wraps below
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
 - **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **taste pull = potato + noodle**; Phase default portions below (not maxed)
@@ -71,6 +72,30 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 **Verdict:** Keep the flavor you like. Treat as a **budgeted fat snack**, not free volume food. Prefer **1 serving**, not bag-finishing.
 
 Milpa rule: 65–75% non-peri carbs from beans/tortillas/veg. Potato beats refined noodle for satiety/fiber; beans beat both. Prefer that order in advice even when he likes noodle piles.
+
+## Wraps — “zero net carb” / low-carb tortillas (deep dive)
+Common SKUs: **Mission® Zero Net Carbs** (Original), similar “carb balance” / keto wraps. Marketing = carbs − fiber ≈ 0 (“net carbs”).
+
+| | Mission Zero Net Carbs (typ. 1 wrap ~40g) | Nixtamal **corn** tortilla (~1 small) |
+|--|------------------------------------------|----------------------------------------|
+| Label calories | ~**80–110** | ~**50–60** |
+| Total carb / fiber | ~**14–19g** / ~**14–19g** → “0 net” | ~**10–12g** / ~**1–2g** |
+| Protein | ~**5–7g** | ~**1–2g** |
+| Main ingredients | Modified starch, **wheat gluten**, cellulose, shortening | **Corn** (lime-treated) |
+| Milpa? | **No** | **Yes** |
+
+**Reality check:** “Zero net” ≠ calorie-free and ≠ blood-sugar-free. Some modified starches still raise glucose; cellulose fiber is gut filler. You already use **psyllium** — stacking mega-fiber wraps can mean gas/bloating.
+
+**Phase fit (215g carbs):** You are **not** on keto. You *need* real carbs (beans, corn, potato, peri). Swapping every tortilla for zero-net wraps does **not** improve recomp and weakens Milpa.
+
+| Strategy | Rule |
+|----------|------|
+| **Healthiest default** | **Nixtamalized corn tortillas** 1–2 with bowls/fajitas |
+| **Zero-net wraps** | OK **sometimes** when you want a big wrap format and are saving carbs for potato/noodle soup night — log as the label (total carbs + fiber), not “free food” |
+| **Not** | Daily “unlimited wraps because zero net”; don’t count them as Milpa |
+| **If GI complains** | Drop the wraps; keep corn + beans + psyllium schedule |
+
+**Verdict:** Keep them as a **liked option**, not the staple. **Corn tortillas win** for health + Phase. Zero-net = convenience wrap, not a upgrade.
 
 ## Soups — healthy to make? (yes — Phase defaults)
 
