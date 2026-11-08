@@ -9,10 +9,10 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ## 7-day ops
 
 ### Monday — Errands + Flow teach ± MT
-Wake ≈11 → scale → Gate 1 → errands (untracked NEAT — no step goal) → sertraline 3:00 → Gate 4 → Flow PM coach-mode → **optional MT** (best night) → Gate 5-lite or 6. No lift / no GB.
+Wake ≈11 → scale → Gate 1 → errands (untracked NEAT — no step goal) → sertraline 3:00 → Gate 4 → Flow PM (Adults = white-belt room, light contact) → **optional MT** (best night) → Gate 6. No lift / no GB.
 
 ### Tuesday — Lift A + Flow teach
-Wake ≈11 → collagen → Gate 1 (+30g carbs) → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM light contact. No GB / no MT.
+Wake ≈11 → collagen → Gate 1 (+30g carbs) → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults (light / white-belt room). No GB / no MT.
 
 ### Wednesday — Flow AM → energy fork → Flow PM ± MT
 Wake ≈8 (AM teach) → Gate 1 → Flow AM.  
@@ -21,7 +21,7 @@ Wake ≈8 (AM teach) → Gate 1 → Flow AM.
 GB day: WPI+creatine post; Zone 2 deferred to Sunday.
 
 ### Thursday — GB hard midday + Flow teach
-Wake ≈11 → Gate 1 → clamp → **GB 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if possible) locked 2× credit → WPI+creatine → sertraline → Gate 4 → Flow PM coach-mode (teach only). No MT.
+Wake ≈11 → Gate 1 → clamp → **GB 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if possible) locked 2× credit → WPI+creatine → sertraline → Gate 4 → Flow PM Adults (still light / white-belt room — not a second hard session). No MT.
 
 ### Friday — Lift B + free evening
 **Lift B 11:45–12:33**. Prefer **no GB**. Last-resort 2×: **11:00 Comp** before lift or **6:00** No-Gi after — see `calendar/academies.md`. Gate 6 dinner / family.

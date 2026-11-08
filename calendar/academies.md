@@ -25,7 +25,12 @@ Website lobby hours still list Mon–Thu 12–9 · Fri 12–7 · Sat 9–2 · **
 | Sat | Adults 9:00 · Lil Rollers 10:00 · Kids 10:30 (+ **mat cleanup** after) |
 | Sun | Off |
 
-Coach RPE: kids/rollers 2–4 · adults/women’s 3–5 · Sat adults teach 4–6. Flow = coach-mode (you teach; don’t treat Flow as hard athlete sessions).
+### Flow intensity (important)
+- You **do** train during **Adults** (and similar) while coaching — room is mostly **white belts**.
+- That work **raises HR** but is **not hard athlete training** (RPE ~3–5 positional/flow rolling). Treat as coach-mode contact + light conditioning only.
+- **Flow ≠ GB credit.** Never count Flow Adults/Comp toward the ≥2× GB goal.
+- Do **not** run Gate 5 hard-day peri protocol for Flow Adults — save that for hard GB (and hard MT if used).
+- Coach RPE guide: kids/rollers 2–4 · Adults (white-belt room) 3–5 · Sat Adults teach 4–6.
 
 ## GB Northridge — adults class grid (from flyer)
 
@@ -73,10 +78,11 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 | **Mon** | Best MT night (no lift/GB). RPE ≤7.5 | Hands fried / family wins |
 | **Wed** | Only if **Wed GB skipped**; technical RPE ≤7 | After Wed GB; or wiped before Thu hard GB |
 
-MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT.
+MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT. Flow Adults ≠ GB credit and ≠ hard training.
 
 ## Invariants
 - **GB ≥2×/week** is a standing goal (table above)
+- Flow Adults rolling = light (white belts); hard stimulus lives at GB
 - Lifts Tue + Fri midday only (`strength/lifts.md`)
 - Mon daytime = wife errands (untracked NEAT)
 - Sun = Zone 2 + audit (`day/schedule.md`); GB Sun 9:00 exists on flyer but **not** a 2× target (recovery / Flow off)

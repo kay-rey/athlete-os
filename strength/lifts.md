@@ -65,5 +65,5 @@ If poor sleep or heavy Thursday sparring slows bar speed on Friday midday, reduc
 - No marathon running
 - Keep ≥4–6 hr between Tue lift and Flow evening coaching
 - **Tuesday/Friday:** Noon hour is the lift — no GB Northridge at 12pm those days
-- **Thursday:** No lift; hard GB midday before Flow coaching (teach only at Flow)
+- **Thursday:** No lift; hard GB midday before Flow Adults (white-belt room / light — not a second hard session)
 - **Friday:** Lift B midday then **free evening** (no Flow teach) — default rest after Thu GB; Zero-Grinder 5% if Thu sparring slowed bar speed
