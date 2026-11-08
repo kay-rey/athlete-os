@@ -29,7 +29,7 @@
 | **Electrolytes alt** | **LMNT Zero Sugar** (48 ct variety) | **½–1 packet** | **1000 mg Na** / packet — fine on very sweaty GB if you tolerate salt; start with **½** or prefer Kirkland sticks. |
 | **Skip** | Liquid I.V. Hydration Multiplier | — | Sugar load; not the Phase default. |
 | **Psyllium** | **Metamucil Sugar-Free Orange** (Costco often 2×130 / 260 servings) | Gate doses → below | Same SF orange lock. |
-| **WPI (lactose-free)** | **Isopure Zero Carb** (vanilla/etc.) **if in stock** | **1 scoop (~25g protein)** Gate 4 / post-GB | True isolate, labeled lactose-free. **Kirkland whey** and **ON Gold Standard** are isolate+**concentrate** → more lactose — not first choice for LCT-13910 CC. If Isopure is out: egg whites / LF yogurt bridge today; order WPI online or check Sam’s. |
+| **Whey protein** | **Prefer:** **Isopure Zero Carb** (WPI, lactose-free) if stocked | **1 scoop (~25g protein)** Gate 4 / post-GB | Cleanest if gut is touchy. **Also OK for him:** **ON Gold Standard** or Kirkland whey (isolate+concentrate) — he already drinks milk / eats lactose dairy without a known intolerance story (`athlete/profile.md`). Gene **LCT-13910 CC ≠ guaranteed symptoms**. **Switch to WPI** if shakes bring bloating, gas, or urgency. |
 
 ### Baar pre-lift (Tue / Fri)
 1. **Orgain Collagen + Creatine** scoop (or 15–20g collagen + 5g creatine)  
@@ -74,5 +74,5 @@
 ## Constraints
 - Multi lunch ≠ Mg bedtime (≥9h)
 - Psyllium ≥2h from sertraline and hard mats
-- Zero GLP-1 · zero-lactose protein only
+- Zero GLP-1 · whey: prefer WPI, ON/concentrate allowed if tolerated (phenotype > genotype)
 - L-tyrosine before Gate 1, never instead of Gate 1 · ≤2,000 mg

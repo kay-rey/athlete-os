@@ -14,7 +14,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 | Vitamin C (Baar) | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** — lactose-free | Any plain **ascorbic acid** 250–1000 mg USP tablet (lactose-free) | **Kirkland Chewable C** (has **lactose**) · gummy C |
 | Electrolytes (hard GB) | **Kirkland Signature Hydration, 40 sticks, SF variety** (500 mg Na/stick) | **LMNT Zero Sugar** 48 ct — use **½–1** packet (1000 mg Na full) | **Liquid I.V.** (sugar) · sugary Gatorade powder as staple |
 | Psyllium | **Metamucil Sugar-Free Orange** (often 2 bottles / 260 servings) | Any store **sugar-free orange** psyllium powder · unflavored husk if you ever see it | **Sugared** Metamucil orange · capsules only as sole fiber |
-| Whey (lactose-free) | **Isopure Zero Carb** (WPI, lactose-free) if stocked | Other **100% whey isolate** labeled lactose-free / “zero carb isolate” | **Kirkland whey** (isolate+concentrate) · **ON Gold Standard** (has concentrate) as first pick |
+| Whey | **Isopure Zero Carb** (WPI) if you want zero lactose | **ON Gold Standard** or Kirkland whey — OK if milk/dairy already sits fine for you | Only skip concentrate if shakes bloat you |
 | Tyrosine (optional) | Free-form **L-Tyrosine** capsules/powder if you use AM work dose | — | NALT-only · tyrosine+mega-caffeine stacks |
 | Already own | — | — | **Don’t restock:** Kirkland D3 · Daily Multi · fish oil · Mg glycinate |
 

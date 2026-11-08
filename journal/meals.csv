@@ -17,3 +17,4 @@ date,approx_time,gate,description,est_kcal,est_protein_g,est_carbs_g,est_fat_g,p
 2026-11-08,,preference,Chick-fil-A 12ct grilled nuggets + kale/salad,210,38,3,5,1,best CFA order; no fried default,No pickles on sandwich alt; BBQ light OK; skip waffle fries auto-add,chat
 2026-11-08,,preference,Chick-fil-A salad + Fat-Free Honey Mustard dressing (his usual),90,0,22,0,1,keep 1 packet; mustard OK in dressing; sugar not free,Label 90kcal 0F 22C 18sugar; prefer grilled protein on salad; log Lose It,chat
 2026-11-08,,preference,Fast-food option menus Del Taco Taco Bell Carls Jr In-N-Out,0,0,0,0,1,see nutrition/preferences.md multi-option tables,Street tacos/Power Bowl/BBQ chicken/Protein Style defaults; no pickles,chat
+2026-11-08,,decision,Lactose phenotype vs LCT-13910 CC,0,0,0,0,1,phenotype wins; drinks milk and eats lactose dairy OK; soft whey rule,Prefer WPI still; ON/concentrate allowed unless bloating; gene is risk not diagnosis,chat
