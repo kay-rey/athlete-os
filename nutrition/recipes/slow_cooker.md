@@ -31,7 +31,7 @@ Full macros → `turkey_chili.md`. Crock version:
 ## 2. Chicken tortilla soup (best Milpa pot)
 | In the pot | Amount |
 |------------|--------|
-| Chicken breast (or thighs trimmed) | **1.5–2 lb** |
+| Chicken breast (his preference — not thighs) | **1.5–2 lb** |
 | Low-sodium chicken broth | **4–6 cups** |
 | Diced tomatoes | **1–2 cans** |
 | Black beans, rinsed | **1–2 cans** |
@@ -111,7 +111,7 @@ Use **pressure** when you want food in ~15–40 min without standing at the stov
 | Use | Why it helps you | How (rough) |
 |-----|------------------|---------------|
 | **Dried black/pinto beans** | Cheaper + lower sodium than cans; Milpa staple | Soak optional; pressure ~25–35 min + natural release; salt after. Freeze in 1-cup packs. |
-| **Chicken from frozen** | Forgot to thaw — still get dinner protein | Pressure breast/thighs w/ salsa or broth ~12–18 min; shred. |
+| **Chicken from frozen** | Forgot to thaw — still get dinner protein | Pressure **breast** w/ salsa or broth ~12–18 min; shred. |
 | **Big batch shredded chicken/turkey** | Lunch + tired nights without cooking | Same as salsa chicken but pressure; portion + freeze. |
 | **Chicken tinga-style** | Mexican flavor you like, dump-friendly | Chicken + tomatoes/chipotle-in-adobo (go easy — spicy) + onion; shred; serve w/ beans + 1–2 tortillas. |
 | **Potato batch** | Controlled starch for soups/sides | Cubed potatoes steam/pressure ~5–8 min; fridge for the week — scoop **one** medium’s worth. |
