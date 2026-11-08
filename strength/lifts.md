@@ -44,12 +44,12 @@ No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine)
 | Plan | Mo | Enroll | What you actually need? |
 |------|-----|--------|-------------------------|
 | **Will Do** | **$15** | **$49.99** | **Home club only** — cardio/strength (+ limited locker sauna). **Enough** if one club covers Tue/Fri and has racks/DBs. |
-| **Will Crush** | **$24.99** | **$1** | **Multi-club** (200+; not LUX/Landmark) + classes/steam where offered. **Default pick** given Flow SCV + GB Northridge geography. |
+| **Will Crush** | **$24.99** | **$1** | **Multi-club** — **use this.** EOS in **Santa Clarita** (Flow days) + EOS near **GB Northridge**. |
 | Will Power | $29.99 | $1 | Crush + massage chairs, Evolt scan, Les Mills virtual, Flex deals. **Skip** — fluff for 2× MED. |
 
-† Excludes LUX. “Best value” on Power ≠ best for you. +29 days free doesn’t justify Power.
+† Excludes LUX. “Best value” on Power ≠ best for you.
 
-**Recommendation:** **Will Crush** (~$10 more than Do, $1 enroll) unless you’re sure one home gym is always the lift stop — then **Will Do**. Never Power.
+**Locked:** **Will Crush** — two EOS clubs on your real map. Will Do (home-only) would strand you at the wrong club. Never Power.
 
 Program needs: bike, DBs + bench, squat/goblet, DL (trap or conventional), row + pulldown/pull-up, back extension or RDL, suitcase path. Bring a **band** for neck.
 
