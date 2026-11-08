@@ -21,3 +21,21 @@ Thank you,
 ---
 
 **PRN** = take only when needed (e.g. before a flight), not daily.
+
+## Coverage note (Medi-Cal)
+Patient is on **Medi-Cal**. Flight-anxiety PRN / continuing sertraline is usually the simpler ask. **GLP-1 for weight or bingeing** often needs strict criteria + prior auth on Medi-Cal and may be denied — ask Kaiser/pharmacy what’s covered before counting on it. Travel medicine visit: confirm Medi-Cal covers travel clinic / vaccines for Indonesia–Philippines.
+
+---
+
+### Optional separate GLP-1 / binge message (only if sending)
+
+**Subject:** Binge eating — question about treatment options (incl. coverage)
+
+Hi Dr. [Name],
+
+I’m on **Medi-Cal**. I struggle with **binge eating / overeating** and I’m on **sertraline 75 mg**. I’m following a structured diet/training plan, but binge urges are still hard.
+
+Could you advise what treatments are appropriate for me, and what **Medi-Cal / Kaiser would cover** (therapy, meds, or anything like GLP-1 if clinically appropriate)? I’m asking for guidance, not a specific prescription.
+
+Thank you,  
+[Your name]
