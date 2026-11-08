@@ -1,126 +1,119 @@
 # More staples (low-cook, Phase-shaped)
 
-Taste → `nutrition/preferences.md`. Chili → `turkey_chili.md`. Crock pots → `slow_cooker.md`.  
-He doesn’t enjoy cooking — these are **dump / sheet-pan / assemble** builds for him, wife, or tired nights.
+Taste → `../preferences.md`. Exact brands → [`pantry.md`](pantry.md). Chili → `turkey_chili.md`. Crock → `slow_cooker.md`.
 
-**Plate default:** palm+ lean protein (~45–60g) · beans or **1** moderate starch · lots of veg · salsa/lime · light avocado if fat allows · **no pickle/mustard**.
+**Plate default:** palm+ lean protein (~45–60g) · beans or **1** moderate starch · veg · salsa/lime · light avocado if fat allows · **no pickle/mustard**.
 
 ---
 
 ## 1. Chicken tinga bowls
-| | |
-|--|--|
+| Exact | Amount |
+|-------|--------|
 | Chicken breast | **1.5–2 lb** |
-| Fire-roasted or diced tomatoes | **1–2 cans** |
-| Chipotle in adobo | **1–2 peppers** + spoon of sauce (spicy — start mild) |
+| Fire-roasted diced tomatoes | **1–2 cans** (Hunt’s / Kirkland) |
+| **La Costeña Chipotle in Adobo** | **1 pepper** + 1 tsp sauce (max 2 if you like heat) |
 | Onion + garlic | 1 onion, 3 cloves |
 | Cumin, oregano, salt | To taste |
 
-**Cook:** Simmer chicken in sauce 20–25 min stove, shred; **or** crock Low 5–6 h / pressure ~12 min.  
-**Bowl:** shredded tinga + **150g black beans** + fajita veg + **1–2 corn tortillas** *or* rice only if carbs left. Lime/cilantro.  
-**Freeze** in protein packs.
+**Cook:** Simmer 20–25 min stove, shred; or crock Low 5–6 h / pressure ~12 min.  
+**Bowl:** tinga + **150g rinsed black beans** (Kirkland Organic) + fajita veg + **1–2 Guerrero/Mission white corn tortillas**. Lime/cilantro.
 
 ---
 
 ## 2. Sheet-pan chicken fajitas
-| | |
-|--|--|
+| Exact | Amount |
+|-------|--------|
 | Chicken breast strips | **1.5 lb** |
-| Bell peppers + onion | **2–3** peppers, 1 onion, sliced |
-| Chili powder, cumin, garlic, salt, oil | **1 tbsp** oil max for the pan |
+| Bell peppers + onion | **2–3** peppers, 1 onion |
+| Chili powder, cumin, garlic powder, salt | Generous |
+| Oil | **1 tbsp** max |
 
-**Cook:** 425°F **18–22 min**, toss once.  
-**Serve:** meat + piled veg + beans on the side + **1–2 tortillas**. Guac measured (~30–50g).
+**Cook:** 425°F **18–22 min**.  
+**Serve:** meat + veg + beans + **1–2 corn tortillas** + **Kirkland Organic Medium Salsa**. Guac ~30–50g if fat allows.
 
 ---
 
 ## 3. Salsa-lime flank or sirloin plate
-| | |
-|--|--|
-| Flank / sirloin (trimmed) | **~6–8 oz cooked** per plate |
-| Peppers/onion | Grill or sheet-pan |
-| Beans | **100–150g** |
-| Tortillas | **1–2** or skip if potato night |
-
-Season salt/pepper/cumin/garlic; hot pan or broiler. Slice thin. **Carne asada vibes** without restaurant oil bath.
+| Exact | Amount |
+|-------|--------|
+| Flank / sirloin trimmed | **~6–8 oz cooked** |
+| Seasoning | Salt, pepper, cumin, garlic powder |
+| Side | **100–150g** rinsed black beans + peppers/onion |
+| Tortillas | **1–2 corn** or skip if potato night |
+| Finish | Lime + **Kirkland Organic Medium Salsa** |
 
 ---
 
 ## 4. BBQ chicken + potato (American night)
-| | |
-|--|--|
-| Chicken breast or rotisserie (skin off) | **~6–8 oz** |
-| Tomato-molasses BBQ | **2 tbsp** (not vinegar Carolina) |
-| Potato | **1 medium** baked/microwaved |
-| Veg | Broccoli, green beans, or salad **without** pickle/mustard dressing — salsa or light ranch sparingly |
+| Exact | Amount |
+|-------|--------|
+| Chicken breast or **Kirkland/Member’s Mark rotisserie** (skin off) | **~6–8 oz** |
+| BBQ | **2 tbsp G Hughes Sugar Free Sweet & Spicy** (Phase default) — *or* **2 tbsp Stubb’s Original** if you want molasses taste |
+| Potato | **1 medium** microwaved/baked |
+| Veg | Broccoli / green beans / salad — dressing = salsa or tiny Hellmann’s Light, **never** pickle/mustard |
 
-**Phase:** potato = dinner starch; no second carb mountain.
-
----
-
-## 5. Turkey burger plate (no bun needed)
-| | |
-|--|--|
-| **99/1** turkey patties | **2** (~4 oz each raw) or 1 large |
-| Toppings | Lettuce, tomato, onion, salsa, **no pickle/mustard** |
-| Side | Beans **or** **1** small potato/fries-not — prefer beans |
-
-Pan or air-fry. Thin soft bun only if carbs remain that day.
+**Do not use Sweet Baby Ray’s** (mustard flour). Details → `pantry.md`.
 
 ---
 
-## 6. Gate 1 — egg scramble (his breakfast)
-| | |
-|--|--|
+## 5. Turkey burger plate
+| Exact | Amount |
+|-------|--------|
+| **99/1** turkey | **2× ~4 oz** patties (or 1 large) |
+| Toppings | Lettuce, tomato, onion, **Kirkland salsa** — **no pickle/mustard** |
+| Side | Beans **or** 1 small potato — prefer beans |
+| Bun | Optional thin soft bun only if carbs remain |
+
+---
+
+## 6. Gate 1 — egg scramble
+| Exact | Amount |
+|-------|--------|
 | Whole eggs | **2** |
-| Egg whites | **1–1.5 cups** (~25–35g protein from whites) |
-| Spinach / salsa / leftover chicken | Optional volume + protein |
-| Tortilla | **0–1** corn if lunch will be lighter starch |
+| Carton egg whites | **1–1.5 cups** |
+| Add-ins | Spinach, salsa, leftover chicken |
+| Tortilla | **0–1 corn** |
 
-Hit Gate 1 **~45g protein**. Fresca OK with it.
+Target Gate 1 **~45g protein**. **Fresca** OK.
 
 ---
 
 ## 7. Gate 3 — chicken + bean lunch bowl
-| | ≈ |
-|--|--|
-| Chicken (meal-prep / rotisserie / salsa chicken) | **160–180g** → ~50g P |
-| Black beans, rinsed | **150g** |
-| Fajita veg / salsa / pico | Volume |
+| Exact | ≈ |
+|-------|---|
+| Chicken (salsa chicken / rotisserie / tinga) | **160–180g** |
+| Rinsed black beans | **150g** |
+| **Kirkland Organic Medium Salsa** + fajita veg | Volume |
 | Avocado | **~30–40g** if fat budget |
-| Multi vitamin | With this meal per Gates |
-
-Skip chips. Tortilla only if daily carbs allow.
+| Multi | With lunch |
 
 ---
 
-## 8. Turkey sandwich (American, clean)
-Soft bread **2 slices** or wrap · sliced turkey breast · lettuce/tomato · **salsa or light mayo** — **never pickle/mustard**. Side: apple or baby carrots, not chips bag.  
-Use when lunch must be portable; beans later if fiber low.
+## 8. Turkey sandwich
+Soft bread **2 slices** · sliced turkey breast · lettuce/tomato · **Kirkland salsa** or **Hellmann’s Light** — **never pickle/mustard**. Side: apple or carrots, not chips.
 
 ---
 
-## 9. Fideo (stove finish — taste win, moderate noodles)
-Toast **~4–6 oz dry fideo** for the whole pot in a little oil; add tomato sauce + broth; simmer soft. Stir in **shredded chicken**.  
-**Per bowl:** chicken-heavy + **1–1.5 oz dry** noodle worth + veg. Not a pasta refill.
+## 9. Fideo (moderate noodles)
+Toast **4–6 oz dry** **La Moderna / Don Francisco fideo** (or broken thin spaghetti) for the whole pot; tomato sauce + **Kirkland chicken broth**; add shredded chicken.  
+**Per bowl:** chicken-heavy + **1–1.5 oz dry** noodle + veg.
 
 ---
 
 ## 10. Rotisserie emergency plate
-Costco/Sam’s bird, **skin off** · can beans · salsa · microwave potato **or** 1–2 tortillas · bag salad.  
-Log honestly. Best tired-night default after frozen chili.
+**Kirkland** or **Member’s Mark** rotisserie, **skin off** · rinsed beans · **Kirkland salsa** · microwave potato **or** 1–2 corn tortillas · bag salad.
 
 ---
 
 ## Weekly rotation (example)
 | Night | Pot / plate |
 |-------|-------------|
-| Sun batch | Chili **or** tinga **or** salsa chicken → freeze half |
+| Sun batch | Chili / tinga / salsa chicken → freeze half |
 | Mon | Leftover / rotisserie bowl |
-| Tue | Wife fajitas or BBQ chicken + potato |
-| Wed | Tortilla soup or tinga bowls |
-| Thu | Post-GB: leftover high-protein (Gate 5 shake first) |
-| Fri | Turkey burgers or flank plate |
-| Sat | Albóndigas / chicken noodle if she wants a soup day |
+| Tue | Fajitas or BBQ chicken + potato (**G Hughes**) |
+| Wed | Tortilla soup or tinga |
+| Thu | Post-GB leftover (Gate 5 shake first) |
+| Fri | Turkey burgers or flank |
+| Sat | Soup day if she wants |
 
-More crock detail → `slow_cooker.md`.
+Brands SoT → [`pantry.md`](pantry.md).

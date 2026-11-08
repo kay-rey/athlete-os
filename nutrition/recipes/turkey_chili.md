@@ -54,7 +54,7 @@ Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 - **2.0 lbs** raw **99/1 turkey** (default) **or 96/4 beef** (swap); browned — drain beef well; splash water/broth if turkey sticks
 - **2 cans** (15 oz) black or pinto beans, **rinsed**
 - **2 cans** (14.5 oz) diced tomatoes — **no salt added** if available
-- **1 packet** chili mix (stretch with extra cumin/chili powder rather than 2 full packets unless you need the salt)
+- **1 packet McCormick Original Chili Seasoning** (stretch with extra cumin/chili powder rather than 2 full packets unless you need the salt) — beans/tomatoes brands → `pantry.md`
 - Optional: onion, bell pepper, jalapeño for volume
 
 **Slow cooker / multi-cooker:** same ingredients — Low **6–7 h** or High **3–4 h**. Full dump list → [`slow_cooker.md`](slow_cooker.md).

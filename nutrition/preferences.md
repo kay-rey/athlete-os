@@ -34,7 +34,7 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **“Carb-free” / zero-net-carb tortillas** (liked) — taste OK; **not the healthiest default** — see wraps below
-- **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
+- **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken — default sauce **G Hughes SF Sweet & Spicy** (or **Stubb’s Original** for molasses); **never Sweet Baby Ray’s** (mustard flour) — see `recipes/pantry.md`, meat-and-potato plates, oatmeal/banana peri carbs
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
 - **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **taste pull = potato + noodle**; Phase default portions below (not maxed)
 - **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
