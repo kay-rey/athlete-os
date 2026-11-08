@@ -269,17 +269,24 @@ Why: spread has pickle relish (hard avoid). Protein Style drops the bun. Double 
 | + fries (if you insist) | +360+ | +5 | +50 | +15 | Log and cut starch elsewhere — not the default |
 
 ### Chick-fil-A (exact order)
-**Best:** **12-count Grilled Nuggets** · side **Kale Crunch** (light dressing or dressing on side) **or** side salad · **no sauce** or **BBQ light** · water / unsweet tea / diet lemonade  
-Why: highest protein-per-calorie; no bun; no pickle fight.  
-**Also OK:** **Grilled Chicken Sandwich** — **no pickles**, no mayo/Chick-fil-A sauce lake; ketchup or light BBQ. Or **8-count grilled nuggets** + fruit cup (one serving).  
-**Skip:** fried nuggets/sandwich as default · Chick-n-Strips fried · waffle fries as automatic add · milkshakes · frosted coffee · Polynesian/Chick-fil-A sauce drown.
+**His usual (locked):** **Salad with grilled chicken** (Market w/ grilled filet **or** Cobb/Southwest w/ **grilled** nuggets/filet — not fried) · dressing swapped to **Fat-Free Honey Mustard** · **1 packet** · water / unsweet tea / diet lemonade.  
+Mustard in this dressing is **OK** (sauce/dressing rule — not a burger topping).
 
-| Build (approx label) | ≈ kcal | P | C | F |
-|----------------------|--------|---|---|---|
-| 12 grilled nuggets | ~210 | ~38 | ~3 | ~5 |
-| + Kale Crunch (dressing light) | ~120–200 | ~5 | ~10–15 | ~8–14 |
+**Fat-Free Honey Mustard — facts (Chick-fil-A label, 1 packet ~57g):** **90 kcal · 0F · 22C · 0P · ~18g sugar · ~330 mg Na**. Ingredients: water, **sugar**, honey, vinegar, mustard seed, modified starch, etc.  
+**Verdict:** Keep it — you like it and it saves fat vs ranch/Avocado Lime. It is **not** “free”: that packet is ~**10% of Phase 1 carbs** and mostly sugar. **One packet**, not two. Log it in Lose It.
 
-**Either chain as a Gate:** counts as lunch (Gate 3) or dinner (Gate 6) — still hit **≥100g protein by 5:00** with other Gates. Prefer CFA grilled if fat budget is tight; INO Double-Double PS if you want the burger night.
+| Build | ≈ without dressing | + 1× FF Honey Mustard |
+|-------|--------------------|------------------------|
+| Market Salad w/ grilled filet | ~550 · 28P · 42C · 31F | ~**640 · 28P · 64C · 31F** |
+| Cobb w/ grilled nuggets | ~630 · 39P · 16C · 45F | ~**720 · 39P · 38C · 45F** |
+| 12 grilled nuggets alone | ~200 · 38P · 2C · 4.5F | — |
+
+**Protein note:** Market + dressing is **light on protein** for a full Gate 3 (~50g target). Prefer **Cobb/Southwest with grilled nuggets** for ~39P, **or** Market grilled + Gate 4 WPI later, **or** add extra grilled nuggets. Ask to hold blue cheese / almonds / granola if fat budget is already tight that day.
+
+**Also OK:** **12-count Grilled Nuggets** alone (highest P/kcal) · Grilled Sandwich **no pickles**.  
+**Skip:** fried chicken on the salad · ranch / Chick-fil-A sauce drown · **2×** dressing packets · waffle fries autopilot · shakes.
+
+**Either chain as a Gate:** still hit **≥100g protein by 5:00**. CFA salad night = own the **22C dressing** in the 215g carb budget.
 
 ## Binge / overeat firewall (your stated problem)
 This is the main reason the day is gated — not willpower lectures.
