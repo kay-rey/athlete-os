@@ -8,7 +8,7 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 
 | Component | Verdict | Why |
 |-----------|---------|-----|
-| **Fat loss (~24 lbs FM / ~1.1 lb fat/wk)** | **Realistic** if adherence is high | Matches a sustained ~580–625 kcal/day deficit across ~147 days; BJJ + Zone 2 + steps support the EAT/NEAT model |
+| **Fat loss (~24 lbs FM / ~1.1 lb fat/wk)** | **Realistic** if adherence is high | Matches a sustained ~580–625 kcal/day deficit across ~147 days; BJJ + Zone 2 + unstructured NEAT (no step counting) support the EAT/NEAT model — if waist stalls with solid Gates/GB, revisit kcal before inventing step quotas |
 | **Scale 189.7 → ~170–174** | **Realistic** | Mostly fat + early ECW/gut loss; expect Wk 1–3 ICW stall (187.5–188.5) |
 | **Waist 36" → ~31–33"** | **Aggressive but plausible** | Visceral-heavy starting point often drops waist faster than scale early; 31.5" exact is a stretch target |
 | **A1 gi closes / overlap ↑** | **Realistic** | Follows waist + torso fat loss even before full LBM refill |

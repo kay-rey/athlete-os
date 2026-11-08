@@ -34,7 +34,8 @@ Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athl
 
 ## Energetics
 - BMR baseline: 1,737 Mifflin / 1,727 Katch-McArdle
-- TDEE baseline ≈ 2,875–2,920 kcal (NEAT ~480 @ 8.5–10k steps, TEF ~265, EAT ~478)
+- TDEE baseline ≈ 2,875–2,920 kcal (model assumed NEAT ~480 @ 8.5–10k steps historically; **you are not counting steps** — treat that NEAT figure as uncertain; judge energy balance by **waist + adherence + GB/lift consistency**, not a pedometer)
+- NEAT practice without tracking: Mon errands on foot when practical, stay on your feet while teaching, Sunday Zone 2 45 min — no step goal, no step logging
 - Week 21: Mifflin ↓1,657; Katch ↑1,791 (+64 from LBM) → maintenance floor **2,500 kcal**
 - Protein 1.23–1.33 g/lb target LBM (180–195 g/day); fat ≥70 g; carbs ≥185 g
 

@@ -27,7 +27,7 @@ Phase-relevant write-up → [`journal/entries/2026-11-06-apple-health-briefing.m
 - Last **Withings** scale: **2026-06-04** ≈ **183.7 lb**, BF ≈ **28.0%** (2026 BF mean ≈ **29%** vs ~20% in 2022–23)
 - Last weight in Health overall: **2026-07-24** ≈ **188.7 lb** (Lose It!)
 - Phase baseline in `journal/anthro.csv`: **2026-11-06** **189.7 lb** / **36.0"** (manual — not in this export as Withings)
-- **NEAT collapse:** steps/day mean **~7,865 (2024)** → **~3,180 (2025)** → **~2,733 (2026)** — below profile’s 8.5–10k assumption
+- Historical steps/day mean **~7,865 (2024)** → **~3,180 (2025)** → **~2,733 (2026)** — archival only; **athlete is not counting steps** (see `athlete/profile.md`)
 - Workouts in Health: heavy 2024 martial_arts; trickle to May 2025; **no 2026** workout objects (BJJ/coaching not logged here)
 - Nutrition: only **13** Health dietary days in 2026 (high protein when present) — not a full diary
 - Waist in Health last **33"** (Oct 2022) vs current tape **36"**

@@ -7,9 +7,9 @@ Source: derived CSVs in `journal/imports/apple_health/` from `/Users/kayrey/Down
 
 You are starting Phase 1 **heavier and softer than your 2022–24 baseline**, after a 2025–26 climb that peaked near **196 lb** in April 2026. Last synced Withings (Jun 4) was ~**183.7 lb / ~28% BF**; by Nov 6 you are back near **190**.
 
-The single biggest plan risk in this export is **NEAT collapse**: steps fell from ~**7.9k/day (2024)** to ~**2.7k/day (2026)**. Profile TDEE still assumes ~8.5–10k steps. If that gap continues, true maintenance is lower than modeled — Phase 1’s 2,250 kcal may cut less (or not at all) unless steps or training volume recover. Do **not** panic-cut Weeks 1–3; fix **steps + GB 2× adherence** first and watch waist.
+Historical risk flag: Apple Health showed steps falling ~**7.9k/day (2024)** → ~**2.7k/day (2026)**, while the old TDEE model assumed ~8.5–10k. **You are not counting steps going forward** — do not chase a step quota. If Phase waist stalls with solid Gates + GB 2× + lifts + Sunday Zone 2, revisit kcal — not a pedometer.
 
-Health is **history + device truth for scale/steps when synced**. It is **not** your BJJ log or complete food diary.
+Health is **history** (scale/BF when synced). It is **not** your BJJ log, food diary, or something you must monitor daily.
 
 ## Weight (daily preferred; Withings when available)
 
@@ -65,7 +65,7 @@ From `steps_daily_2024plus.csv`:
 | 2025 | 365 | **~3,180** |
 | 2026 | 310 | **~2,733** |
 
-Gap vs plan (~8,500–10,000): roughly **−5.8k to −7.3k steps/day** in 2026. That is a large TDEE overstatement if unchanged. Phase levers: Sunday Zone 2 + weekday NEAT (errands walk, post-teach walks), not deeper deficit in Weeks 1–3.
+Context only (not a live target). Phase levers without counting: Sunday Zone 2, Mon errands, on-feet teaching — judge by waist, not steps.
 
 ## Training log gap
 
@@ -99,6 +99,6 @@ Gap vs plan (~8,500–10,000): roughly **−5.8k to −7.3k steps/day** in 2026.
 ## Phase 1 implications (no macro change this pass)
 
 1. Baseline **189.7 / 36"** is credible vs summer drift after a spring peak.
-2. Prioritize **steps toward 8k+** and **GB ≥2×** so the written deficit matches physiology.
+2. Prioritize **GB ≥2×**, lifts, Gates, and Sunday Zone 2 — **no step counting**.
 3. Expect ICW scale noise Weeks 1–3; waist > scale.
-4. Revisit TDEE/kcal only if waist stalls **and** steps stay ~3k after Weeks 1–3 adherence is proven.
+4. Revisit TDEE/kcal only if waist stalls after Weeks 1–3 with solid adherence (not because of a step number).

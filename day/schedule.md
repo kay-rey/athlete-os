@@ -9,7 +9,7 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ## 7-day ops
 
 ### Monday — Errands + Flow teach ± MT
-Wake ≈11 → scale → Gate 1 → errands (NEAT) → sertraline 3:00 → Gate 4 → Flow PM coach-mode → **optional MT** (best night) → Gate 5-lite or 6. No lift / no GB.
+Wake ≈11 → scale → Gate 1 → errands (untracked NEAT — no step goal) → sertraline 3:00 → Gate 4 → Flow PM coach-mode → **optional MT** (best night) → Gate 5-lite or 6. No lift / no GB.
 
 ### Tuesday — Lift A + Flow teach
 Wake ≈11 → collagen → Gate 1 (+30g carbs) → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM light contact. No GB / no MT.
