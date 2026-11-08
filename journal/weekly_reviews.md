@@ -36,7 +36,7 @@ Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals t
 |------|------|-------|
 | Lift A | Y/N | double-progression? |
 | Lift B | Y/N | double-progression? |
-| Thu GB Gulag | Y/N | |
+| Thu GB hard midday | Y/N | |
 | Wed GB (if alert) | Y/N/skip | |
 | Sat GB (if Wed skip) | Y/N/n/a | |
 | GB ≥2 this week? | Y/N | |

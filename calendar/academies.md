@@ -9,7 +9,7 @@ GB class grid SoT: printed **Adults Schedule** photo → `journal/reference/gb_n
 |-------|------|
 | **Flow Jiu Jitsu** | Job — teach grid below (coach-mode) |
 | **Flow mats — Muay Thai** | Optional striking **Mon & Wed after BJJ** (~7:30pm+) |
-| **GB Northridge** (19520 Nordhoff St #10/15) | Home gym — athlete BJJ / Gulag · (818) 357-4074 · gbnorthridge.com |
+| **GB Northridge** (19520 Nordhoff St #10/15) | Home gym — athlete BJJ · (818) 357-4074 · gbnorthridge.com |
 
 Website lobby hours still list Mon–Thu 12–9 · Fri 12–7 · Sat 9–2 · **Sun closed** — the **printed adults grid** (below) is what you train from; it includes pre-noon and a Sunday morning class. Athlete windows that clear Flow evenings: **midday (~12:00)** and some early AM.
 
@@ -25,7 +25,7 @@ Website lobby hours still list Mon–Thu 12–9 · Fri 12–7 · Sat 9–2 · **
 | Sat | Adults 9:00 · Lil Rollers 10:00 · Kids 10:30 (+ **mat cleanup** after) |
 | Sun | Off |
 
-Coach RPE: kids/rollers 2–4 · adults/women’s 3–5 · Sat adults teach 4–6. **No Gulag at Flow.**
+Coach RPE: kids/rollers 2–4 · adults/women’s 3–5 · Sat adults teach 4–6. Flow = coach-mode (you teach; don’t treat Flow as hard athlete sessions).
 
 ## GB Northridge — adults class grid (from flyer)
 
@@ -57,7 +57,7 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 
 | Priority | When | What to attend | Rule |
 |----------|------|----------------|------|
-| **1 Locked** | **Thu 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if you can) | Midday GB1/GB2 → open mat = “Gulag” block | RPE 8–9. **Never skip** if at all possible. |
+| **1 Locked** | **Thu 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if you can) | Midday GB1/GB2 → open mat (hard athlete block) | RPE 8–9. **Never skip** if at all possible. |
 | **2a Try** | **Wed** after Flow AM | Prefer **10:45 GB3 No-Gi**, else **12:00** + open mat | Hit #2 if alert. RPE 7–8. |
 | **2b Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | Hit #2 if Wed skipped. |
 | **3 Last resort** | **Fri** | **11:00 Comp** (before Lift B) or Fri **6:00** No-Gi (Lift B keeps **noon** blocked) | Only to finish 2× if Wed+Sat failed. |
@@ -71,7 +71,7 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 | Day | Do | Skip |
 |-----|----|------|
 | **Mon** | Best MT night (no lift/GB). RPE ≤7.5 | Hands fried / family wins |
-| **Wed** | Only if **Wed GB skipped**; technical RPE ≤7 | After Wed GB; or wiped before Thu Gulag |
+| **Wed** | Only if **Wed GB skipped**; technical RPE ≤7 | After Wed GB; or wiped before Thu hard GB |
 
 MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT.
 
