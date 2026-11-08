@@ -86,16 +86,29 @@ Common SKUs: **Mission® Zero Net Carbs** (Original), similar “carb balance”
 
 **Reality check:** “Zero net” ≠ calorie-free and ≠ blood-sugar-free. Some modified starches still raise glucose; cellulose fiber is gut filler. You already use **psyllium** — stacking mega-fiber wraps can mean gas/bloating.
 
-**Phase fit (215g carbs):** You are **not** on keto. You *need* real carbs (beans, corn, potato, peri). Swapping every tortilla for zero-net wraps does **not** improve recomp and weakens Milpa.
+### “But they have more fiber — isn’t that better?”
+**No — not for you.** Higher number on the label ≠ better fiber.
+
+| | Zero-net wrap | Corn tortilla + beans (your default pattern) |
+|--|---------------|-----------------------------------------------|
+| Fiber type | Mostly **added** cellulose / resistant starch powders | **Food** fiber from nixtamal corn + beans |
+| Your 45g fiber target | Already covered by **beans + veg + psyllium** | Same — don’t need wrap powder to hit it |
+| Satiety / recomp | Weak carb for glycogen; easy to overeat “free” wraps | Real Milpa starch supports Gates + anti-binge |
+| Gut | Extra isolated fiber **on top of psyllium** → bloat risk | Predictable with your current stack |
+| Phase 1 (215g C) | You are **not** carb-restricted — “saving” carbs isn’t the goal | Corn fits the carb budget on purpose |
+
+**More fiber only helps if you’re short.** You’re aiming **45–50g** from Milpa + measured psyllium — not 70g+ from powder wraps. Chasing label fiber is how people get uncomfortably full, then graze later when wraps didn’t satisfy like food.
+
+**Phase fit (215g carbs):** You *need* real carbs (beans, corn, potato, peri). Swapping every tortilla for zero-net wraps does **not** improve recomp and weakens Milpa.
 
 | Strategy | Rule |
 |----------|------|
 | **Healthiest default** | **Nixtamalized corn tortillas** 1–2 with bowls/fajitas |
-| **Zero-net wraps** | OK **sometimes** when you want a big wrap format and are saving carbs for potato/noodle soup night — log as the label (total carbs + fiber), not “free food” |
-| **Not** | Daily “unlimited wraps because zero net”; don’t count them as Milpa |
+| **Zero-net wraps** | OK **sometimes** for a big wrap format — **not** because of fiber; log label macros, not “free” |
+| **Not** | Daily wraps “for the fiber”; don’t count as Milpa; don’t skip beans because the wrap had 14g fiber |
 | **If GI complains** | Drop the wraps; keep corn + beans + psyllium schedule |
 
-**Verdict:** Keep them as a **liked option**, not the staple. **Corn tortillas win** for health + Phase. Zero-net = convenience wrap, not a upgrade.
+**Verdict:** Corn + beans beat zero-net wraps for health. Wraps are a **liked convenience**, not a fiber upgrade.
 
 ## Soups — healthy to make? (yes — Phase defaults)
 
