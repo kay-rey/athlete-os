@@ -78,5 +78,19 @@ A blender **works** for the craving, but it makes **crushed / snow-cone ice**, n
 - Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
 - American spots: grilled entrées, burgers without pickle/mustard (say so explicitly), BBQ with sweeter tomato sauce; avoid pickle sides and mustard-heavy dressings
 
+## Binge / overeat firewall (your stated problem)
+This is the main reason the day is gated — not willpower lectures.
+
+| Lever | Why it helps you |
+|-------|------------------|
+| **≥100g protein by 5:00** (target 110–125) | Blunts evening free-for-all |
+| **Psyllium** pre-lunch / pre-dinner | Physical fullness before wife’s dinner / second helpings |
+| **Milpa beans/veg** at lunch | Volume + slow carbs vs grazing |
+| **Fresca / SF shaved ice** | Hits soda/dessert urge without a 50g sugar spiral |
+| **Lose It log same day** | Closes the loop; tell the agent after a binge — no secret days |
+| **After a binge** | No punishment cut tomorrow. Log it, hit the **next** Gate, keep sertraline/GB/lifts. Shame cuts → more bingeing |
+
+Hard GB nights: Gate 5 shake **before** you get home hungry. Empty-kitchen arrival is high-risk.
+
 ## Agent rule
-Never suggest pickles, pickle juice, or mustard as a default condiment. Prefer Mexican seasoning profiles and clean American grilled plates that hit Phase protein/bean targets. Log reported meals to `journal/meals.csv`.
+Never suggest pickles, pickle juice, or mustard as a default condiment. Prefer Mexican seasoning profiles and clean American grilled plates that hit Phase protein/bean targets. Log reported meals to `journal/meals.csv`. After binge reports: no scolding, no “earn it” cardio — next Gate + optional Kaiser escalation if binges are frequent.
