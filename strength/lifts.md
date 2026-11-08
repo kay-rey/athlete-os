@@ -38,7 +38,20 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine). Fri evening = free / recover from Thu GB.
 
 ## Gym choice — 1RM Strength? ([onermstrength.com](https://www.onermstrength.com/))
-**1RM Strength** — 23412 Lyons Ave, **Santa Clarita** · 24/7 unstaffed · PL/BB equipment · ~$90/mo (+ fees) · day pass ~$15 (book via IG/email).
+**1RM Strength** — 23412 Lyons Ave, **Santa Clarita** · 24/7 unstaffed · PL/BB equipment · pricing below (site; +tax).
+
+### Pricing vs your Tue + Fri lifts
+| Plan | Price | Fits MED? |
+|------|-------|-----------|
+| **Day pass** | **$15** | **Trial first** — one Lift A |
+| Week (5 non-consec days) | $50 | Good 2–3 session test |
+| Month pass (30 days) | $125 | Skip — costs more than Monthly |
+| **Monthly** full | **$90**/mo + **$15** init · **2-mo commit** | Yes (Tue+Fri) |
+| **Quarterly** full | **$250**/3 mo (~**$83**/mo) + $15 init · **no commit** | **Best if joining** after day pass |
+| Annually full | $900/yr (~$75/mo) · $0 init | Only after you’re sure (travel Jan) |
+| Weekend Monthly/etc. | $35+/mo · **Fri–Sun only** | **No** — blocks **Tuesday Lift A** |
+
+**Path:** day pass → if commute + gear work → **quarterly full** (cheaper than monthly, can walk after 3 mo). Don’t buy weekend membership to “save” — wrong days. Don’t buy annual until Phase 1 adherence is real.
 
 Equipment list dated **Mar 24, 2025** (their site). Map to **this** program only — ignore extra machines as invitation to add volume.
 
