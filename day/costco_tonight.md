@@ -99,7 +99,8 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 ---
 
 ## Do not buy tonight
-Pickles · juice gallons · dried-fruit tubs · sugared Metamucil · Liquid I.V. · Instant Pot unless you still don’t own a ~6 qt multi-cooker
+Pickles · juice gallons · dried-fruit tubs · sugared Metamucil · Liquid I.V.  
+**Multi-cooker:** buy only if you don’t own ~6 qt — **compare Costco vs Walmart −10%** (wife employee discount) and take the cheaper Instant Pot–style unit
 
 ## Floor order (fast path)
 1. Dispensary (Orgain combo · Vit C · Hydration sticks · Metamucil SF · Isopure if there)  

@@ -16,7 +16,7 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 Constraint: he won’t cook for fun; **sometimes she’s too tired after work** → empty kitchen is a binge risk. Appliance value here is **adherence**, not nutrient magic.
 
 - Still: food is only as healthy as what goes in (lean meat, beans, low-sodium broth, moderate starch).
-- **Buy a multi-cooker (Instant Pot–style, ~6 qt)** if you don’t have one — slow mode for dump-and-go + pressure for fast chicken/beans when nobody has 6 hours. Prefer over slow-cooker-only. Check Costco/Sam’s.
+- **Buy a multi-cooker (Instant Pot–style, ~6 qt)** if you don’t have one — slow mode for dump-and-go + pressure for fast chicken/beans when nobody has 6 hours. Prefer over slow-cooker-only. **Price:** wife’s **Walmart 10%** often beats warehouse on a single Instant Pot — compare Walmart −10% vs Costco/Sam’s before buying.
 - **Best use:** she (or either of you, once) dumps chili / tortilla-soup fixings / chicken + salsa in the morning or on a weekend → dinner exists when she’s wiped. Freeze leftover portions.
 - Crock rules: 99/1 turkey or chicken, rinsed beans, no-salt tomatoes, low-sodium broth; **add noodles late** (or separate) so they don’t mush and get over-scooped.
 - **Recipes:** [`recipes/slow_cooker.md`](recipes/slow_cooker.md) (crock) · [`recipes/staples.md`](recipes/staples.md) (tinga, fajitas, bowls, eggs, burgers, BBQ) · [`recipes/turkey_chili.md`](recipes/turkey_chili.md)

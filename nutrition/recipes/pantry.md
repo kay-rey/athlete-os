@@ -1,7 +1,7 @@
 # Pantry — exact brands (buy these)
 
 Taste rules → `../preferences.md`. Recipes link here instead of vague “BBQ sauce.”  
-Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check the label (formulas change).
+Shop **Costco / Sam’s** for bulk Kirkland/Member’s Mark; **Walmart (−10% wife employee discount)** for single appliances, many brand SKUs, and fill-ins when unit price wins. Grocery for anything else. Always re-check the label (formulas change).
 
 ## BBQ sauce (deep dive)
 **Mustard:** OK in BBQ/sauces. **Not** as a blob on burgers/hot dogs (preference).
