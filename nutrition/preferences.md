@@ -5,17 +5,30 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 **Hierarchy:** Likes tell the agent *what flavors you’ll stick with*. They do **not** set portion size. When taste pulls toward heavy starch / binge-prone builds, default advice is whatever is **healthiest for Phase recomp + anti-binge** (protein, Milpa, satiety) — still using foods he enjoys, just not maxed.
 
 ## Household cooking
-- **Wife cooks all dinners.** Don’t prescribe elaborate self-cooked Gate 5/6 menus as the default.
-- Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made toward Phase macros.
+- **Wife cooks most dinners** when she has energy. **He does not enjoy cooking** — don’t assign him chef duty or elaborate self-cooked menus.
+- Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made (or the low-effort fallback) toward Phase macros.
 - Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles / mustard**; easy pots = **chili (99/1 turkey)** or **albóndigas / tortilla / fideos / chicken noodle** (see soups).
 - Log dinner in Lose It / tell the agent after — estimate plate if needed.
 
-### Slow cooker / Instant Pot?
-- **Does not make food healthier by itself** — ingredients + portions do (lean meat, beans, low-sodium broth, moderate starch). Cream soup bases / fatty cuts / junk noodles in a crockpot are still junk.
-- **Can help adherence:** dump-and-go chili, tortilla soup, shredded chicken, beans → more homemade dinners, leftovers for lunch, less “empty kitchen → binge.”
-- **Worth getting if** you don’t already batch in a regular pot and she wants set-it-and-forget-it for your staples. **Skip if** a Dutch oven / big pot already covers chili & soups — no need to buy for health points.
-- **If buying one appliance:** a **multi-cooker (Instant Pot–style)** > slow-cooker-only — same pot for pressure (beans/chicken fast) + slow mode. ~6-qt is enough for 2 + leftovers. Costco/Sam’s often stock them.
-- Healthy crock use: 99/1 turkey or chicken, rinsed beans, no-salt tomatoes, low-sodium broth; **add noodles late** (or cook separate) so they don’t turn to mush and get over-scooped.
+### Slow cooker / Instant Pot? → **Yes, worth it for this household**
+Constraint: he won’t cook for fun; **sometimes she’s too tired after work** → empty kitchen is a binge risk. Appliance value here is **adherence**, not nutrient magic.
+
+- Still: food is only as healthy as what goes in (lean meat, beans, low-sodium broth, moderate starch).
+- **Buy a multi-cooker (Instant Pot–style, ~6 qt)** if you don’t have one — slow mode for dump-and-go + pressure for fast chicken/beans when nobody has 6 hours. Prefer over slow-cooker-only. Check Costco/Sam’s.
+- **Best use:** she (or either of you, once) dumps chili / tortilla-soup fixings / chicken + salsa in the morning or on a weekend → dinner exists when she’s wiped. Freeze leftover portions.
+- Crock rules: 99/1 turkey or chicken, rinsed beans, no-salt tomatoes, low-sodium broth; **add noodles late** (or separate) so they don’t mush and get over-scooped.
+
+### Tired-wife / no-cook dinner fallbacks (keep stocked)
+Better than delivery spiral or grazing. Pick one; portion; log.
+| Fallback | How |
+|----------|-----|
+| **Leftover chili / soup** (fridge or frozen pint) | Microwave — best option |
+| **Costco/Sam’s rotisserie chicken** (skin off) + can beans + salsa + 1–2 tortillas or potato | ~10 min |
+| **Frozen cooked chicken / turkey meatballs** + bag steamed veg + beans | Heat + assemble |
+| **Canned chicken tortilla / chicken noodle** (lower-sodium if possible) + extra shredded chicken or Greek-yogurt-free add-in protein | Upgrade the can — don’t eat broth-only |
+| **Eggs / egg whites** + beans + salsa (he can tolerate this minimal cook) | Acceptable Gate 6 when pots are empty |
+
+**Not** the tired-night default: chips, drive-thru mountain, “I’ll just snack until bed.” Protein first, then starch.
 
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
