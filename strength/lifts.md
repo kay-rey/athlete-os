@@ -37,51 +37,20 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 
 No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine). Fri evening = free / recover from Thu GB.
 
-## Gym choice — 1RM Strength? ([onermstrength.com](https://www.onermstrength.com/))
-**1RM Strength** — 23412 Lyons Ave, **Santa Clarita** · 24/7 unstaffed · PL/BB equipment · pricing below (site; +tax).
+## Gym choice
+**Default: EOS Fitness or LA Fitness** (cheaper commercial). Fancy PL gyms (e.g. 1RM Strength ~$90/mo) are **optional** — not required for recomp. Further drive is OK if dues stay low and you still hit **Tue/Fri noon**.
 
-### Pricing vs your Tue + Fri lifts
-| Plan | Price | Fits MED? |
-|------|-------|-----------|
-| **Day pass** | **$15** | **Trial first** — one Lift A |
-| Week (5 non-consec days) | $50 | Good 2–3 session test |
-| Month pass (30 days) | $125 | Skip — costs more than Monthly |
-| **Monthly** full | **$90**/mo + **$15** init · **2-mo commit** | Yes (Tue+Fri) |
-| **Quarterly** full | **$250**/3 mo (~**$83**/mo) + $15 init · **no commit** | **Best if joining** after day pass |
-| Annually full | $900/yr (~$75/mo) · $0 init | Only after you’re sure (travel Jan) |
-| Weekend Monthly/etc. | $35+/mo · **Fri–Sun only** | **No** — blocks **Tuesday Lift A** |
+Program runs on **any** gym with: bike, DBs + adjustable bench, a squat/rack or goblet option, a deadlift pattern (trap bar **or** conventional/sumo), row + pulldown/pull-up, back extension or RDL, aisle for DB suitcase. Bring a **band** for neck.
 
-**Path:** day pass → if commute + gear work → **quarterly full** (cheaper than monthly, can walk after 3 mo). Don’t buy weekend membership to “save” — wrong days. Don’t buy annual until Phase 1 adherence is real.
+| Missing at EOS/LA | Sub (same RPE) |
+|-------------------|----------------|
+| No trap bar | Conventional from blocks / sumo / heavy KB |
+| No chest-supported row | One-arm DB row braced on bench; cable seated row |
+| No back extension | RDL or good-morning light |
+| No free-weight squat rack | Goblet squat or belt/hack if available |
+| No carry lane | Suitcase holds 30–40s/side |
 
-Equipment list dated **Mar 24, 2025** (their site). Map to **this** program only — ignore extra machines as invitation to add volume.
-
-### Lift A/B ↔ 1RM gear
-| Program lift | At 1RM? | Use |
-|--------------|---------|-----|
-| Warm-up bike | **Yes** | Rogue Echo Bike |
-| **Trap-bar DL** | **Not listed** | **Gap.** Platforms ×3 + combo racks → **conventional DL from blocks** or hex if they have one off-list (ask on day pass). Keep RPE cap. |
-| 30° incline DB press | **Yes** | DBs 5–125 + Rogue adjustable bench *(or Prime plate-loaded incline chest as machine alt)* |
-| Chest-supported / T-bar row | **Partial** | Prime seated row / low row / DB row torso-braced on incline bench — no dedicated chest-supported T-bar listed |
-| 45° back extension | **Yes** | Watson Animal adjustable back extension *(GHD exists — don’t turn D1 into GHD failure work)* |
-| 4-way neck | **No harness listed** | Bring a **band**; 4-way isometrics |
-| Heel-elevated front squat / goblet | **Yes** | Combo/power racks for front squat; DBs for goblet; plates under heels. Belt squat / pendulum = **optional alt**, not extra sets |
-| Neutral DB OHP | **Yes** | DBs + bench/seat |
-| Neutral pull-up / pulldown | **Yes** | Rack pull-up if bars allow; else Xpload / lat pulldown–low row (neutral attachments via Prime) |
-| Suitcase / farmer carries | ** improvise** | Heavy DB suitcase walks in aisle; farmers if handles exist — else suitcase holds 30–40s |
-
-**Nice-to-haves you should mostly ignore** (don’t add a 3rd day around them): leg press, leg extension/curl, hip thrust, adductor, GHD max effort.
-
-| Factor | Verdict |
-|--------|---------|
-| **Equipment vs Lift A/B** | **Runnable** with one real gap (**trap bar**). Everything else has a clean sub. |
-| **Location** | Same valley as **Flow** (Bouquet Canyon) — sensible if you live/work SCV. **Not** next to GB Northridge. |
-| **24/7 / unstaffed** | Helps late wake + midday Tue/Fri. |
-| **Culture risk** | Fancy Prime/Arsenal gear ≠ more hypertrophy in a cut — stick to the table above. |
-
-**Should you go here instead?**
-- **Yes as lift home** if commute beats your current gym for **Tue/Fri noon** and you’re fine with **block/conventional DL** (or they have a trap bar off-list).
-- **No** if a closer gym already covers the map and you’re consistent — this list doesn’t unlock a better program.
-- **Day pass first:** confirm trap bar, chalk/drops, carry path; run full Lift A.
+**Skip:** paying PL-gym premiums for machines you won’t use; adding volume because the club has more toys.
 
 Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
 
