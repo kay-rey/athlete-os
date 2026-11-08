@@ -3,15 +3,40 @@
 Tracking app SoT for daily logging. Macros → `nutrition/phases.csv`. Wife cooks dinners → `nutrition/preferences.md`.
 
 ## Phase 1 targets (enter these — ignore Lose It’s diet suggestion)
-| | Target |
-|--|--------|
-| Calories | **2,250** |
-| Protein | **185 g** |
-| Carbs | **215 g** |
-| Fat | **72 g** |
-| Fiber (optional goal) | **45–50 g** |
+| | Target | Lose It goal type |
+|--|--------|-------------------|
+| Calories | **2,250** | Daily budget |
+| Protein | **185 g** | Gram goal (minimum / target) |
+| Carbs | **215 g** | Gram goal |
+| Fat | **72 g** | Gram goal |
+| Fiber | **45 g** (range OK **45–50**) | Gram goal — Phase 1 SoT from `nutrition/phases.csv` |
+| Sodium | **No low-sodium cap** — see below | Soft tracking only |
 
-Check: 185×4 + 215×4 + 72×9 = 740+860+648 = **2,248** ≈ 2,250.
+### Macro math (double-check)
+| Macro | g × kcal/g | kcal |
+|-------|------------|------|
+| Protein | 185 × 4 | **740** |
+| Carbs | 215 × 4 | **860** |
+| Fat | 72 × 9 | **648** |
+| **Sum** | | **2,248** ≈ **2,250** |
+
+Yes — macros add up (2 kcal rounding).
+
+### Fiber goal — **45 g/day** (aim 45–50)
+- Comes from beans, veg, tortillas, chia, + **psyllium** Gates 2/6 (Wk1: 2.5g ×2; Wk2+: 5g ×2).
+- Lose It: set fiber **45 g**. Hitting 50 is fine; don’t force fiber sodas.
+- If under 30 without psyllium, you’re missing Milpa/beans — fix food, don’t just mega-dose husk.
+
+### Sodium — don’t set a strict “under 2300” goal
+You’re a sweater on hard GB; peri protocol uses **~500–750+ mg Na** with pre-mat carbs. A diet-app **max 2,300 mg** fights that.
+
+| Day type | Practical sodium |
+|----------|------------------|
+| Easy / teach-only | Food sodium ~**2,000–3,500 mg** fine (rinse beans; prefer no-salt tomatoes when you can) |
+| Hard GB (+ electrolytes) | **3,000–5,000 mg** total OK — include packet Na; don’t fear salt that day |
+| Lose It setting | Skip a hard sodium *maximum*, or set a loose **upper watch ~5,000 mg** only to catch extreme junk days — **not** a restriction target |
+
+Priority: **protein + calories + fiber 45**. Sodium = replace sweat on hard days, not a cutting lever.
 
 ### Ignore Lose It’s “you’ll hit goal on [date]” banner
 That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Lose It’s own (usually lower/sedentary) TDEE until scale = goal weight. It is **not** this OS timeline.
