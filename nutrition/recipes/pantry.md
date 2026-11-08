@@ -32,7 +32,7 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 | Corn tortillas (default) | **Guerrero** or **Mission white corn** — see nixtamal below |
 | Occasional wrap | **Mission Zero Net Carbs** / **Carb Balance** — not Milpa |
 | Chili packet | **McCormick Original Chili Seasoning** (1.25 oz) — stretch with cumin/chili powder; see `turkey_chili.md` |
-| Beans | **Kirkland Organic Black Beans** or **no-salt-added** black/pinto — **rinse** |
+| Beans | **Kirkland Organic Black Beans** (Costco default — buy these tonight) · **OK equal:** Vons/store **tri-bean blend** (black/pinto/kidney) or plain pinto — same **~150g rinsed** portions. Prefer **no salt added** when labeled. **Not** three-bean *salad* (vinegar dressing — pickle-family skip) |
 | Tomatoes | **Hunt’s** or **Kirkland** diced / fire-roasted — prefer **no salt added** |
 | Broth | **Kirkland Signature Chicken Broth** (or low-sodium carton) |
 | Fideo | **La Moderna** / **Don Francisco** fideo, or broken thin spaghetti — portion dry by oz |
