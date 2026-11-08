@@ -60,4 +60,5 @@ Quantities for Phase shopping. Flavors/avoid-list → `nutrition/preferences.md`
 - 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - Condiments to keep: salsa, guac fixings, light mayo or crema, tomato-style BBQ — **do not buy pickles or mustard as staples**
+- Drinks: **Fresca** (classic 0-cal) OK staple; optional sugar-free shaved-ice syrup if you want the dessert texture at home
 - Dispensary: `stack/supplements.md`

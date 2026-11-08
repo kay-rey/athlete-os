@@ -12,8 +12,36 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
+- **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
+- **Shaved ice / snow-cone style desserts:** loved treat — planned, not nightly — see desserts below
 
 Milpa rule still stands: 65–75% of non-peri carbs from beans/tortillas/veg — this matches what you already enjoy.
+
+## Drinks — Fresca (deep dive)
+| | Classic Fresca 12 fl oz can (Coca-Cola label) |
+|--|-----------------------------------------------|
+| Calories | **0** |
+| Carb / sugar | ~0–1 g / **0 g sugar** |
+| Sodium | **35 mg** |
+| Caffeine | **0** |
+| Sweeteners | **Aspartame + acesulfame-K** (phenylalanine warning) |
+| Other | Small grapefruit juice concentrate; potassium citrate ~80 mg K |
+
+**Verdict:** Phase-friendly free drink — use freely instead of regular soda/juice. Fits lactose rules. No meaningful macro hit.  
+**Notes:** Fine with sertraline (not a grapefruit-*juice* interaction dose). If you try **Fresca Prebiotic** (~15 kcal, 6 g fiber/can): OK occasionally; don’t lean on soda for the 45g fiber target. Log 0-cal Fresca in Lose It as Fresca / diet soda.
+
+## Desserts — shaved ice (deep dive)
+Typical shop cup (~1 cup ice + syrup): ≈ **180–250 kcal · 0P · 40–55C · 0F**, almost all **sugar/HFCS**. Optional condensed milk / ice cream = +fat + lactose (skip or go light — lactase non-persistence).
+
+| Strategy | Rule |
+|----------|------|
+| **Phase 1 default** | **0–1× / week**, after protein-by-5pm is hit; log in Lose It |
+| **Budget** | Pull ~**40–50g** from daily **215g carbs** (swap out tortilla/rice/peri fluff that day) |
+| **Order** | Small/kids size; **one syrup**; skip condensed milk / mochi / ice cream cap |
+| **Better fit** | Sugar-free syrup shaved ice at home ≈ **0–20 kcal** — free like Fresca if you like the texture |
+| **Not** | Nightly dessert or “I trained so I earned a large + cream” |
+
+**Verdict:** Keep as a **liked treat**, not a staple. Texture craving → sugar-free syrup ice or Fresca + ice first.
 
 ## Dislikes (hard avoid)
 - **Pickles / pickle relish** — despise; never put on plates, burgers, bowls, or “add pickles for volume”
