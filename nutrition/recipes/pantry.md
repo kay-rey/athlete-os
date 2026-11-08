@@ -75,6 +75,18 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 
 ---
 
+## Produce / fruit (warehouse)
+| Need | Buy |
+|------|-----|
+| Peri + breakfast | **Bananas** (bunch) — hard-GB clamp + oatmeal |
+| Everyday fruit | Berries (fresh or **unsweetened frozen**) · apples · clementines/oranges — **1 serving** at a time |
+| Fat | **Avocados** 5–6 / week |
+| Flavor veg | Spinach · peppers · onion · tomatoes/tomatillos · cilantro · squash · limes |
+| Peri backup | **Honey** · **salted rice cakes** |
+| Skip | Juice jugs · dried mango/trail tubs · sugar-syrup fruit cups |
+
+Fruit rules → `../preferences.md`.
+
 ## Drinks / dessert
 | Need | Buy |
 |------|-----|

@@ -236,6 +236,23 @@ Restaurant: **no pickle**; skip mustard on bun; swap/skip hash if easy; protein 
 | **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickles |
 | **Peri carbs** | Banana + honey + salt, or salted rice cakes + honey/jam — not pickle juice folklore |
 
+## Fruit (yes — measured, not a juice habit)
+
+Fruit is **allowed**. It is **not** the main non-peri carb (that’s beans / corn tortillas / veg — 65–75%). Phase 1 has **215g carbs**; fruit pulls from that budget.
+
+| Role | What | Portion habit |
+|------|------|----------------|
+| **Must stock** | **Bananas** | Hard-GB **peri:** 1 large banana (~27C) + 1 tbsp honey + salt · also OK ½–1 banana on oatmeal Gate 1 |
+| **Everyday sides** | **Berries**, apple, orange/clementines, pear | **1 serving** with a Gate or as a planned snack — not endless grazing from a huge Costco clamshell |
+| **Fat (not a free fruit)** | **Avocado** | **~30–50g** on bowls if fat budget (~72g/day) allows |
+| **Milpa-ish extras** | Lime, tomato, tomatillo, chili peppers | Flavor/volume — not “fruit macros” in the sweet sense |
+| **Optional** | Frozen unsweetened berries (Costco) | Good for yogurt/oatmeal; log weight |
+| **Skip as staples** | Fruit **juice**, dried fruit bags, candied mango/trail mixes, smoothie “health” drinks that hide 2–3 bananas + juice | Fast sugar, weak satiety, easy binge volume |
+
+**Rule of thumb:** ~**1–2 pieces / cups of fruit per day** most Phase days, **plus** the peri banana on hard GB. If lunch already has beans + tortilla, fruit is a side — don’t also pile rice *and* a mango *and* juice.
+
+**Tonight warehouse:** bananas (buy) · berries if you’ll portion them · bag of apples or clementines · avocados already on the list · honey + salted rice cakes for peri backup. Skip juice gallons and dried-fruit tubs.
+
 ## Restaurant / takeout defaults
 - Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
 - American spots: grilled entrées, burgers **no pickle** (and skip mustard on the bun); BBQ tomato/molasses fine even if mustard is in the sauce; avoid pickle sides

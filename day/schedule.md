@@ -61,7 +61,7 @@ Shop **Costco / Sam’s Club** first (you have both), then normal grocery for an
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt
 - Breakfast: **Jennie-O turkey sausage** · turkey bacon · oats (rolled/steel-cut) · hashbrown potatoes (for measured portions)
 - 8 cans black/pinto beans · 2 packs **Guerrero/Mission white corn** tortillas · chia · squash
-- 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
+- 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · **bananas** (peri) · berries/apples/clementines (1 serving at a time) · honey · salted rice cakes — fruit rules → `nutrition/preferences.md`; **no juice / dried-fruit tubs**
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - **Tired-night backups** (wife wiped / no cook): rotisserie chicken · frozen cooked chicken strips or lean meatballs · extra canned beans · 1–2 lower-sodium canned soups to *upgrade* with chicken — see `nutrition/preferences.md` fallbacks
 - Condiments (exact → `nutrition/recipes/pantry.md`): **Kirkland Organic Medium Salsa** · **G Hughes SF Sweet & Spicy BBQ** (default) or **Stubb’s** · **Hellmann’s Light** · **La Costeña chipotle** — **no pickles**; mustard OK in BBQ, not as burger topping
