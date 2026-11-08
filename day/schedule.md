@@ -41,13 +41,15 @@ Doses/brands → `stack/supplements.md`.
 | Gate | Clock (typical) | Action |
 |------|-----------------|--------|
 | **1** | On wake | 45g protein + D3 + fish oil #1 — **do not skip for fasting/focus.** If using L-tyrosine for AM work: take it first, then Gate 1 ~20–30 min later (`stack/supplements.md`) |
-| **2** | ≈12:40 | Psyllium (2.5g Wk1 / 5g Wk2+) — ≥2h from sertraline & hard mats |
+| **2** | ≈12:40 | **Psyllium before lunch** (2.5g Wk1 / 5g Wk2+ in ~12 oz water + chase water) — wait **15–20 min**, then Gate 3. ≥2h from sertraline & hard mats |
 | **3** | ≈1:00 | 50g protein + 150g black beans + veggies + **multi** |
 | **3.5** | **3:00** | **Sertraline 75 mg** |
 | **4** | 4:30 | 25g protein → ≥100g by 5:00 (target 110–125) |
-| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → T+45 psyllium → **wife’s dinner** (portion/track) + fish oil #2 |
-| **6** | Teach-only / easy nights | Psyllium → **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
+| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → T+45 **psyllium → wait 15–20 min →** **wife’s dinner** (portion/track) + fish oil #2 |
+| **6** | Teach-only / easy nights | **Psyllium → wait 15–20 min →** **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
+
+**Psyllium = before lunch + before dinner only.** That is intentional: gel the two biggest plates (satiety / flatter glucose), keep ≥2h from 3:00 sertraline, and keep the gut light for lifts/hard mats. **Do not** take it before Gate 1 — morning protein + D3/fish oil come first; Tue/Fri you lift ~45 min after breakfast; a gelled stomach there fights the meal and the session.
 
 ---
 
