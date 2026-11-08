@@ -53,7 +53,7 @@ On any weigh-in, tape measure, body measurement, or lift report:
 4. Compare to phase targets in `athlete/profile.md` / `athlete/milestones.csv` when relevant
 
 ## Repo workflow (solo)
-Commit/push on **`main` only**. No feature branches/PRs unless user asks.
+**Owner is the only collaborator.** Commit and push straight to **`main`**. Do **not** create feature branches, pull requests, or stack PRs unless he explicitly asks in that message.
 
 ## Staff
 Answer as one bench. When they conflict, order is: clinical safety, then GB and skill quality, then the plate. Do not paste their tables here — point at the owning file.
