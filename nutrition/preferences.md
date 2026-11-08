@@ -5,17 +5,42 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 ## Household cooking
 - **Wife cooks all dinners.** Don’t prescribe elaborate self-cooked Gate 5/6 menus as the default.
 - Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made toward Phase macros.
-- Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles / mustard**; chili with **99/1 turkey** is a win when she wants an easy pot (`nutrition/recipes/turkey_chili.md`).
+- Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles / mustard**; easy pots = **chili (99/1 turkey)** or **albóndigas / tortilla / fideos / chicken noodle** (see soups).
 - Log dinner in Lose It / tell the agent after — estimate plate if needed.
 
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
+- **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — see soups below
 - **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
 - **Shaved ice / snow-cone style desserts:** loved treat — planned, not nightly — see desserts below
 
 Milpa rule still stands: 65–75% of non-peri carbs from beans/tortillas/veg — this matches what you already enjoy.
+
+## Soups — healthy to make? (yes, with these builds)
+
+Homemade > restaurant/canned. All four fit Mexican/American lean tastes. Main risks: **fatty meatballs**, **huge noodle piles**, **salty broth**, **fried-tortilla/cheese mountains**.
+
+### Shared Phase rules (tell wife / batch cook)
+- Broth: **low-sodium** chicken broth + salt to taste (or no-salt tomatoes + cumin/chili/oregano/lime)
+- Protein: **lean** — chicken breast/thigh trimmed, **99/1 turkey** or **96/4** for meatballs; drain fat
+- Veg: onion, garlic, carrot, celery, zucchini, tomato, cilantro — pile on
+- Carbs: control the **starch** (rice/noodles/tortilla strips) so the bowl isn’t 80g carbs of pasta alone
+- Finish: lime, cilantro, salsa; **avocado** if fat budget; skip sour cream lakes / giant cheese dumps (lactose + fat)
+- Costco/Sam’s: rotisserie chicken (skin off), broth cartons, frozen veg, 99/1 turkey
+
+| Soup | Phase verdict | Make it recomp-smart |
+|------|---------------|----------------------|
+| **Albóndigas** | **Yes** — great dinner staple | Meatballs = **99/1 turkey** (or lean beef 96/4); bind with a little rice/masa, not a grease bomb; broth + lots of veg/zucchini; optional small potato. Bowl target ~**45–60g protein**. |
+| **Fideos** (sopa de fideo) | **Yes** — watch noodles | Toast thin fideo, tomato broth, **add shredded chicken** so it’s not carb-only; keep noodle portion **~1–1.5 oz dry** per big bowl or bulk with veg. |
+| **Chicken noodle** | **Yes** — American classic | Breast/thigh, low-sodium broth, carrots/celery; **moderate egg noodles** (same idea — protein + veg first). |
+| **Chicken tortilla** | **Yes — best Milpa fit** | Chicken + tomatoes + **black beans** + chile/cumin/lime; bake a few corn tortilla strips instead of a fried mountain; light avocado OK. |
+
+**Typical tuned bowl:** ~**350–550 kcal · 40–60P · 30–45C · 8–15F** depending on noodles/avocado — solid Gate 5/6 when wife makes a pot.  
+**Restaurant versions:** often oilier/saltier — still OK occasionally; log bigger fat/sodium, don’t free-pour chips on top.
+
+**Verdict:** Healthy to make and encourage as rotation dinners. Tortilla + albóndigas are the strongest protein/Milpa plays; fideos/noodle need portion discipline on the pasta.
 
 ## Drinks — Fresca (deep dive)
 | | Classic Fresca 12 fl oz can (Coca-Cola label) |
