@@ -257,6 +257,30 @@ Fruit is **allowed**. It is **not** the main non-peri carb (that’s beans / cor
 - Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
 - American spots: grilled entrées, burgers **no pickle** (and skip mustard on the bun); BBQ tomato/molasses fine even if mustard is in the sauce; avoid pickle sides
 
+### In-N-Out (exact order)
+**Best:** **Double-Double, Protein Style** · **no spread** · **no pickles** · ketchup OK · onion/tomato OK · chilis OK · **Diet Coke or water**  
+Why: spread has pickle relish (hard avoid). Protein Style drops the bun. Double meat hits Gate protein (~**33P**, ~**520 kcal**, high fat — own it in the day’s **72g fat**).  
+**Also OK:** Cheeseburger or hamburger Protein Style, same “no spread / no pickles / ketchup” — stack a second burger or egg whites later if protein is short.  
+**Skip:** Animal Style (pickles + spread) · Animal Fries · regular fries as default · shake · 4×4 ego orders.
+
+| Build (approx label) | ≈ kcal | P | C | F |
+|----------------------|--------|---|---|---|
+| Double-Double Protein Style, no spread | ~480–520 | ~33 | ~11 | ~35–39 |
+| + fries (if you insist) | +360+ | +5 | +50 | +15 | Log and cut starch elsewhere — not the default |
+
+### Chick-fil-A (exact order)
+**Best:** **12-count Grilled Nuggets** · side **Kale Crunch** (light dressing or dressing on side) **or** side salad · **no sauce** or **BBQ light** · water / unsweet tea / diet lemonade  
+Why: highest protein-per-calorie; no bun; no pickle fight.  
+**Also OK:** **Grilled Chicken Sandwich** — **no pickles**, no mayo/Chick-fil-A sauce lake; ketchup or light BBQ. Or **8-count grilled nuggets** + fruit cup (one serving).  
+**Skip:** fried nuggets/sandwich as default · Chick-n-Strips fried · waffle fries as automatic add · milkshakes · frosted coffee · Polynesian/Chick-fil-A sauce drown.
+
+| Build (approx label) | ≈ kcal | P | C | F |
+|----------------------|--------|---|---|---|
+| 12 grilled nuggets | ~210 | ~38 | ~3 | ~5 |
+| + Kale Crunch (dressing light) | ~120–200 | ~5 | ~10–15 | ~8–14 |
+
+**Either chain as a Gate:** counts as lunch (Gate 3) or dinner (Gate 6) — still hit **≥100g protein by 5:00** with other Gates. Prefer CFA grilled if fat budget is tight; INO Double-Double PS if you want the burger night.
+
 ## Binge / overeat firewall (your stated problem)
 This is the main reason the day is gated — not willpower lectures.
 
