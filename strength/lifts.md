@@ -37,6 +37,23 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 
 No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine). Fri evening = free / recover from Thu GB.
 
+## Gym choice — 1RM Strength? ([onermstrength.com](https://www.onermstrength.com/))
+**1RM Strength** — 23412 Lyons Ave, **Santa Clarita** · 24/7 unstaffed · PL/BB equipment · ~$90/mo (+ fees) · day pass ~$15 (book via IG/email).
+
+| Factor | Verdict |
+|--------|---------|
+| **Equipment vs Lift A/B** | Strong match: racks, platforms, DBs to 125, incline press, rows/pulldown, back extension, Echo bike, belt squat. **Trap bar not on their published list** — use **block DL / sumo** sub (`A substitutions`) or ask if they have one before joining. |
+| **Location** | Same valley as **Flow** (Bouquet Canyon) — sensible if you live/work SCV. **Not** next to GB Northridge (~drive to Nordhoff). Don’t pick it to “be closer to GB.” |
+| **24/7 / unstaffed** | Helps late wake + midday Tue/Fri; fine if you’re competent alone. |
+| **Culture risk** | PL/BB rooms pull toward **extra days, peaking, isolation fluff** — that fights this MED plan. Joining ≠ changing the program. |
+
+**Should you go here instead?**
+- **Yes as lift home** if: commute beats your current gym for **Tue/Fri noon**, you’ll **keep 2× MED only**, and trap bar is there *or* you’re fine with the DL sub.
+- **No / not required** if: you already have racks + DBs + a pull near home and sessions are consistent — fancier iron won’t grow more muscle in a deficit next to GB.
+- **Before committing:** **$15 day pass**, run full Lift A, confirm trap bar / chalk / drop rules, time the drive from home and to Flow.
+
+Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
+
 ## Warm-up (8 min — mandatory)
 1. 3 min bike  
 2. 15 band pull-aparts  
