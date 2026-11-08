@@ -69,27 +69,26 @@ Prefer **G Hughes** over sugary bottles as the staple — details → `pantry.md
 ## 6. Gate 1 — breakfasts (American + Mexican + oatmeal)
 Target ~**45g protein**. Brands → `pantry.md`. **Fresca** OK.
 
-### A) Mex-American scramble (default most days)
+### A) Eggs + whites + Mexican mix (**default — best**)
 | Exact | Amount |
 |-------|--------|
 | Whole eggs | **2** |
 | Carton egg whites | **1–1.5 cups** |
-| **Jennie-O turkey breakfast sausage** | **2 patties** *or* turkey bacon **2–3 slices** |
-| **Kirkland Organic Medium Salsa** / pico | Generous |
-| Spinach / peppers | Volume |
+| **Kirkland salsa** / pico / peppers / spinach | Flavor + volume |
 | Hashbrowns (optional) | **¾–1 cup cooked**, air-fry/bake |
 | Corn tortilla | **0–1** |
+| Turkey sausage/bacon | **Omit** unless craving |
 
 ### B) Oatmeal protein bowl
 | Exact | Amount |
 |-------|--------|
 | Rolled oats (or steel-cut) | **½–¾ cup dry** |
-| Water or lactose-free milk splash | Cook |
+| Water | Cook |
 | Protein | Stir **egg whites** into hot oats *or* **WPI** when cooler |
 | Top | Cinnamon; optional banana; skip sugar packets |
 
-### C) Classic American (1–2×/week)
-Eggs/whites + measured hash + turkey sausage + **1–2** bacon strips — salsa OK; **no pickle**.
+### C) Add turkey sausage or bacon (craving days only)
+Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bacon **2–3** — not stacked with a huge hash every time.
 
 ---
 

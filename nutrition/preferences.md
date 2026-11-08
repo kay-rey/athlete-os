@@ -203,19 +203,20 @@ Liked: diner-style eggs / hashbrowns / sausage / bacon **and** oatmeal. Healthie
 
 | Piece | Taste pull | Phase default (healthiest) |
 |-------|------------|----------------------------|
-| **Eggs** | Scramble / fried | **2 whole + 1–1.5 cups egg whites** (or 3 whole if whites gone) |
-| **Hashbrowns** | Crispy potatoes | **~¾–1 cup cooked** (~150–200g) baked/air-fried — **not** a deep-fried mountain; this **is** breakfast carbs |
-| **Sausage** | Breakfast links/patties | **Jennie-O turkey breakfast sausage** (or similar lean turkey) — **2 patties** (~70 kcal · 10P · 3.5F). Pork sausage = occasional |
-| **Bacon** | Crispy strips | **Turkey bacon 2–3 slices** *or* pork bacon **2 slices** max — not half a pack |
-| **Mexican mix** | Salsa, pico, jalapeño, corn tortilla, black beans | **Lean into these** — salsa instead of syrup; **½ cup beans** optional; **0–1 corn tortilla** |
-| **Oatmeal** | Hot bowl | **½–¾ cup dry** rolled or steel-cut; cook in water; stir in egg whites at end *or* WPI when cooler; cinnamon; banana slices if carbs allow — **not** brown-sugar packets + cream |
+| **Eggs** | Scramble / fried | **2 whole + 1–1.5 cups egg whites** ← **this alone is enough** for Gate 1 protein |
+| **Hashbrowns** | Crispy potatoes | **~¾–1 cup cooked** baked/air-fried when you want potato — breakfast carb slot |
+| **Sausage / bacon** | Diner meat | **Optional, not required.** Skip most days. If craving: turkey sausage **2 patties** *or* turkey bacon **2–3** — not both + hash every morning |
+| **Mexican mix** | Salsa, pico, jalapeño, corn tortilla, beans | **Yes — prefer these over processed breakfast meat** for flavor |
+| **Oatmeal** | Hot bowl | **½–¾ cup dry** + egg whites or WPI; cinnamon; banana OK — no sugar packets |
 
-**Diner full stack every day?** No — fat/sodium from pork sausage + bacon + oil-fried hash browns blows Gate 1. **Rotate:**
-1. **Mex-American scramble** (most days): eggs/whites + turkey sausage **or** turkey bacon + salsa/pico + spinach ± small hash ± corn tortilla  
-2. **Oatmeal protein bowl** (easy days / lift-day carbs): oats + protein add-in + fruit  
-3. **Classic American** (1–2×/week feel): eggs + measured hash + turkey sausage + 1–2 bacon — still no pickle
+**Why skip turkey bacon/sausage most days?** Eggs/whites already hit ~**45g P** clean. Turkey “breakfast meats” are still **processed** (salt, nitrates/preservatives) and spend fat/sodium for little upside once protein is covered. Flavor → **salsa/pico/peppers**, not another processed strip.
 
-Restaurant breakfast: ask **no pickle**; skip mustard on sausage biscuit; hash portion conscious; protein first.
+**Rotate:**
+1. **Eggs/whites + Mexican mix** (default) ± spinach ± small hash ± corn tortilla  
+2. **Oatmeal protein bowl**  
+3. **With turkey sausage or bacon** — when you specifically want that taste (**≤ few ×/week**), not automatic
+
+Restaurant: **no pickle**; skip mustard on bun; hash conscious; protein first.
 
 ## Gate meal examples (Phase 1–shaped)
 
