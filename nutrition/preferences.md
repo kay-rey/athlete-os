@@ -257,36 +257,37 @@ Fruit is **allowed**. It is **not** the main non-peri carb (that’s beans / cor
 - Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
 - American spots: grilled entrées, burgers **no pickle** (and skip mustard on the bun); BBQ tomato/molasses fine even if mustard is in the sauce; avoid pickle sides
 
-### In-N-Out (exact order)
-**Best:** **Double-Double, Protein Style** · **no spread** · **no pickles** · ketchup OK · onion/tomato OK · chilis OK · **Diet Coke or water**  
-Why: spread has pickle relish (hard avoid). Protein Style drops the bun. Double meat hits Gate protein (~**33P**, ~**520 kcal**, high fat — own it in the day’s **72g fat**).  
-**Also OK:** Cheeseburger or hamburger Protein Style, same “no spread / no pickles / ketchup” — stack a second burger or egg whites later if protein is short.  
-**Skip:** Animal Style (pickles + spread) · Animal Fries · regular fries as default · shake · 4×4 ego orders.
+### In-N-Out — pick one (all: **no spread · no pickles · ketchup OK · onion/tomato/chilis OK · Diet Coke or water**)
+Spread = pickle relish → always off. Mustard not needed on the bun.
 
-| Build (approx label) | ≈ kcal | P | C | F |
-|----------------------|--------|---|---|---|
-| Double-Double Protein Style, no spread | ~480–520 | ~33 | ~11 | ~35–39 |
-| + fries (if you insist) | +360+ | +5 | +50 | +15 | Log and cut starch elsewhere — not the default |
+| Option | Exact order | ≈ macros | When to pick |
+|--------|-------------|----------|--------------|
+| **A — Best protein burger** | **Double-Double, Protein Style** | ~500 · **33P** · 11C · ~37F | Burger night; fat budget has room |
+| **B — Lighter burger** | **Cheeseburger, Protein Style** | ~330 · **16P** · 11C · ~25F | Want INO taste, lower load — add Gate 4 WPI or egg whites later |
+| **C — Two light ones** | **2× Hamburger, Protein Style** | ~480 · **26P** · 22C · ~34F | More volume, still no bun |
+| **D — Bun once** | Double-Double **on bun**, no spread/pickles | ~670 · **37P** · 41C · ~41F | Craving the bun; cut other starch that day |
+| **E — Occasional fries** | Any A–C **+ fries shared/half** | fries ≈ +360 · 5P · 50C · 15F | Log and drop tortillas/rice elsewhere — not every trip |
+| **Skip** | Animal Style · Animal Fries · shake · 3×/4×4 as habit | — | Pickles/spread/sugar bomb |
 
-### Chick-fil-A (exact order)
-**His usual (locked):** **Salad with grilled chicken** (Market w/ grilled filet **or** Cobb/Southwest w/ **grilled** nuggets/filet — not fried) · dressing swapped to **Fat-Free Honey Mustard** · **1 packet** · water / unsweet tea / diet lemonade.  
-Mustard in this dressing is **OK** (sauce/dressing rule — not a burger topping).
+### Chick-fil-A — pick one
+**Dressing you like:** **Fat-Free Honey Mustard** — mustard OK here. **1 packet** = **90 kcal · 0F · 22C · ~18g sugar**. Log it; don’t double-packet.
 
-**Fat-Free Honey Mustard — facts (Chick-fil-A label, 1 packet ~57g):** **90 kcal · 0F · 22C · 0P · ~18g sugar · ~330 mg Na**. Ingredients: water, **sugar**, honey, vinegar, mustard seed, modified starch, etc.  
-**Verdict:** Keep it — you like it and it saves fat vs ranch/Avocado Lime. It is **not** “free”: that packet is ~**10% of Phase 1 carbs** and mostly sugar. **One packet**, not two. Log it in Lose It.
+| Option | Exact order | ≈ macros (w/ 1× FFHM if salad) | When to pick |
+|--------|-------------|-------------------------------|--------------|
+| **1 — Your salad (usual)** | **Cobb Salad w/ Grilled Nuggets** + **Fat-Free Honey Mustard** | ~**720 · 39P · 38C · 45F** | Best salad for protein; hold bacon/cheese/avocado if fat is tight |
+| **2 — Salad, fruit-forward** | **Market Salad w/ Grilled Filet** + **FF Honey Mustard** | ~**640 · 28P · 64C · 31F** | Want fruit/greens; **protein light** → Gate 4 WPI or add **8–12 grilled nuggets** |
+| **3 — Salad, Southwest** | **Spicy Southwest w/ Grilled Filet or Grilled Nuggets** + **FF Honey Mustard** | ~**700–780 · 33–40P · ~45–50C · ~48F** | Bean/corn vibe; still grilled only; 1× dressing |
+| **4 — Highest P/kcal** | **12-ct Grilled Nuggets** · no sauce or BBQ light · side salad **or** Kale Crunch (dressing on side) | nuggets ~**200 · 38P · 2C · 4.5F** (+ side) | Fat budget tight; cleanest Gate protein |
+| **5 — Sandwich** | **Grilled Chicken Sandwich** · **no pickles** · no mayo lake · ketchup or light BBQ | ~**390 · 28P · 45C · 11F** | Bun craving; protein mid — add nuggets or WPI if needed |
+| **6 — Nuggets + salad side** | **8- or 12-ct Grilled Nuggets** + side salad with **FF Honey Mustard ×1** | ~300–400+ · **25–38P** · carbs from dressing | Your dressing without a full entrée salad |
+| **7 — Occasional** | Any grilled option **+ small waffle fries** | fries ≈ +280–360 | Rare; log; not default |
+| **Skip** | Fried nuggets/sandwich/strips on the salad · ranch / CFA sauce drown · **2×** FFHM · Cool Wrap as default (high fat) · shakes · frosted drinks | — | Fights Phase fat/sugar |
 
-| Build | ≈ without dressing | + 1× FF Honey Mustard |
-|-------|--------------------|------------------------|
-| Market Salad w/ grilled filet | ~550 · 28P · 42C · 31F | ~**640 · 28P · 64C · 31F** |
-| Cobb w/ grilled nuggets | ~630 · 39P · 16C · 45F | ~**720 · 39P · 38C · 45F** |
-| 12 grilled nuggets alone | ~200 · 38P · 2C · 4.5F | — |
+**Salad upgrades (any of 1–3):** ask **no bacon / no blue cheese / no almonds / no granola** if you need fat room; keep the grilled chicken; keep **1× FF Honey Mustard**.
 
-**Protein note:** Market + dressing is **light on protein** for a full Gate 3 (~50g target). Prefer **Cobb/Southwest with grilled nuggets** for ~39P, **or** Market grilled + Gate 4 WPI later, **or** add extra grilled nuggets. Ask to hold blue cheese / almonds / granola if fat budget is already tight that day.
+**Drink (both chains):** water · unsweet tea · Diet Coke / diet lemonade. Not shakes, not regular lemonade as habit.
 
-**Also OK:** **12-count Grilled Nuggets** alone (highest P/kcal) · Grilled Sandwich **no pickles**.  
-**Skip:** fried chicken on the salad · ranch / Chick-fil-A sauce drown · **2×** dressing packets · waffle fries autopilot · shakes.
-
-**Either chain as a Gate:** still hit **≥100g protein by 5:00**. CFA salad night = own the **22C dressing** in the 215g carb budget.
+**Gate rule:** One of these = lunch or dinner. Still hit **≥100g protein by 5:00** with the other Gates.
 
 ## Binge / overeat firewall (your stated problem)
 This is the main reason the day is gated — not willpower lectures.
