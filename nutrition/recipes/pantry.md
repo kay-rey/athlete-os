@@ -29,8 +29,27 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 | Jar salsa (everyday / salsa chicken) | **Kirkland Signature Organic Medium Salsa** (Costco, 2×38 oz) — tomatoes, jalapeño, cilantro, lime; ~10 kcal/2 tbsp |
 | Fresh pico vibe (Sam’s) | **Member’s Mark Fresh Cilantro Pico de Gallo Style Salsa** (fridge) |
 | Chipotle for tinga | **La Costeña Chipotle Peppers in Adobo** (7 oz can) — start with **1 pepper** + 1 tsp sauce |
-| Corn tortillas (default) | **Guerrero** or **Mission White Corn** (nixtamal) — not flour, not “zero net” as staple |
-| Occasional wrap | **Mission Zero Net Carbs** or **Mission Carb Balance** — see preferences; not Milpa |
+| Corn tortillas (default) | **Guerrero** or **Mission white corn** — see nixtamal below |
+| Occasional wrap | **Mission Zero Net Carbs** / **Carb Balance** — not Milpa |
+
+### What is a nixtamal corn tortilla?
+**Nixtamalization** = dried corn cooked/soaked in **limewater** (calcium hydroxide), then ground into masa and pressed into tortillas. That’s the traditional Mesoamerican process (same family as homemade tortillas / tortillerías).
+
+**Why it matters for you:** It’s the real **Milpa** tortilla — corn + lime, not flour dough and not fiber-powder “zero net” wraps. Better food match for your Mexican/Guatemalan-leaning tastes and Phase carbs.
+
+**How to spot it in the store**
+- Package says **corn tortillas** / **tortillas de maíz** / ingredients start with **corn**, **corn masa**, or **ground corn treated with lime** (or “slaked lime,” “calcium hydroxide,” “lime water”)
+- **Not** flour tortillas (wheat) · **not** “zero net carb” / Carb Balance wraps
+
+**Where to get them (SCV / LA — you have Costco + Sam’s)**
+| Place | What to grab |
+|-------|----------------|
+| **Costco** | **Guerrero 6" corn / white corn** multipacks (often 100–110 ct) when stocked |
+| **Sam’s Club** | **Mission Super Soft 6" White Corn** (often ~110 ct) and/or Guerrero |
+| **Vons / Ralphs / Albertsons / Northgate / Vallarta** | Smaller packs of Guerrero, Mission, or **La Banderita** corn — fridge/bread aisle |
+| **Local tortillería / Mexican market** | Fresh warm corn tortillas (best texture) — still nixtamal if made from masa |
+
+**Buy:** soft **white or yellow corn**, 6" street-taco size. Warm on a dry skillet 20–30 sec/side. Freeze extras flat with parchment if the warehouse pack is huge.
 | Chili packet | **McCormick Original Chili Seasoning** (1.25 oz) — stretch with cumin/chili powder; see `turkey_chili.md` |
 | Beans | **Kirkland Organic Black Beans** or any **no-salt-added** black/pinto — **rinse** |
 | Tomatoes | **Hunt’s** or **Kirkland** diced / fire-roasted — prefer **no salt added** |
