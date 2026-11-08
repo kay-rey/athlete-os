@@ -201,24 +201,30 @@ A blender **works** for the craving, but it makes **crushed / snow-cone ice**, n
 
 ## Breakfast — American + Mexican mix (Gate 1)
 
-Liked: diner-style eggs / hashbrowns / sausage / bacon **and** oatmeal. Healthiest = keep the **format**, lean the meats, measure the potato, hit ~**45g protein**.
+Liked: diner-style eggs / hash browns / sausage / bacon **and** oatmeal. Healthiest = eggs/whites + Mexican volume; extras only on craving days. Hit ~**45g protein**.
 
 | Piece | Taste pull | Phase default (healthiest) |
 |-------|------------|----------------------------|
-| **Eggs** | Scramble / fried | **2 whole + 1–1.5 cups egg whites** ← **this alone is enough** for Gate 1 protein |
-| **Hashbrowns** | Crispy potatoes | **~¾–1 cup cooked** baked/air-fried when you want potato — breakfast carb slot |
-| **Sausage / bacon** | Diner meat | **Optional, not required.** Skip most days. If craving: turkey sausage **2 patties** *or* turkey bacon **2–3** — not both + hash every morning |
-| **Mexican mix** | Salsa, pico, jalapeño, corn tortilla, beans | **Yes — prefer these over processed breakfast meat** for flavor |
-| **Oatmeal** | Hot bowl | **½–¾ cup dry** + egg whites or WPI; cinnamon; banana OK — no sugar packets |
+| **Eggs** | Scramble / fried | **2 whole + 1–1.5 cups egg whites** ← enough alone |
+| **Hash browns** | Crispy potato side | **Skip most days** — swaps below |
+| **Sausage / bacon** | Diner meat | **Skip most days.** Craving: turkey sausage **2** *or* turkey bacon **2–3** |
+| **Mexican mix** | Salsa, pico, peppers, tortilla, beans | **Default flavor + volume** |
+| **Oatmeal** | Hot bowl | **½–¾ cup dry** + egg whites or WPI; cinnamon; banana OK |
 
-**Why skip turkey bacon/sausage most days?** Eggs/whites already hit ~**45g P** clean. Turkey “breakfast meats” are still **processed** (salt, nitrates/preservatives) and spend fat/sodium for little upside once protein is covered. Flavor → **salsa/pico/peppers**, not another processed strip.
+### Hash browns — healthier substitutions
+| Instead of hash browns | Why better |
+|------------------------|------------|
+| **Peppers, onion, spinach, zucchini, mushrooms** with eggs | Volume, almost no macro blow |
+| **Salsa / pico** (Kirkland) | Flavor you like; near-free |
+| **½ cup black beans** | Milpa satiety > fried potato |
+| **0–1 corn tortilla** | Controlled starch side |
+| **Oatmeal** that morning | Cleaner breakfast carbs |
+| Measured **roasted diced potato** (~¾ cup) | Same food, better method — craving only |
 
-**Rotate:**
-1. **Eggs/whites + Mexican mix** (default) ± spinach ± small hash ± corn tortilla  
-2. **Oatmeal protein bowl**  
-3. **With turkey sausage or bacon** — when you specifically want that taste (**≤ few ×/week**), not automatic
+**Default:** eggs/whites + peppers/spinach + salsa ± beans.  
+**Rotate:** (1) that default (2) oatmeal protein (3) turkey meat or roasted potato only when craving.
 
-Restaurant: **no pickle**; skip mustard on bun; hash conscious; protein first.
+Restaurant: **no pickle**; skip mustard on bun; swap/skip hash if easy; protein first.
 
 ## Gate meal examples (Phase 1–shaped)
 
