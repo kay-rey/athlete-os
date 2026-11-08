@@ -23,7 +23,7 @@ Tracking app SoT for daily logging. Macros → `nutrition/phases.csv`. Wife cook
 Yes — macros add up (2 kcal rounding).
 
 ### Fiber goal — **45 g/day** (aim 45–50)
-- Comes from beans, veg, tortillas, chia, + **psyllium** Gates 2/6 (Wk1: 2.5g ×2; Wk2+: 5g ×2).
+- Comes from beans, veg, tortillas, chia, + **psyllium** Gates 2/6 (**Metamucil SF Orange**: Wk1 **½ tsp** ×2; Wk2+ **1 tsp** ×2 — see `stack/supplements.md`).
 - Lose It: set fiber **45 g**. Hitting 50 is fine; don’t force fiber sodas.
 - If under 30 without psyllium, you’re missing Milpa/beans — fix food, don’t just mega-dose husk.
 
