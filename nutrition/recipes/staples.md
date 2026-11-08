@@ -104,8 +104,25 @@ Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bac
 
 ---
 
-## 8. Turkey sandwich
-Soft bread **2 slices** · sliced turkey breast · lettuce/tomato · **Kirkland salsa** or **Hellmann’s Light** — **no pickle**. Side: apple or carrots, not chips.
+## 8. Quick sandwiches (Gate 3 lunch or tired Gate 6)
+**Rules:** **no pickles** · protein first (~**45–60g**) · **1 starch** (2 bread slices **or** wrap — not both + chips) · salsa / Hellmann’s Light / ketchup / BBQ OK · mustard OK on turkey/chicken (only skip mustard on **burgers/dogs**). Side: apple, carrots, or **½–1 cup rinsed beans** — not chips.
+
+| # | Build | Exact | ≈ | When |
+|---|-------|-------|---|------|
+| **1 — Best default** | **Turkey breast sandwich** | Soft bread **2 slices** · **4–6 oz** sliced turkey breast (or ~120–160g) · lettuce/tomato/onion · **Kirkland salsa** or **1 tbsp Hellmann’s Light** | ~400–500 · **45–55P** · 35–45C · 8–12F | Fastest Gate 3 |
+| **2 — Higher protein** | **Double turkey** | Same as #1 with **6–8 oz** turkey · easy on mayo | ~450–550 · **55–70P** | Protein behind by 5pm |
+| **3 — Rotisserie** | **Chicken sandwich** | **4–6 oz** Kirkland rotisserie (skin off) · 2 slices bread · salsa or light mayo · lettuce/tomato | ~400–500 · **45–55P** | Leftover bird |
+| **4 — BBQ** | **BBQ chicken sandwich** | Same chicken · **2 tbsp G Hughes SF Sweet & Spicy** · 2 slices · slaw only if **no pickle** vinegar bomb | ~400–480 · **45–55P** | American night |
+| **5 — Egg** | **Egg-white scramble sandwich** | 2 slices · **1 cup egg whites + 1 whole egg** cooked · salsa · spinach | ~350–420 · **40–50P** | Breakfast-for-lunch |
+| **6 — Open-face / lighter carb** | **One-slice open-face** | **1 slice** bread · **5–6 oz** turkey/chicken · big lettuce/tomato · salsa | ~300–400 · **45–55P** · fewer C | Carb budget tight |
+| **7 — Tortilla “sandwich”** | **Corn tortilla stack** | **2 Guerrero/Mission corn tortillas** · turkey/chicken · salsa · optional ½ cup beans | ~350–450 · **40–50P** | Milpa lean |
+| **8 — Deli / Subway-style** | **Custom sub** | **6" turkey or grilled chicken** · wheat/white · load veg · **no pickles** · light mayo or mustard OK · skip oil/cheese lake · no bacon default | aim **45P+** | Out of house — ask no pickles |
+| **Occasional** | Thin cheese **1 slice** on #1–3 | — | +~50–70 kcal · +4–6F | Fat allows |
+| **Skip** | Pickle spears · chips as the side · double bread + wrap + fries · mayo lakes · salami/pepperoni stacks · “just cheese” | — | Binge / fat / pickle traps |
+
+**Assembly time:** ~5 min if turkey/rotisserie is in the fridge. Batch-slice turkey Sunday with Costco chicken.
+
+**Lose It:** log bread brand + weighed meat. Deli meat varies — prefer **oven-roasted turkey breast** low sugar, not honey-glazed candy turkey.
 
 ---
 

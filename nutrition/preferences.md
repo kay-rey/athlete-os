@@ -231,9 +231,9 @@ Restaurant: **no pickle**; skip mustard on bun; swap/skip hash if easy; protein 
 | Gate | Build it like this |
 |------|-------------------|
 | **1 Breakfast** | Mex-American scramble **or** oatmeal protein bowl (above) — target ~**45g P** |
-| **3 Lunch** | Chicken or flank + black beans + fajita veg + avocado + multi; tortillas OK in macro budget |
+| **3 Lunch** | Chicken or flank + black beans + fajita veg + avocado + multi; tortillas OK in macro budget · **or quick sandwich** → `nutrition/recipes/staples.md` §8 |
 | **4 Pre-mat** | WPI in water or turkey breast — no deli **pickle** kits |
-| **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickles |
+| **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickles · sandwich OK if she’s wiped |
 | **Peri carbs** | Banana + honey + salt, or salted rice cakes + honey/jam — not pickle juice folklore |
 
 ## Fruit (yes — measured, not a juice habit)
