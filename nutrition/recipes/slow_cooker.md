@@ -100,3 +100,40 @@ Classic fideo wants a toast + short simmer — **awkward as pure slow-cook**. Be
 4. Rotate: chili → tortilla → salsa chicken → chicken noodle.
 
 Costco/Sam’s pulls: 99/1 turkey, chicken breasts, broth cartons, beans, tomatoes, salsa, frozen veg, potatoes, egg noodles/fideo.
+
+---
+
+## What else the multi-cooker is good for (beyond those pots)
+
+Use **pressure** when you want food in ~15–40 min without standing at the stove. Times vary by model — start with the manual’s bean/poultry charts.
+
+### High-value for *this* OS
+| Use | Why it helps you | How (rough) |
+|-----|------------------|---------------|
+| **Dried black/pinto beans** | Cheaper + lower sodium than cans; Milpa staple | Soak optional; pressure ~25–35 min + natural release; salt after. Freeze in 1-cup packs. |
+| **Chicken from frozen** | Forgot to thaw — still get dinner protein | Pressure breast/thighs w/ salsa or broth ~12–18 min; shred. |
+| **Big batch shredded chicken/turkey** | Lunch + tired nights without cooking | Same as salsa chicken but pressure; portion + freeze. |
+| **Chicken tinga-style** | Mexican flavor you like, dump-friendly | Chicken + tomatoes/chipotle-in-adobo (go easy — spicy) + onion; shred; serve w/ beans + 1–2 tortillas. |
+| **Potato batch** | Controlled starch for soups/sides | Cubed potatoes steam/pressure ~5–8 min; fridge for the week — scoop **one** medium’s worth. |
+| **Hard-boiled eggs** | Gate breakfast/lunch protein, almost no cook skill | Steamer rack + 1 cup water; pressure ~5–6 min + ice bath. |
+| **Steel-cut oats** | Late-wake breakfast if you want hot carbs | Pressure ~4–5 min + release; portion; top protein (egg whites / WPI stirred cool). |
+| **Bone-ish broth / leftover carcass** | Cheap soup base, low effort | Rotisserie bones + onion/carrot/celery + water; slow overnight or pressure ~45–60 min; skim fat. |
+| **Steam frozen veg** | Volume under protein when she’s tired | Steam mode / pot-in-pot — don’t deep-fry the night away. |
+| **Reheat chili/soup** | Better than nuking dry (optional) | Slow/warm or sauté with splash of broth — microwave is fine too. |
+
+### Fine sometimes
+- **Rice** — OK peri / Phase 3; don’t make rice the default dinner carb over beans/potato/tortilla.
+- **Lean pot roast / flank-style shred** — sirloin tip or similar + salsa/broth; not fatty chuck every week.
+- **Egg white “bites”** (silicone molds, pot-in-pot) — only if you’ll actually eat them; otherwise eggs in a pan is simpler.
+
+### Skip / low priority for you
+- Yogurt maker (you want **lactose-free** dairy — store lactose-free Greek is easier)
+- Cheesecake, cakes, “set it and forget dessert”
+- Creamy pasta dumps, ribs candy sauces, cream-of-X casseroles
+- Anything that needs babysitting → defeats the point
+
+### Simple weekly add-ons (pick 1–2, not all)
+1. Pressure a bag of **dried beans** → fridge/freezer.  
+2. Pressure **salsa chicken** or tinga → protein packs.  
+3. **Egg batch** once if breakfasts are slipping.  
+4. Keep using **slow mode** for chili / tortilla soup on days someone’s home to dump ingredients.
