@@ -5,6 +5,8 @@ Background diagnoses to mention so they have context.
 
 ---
 
+**Subject:** Flight anxiety — Indonesia/Philippines travel end of January
+
 Hi Dr. [Name],
 
 I have **generalized anxiety disorder** and **panic disorder**, and I’m on **sertraline 75 mg daily**. A previous therapist told me she was certain I have **OCD** but couldn’t formally diagnose it — I’m happy to discuss that if useful.
