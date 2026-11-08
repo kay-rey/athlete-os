@@ -49,7 +49,8 @@ Doses/brands → `stack/supplements.md`.
 | **6** | Teach-only / easy nights | **Psyllium → wait 15–20 min →** **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
 
-**Psyllium = before lunch + before dinner only.** That is intentional: gel the two biggest plates (satiety / flatter glucose), keep ≥2h from 3:00 sertraline, and keep the gut light for lifts/hard mats. **Do not** take it before Gate 1 — morning protein + D3/fish oil come first; Tue/Fri you lift ~45 min after breakfast; a gelled stomach there fights the meal and the session.
+**Psyllium = before lunch + before dinner only — never before Gate 1 and never mixed into / taken with breakfast.**  
+Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — a gel first (or with the eggs) makes that plate harder to finish; (2) D3 + fish oil #1 ride with that meal — soluble fiber taken at the same time can bind fat-soluble nutrients; (3) Tue/Fri lift is ~45 min after breakfast — gelled gut is the wrong prep; (4) tyrosine already owns the empty-stomach slot before Gate 1; (5) binge risk is lunch/dinner, so those are the two doses that earn the gel. Lunch/dinner still get the **15–20 min pre-meal** drink (not stirred into the food).
 
 ---
 
