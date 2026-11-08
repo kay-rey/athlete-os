@@ -2,6 +2,8 @@
 
 Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nutrition/recipes/`. This file owns **likes / dislikes** only.
 
+**Hierarchy:** Likes tell the agent *what flavors you’ll stick with*. They do **not** set portion size. When taste pulls toward heavy starch / binge-prone builds, default advice is whatever is **healthiest for Phase recomp + anti-binge** (protein, Milpa, satiety) — still using foods he enjoys, just not maxed.
+
 ## Household cooking
 - **Wife cooks all dinners.** Don’t prescribe elaborate self-cooked Gate 5/6 menus as the default.
 - Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made toward Phase macros.
@@ -12,46 +14,46 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
-- **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **likes a lot of potato + noodle in the bowl** — see soups below
+- **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **taste pull = potato + noodle**; Phase default portions below (not maxed)
 - **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
 - **Shaved ice / snow-cone style desserts:** loved treat — planned, not nightly — see desserts below
 
-Milpa rule still stands: 65–75% of non-peri carbs from beans/tortillas/veg **most days**. Soup nights with potato/noodle are the intentional exception — budget them (below).
+Milpa rule: 65–75% non-peri carbs from beans/tortillas/veg. Potato beats refined noodle for satiety/fiber; beans beat both. Prefer that order in advice even when he likes noodle piles.
 
-## Soups — healthy to make? (yes, with these builds)
+## Soups — healthy to make? (yes — Phase defaults)
 
-Homemade > restaurant/canned. All four fit Mexican/American lean tastes. You **like potato- and noodle-heavy bowls** — that’s fine; don’t “diet soup” them into thin broth. Main risks: **fatty meatballs**, **salty broth**, **fried-tortilla/cheese mountains**, and **no protein under the starch**.
+Homemade > restaurant/canned. All four fit taste. **Healthiest pattern:** lean protein + veg volume + **moderate** potato *or* noodle (not both piled), low-sodium broth. Taste likes heavy potato/noodle — **do not prescribe heavy as the default**.
 
 ### Shared Phase rules (tell wife / batch cook)
 - Broth: **low-sodium** chicken broth + salt to taste (or no-salt tomatoes + cumin/chili/oregano/lime)
-- Protein: **lean and generous** — chicken breast/thigh trimmed, **99/1 turkey** or **96/4** for meatballs; drain fat. Starch-heavy bowl still needs ~**45–60g protein** so you don’t graze later
-- Veg: onion, garlic, carrot, celery, zucchini, tomato, cilantro — pile on (volume under the potato/noodle)
-- **Potato + noodle (your preference):** keep them — they’re the **dinner carb slot** that night
-- Finish: lime, cilantro, salsa; **avocado** if fat budget; skip sour cream lakes / giant cheese dumps (lactose + fat)
-- Costco/Sam’s: rotisserie chicken (skin off), broth cartons, frozen veg, potatoes, egg noodles / fideo, 99/1 turkey
+- Protein: **lean and generous** — chicken breast/thigh trimmed, **99/1 turkey** or **96/4** meatballs; drain fat. Target ~**45–60g protein** / bowl
+- Veg: onion, garlic, carrot, celery, zucchini, tomato, cilantro — **this is the volume**, not extra pasta
+- Starch: **potato preferred over noodle** when choosing one; Phase default = moderate (table); heavy = occasional, not nightly
+- Finish: lime, cilantro, salsa; light avocado if fat allows; skip sour cream lakes / cheese dumps
+- Costco/Sam’s: rotisserie (skin off), broth, frozen veg, potatoes, fideo/egg noodles, 99/1 turkey
 
-### Potato / noodle budget (Phase 1 = 215g carbs)
-| In the bowl | Rough carbs | How to use it |
-|-------------|-------------|---------------|
-| **Potato** ~1 medium (~150–170g cooked) | ~**30–35g** | Albóndigas / chicken soups — go for it |
-| **Potato** big / 2 medium | ~**55–70g** | OK if lunch was lighter on tortillas/rice |
-| **Noodles / fideo** ~2 oz dry (~56g) cooked soft | ~**40g** | Your preferred “a lot” — fine as dinner carbs |
-| **Noodles** ~3 oz dry | ~**60g** | Still Phase-legal if rest of day stays lean on starch |
-| Potato **+** noodle both heavy | ~**70–100g+** | One bowl can eat half the day’s carbs — still OK; cut peri fluff / lunch tortillas that day |
+### Starch defaults (Phase 1) — healthiest first
+| In the bowl | Carbs (approx) | Agent default |
+|-------------|----------------|---------------|
+| **Potato** ~1 medium (~150–170g cooked) | ~**30–35g** | **Yes — Phase default** for albóndigas / chicken soups |
+| **Noodles / fideo** ~1–1.5 oz dry | ~**20–30g** | **Phase default** for fideos / chicken noodle — enough to taste, not a pasta bowl |
+| Potato **or** noodle at default | ~**30–40g** | Normal soup dinner |
+| Heavy potato (2 med) **or** ~2–3 oz dry noodle | ~**55–70g** | Occasional OK if lunch was Milpa-light; not the ask every time |
+| Potato **+** noodle both heavy | ~**70–100g+** | **Avoid as habit** — blows dinner carbs, weaker satiety vs beans/potato-only |
 
-**Soup-night day structure:** hit ≥100g protein by 5pm (Gates 1–4) with **lighter lunch starch** (beans/veg > rice/tortillas); dinner owns the potato/noodle pile. Log the bowl in Lose It — guess potato size + noodle scoop if needed.
+**Why not “a lot” every night:** binge risk + refined-noodle density leaves less room for protein/Milpa and weaker fullness per calorie than potato + beans + veg.
 
-| Soup | Phase verdict | Make it recomp-smart (your way) |
-|------|---------------|----------------------------------|
-| **Albóndigas** | **Yes** — potato-forward win | **99/1 turkey** (or 96/4) meatballs; **generous potato** + zucchini/carrot; lean protein still high. |
-| **Fideos** | **Yes** — noodle-forward win | Toast fideo, tomato broth, **plenty of noodles** *and* **shredded chicken** so it’s not pasta water. |
-| **Chicken noodle** | **Yes** — your American staple | Breast/thigh + **lots of egg noodles** + carrot/celery; same protein floor. |
-| **Chicken tortilla** | **Yes** | Chicken + tomatoes + chile/lime; beans if she makes them; strips as crunch — potato optional if you want both. |
+| Soup | Healthiest build | Notes |
+|------|------------------|-------|
+| **Albóndigas** | **Best potato soup** | 99/1 turkey meatballs; **1 medium potato**; zucchini/carrot volume |
+| **Chicken tortilla** | **Best overall** (Milpa) | Chicken + tomatoes + **black beans** + chile/lime; few baked strips — skip noodle/potato pile |
+| **Chicken noodle** | Good if moderated | Breast/thigh + veg + **1–1.5 oz dry** noodles — not a ramen refill |
+| **Fideos** | Good if moderated | Toast fideo + tomato + **shredded chicken**; same noodle cap; don’t make it pasta soup |
 
-**Typical bowl (your preference):** ~**450–700 kcal · 40–60P · 45–80C · 8–18F** — still solid Gate 5/6 when protein is there.  
-**Restaurant versions:** often oilier/saltier — still OK occasionally; log bigger fat/sodium.
+**Phase target bowl:** ~**400–550 kcal · 45–60P · 30–45C · 8–15F**.  
+**Restaurant:** saltier/oilier — OK sometimes; log it.
 
-**Verdict:** Keep the potato and noodle. Don’t thin the soups — **front-load protein earlier**, keep lean meat in the pot, and treat that starch as dinner’s carb allotment.
+**Verdict:** Make these soups. Prefer **protein + veg + one moderate starch** (potato > noodle; beans when it fits). Enjoy potato/noodle flavors without making “heavy” the prescription.
 
 ## Drinks — Fresca (deep dive)
 | | Classic Fresca 12 fl oz can (Coca-Cola label) |
