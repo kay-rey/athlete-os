@@ -68,6 +68,10 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 | Light mayo (sandwich) | **Hellmann’s Light** or **Best Foods Light** |
 | Soft sandwich bread | Soft white/wheat — **2 slices**; or corn tortillas |
 | Burger/dog toppings | Salsa, ketchup, light mayo, BBQ — **skip mustard on the bun** (OK in cooked sauces) |
+| Breakfast sausage | **Jennie-O Turkey Breakfast Sausage** patties/links (lean default) |
+| Bacon | **Jennie-O Turkey Bacon** (default) · pork bacon occasional **2 slices** |
+| Hashbrowns | Refrigerated shredded potatoes or **Ore-Ida** / similar — bake or air-fry; Costco dehydrated hash only if you’ll portion |
+| Oatmeal | **Quaker Old Fashioned** or **steel-cut** (Kirkland steel-cut if stocked) — not flavored sugar packets |
 
 ---
 

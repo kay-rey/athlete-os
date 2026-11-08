@@ -35,6 +35,7 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **“Carb-free” / zero-net-carb tortillas** (liked) — taste OK; **not the healthiest default** — see wraps below
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun** (ketchup/salsa OK — **skip mustard on burger/dog**), eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle**, BBQ chicken — default **G Hughes SF Sweet & Spicy** (macros) or **Stubb’s** / other tomato-molasses incl. mustard-based BBQ if he likes it — see `recipes/pantry.md`, meat-and-potato plates, oatmeal/banana peri carbs
+- **American breakfast (liked):** eggs, hashbrowns, sausage, bacon — mix with Mexican (salsa, beans, corn tortillas, pico). **Oatmeal** liked. Builds → breakfast section below; brands → `recipes/pantry.md`
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
 - **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **taste pull = potato + noodle**; Phase default portions below (not maxed)
 - **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
@@ -196,11 +197,31 @@ A blender **works** for the craving, but it makes **crushed / snow-cone ice**, n
 - **OK:** mustard-based BBQ, sauces, marinades, and dishes where mustard isn’t a blob on a bun.
 - Agent: never treat mustard like pickles (hard ban). Only omit as a **burger/dog topping**.
 
+## Breakfast — American + Mexican mix (Gate 1)
+
+Liked: diner-style eggs / hashbrowns / sausage / bacon **and** oatmeal. Healthiest = keep the **format**, lean the meats, measure the potato, hit ~**45g protein**.
+
+| Piece | Taste pull | Phase default (healthiest) |
+|-------|------------|----------------------------|
+| **Eggs** | Scramble / fried | **2 whole + 1–1.5 cups egg whites** (or 3 whole if whites gone) |
+| **Hashbrowns** | Crispy potatoes | **~¾–1 cup cooked** (~150–200g) baked/air-fried — **not** a deep-fried mountain; this **is** breakfast carbs |
+| **Sausage** | Breakfast links/patties | **Jennie-O turkey breakfast sausage** (or similar lean turkey) — **2 patties** (~70 kcal · 10P · 3.5F). Pork sausage = occasional |
+| **Bacon** | Crispy strips | **Turkey bacon 2–3 slices** *or* pork bacon **2 slices** max — not half a pack |
+| **Mexican mix** | Salsa, pico, jalapeño, corn tortilla, black beans | **Lean into these** — salsa instead of syrup; **½ cup beans** optional; **0–1 corn tortilla** |
+| **Oatmeal** | Hot bowl | **½–¾ cup dry** rolled or steel-cut; cook in water; stir in egg whites at end *or* WPI when cooler; cinnamon; banana slices if carbs allow — **not** brown-sugar packets + cream |
+
+**Diner full stack every day?** No — fat/sodium from pork sausage + bacon + oil-fried hash browns blows Gate 1. **Rotate:**
+1. **Mex-American scramble** (most days): eggs/whites + turkey sausage **or** turkey bacon + salsa/pico + spinach ± small hash ± corn tortilla  
+2. **Oatmeal protein bowl** (easy days / lift-day carbs): oats + protein add-in + fruit  
+3. **Classic American** (1–2×/week feel): eggs + measured hash + turkey sausage + 1–2 bacon — still no pickle
+
+Restaurant breakfast: ask **no pickle**; skip mustard on sausage biscuit; hash portion conscious; protein first.
+
 ## Gate meal examples (Phase 1–shaped)
 
 | Gate | Build it like this |
 |------|-------------------|
-| **1 Breakfast** | Eggs + egg whites, salsa, spinach, corn tortilla **or** lactose-free yogurt + WPI + banana |
+| **1 Breakfast** | Mex-American scramble **or** oatmeal protein bowl (above) — target ~**45g P** |
 | **3 Lunch** | Chicken or flank + black beans + fajita veg + avocado + multi; tortillas OK in macro budget |
 | **4 Pre-mat** | WPI in water or turkey breast — no deli **pickle** kits |
 | **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickles |

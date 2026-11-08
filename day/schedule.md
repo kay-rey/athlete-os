@@ -56,7 +56,8 @@ Shop **Costco / Sam’s Club** first (you have both), then normal grocery for an
 
 - 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin (chili default **99/1 turkey**; swap **96/4 beef** OK; avoid 80/20 chili) · 2 lbs white fish/tuna
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt
-- 8 cans black/pinto beans · 2 packs nixtamalized tortillas · chia · squash
+- Breakfast: **Jennie-O turkey sausage** · turkey bacon · oats (rolled/steel-cut) · hashbrown potatoes (for measured portions)
+- 8 cans black/pinto beans · 2 packs **Guerrero/Mission white corn** tortillas · chia · squash
 - 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - **Tired-night backups** (wife wiped / no cook): rotisserie chicken · frozen cooked chicken strips or lean meatballs · extra canned beans · 1–2 lower-sodium canned soups to *upgrade* with chicken — see `nutrition/preferences.md` fallbacks

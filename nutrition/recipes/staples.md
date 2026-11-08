@@ -66,15 +66,30 @@ Prefer **G Hughes** over sugary bottles as the staple — details → `pantry.md
 
 ---
 
-## 6. Gate 1 — egg scramble
+## 6. Gate 1 — breakfasts (American + Mexican + oatmeal)
+Target ~**45g protein**. Brands → `pantry.md`. **Fresca** OK.
+
+### A) Mex-American scramble (default most days)
 | Exact | Amount |
 |-------|--------|
 | Whole eggs | **2** |
 | Carton egg whites | **1–1.5 cups** |
-| Add-ins | Spinach, salsa, leftover chicken |
-| Tortilla | **0–1 corn** |
+| **Jennie-O turkey breakfast sausage** | **2 patties** *or* turkey bacon **2–3 slices** |
+| **Kirkland Organic Medium Salsa** / pico | Generous |
+| Spinach / peppers | Volume |
+| Hashbrowns (optional) | **¾–1 cup cooked**, air-fry/bake |
+| Corn tortilla | **0–1** |
 
-Target Gate 1 **~45g protein**. **Fresca** OK.
+### B) Oatmeal protein bowl
+| Exact | Amount |
+|-------|--------|
+| Rolled oats (or steel-cut) | **½–¾ cup dry** |
+| Water or lactose-free milk splash | Cook |
+| Protein | Stir **egg whites** into hot oats *or* **WPI** when cooler |
+| Top | Cinnamon; optional banana; skip sugar packets |
+
+### C) Classic American (1–2×/week)
+Eggs/whites + measured hash + turkey sausage + **1–2** bacon strips — salsa OK; **no pickle**.
 
 ---
 
