@@ -257,37 +257,80 @@ Fruit is **allowed**. It is **not** the main non-peri carb (that’s beans / cor
 - Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
 - American spots: grilled entrées, burgers **no pickle** (and skip mustard on the bun); BBQ tomato/molasses fine even if mustard is in the sauce; avoid pickle sides
 
-### In-N-Out — pick one (all: **no spread · no pickles · ketchup OK · onion/tomato/chilis OK · Diet Coke or water**)
-Spread = pickle relish → always off. Mustard not needed on the bun.
+**Shared rules (all chains):** no pickles · skip mustard **on** burgers/dogs · prefer grilled/chicken/beans · water / Diet Coke / unsweet tea · log Lose It · one order = one Gate (still hit **≥100g P by 5:00**). Macros ≈ label / public nutrition — menus drift; check the app if unsure.
 
-| Option | Exact order | ≈ macros | When to pick |
-|--------|-------------|----------|--------------|
-| **A — Best protein burger** | **Double-Double, Protein Style** | ~500 · **33P** · 11C · ~37F | Burger night; fat budget has room |
-| **B — Lighter burger** | **Cheeseburger, Protein Style** | ~330 · **16P** · 11C · ~25F | Want INO taste, lower load — add Gate 4 WPI or egg whites later |
-| **C — Two light ones** | **2× Hamburger, Protein Style** | ~480 · **26P** · 22C · ~34F | More volume, still no bun |
-| **D — Bun once** | Double-Double **on bun**, no spread/pickles | ~670 · **37P** · 41C · ~41F | Craving the bun; cut other starch that day |
-| **E — Occasional fries** | Any A–C **+ fries shared/half** | fries ≈ +360 · 5P · 50C · 15F | Log and drop tortillas/rice elsewhere — not every trip |
-| **Skip** | Animal Style · Animal Fries · shake · 3×/4×4 as habit | — | Pickles/spread/sugar bomb |
+### In-N-Out — pick one
+All burgers: **no spread · no pickles · ketchup OK · onion/tomato/chilis OK**.
 
-### Chick-fil-A — pick one
-**Dressing you like:** **Fat-Free Honey Mustard** — mustard OK here. **1 packet** = **90 kcal · 0F · 22C · ~18g sugar**. Log it; don’t double-packet.
+| # | Exact order | ≈ | When |
+|---|-------------|---|------|
+| **A** | **Double-Double, Protein Style** | ~500 · **33P** · 11C · ~37F | Best burger night |
+| **B** | **Cheeseburger, Protein Style** | ~330 · **16P** · 11C · ~25F | Lighter — finish protein later |
+| **C** | **2× Hamburger, Protein Style** | ~480 · **26P** · 22C · ~34F | More volume, no bun |
+| **D** | Double-Double **on bun**, no spread/pickles | ~670 · **37P** · 41C · ~41F | Bun craving; cut other starch |
+| **E** | A–C + **half fries** | fries ≈ +180–360 | Rare |
+| **Skip** | Animal Style · Animal Fries · shake · 4×4 habit | — | Pickles/spread/sugar |
 
-| Option | Exact order | ≈ macros (w/ 1× FFHM if salad) | When to pick |
-|--------|-------------|-------------------------------|--------------|
-| **1 — Your salad (usual)** | **Cobb Salad w/ Grilled Nuggets** + **Fat-Free Honey Mustard** | ~**720 · 39P · 38C · 45F** | Best salad for protein; hold bacon/cheese/avocado if fat is tight |
-| **2 — Salad, fruit-forward** | **Market Salad w/ Grilled Filet** + **FF Honey Mustard** | ~**640 · 28P · 64C · 31F** | Want fruit/greens; **protein light** → Gate 4 WPI or add **8–12 grilled nuggets** |
-| **3 — Salad, Southwest** | **Spicy Southwest w/ Grilled Filet or Grilled Nuggets** + **FF Honey Mustard** | ~**700–780 · 33–40P · ~45–50C · ~48F** | Bean/corn vibe; still grilled only; 1× dressing |
-| **4 — Highest P/kcal** | **12-ct Grilled Nuggets** · no sauce or BBQ light · side salad **or** Kale Crunch (dressing on side) | nuggets ~**200 · 38P · 2C · 4.5F** (+ side) | Fat budget tight; cleanest Gate protein |
-| **5 — Sandwich** | **Grilled Chicken Sandwich** · **no pickles** · no mayo lake · ketchup or light BBQ | ~**390 · 28P · 45C · 11F** | Bun craving; protein mid — add nuggets or WPI if needed |
-| **6 — Nuggets + salad side** | **8- or 12-ct Grilled Nuggets** + side salad with **FF Honey Mustard ×1** | ~300–400+ · **25–38P** · carbs from dressing | Your dressing without a full entrée salad |
-| **7 — Occasional** | Any grilled option **+ small waffle fries** | fries ≈ +280–360 | Rare; log; not default |
-| **Skip** | Fried nuggets/sandwich/strips on the salad · ranch / CFA sauce drown · **2×** FFHM · Cool Wrap as default (high fat) · shakes · frosted drinks | — | Fights Phase fat/sugar |
+### Del Taco — pick one
+Lean Mexican. Prefer **street tacos** (grilled) and **beans**; skip crispy chicken / Epic bacon / nacho meals as default.
 
-**Salad upgrades (any of 1–3):** ask **no bacon / no blue cheese / no almonds / no granola** if you need fat room; keep the grilled chicken; keep **1× FF Honey Mustard**.
+| # | Exact order | ≈ | When |
+|---|-------------|---|------|
+| **1** | **3–4 Grilled Chicken Street Tacos** (hot sauce OK) | 3× ≈ **330 · 27P · 39C · 10F** · 4× ≈ **440 · 36P** | Best default — clean grilled protein |
+| **2** | **3 Carne Asada Street Tacos** | ≈ **360 · 30P · 42C · 10F** | Steak craving |
+| **3** | Street tacos (2–3) + **Bean & Cheese Cup** | cup ≈ **300 · 17P · 42C · 6F** | Add Milpa beans |
+| **4** | **Spicy Grilled Chicken Burrito** | ≈ **560 · 30P · 69C · 18F** | One-hand burrito; solid protein |
+| **5** | **Epic Fresh Guacamole Burrito (Grilled Chicken)** | ≈ **740 · 39P · 92C · 26F** | Bigger Gate; own the carbs |
+| **6** | **Macho Chicken & Bean Burrito** (where sold) | ≈ **780 · 43P · 78C · 31F** | Max protein + beans |
+| **7** | **Taco Salad, Grilled Chicken** + fresh guac | ≈ **420 · 26P · 22C · 26F** | Salad night — ask **no fried shell** if they serve it in one |
+| **8** | **Del Dorado / Grilled Chicken Taco ×2–3** (flour) | ~190–210 each · ~11P | OK if street tacos gone |
+| **Occasional** | Any above **without** the combo fries/drink upsell | — | Don’t auto-add crinkle fries |
+| **Skip** | Crispy chicken tacos · Cali Bacon Epic · Queso Loaded Nachos · shakes · Double Del as “Mexican night” | — | Fried/fatty traps |
 
-**Drink (both chains):** water · unsweet tea · Diet Coke / diet lemonade. Not shakes, not regular lemonade as habit.
+### Taco Bell — pick one
+Customize: **easy cheese / easy sour cream** or **Fresco** (tomatoes for creamy sauces). **Keep black beans** when you can (Milpa).
 
-**Gate rule:** One of these = lunch or dinner. Still hit **≥100g protein by 5:00** with the other Gates.
+| # | Exact order | ≈ | When |
+|---|-------------|---|------|
+| **1** | **Power Menu Bowl — Chicken** · easy cheese/sour cream · **keep beans + chicken** · light guac OK | standard ~**460 · 26P · 41C · 21F** (lower fat if easy dairy) | Best bowl build |
+| **2** | **Cantina Chicken Bowl** · easy avocado ranch / ask light sauce | ~**580 · 26P · 55C · 29F** | Cantina menu night |
+| **3** | **3 Soft Tacos — Chicken** (or Fresco chicken soft) | 3× ~**480 · 36P · 54C · 24F** | Highest easy protein stack |
+| **4** | **2 Soft Tacos Chicken** + side **Black Beans** | beans ~**50 · 3P** | Protein + Milpa side |
+| **5** | **Cantina Chicken Soft Taco ×3** · light sauce | 3× ~**630 · 36P** | Cantina taco night |
+| **6** | **Cantina Chicken Burrito** · easy cheese/ranch | ~**530–570 · 24P · 44C · 28F** | One burrito |
+| **7** | **Chicken Soft Taco ×2** + **Fresco Bean Burrito** | fresco bean ~**350** + tacos | Beans without a cheese bomb |
+| **Occasional** | Small Nacho Fries / chips — rare | — | Log; not default |
+| **Skip** | Crunchwrap · Chalupa · Mexican Pizza · Nachos BellGrande · Cinnabon Delights · crispy Cantina as default · Quesarito stacks | — | Fried shells / dessert |
+
+### Carl’s Jr. — pick one
+Burgers/chicken: **no pickles · no mayo lake · skip mustard on the bun** · ketchup/BBQ OK. Ask **lettuce wrap / low-carb** when you want less bun.
+
+| # | Exact order | ≈ | When |
+|---|-------------|---|------|
+| **1** | **Charbroiled BBQ Chicken Sandwich** · **no pickles** · BBQ OK | ≈ **440 · 35P · 48C · 13F** | Best Carl’s — lean grilled, BBQ allowed |
+| **2** | **Charbroiled Chicken Club** · **lettuce wrap** · **no mayo** · no pickles · hold bacon if fat-tight | wrap/no mayo ≈ **~350–400 · ~32P · ~9C · ~25F** | Club taste, lower bun |
+| **3** | **Charbroiled Santa Fe Chicken** · no mayo lake · no pickles | ≈ **~500–550 · ~38P** | Spice craving — still grilled |
+| **4** | **Famous Star w/ Cheese** · **lettuce wrap** · **no mayo · no pickles** · ketchup OK | wrap ≈ **~400–430 · ~21P · ~10C · ~34F** | Burger night without bun |
+| **5** | Famous Star / Big Carl **on bun** · no mayo · no pickles · ketchup | Famous ~**680 · 28P · 57C · 38F** | Bun craving; cut other starch |
+| **6** | **Double** Famous/Big Carl lettuce wrap · no mayo/pickles | ~**45–50P** range | Need more protein; fat climbs |
+| **Occasional** | Small Natural-Cut Fries | ~**280 · 3P · 36C · 14F** | Rare |
+| **Skip** | Western Bacon (onion ring + bacon bomb) · Hand-Breaded Chicken as default · El Diablo as habit · onion rings · milkshakes | — | Worst fat/sodium traps |
+
+### Chick-fil-A — pick one (kept)
+**Fat-Free Honey Mustard ×1** on salads = **90 · 0F · 22C · ~18g sugar** — keep; don’t double.
+
+| # | Exact order | ≈ | When |
+|---|-------------|---|------|
+| **1** | **Cobb + Grilled Nuggets** + FF Honey Mustard | ~720 · **39P** · 38C · 45F | Your salad, best protein |
+| **2** | **Market + Grilled Filet** + FFHM | ~640 · **28P** · 64C · 31F | Fruit greens — add nuggets/WPI |
+| **3** | **Southwest + Grilled** + FFHM | ~700–780 · **33–40P** | Bean/corn vibe |
+| **4** | **12 Grilled Nuggets** ± side salad/Kale | ~200 · **38P** | Fat-tight day |
+| **5** | **Grilled Sandwich, no pickles** | ~390 · **28P** · 45C · 11F | Bun craving |
+| **6** | Nuggets + side salad + FFHM | ~300–400 · **25–38P** | Dressing without entrée salad |
+| **7** | Grilled + small waffle fries (rare) | +280–360 | Occasional |
+| **Skip** | Fried on salad · ranch drown · 2× FFHM · Cool Wrap default · shakes | — | — |
+
+Salad fat cuts: hold bacon / blue cheese / almonds / granola when needed.
 
 ## Binge / overeat firewall (your stated problem)
 This is the main reason the day is gated — not willpower lectures.
