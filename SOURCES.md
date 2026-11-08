@@ -11,6 +11,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Strength/anthro benchmarks | `athlete/milestones.csv` |
 | Flow grid, GB hours, GB 2× priority, Muay Thai rules | `calendar/academies.md` |
 | Day-by-day ops, Gates 1–7, grocery quantities | `day/schedule.md` |
+| Costco Via Princessa chooser (Best / Also OK / Skip) | `day/costco_tonight.md` |
 | Pre-start KBBQ / Day-1 flag | `day/weekend_prestart.md` |
 | Taste likes/dislikes + gate flavor examples | `nutrition/preferences.md` |
 | Staple meal deep-dives / batch recipes | `nutrition/recipes/*` |
