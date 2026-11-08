@@ -8,7 +8,12 @@
   Early exceptions: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00
 - Rx: **Sertraline 75 mg @ 3:00 PM daily**; **allergy med at bedtime**  
   Psyllium ≥2 hrs from sertraline (see Gates in `day/schedule.md`)
-- **Primary nutrition failure mode: binge / overeating** (not “forgetting protein”). Plan assumes food noise is the enemy — Gates exist to blunt it. Clinical binge support = Kaiser/MD (sertraline, therapy, meds); this OS does **not** add GLP-1 by default (see `.cursor/rules/recomp.mdc`).
+- Mental health (patient-reported / prior care — **not diagnosed by this OS**):
+  - **Generalized anxiety disorder (GAD)**
+  - **Panic disorder**
+  - Prior therapist said she was **certain of OCD** but **could not formally diagnose** — flag for Kaiser psych/MD evaluation if relevant; do not treat as confirmed OCD in-repo
+  - Flight / plane anxiety is a major trigger (Indonesia trip end of Jan)
+- **Primary nutrition failure mode: binge / overeating** (not “forgetting protein”). Often worse with anxiety spikes. Gates blunt food noise; clinical care = Kaiser/MD/therapy. This OS does **not** add GLP-1 by default (see `.cursor/rules/recomp.mdc`).
 
 ## Phase calendar
 See `nutrition/phases.csv` for kcal/macros. Dates:
