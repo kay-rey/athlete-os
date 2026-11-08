@@ -10,6 +10,13 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 - Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles / mustard**; easy pots = **chili (99/1 turkey)** or **albóndigas / tortilla / fideos / chicken noodle** (see soups).
 - Log dinner in Lose It / tell the agent after — estimate plate if needed.
 
+### Slow cooker / Instant Pot?
+- **Does not make food healthier by itself** — ingredients + portions do (lean meat, beans, low-sodium broth, moderate starch). Cream soup bases / fatty cuts / junk noodles in a crockpot are still junk.
+- **Can help adherence:** dump-and-go chili, tortilla soup, shredded chicken, beans → more homemade dinners, leftovers for lunch, less “empty kitchen → binge.”
+- **Worth getting if** you don’t already batch in a regular pot and she wants set-it-and-forget-it for your staples. **Skip if** a Dutch oven / big pot already covers chili & soups — no need to buy for health points.
+- **If buying one appliance:** a **multi-cooker (Instant Pot–style)** > slow-cooker-only — same pot for pressure (beans/chicken fast) + slow mode. ~6-qt is enough for 2 + leftovers. Costco/Sam’s often stock them.
+- Healthy crock use: 99/1 turkey or chicken, rinsed beans, no-salt tomatoes, low-sodium broth; **add noodles late** (or cook separate) so they don’t turn to mush and get over-scooped.
+
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
