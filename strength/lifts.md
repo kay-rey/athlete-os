@@ -38,19 +38,28 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine). Fri evening = free / recover from Thu GB.
 
 ## Gym choice
-**Default: EOS Fitness or LA Fitness** (cheaper commercial). Fancy PL gyms (e.g. 1RM Strength ~$90/mo) are **optional** — not required for recomp. Further drive is OK if dues stay low and you still hit **Tue/Fri noon**.
+**Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Tue/Fri noon**.
 
-Program runs on **any** gym with: bike, DBs + adjustable bench, a squat/rack or goblet option, a deadlift pattern (trap bar **or** conventional/sumo), row + pulldown/pull-up, back extension or RDL, aisle for DB suitcase. Bring a **band** for neck.
+### EOS plans (ACH prices from their site — +tax; **$59.99 annual fee** all tiers)
+| Plan | Mo | Enroll | What you actually need? |
+|------|-----|--------|-------------------------|
+| **Will Do** | **$15** | **$49.99** | **Home club only** — cardio/strength (+ limited locker sauna). **Enough** if one club covers Tue/Fri and has racks/DBs. |
+| **Will Crush** | **$24.99** | **$1** | **Multi-club** (200+; not LUX/Landmark) + classes/steam where offered. **Default pick** given Flow SCV + GB Northridge geography. |
+| Will Power | $29.99 | $1 | Crush + massage chairs, Evolt scan, Les Mills virtual, Flex deals. **Skip** — fluff for 2× MED. |
 
-| Missing at EOS/LA | Sub (same RPE) |
-|-------------------|----------------|
+† Excludes LUX. “Best value” on Power ≠ best for you. +29 days free doesn’t justify Power.
+
+**Recommendation:** **Will Crush** (~$10 more than Do, $1 enroll) unless you’re sure one home gym is always the lift stop — then **Will Do**. Never Power.
+
+Program needs: bike, DBs + bench, squat/goblet, DL (trap or conventional), row + pulldown/pull-up, back extension or RDL, suitcase path. Bring a **band** for neck.
+
+| Missing | Sub (same RPE) |
+|---------|----------------|
 | No trap bar | Conventional from blocks / sumo / heavy KB |
-| No chest-supported row | One-arm DB row braced on bench; cable seated row |
-| No back extension | RDL or good-morning light |
-| No free-weight squat rack | Goblet squat or belt/hack if available |
+| No chest-supported row | One-arm DB row braced on bench; cable row |
+| No back extension | RDL |
+| No squat rack | Goblet / hack / belt squat if present |
 | No carry lane | Suitcase holds 30–40s/side |
-
-**Skip:** paying PL-gym premiums for machines you won’t use; adding volume because the club has more toys.
 
 Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
 
