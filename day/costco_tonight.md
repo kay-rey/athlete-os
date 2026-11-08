@@ -42,7 +42,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 | Need | **Best** | **Also OK** | **Skip** |
 |------|----------|-------------|----------|
 | Beans | **Kirkland Organic Black Beans** (~8 cans if low) — **rinse** | Kirkland/other **pinto** · no-salt-added black · Vons **tri-bean blend** (black/pinto/kidney) | **Three-bean salad** (vinegar) · baked beans in sauce |
-| Tortillas | **Guerrero white corn** 6" multipack | **Mission white/yellow corn** · La Banderita corn at grocery | Flour tortillas as default · **Mission Zero Net / Carb Balance** as daily |
+| Tortillas | **Guerrero white corn** 6" **and/or** **Mission Carb Balance / Zero Net** (satiety) | Mission/La Banderita corn at grocery | Flour tortillas as the only default |
 | Salsa | **Kirkland Signature Organic Medium Salsa** (2×38 oz) | Mild Kirkland salsa · fresh refrigerated salsa (not pickle-brined) | Huge chip + salsa “dinner” · pico as the only plan if jar is there |
 | Broth | **Kirkland Signature Chicken Broth / Stock** | Any **low-sodium** chicken broth carton | Cream soups as chili base |
 | Tomatoes | **Kirkland / Hunt’s diced or fire-roasted** — prefer **no salt added** | Regular diced (rinse/drain more; watch sodium with chili packet) | — |
@@ -94,7 +94,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 |------|----------------|-----------------|
 | Hash browns | Ore-Ida / shredded potatoes — **measured ~¾ cup** roasted | Peppers + spinach + salsa |
 | Breakfast meat | **Jennie-O turkey sausage** 2 links **or** turkey bacon 2–3 | Eggs/whites alone |
-| Zero-net wraps | Mission Zero Net — occasional big wrap | Corn tortillas |
+| Carb Balance / Zero Net wraps | OK satiety buy if gut quiet — log label kcal | Corn if wraps bloat; keep beans + psyllium |
 
 ---
 

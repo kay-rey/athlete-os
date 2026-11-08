@@ -65,6 +65,6 @@ Shop **home Costco first** (Via Princessa / 91387 — `athlete/profile.md`), Sam
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - **Tired-night backups** (wife wiped / no cook): rotisserie chicken · frozen cooked chicken strips or lean meatballs · extra canned beans · 1–2 lower-sodium canned soups to *upgrade* with chicken — see `nutrition/preferences.md` fallbacks
 - Condiments (exact → `nutrition/recipes/pantry.md`): **Kirkland Organic Medium Salsa** · **G Hughes SF Sweet & Spicy BBQ** (default) or **Stubb’s** · **Hellmann’s Light** · **La Costeña chipotle** — **no pickles**; mustard OK in BBQ, not as burger topping
-- Tortillas: **Guerrero or Mission white corn** (default); zero-net wraps only occasional
+- Tortillas: **corn** (Guerrero/Mission) for Milpa **or** **Carb Balance / Zero Net** for satiety if gut quiet — keep beans + psyllium either way
 - Drinks: **Fresca** classic · optional **Torani SF** syrup
 - Dispensary: `stack/supplements.md` (Kirkland D3 / multi / fish oil)

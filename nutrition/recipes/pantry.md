@@ -30,7 +30,7 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 | Fresh pico vibe (Sam’s) | **Member’s Mark Fresh Cilantro Pico de Gallo Style Salsa** |
 | Chipotle for tinga | **La Costeña Chipotle Peppers in Adobo** — start **1 pepper** + 1 tsp sauce |
 | Corn tortillas (default) | **Guerrero** or **Mission white corn** — see nixtamal below |
-| Occasional wrap | **Mission Zero Net Carbs** / **Carb Balance** — not Milpa |
+| Satiety wrap | **Mission Carb Balance** / **Zero Net** — OK if gut quiet; keep beans + psyllium |
 | Chili packet | **McCormick Original Chili Seasoning** (1.25 oz) — stretch with cumin/chili powder; see `turkey_chili.md` |
 | Beans | **Kirkland Organic Black Beans** (Costco default — buy these tonight) · **OK equal:** Vons/store **tri-bean blend** (black/pinto/kidney) or plain pinto — same **~150g rinsed** portions. Prefer **no salt added** when labeled. **Not** three-bean *salad* (vinegar dressing — pickle-family skip) |
 | Tomatoes | **Hunt’s** or **Kirkland** diced / fire-roasted — prefer **no salt added** |
@@ -40,11 +40,11 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 ### What is a nixtamal corn tortilla?
 **Nixtamalization** = dried corn cooked/soaked in **limewater** (calcium hydroxide), then ground into masa and pressed into tortillas. That’s the traditional Mesoamerican process (same family as homemade tortillas / tortillerías).
 
-**Why it matters for you:** It’s the real **Milpa** tortilla — corn + lime, not flour dough and not fiber-powder “zero net” wraps. Better food match for your Mexican/Guatemalan-leaning tastes and Phase carbs.
+**Why it matters for you:** Real **Milpa** tortilla — corn + lime. Best food match for Mexican/Guatemalan tastes. **Carb Balance / Zero Net** wraps are still OK as a lower-kcal satiety vehicle if gut stays quiet (`../preferences.md`).
 
 **How to spot it in the store**
 - Package says **corn tortillas** / **tortillas de maíz** / ingredients start with **corn**, **corn masa**, or **ground corn treated with lime** (or “slaked lime,” “calcium hydroxide,” “lime water”)
-- **Not** flour tortillas (wheat) · **not** “zero net carb” / Carb Balance wraps
+- **Not** flour tortillas (wheat) as the daily default · Carb Balance / Zero Net = satiety OK, not Milpa
 
 **Where to get them (SCV / LA — you have Costco + Sam’s)**
 | Place | What to grab |

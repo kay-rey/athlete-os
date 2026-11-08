@@ -35,7 +35,7 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
-- **“Carb-free” / zero-net-carb tortillas** (liked) — taste OK; **not the healthiest default** — see wraps below
+- **“Carb-free” / zero-net-carb / Carb Balance tortillas** (liked) — OK satiety vehicle if gut quiet; keep beans + psyllium — see wraps below
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun** (ketchup/salsa OK — **skip mustard on burger/dog**), eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle**, BBQ chicken — default **G Hughes SF Sweet & Spicy** (macros) or **Stubb’s** / other tomato-molasses incl. mustard-based BBQ if he likes it — see `recipes/pantry.md`, meat-and-potato plates, oatmeal/banana peri carbs
 - **American breakfast (liked):** eggs, hashbrowns, sausage, bacon — mix with Mexican (salsa, beans, corn tortillas, pico). **Oatmeal** liked. Builds → breakfast section below; brands → `recipes/pantry.md`
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
@@ -76,42 +76,38 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 
 Milpa rule: 65–75% non-peri carbs from beans/tortillas/veg. Potato beats refined noodle for satiety/fiber; beans beat both. Prefer that order in advice even when he likes noodle piles.
 
-## Wraps — “zero net carb” / low-carb tortillas (deep dive)
-Common SKUs: **Mission® Zero Net Carbs** (Original), similar “carb balance” / keto wraps. Marketing = carbs − fiber ≈ 0 (“net carbs”).
+## Wraps — Carb Balance / “zero net” tortillas
+Same call as Carb Balance **bread**. His lever: more fiber + lower kcal density → fuller → fewer binge calories. That can work.
 
-| | Mission Zero Net Carbs (typ. 1 wrap ~40g) | Nixtamal **corn** tortilla (~1 small) |
-|--|------------------------------------------|----------------------------------------|
-| Label calories | ~**80–110** | ~**50–60** |
-| Total carb / fiber | ~**14–19g** / ~**14–19g** → “0 net” | ~**10–12g** / ~**1–2g** |
-| Protein | ~**5–7g** | ~**1–2g** |
-| Main ingredients | Modified starch, **wheat gluten**, cellulose, shortening | **Corn** (lime-treated) |
+Common SKUs: **Mission® Carb Balance**, **Mission® Zero Net Carbs**, similar keto wraps. Marketing = carbs − fiber ≈ 0 (“net carbs”). **“Zero net” ≠ calorie-free** — log label kcal.
+
+**Hierarchy for *you* (don’t reverse):**
+1. **≥100g protein by 5:00 PM**  
+2. **Psyllium before lunch/dinner**  
+3. **Beans + veg** (still fill wraps/bowls with beans)  
+4. **Lower-kcal wrap** — useful *add-on*
+
+| | Carb Balance / Zero Net wrap | Nixtamal **corn** tortilla (~1 small) |
+|--|------------------------------|----------------------------------------|
+| Label calories | ~**70–110** | ~**50–60** |
+| Fullness | Extra powder fiber + volume can help binge control | Real Milpa starch; less “free food” trap |
+| Fiber type | Modified wheat starch / gums — weaker than **psyllium** gel | Food fiber from corn |
 | Milpa? | **No** | **Yes** |
+| Risk | Stack on beans + Metamucil → bloat → grazing | Predictable |
 
-**Reality check:** “Zero net” ≠ calorie-free and ≠ blood-sugar-free. Some modified starches still raise glucose; cellulose fiber is gut filler. You already use **psyllium** — stacking mega-fiber wraps can mean gas/bloating.
+| Rank | Buy | Rule |
+|------|-----|------|
+| **OK if it keeps you full** | **Mission Carb Balance** / Zero Net | **1–2 wraps**; log **label calories**, not “0 net” |
+| **Also fine / Milpa** | **Corn tortillas** (Guerrero / Mission white corn) | **1–2** with bowls/fajitas — switch here if wraps bloat |
+| **Not** | Flour tortillas as the daily default | Higher kcal, weak fiber |
 
-### “But they have more fiber — isn’t that better?”
-**No — not for you.** Higher number on the label ≠ better fiber.
+**Rules if Carb Balance wraps are your satiety tool:**
+- Keep **psyllium** — wrap fiber does not replace Metamucil  
+- Keep **beans** in the fill — don’t skip because the wrap “had 15g fiber”  
+- Don’t treat as free and stack 4–5 wraps  
+- If gut gets loud → corn tortillas instead  
 
-| | Zero-net wrap | Corn tortilla + beans (your default pattern) |
-|--|---------------|-----------------------------------------------|
-| Fiber type | Mostly **added** cellulose / resistant starch powders | **Food** fiber from nixtamal corn + beans |
-| Your 45g fiber target | Already covered by **beans + veg + psyllium** | Same — don’t need wrap powder to hit it |
-| Satiety / recomp | Weak carb for glycogen; easy to overeat “free” wraps | Real Milpa starch supports Gates + anti-binge |
-| Gut | Extra isolated fiber **on top of psyllium** → bloat risk | Predictable with your current stack |
-| Phase 1 (215g C) | You are **not** carb-restricted — “saving” carbs isn’t the goal | Corn fits the carb budget on purpose |
-
-**More fiber only helps if you’re short.** You’re aiming **45–50g** from Milpa + measured psyllium — not 70g+ from powder wraps. Chasing label fiber is how people get uncomfortably full, then graze later when wraps didn’t satisfy like food.
-
-**Phase fit (215g carbs):** You *need* real carbs (beans, corn, potato, peri). Swapping every tortilla for zero-net wraps does **not** improve recomp and weakens Milpa.
-
-| Strategy | Rule |
-|----------|------|
-| **Healthiest default** | **Nixtamalized corn tortillas** 1–2 with bowls/fajitas |
-| **Zero-net wraps** | OK **sometimes** for a big wrap format — **not** because of fiber; log label macros, not “free” |
-| **Not** | Daily wraps “for the fiber”; don’t count as Milpa; don’t skip beans because the wrap had 14g fiber |
-| **If GI complains** | Drop the wraps; keep corn + beans + psyllium schedule |
-
-**Verdict:** Corn + beans beat zero-net wraps for health. Wraps are a **liked convenience**, not a fiber upgrade.
+**Verdict:** Allowed for binge/satiety — same as Carb Balance bread. Not better than protein timing or psyllium. Corn still wins for Milpa; wraps win when the lower density keeps you from overeating.
 
 ## Sandwich bread — including “Carb Balance”
 **His argument (valid):** more fiber → fuller → fewer binge calories; lower kcal density than soft white. That is a real satiety lever — **not** fake marketing.
