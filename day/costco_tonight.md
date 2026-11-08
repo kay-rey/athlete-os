@@ -100,7 +100,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 
 ## Do not buy tonight
 Pickles · juice gallons · dried-fruit tubs · sugared Metamucil · Liquid I.V.  
-**Multi-cooker (if you don’t own ~6 qt):** prefer **Instant Pot Duo / Duo Plus 6 qt**. Check Costco floor for RIO/Duo clearance first; else Walmart lowest sticker (associate 10% usually won’t stack on Rollback). **Don’t wait for Black Friday** — Phase starts Mon.
+**Multi-cooker:** **not a Costco buy** for this house — get **Instant Pot Duo / Duo Plus 6 qt at Walmart** (lowest sticker; 10% only if regular price). Don’t wait for Black Friday.
 
 ## Floor order (fast path)
 1. Dispensary (Orgain combo · Vit C · Hydration sticks · Metamucil SF · Isopure if there)  
