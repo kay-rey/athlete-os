@@ -52,7 +52,7 @@ Doses/brands → `stack/supplements.md`.
 ---
 
 ## Weekly groceries
-Quantities for Phase shopping. Flavors/avoid-list → `nutrition/preferences.md` (**no pickles, go easy on mustard**; Mexican + American lean). Chili recipe → `nutrition/recipes/turkey_chili.md`.
+Shop **Costco / Sam’s Club** first (you have both), then normal grocery for anything missing. Flavors/avoid → `nutrition/preferences.md`. Chili → `nutrition/recipes/turkey_chili.md`.
 
 - 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin (chili default **99/1 turkey**; swap **96/4 beef** OK; avoid 80/20 chili) · 2 lbs white fish/tuna
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt
@@ -60,5 +60,5 @@ Quantities for Phase shopping. Flavors/avoid-list → `nutrition/preferences.md`
 - 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - Condiments to keep: salsa, guac fixings, light mayo or crema, tomato-style BBQ — **do not buy pickles or mustard as staples**
-- Drinks: **Fresca** (classic 0-cal) OK staple; optional sugar-free shaved-ice syrup if you want the dessert texture at home
-- Dispensary: `stack/supplements.md`
+- Drinks: **Fresca** (classic 0-cal; often warehouse multipacks) OK staple; optional sugar-free shaved-ice / Torani SF syrup
+- Dispensary: `stack/supplements.md` (Kirkland D3 / multi / fish oil already match Costco)
