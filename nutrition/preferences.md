@@ -114,26 +114,36 @@ Common SKUs: **Mission® Zero Net Carbs** (Original), similar “carb balance”
 **Verdict:** Corn + beans beat zero-net wraps for health. Wraps are a **liked convenience**, not a fiber upgrade.
 
 ## Sandwich bread — including “Carb Balance”
-Same story as zero-net wraps. You are on **Phase 1 · 215g carbs** — you are **not** keto. “Net carb” bread does not improve recomp.
+**His argument (valid):** more fiber → fuller → fewer binge calories; lower kcal density than soft white. That is a real satiety lever — **not** fake marketing.
 
-| | Soft whole wheat / soft white (2 slices) | **Mission Carb Balance** / keto-style bread |
-|--|------------------------------------------|-----------------------------------------------|
-| Job | Real starch for the sandwich | Marketing fiber (modified wheat starch, gluten, gums) |
-| Milpa? | No — but honest sandwich carb | No |
-| Fiber | Modest from wheat | Sky-high **added** fiber on top of beans + **psyllium** → bloat risk |
-| Satiety | Normal bread + turkey fills | Easy to think it’s “free” and overbuild |
-| Phase fit | Fits the **215g C** budget on purpose | “Saves” carbs you don’t need to save |
+**Hierarchy for *you* (don’t reverse):**
+1. **≥100g protein by 5:00 PM** — primary anti-binge  
+2. **Psyllium before lunch/dinner** — viscous gel satiety (strongest fiber tool)  
+3. **Beans + veg** — food-matrix fiber + Milpa carbs  
+4. **Lower-kcal sandwich vehicle** (Carb Balance / thin bread) — useful *add-on*, not the foundation
+
+| | Soft WW / soft white (2 slices) | **Carb Balance** / keto bread |
+|--|----------------------------------|-------------------------------|
+| Calories | Higher | Usually lower — real calorie cut |
+| Fullness from bread | Modest | Extra volume + powder fiber can help |
+| Fiber type | Food wheat | Modified starch / gums — **weaker** satiety than **psyllium** gel |
+| Risk | Slightly easier to overshoot kcal | Stack on beans + Metamucil → gas/bloat → **grazing** if gut feels bad |
+| Phase carbs | Uses real C from the **215g** budget | Leaves room — still eat peri carbs + beans |
 
 | Rank | Buy | Rule |
 |------|-----|------|
-| **1 — Best** | Soft **whole wheat** sandwich loaf (Kirkland / Oroweat / Nature’s Own 100% WW / similar) | **2 slices** per sandwich |
-| **1b** | Soft white if that’s what you’ll actually eat | Same portion — adherence > perfect grain |
-| **2** | Thin-sliced whole wheat (Dave’s thin, etc.) | Still **2 slices**; log label |
-| **3 — Occasional** | **Carb Balance** / keto bread | Liked texture OK sometimes — log **total** carbs/calories, not “0 net”; not daily |
-| **Alt no loaf** | **2 corn tortillas** as the “bread” | Milpa-friendlier sandwich |
+| **OK default if it keeps you full** | **Carb Balance** / keto-style loaf | **2 slices**; log **label calories**, not “0 net”; keep Gate protein |
+| **Also fine** | Soft whole wheat / soft white | **2 slices** — if Carb Balance bloats you, switch here |
+| **Thin-sliced WW** | Dave’s thin / similar | Same portion |
+| **Alt** | **2 corn tortillas** | Milpa-friendlier |
 
-**Skip as the staple:** Carb Balance “for the fiber,” cloud bread every day, double Carb Balance + chips.  
-**Verdict:** Buy a normal soft loaf. Carb Balance is the wrap trick in bread form — fine rare, **not** healthier for you.
+**Rules if you choose Carb Balance for binge control:**
+- Keep **psyllium schedule** — don’t drop Metamucil because the bread “has fiber”
+- Don’t skip **beans** or Gate protein to “save room”
+- If gut gets loud (gas, cramps, unfinished meals → later grazing) → soft WW instead
+- Still log real kcal; don’t build a triple stack because it’s “low carb”
+
+**Verdict:** Your fullness/binge logic is right enough to **allow Carb Balance as sandwich bread**. It is a calorie-density tool. It does **not** replace protein timing or psyllium.
 
 ## Soups — healthy to make? (yes — Phase defaults)
 

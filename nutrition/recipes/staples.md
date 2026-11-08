@@ -106,7 +106,7 @@ Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bac
 
 ## 8. Quick sandwiches (Gate 3 lunch or tired Gate 6)
 **Rules:** **no pickles** · protein first (~**45–60g**) · **1 starch** (2 bread slices **or** wrap — not both + chips) · salsa / Hellmann’s Light / ketchup / BBQ OK · mustard OK on turkey/chicken (only skip mustard on **burgers/dogs**). Side: apple, carrots, or **½–1 cup rinsed beans** — not chips.  
-**Bread:** soft whole wheat/white **2 slices** default — **not** Carb Balance as the daily loaf (`../preferences.md`).
+**Bread:** **2 slices** — Carb Balance OK if it keeps you fuller without GI blowback; soft WW/white if it doesn’t (`../preferences.md`).
 
 | # | Build | Exact | ≈ | When |
 |---|-------|-------|---|------|
