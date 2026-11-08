@@ -18,7 +18,19 @@
 - Optional later (not blockers): K2 MK-7, rTG fish oil, Mg L-threonate.
 
 ## Still buy / already planned
-Creatine 5g daily · zero-lactose WPI · psyllium · collagen 15–20g + Vit C 50–200 mg (Tue/Fri pre-lift) · electrolytes (hard GB).
+Creatine 5g daily · zero-lactose WPI · collagen 15–20g + Vit C 50–200 mg (Tue/Fri pre-lift) · electrolytes (hard GB).
+
+## Psyllium — locked SKU (warehouse often only stocks orange)
+| Bottle | Facts | Dose in plan |
+|--------|-------|--------------|
+| **Metamucil Sugar-Free Orange Smooth** (or store-brand **sugar-free orange** psyllium) | **1 rounded tsp = 5.8 g powder** → ~**20 kcal · 5C · 3g fiber (≈2–2.4g soluble psyllium)** · **0 sugar**. Ingredients typically: psyllium husk, maltodextrin, citric acid, orange flavor, **aspartame**, Yellow 6. Phenylalanine ~25 mg/tsp (PKU only). | **Gate 2 + Gate 5/6** (15–20 min pre-lunch / pre-dinner). **Wk1:** **½ rounded tsp** ×2. **Wk2+:** **1 rounded tsp** ×2. Mix in ≥8–12 oz cold water, drink immediately, chase water. |
+
+### Psyllium — fit / quality
+- **Sugar-free orange = correct buy.** Do **not** buy the **real-sugar** orange jug (sucrose — wastes Phase carbs for no benefit).
+- Flavored powder ≠ pure husk grams: plan “2.5g / 5g husk” maps to **½ tsp / 1 tsp** of this powder, not 2.5g/5g of orange mix scooped on a scale.
+- Label “appetite control” lists **2 tsp** before meals — optional later if 1 tsp ×2 isn’t enough satiety; don’t jump there in Week 1 on top of beans.
+- Still **≥2h from sertraline** and hard mats. Aspartame is fine with your Rx at this dose.
+- Unflavored husk remains ideal if you ever see it; until then **SF orange is SoT**.
 
 ## Optional — AM work focus
 | Bottle | Facts | Dose in plan |

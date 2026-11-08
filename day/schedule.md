@@ -41,7 +41,7 @@ Doses/brands → `stack/supplements.md`.
 | Gate | Clock (typical) | Action |
 |------|-----------------|--------|
 | **1** | On wake | 45g protein + D3 + fish oil #1 — **do not skip for fasting/focus.** If using L-tyrosine for AM work: take it first, then Gate 1 ~20–30 min later (`stack/supplements.md`) |
-| **2** | ≈12:40 | **Psyllium before lunch** (2.5g Wk1 / 5g Wk2+ in ~12 oz water + chase water) — wait **15–20 min**, then Gate 3. ≥2h from sertraline & hard mats |
+| **2** | ≈12:40 | **Psyllium before lunch** — **Metamucil SF Orange** (or store SF orange): **½ rounded tsp Wk1 / 1 rounded tsp Wk2+** in ≥8–12 oz water + chase — wait **15–20 min**, then Gate 3. ≥2h from sertraline & hard mats (`stack/supplements.md`) |
 | **3** | ≈1:00 | 50g protein + 150g black beans + veggies + **multi** |
 | **3.5** | **3:00** | **Sertraline 75 mg** |
 | **4** | 4:30 | 25g protein → ≥100g by 5:00 (target 110–125) |
