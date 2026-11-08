@@ -29,7 +29,11 @@
 | **Electrolytes alt** | **LMNT Zero Sugar** (48 ct variety) | **½–1 packet** | **1000 mg Na** / packet — fine on very sweaty GB if you tolerate salt; start with **½** or prefer Kirkland sticks. |
 | **Skip** | Liquid I.V. Hydration Multiplier | — | Sugar load; not the Phase default. |
 | **Psyllium** | **Metamucil Sugar-Free Orange** (Costco often 2×130 / 260 servings) | Gate doses → below | Same SF orange lock. |
-| **Whey protein** | **Prefer:** **Isopure Zero Carb** (WPI, lactose-free) if stocked | **1 scoop (~25g protein)** Gate 4 / post-GB | Cleanest if gut is touchy. **Also OK for him:** **ON Gold Standard** or Kirkland whey (isolate+concentrate) — he already drinks milk / eats lactose dairy without a known intolerance story (`athlete/profile.md`). Gene **LCT-13910 CC ≠ guaranteed symptoms**. **Switch to WPI** if shakes bring bloating, gas, or urgency. |
+| **Whey / protein powder (his history)** | **Trying next:** **Isopure Zero Carb** (WPI) | Gate 4 / post-GB **1 scoop (~25P, ~0C)** | Lactose-free isolate A/B vs gut. |
+| | **Used before — OK:** **ON Gold Standard** | ~**24P · 3–4C** / scoop | Concentrate blend; fine given milk tolerance. Keep as backup if Isopure is out or you prefer taste. |
+| | **Used before — backup only:** **Orgain Organic Protein** (plant: pea/rice/chia; Costco chocolate ~**2 scoops / 46g**) | Label ≈ **150 kcal · 21P · 15C · 4–4.5F · 6–7 fiber** | Dairy-free and fine occasionally, but **weaker Gate tool**: less protein per scoop than whey, more carbs/fiber/gums, lower leucine density for post-GB repair. **Do not** make this the primary post-mat / Gate 4 powder. Different from **Orgain Collagen + Creatine** (that tub is still the Baar/creatine buy). |
+
+**Powder rank for Gates:** **Isopure (trial) ≥ ON Gold Standard ≫ Orgain Organic plant.** Finish plant tubs as snack/backup if you like the taste; buy whey for the plan.
 
 ### Baar pre-lift (Tue / Fri)
 1. **Orgain Collagen + Creatine** scoop (or 15–20g collagen + 5g creatine)  
