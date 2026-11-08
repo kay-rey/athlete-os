@@ -43,6 +43,22 @@ Typical shop cup (~1 cup ice + syrup): ≈ **180–250 kcal · 0P · 40–55C ·
 
 **Verdict:** Keep as a **liked treat**, not a staple. Texture craving → sugar-free syrup ice or Fresca + ice first.
 
+### Homemade “shaved ice” (blender OK)
+A blender **works** for the craving, but it makes **crushed / snow-cone ice**, not true fluffy Hawaiian powder (that needs a shave-ice blade). Close enough for Phase goals.
+
+**Method**
+1. Freeze water in trays; use **hard, dry ice** (not wet).
+2. Pulse in a strong blender or food processor — **short pulses**, scrape sides; don’t let it melt into a smoothie. Work in small batches. Optional: chill the blender jar in the freezer 10 min.
+3. Pack into a bowl/cup; drizzle syrup **lightly** (thin SF syrup sinks fast — pour in layers while packing ice).
+4. Eat immediately.
+
+**Phase syrup (prefer this nightly/anytime)**
+- **Sugar-free Torani / Jordan’s / similar** (Splenda or sucralose), or SF Hawaiian shaved-ice syrup — ~**0 kcal**
+- DIY: unsweetened Kool-Aid packet + granulated erythritol/Splenda + water + **tiny pinch xanthan gum** (helps cling; blend briefly)
+- **Fresca pour-over:** pack blender ice, splash cold Fresca — grapefruit “soda ice” you already like
+
+**Skip for free version:** regular syrup, condensed milk, ice cream. Those go back to the 1×/week budgeted treat.
+
 ## Dislikes (hard avoid)
 - **Pickles / pickle relish** — despise; never put on plates, burgers, bowls, or “add pickles for volume”
 - **Super vinegary foods** — skip pickle brine, vinegar-forward slaws, heavy vinegar hot sauces as the main flavor, vinegar-heavy BBQ (Carolina-style). Mild salsa acidity / citrus lime is OK unless you say otherwise
