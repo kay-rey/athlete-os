@@ -1,69 +1,109 @@
-# Lifts Registry — 2-Day/Week Strength Microcycle
+# Strength — optimal 2-day MED microcycle
 
-Week placement / no-GB-noon rules → `calendar/academies.md`. Day ops → `day/schedule.md`. Collagen dose → `stack/supplements.md`. Log sets → `journal/lifting.csv`.
+SoT for lifting. Calendar → `calendar/academies.md` · day ops → `day/schedule.md` · collagen → `stack/supplements.md` · targets → `athlete/milestones.csv` · log → `journal/lifting.csv`.
 
-**Session window:** Tue & Fri **11:45 AM–12:33 PM** (48 min), after wake + Gate 1 + collagen 30–60 min pre-load.
+Research basis: `archive/research/grappler_recomp_playbook.md` (2-day high-tension MED under 50 min). Clocks remapped to **late wake**; intensity adapted to **Thu hard GB** before Friday Lift B.
 
-## Warm-Up (8 Min Mandatory)
-1. 3 min stationary bike
-2. 15 band pull-aparts
-3. 10 thoracic open-books/side
-4. 10 deep goblet squat pry-outs
-5. 2 progressive ramp-up sets on primary compound lift
+## Why this program (for you)
+- **2×/week, ≤48 min** — enough mechanical tension for recomp/LBM without stealing recovery from GB
+- **5–8 rep compounds** — RFD + dense “stocky” look (traps/neck, clavicular shelf, lats, anti-lateral core)
+- **Trap bar + chest-supported row** — high load, lower lumbar shear for a compact 5'5" grappler
+- **Neutral grips / incline press** — spare elbows/shoulders already taxed by gi
+- **Neck + carries** — BJJ-specific; most “optimal bodybuilding” splits skip these
+- **Not** a bro split or marathon lifting — that overtrains next to GB ≥2×
 
-**Total session cap: 48 minutes.**
+**Do not add** random third lift days, isolation fluff, or failure sets in Weeks 1–4.
 
-## Pre-Lift Tendon Stack (Baar Protocol)
-- **Dose:** 15–20g hydrolyzed collagen peptides + 50–200 mg Vitamin C in 10 oz water
-- **Timing:** ≈**11:00–11:15 AM** on Tue/Fri (immediately on wake / with breakfast) so mechanical loading starts 30–60 min later
-- **Purpose:** Double tenocyte collagen synthesis during the 6–10 minute mechanical loading window (Shaw/Baar)
+## Session slot
+| | When |
+|--|------|
+| **Lift A** | **Tuesday 11:45–12:33** |
+| **Lift B** | **Friday 11:45–12:33** |
+| Prep | Wake ≈11 → Gate 1 (+**~30g carbs** on lift days) → **collagen 15–20g + Vit C 50–200 mg** by ≈11:00–11:15 → warm-up 11:45 |
 
----
+No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine). Fri evening = free / recover from Thu GB.
 
-## Day A (Tuesday 11:45 AM–12:33 PM)
-**Focus:** Posterior Chain, Clavicular Shelf, Horizontal Pull
+## Warm-up (8 min — mandatory)
+1. 3 min bike  
+2. 15 band pull-aparts  
+3. 10 thoracic open-books / side  
+4. 10 deep goblet squat pry-outs  
+5. 2 ramp-up sets on the day’s A1  
 
-| Slot | Exercise | Sets × Reps | Tempo | Rest | Grappling Transfer |
-|------|----------|-------------|-------|------|--------------------|
-| A1 | High-Handle Trap Bar Deadlift | 3 × 5–6 | `2-1-X-1` (Dead-stop reset) | 3.0 min | Hip extension RFD, erector rigidity, upper-trap/neck density for posture breaking & takedown finishes; load aligned to COM → less lumbar shear |
-| B1 | 30° Incline Dumbbell Press (45° Neutral Grip) | 3 × 6–8 | `3-1-X-0` (Deep stretch pause) | 2.5 min | Clavicular pec / anterior deltoid framing shelf; spares shoulder capsule stressed by kimuras & underhooks |
-| C1 | Incline Chest-Supported DB or T-Bar Row | 3 × 6–8 | `2-1-X-2` (2-sec scapular retraction hold) | 2.0 min | Lats/rhomboids/mid-traps for gi-pull endurance without stacking lumbar fatigue after trap bar |
-| D1 | 45° Weighted Back Extension (or Barbell RDL) | 2 × 8–10 | `2-1-1-1` | 60s (Superset with D2) | Hamstring–glute–lumbar isometric endurance vs stacked guard pressure |
-| D2 | 4-Way Neck Harness or Band Isometric Holds | 2 × 12–15 (or 20s holds/angle) | `2-1-2-1` | 90s | Cervical hypertrophy vs guillotines, darces, collar ties |
-
----
-
-## Day B (Friday 11:45 AM–12:33 PM)
-**Focus:** Anterior Chain, Vertical Pull, Overhead & Isometric Grip/Core
-
-| Slot | Exercise | Sets × Reps | Tempo | Rest | Grappling Transfer |
-|------|----------|-------------|-------|------|--------------------|
-| A1 | Heel-Elevated Front Squat (or Heavy DB/KB Goblet Squat) | 3 × 6–8 | `3-1-X-1` (1-sec pause in hole) | 2.5 min | Thoracic extension + anterior core; quads/hip flexors for butterfly/X-guard elevation & heavy base |
-| B1 | Seated or Standing Neutral-Grip DB Overhead Press | 3 × 6–8 | `2-1-X-1` | 2.5 min | Scapular-plane deltoid/triceps lockout for overhead frames & post defense |
-| C1 | Neutral-Grip Weighted Pull-Up (or Heavy Neutral Lat Pulldown) | 3 × 6–8 | `2-1-X-1` (Full dead-hang stretch) | 2.0 min | Neutral grip spares medial epicondyle; overloads brachioradialis + lats |
-| D1 | Heavy Asymmetric Suitcase Carry (1-Arm) + Farmer's Walk Medley | 3 × 30m/hand (Suitcase) or 40m (Farmer's) | Brisk, zero torso lean | 90s | Contralateral QL/obliques + finger flexors; anti-lateral-flexion core & handgrip fatigue resistance |
+## Pre-lift tendon stack (Baar)
+15–20g hydrolyzed collagen + 50–200 mg Vit C in ~10 oz water, **30–60 min before** first working set (with Gate 1 / breakfast).
 
 ---
 
-## RPE Progression Curve
+## Lift A — Tuesday (posterior + clavicular shelf + horizontal pull)
 
-| Phase | Weeks | RPE | RIR | Notes |
-|-------|-------|-----|-----|-------|
-| Tendon alignment | 1–4 | 6.0–7.0 | 3–4 | Connective tissue re-sensitization; enforce 2–3s eccentrics + bottom pauses |
-| Build | 5–12 | 7.5–8.0 | 2 | Primary myonuclear accretion |
-| Deload | 13 | 6.0–6.5 | 4 | 2 working sets only; −10% to −15% load (metabolic/leptin reset week) |
-| Lock-in | 14–21 | 8.0–8.5 | 1–2 | Peak density; never grind failed reps |
+| # | Exercise | Sets × reps | Tempo | Rest | Transfer |
+|---|----------|-------------|-------|------|----------|
+| A1 | **High-handle trap-bar deadlift** | 3 × 5–6 | `2-1-X-1` dead-stop | 3.0 min | Hip RFD, traps/erectors, takedown finish |
+| B1 | **30° incline DB press** (neutral-ish grip) | 3 × 6–8 | `3-1-X-0` stretch pause | 2.5 min | Clavicular shelf / frames; shoulder-friendly |
+| C1 | **Incline chest-supported DB or T-bar row** | 3 × 6–8 | `2-1-X-2` squeeze | 2.0 min | Lats/mid-back without stacking lumbar after A1 |
+| D1 | **45° weighted back extension** *(or RDL)* | 2 × 8–10 | `2-1-1-1` | 60s w/ D2 | Posterior chain isometric vs guard pressure |
+| D2 | **4-way neck** (harness / band / manual) | 2 × 12–15 or 20s/angle | controlled | 90s | Cervical armor vs chokes / collar ties |
 
-## Double-Progression Rule
-Keep working weight constant until hitting the top of the prescribed rep range (e.g., 6,6,6 on Trap Bar or 8,8,8 on presses/rows/squats) across all 3 working sets within the phase RPE ceiling. Then add **+5 lbs** (upper body) or **+10 lbs** (lower body) next session.
+**48-min clock (approx):** warm-up 8 → A1 ~12 → B1 ~9 → C1 ~8 → D ~6 → buffer.
 
-## Zero-Grinder Autoregulation Cap
-If poor sleep or heavy Thursday sparring slows bar speed on Friday midday, reduce working load by **5%** to stay strictly within the RPE ceiling.
+### A substitutions
+| Missing | Use instead |
+|---------|-------------|
+| No trap bar | Conventional DL from blocks **or** heavy KB sumo (keep RPE cap) |
+| No neck harness | Band 4-way isometrics against head |
+| No chest-supported row | One-arm DB row, torso braced on bench |
 
-## AMPK–mTOR Interference Guard
-- Zone 2: Sunday required; Wed only if not teaching AM classes
-- No marathon running
-- Keep ≥4–6 hr between Tue lift and Flow evening coaching
-- **Tuesday/Friday:** Noon hour is the lift — no GB Northridge at 12pm those days
-- **Thursday:** No lift; hard GB midday before Flow Adults (white-belt room / light — not a second hard session)
-- **Friday:** Lift B midday then **free evening** (no Flow teach) — default rest after Thu GB; Zero-Grinder 5% if Thu sparring slowed bar speed
+---
+
+## Lift B — Friday (anterior + vertical pull + OHP + carries)
+
+| # | Exercise | Sets × reps | Tempo | Rest | Transfer |
+|---|----------|-------------|-------|------|----------|
+| A1 | **Heel-elevated front squat** *(or heavy goblet)* | 3 × 6–8 | `3-1-X-1` pause in hole | 2.5 min | Quads / anterior core / guard elevation |
+| B1 | **Neutral-grip DB OHP** (seated or standing) | 3 × 6–8 | `2-1-X-1` | 2.5 min | Frames / posts; scapular plane |
+| C1 | **Neutral-grip weighted pull-up** *(or heavy neutral pulldown)* | 3 × 6–8 | `2-1-X-1` dead hang | 2.0 min | Lats + brachioradialis; elbow-friendlier than wide pronated |
+| D1 | **Suitcase carry** (1-arm) **+ farmer medley** | 3 × 30m/hand or 40m farmers | brisk, no lean | 90s | Anti-lateral flexion + grip |
+
+**Thu hard GB → Fri Lift B:** if bar speed is slow or sleep is trash, **−5% load** (Zero-Grinder). Do not ego the squat after hard midday Thursday.
+
+### B substitutions
+| Missing | Use instead |
+|---------|-------------|
+| Front squat painful / no rack | Goblet squat (DB/KB) — same reps/RPE |
+| Can’t do 6 pull-ups yet | Neutral pulldown or band-assist; progress to BW then +load |
+| No carry space | Suitcase holds 30–40s/side + plate pinches |
+
+---
+
+## RPE curve (match nutrition phases)
+
+| Phase | Weeks | RPE | RIR | Rule |
+|-------|-------|-----|-----|------|
+| Tendon / re-sensitize | 1–4 | **6.0–7.0** | 3–4 | Strict tempos + pauses; **no failure** |
+| Build | 5–12 | **7.5–8.0** | ~2 | Double-progression adds load |
+| Deload | 13 | **6.0–6.5** | ~4 | **2 sets only**, −10–15% load (leptin reset week) |
+| Lock-in | 14–21 | **8.0–8.5** | 1–2 | Dense; never grind failed reps |
+
+## Week 1 load finding (Day 1 / first Tue)
+1. Ramp until a set of the **bottom** of the rep range is **RPE ≈6.5–7** (3–4 RIR).  
+2. That becomes your working weight for 3 sets.  
+3. Log every working set in `journal/lifting.csv` (weight, reps, RPE).  
+Milestone waypoints (aspirational) → `athlete/milestones.csv` — score them later; Week 1 is finding the floor.
+
+## Double-progression
+Hold weight until you hit the **top** of the rep range on **all 3** working sets inside the phase RPE cap (e.g. trap bar 6/6/6, presses 8/8/8). Next session: **+10 lb** lower (trap bar / squat) or **+5 lb** total upper (usually +2.5/side on DBs).
+
+## Interference guard
+- Zone 2: **Sunday** 45 min @ 125–138 (not on lift days)
+- No marathon / junk cardio volume
+- ≥4–6 h between Tue lift and Flow PM (already true with noon lift)
+- Hard stimulus for BJJ = **GB**; Flow Adults stays light
+
+## Session checklist
+- [ ] Collagen + Vit C 30–60 min pre  
+- [ ] Gate 1 protein + lift-day carbs  
+- [ ] Warm-up full 8 min  
+- [ ] Tempos / RPE ceiling  
+- [ ] Log 3 working sets × each lift  
+- [ ] Fri: Zero-Grinder if Thu GB fried you  
