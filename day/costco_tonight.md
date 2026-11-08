@@ -10,15 +10,16 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 
 | Need | **Best (buy this)** | **Also OK** | **Skip** |
 |------|---------------------|-------------|----------|
-| Collagen + creatine | **Orgain Collagen + Creatine, Unflavored, 1.95 lb** (1 scoop = 20g collagen + 5g creatine) | Separate: **Orgain Micronized Creatine 1.48 lb** + **Orgain Collagen Peptides + Probiotics 1.6 lb** | Codeage Platinum multi-collagen · konjac collagen jellies · creatine gummies · CON-CRET HCl |
-| Vitamin C (Baar) | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** — lactose-free | Any plain **ascorbic acid** 250–1000 mg USP tablet (lactose-free) | **Kirkland Chewable C** (has **lactose**) · gummy C |
-| Electrolytes (hard GB) | **Kirkland Signature Hydration, 40 sticks, SF variety** (500 mg Na/stick) | **LMNT Zero Sugar** 48 ct — use **½–1** packet (1000 mg Na full) | **Liquid I.V.** (sugar) · sugary Gatorade powder as staple |
-| Psyllium | **Metamucil Sugar-Free Orange** (often 2 bottles / 260 servings) | Any store **sugar-free orange** psyllium powder · unflavored husk if you ever see it | **Sugared** Metamucil orange · capsules only as sole fiber |
-| Whey | **Isopure Zero Carb** (his trial primary) | **ON Gold Standard** (used before — fine backup) | **Orgain Organic plant protein** = backup only, not Gate 4/post-GB primary |
-| Tyrosine (optional) | Free-form **L-Tyrosine** capsules/powder if you use AM work dose | — | NALT-only · tyrosine+mega-caffeine stacks |
-| Already own | — | — | **Don’t restock:** Kirkland D3 · Daily Multi · fish oil · Mg glycinate |
+| Collagen | **Orgain Collagen Peptides + Probiotics 1.6 lb** (creatine already owned) | Any plain hydrolyzed collagen 15–20g/serving | Orgain Collagen+Creatine combo (doubles creatine) · Codeage · konjac jellies |
+| Vitamin C (Baar) | **Kirkland Signature Vitamin C 1000 mg USP tablets** | Plain lactose-free ascorbic acid | **Chewable C** (lactose) · gummies |
+| Electrolytes | **Don’t buy** — use owned **SF Liquid I.V.** (hard GB) + **Propel** (easy / or 2× hard) | Kirkland Hydration when those run out | Sugared Liquid I.V. · stacking LIV+2 Propel every session |
+| Creatine | **Don’t buy** — own monohydrate 5g/day | — | Extra tubs / gummies / HCl |
+| Psyllium | **Metamucil Sugar-Free Orange** | Any SF orange psyllium | Sugared Metamucil |
+| Whey | **Isopure Zero Carb** (trial) | **ON Gold Standard** (already used — backup) | Orgain Organic plant as Gate primary |
+| Tyrosine (optional) | Free-form **L-Tyrosine** if you use it and you’re out | — | NALT-only · tyrosine+mega-caffeine |
+| Already own | Creatine mono · SF Liquid I.V. · Propel · D3 · multi · fish oil · Mg · ON | — | Don’t restock these tonight |
 
-**Use:** Tue/Fri = Orgain scoop + Vit C 30–60 min pre-lift. Hard GB = 1 Kirkland Hydration stick + banana + honey. Psyllium Wk1 = ½ tsp SF orange ×2.
+**Use:** Tue/Fri = collagen 15–20g + Vit C (+ own creatine 5g once/day). Hard GB = **1× SF Liquid I.V.** (or **2× Propel**) + banana + honey. Easy days = 1× Propel. Psyllium Wk1 = ½ tsp SF orange ×2.
 
 ---
 

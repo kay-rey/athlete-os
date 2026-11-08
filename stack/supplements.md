@@ -2,7 +2,7 @@
 
 **Timing/gates** → `day/schedule.md` (do not re-copy clocks here). **Rx** → `athlete/profile.md`. Bottle photo → `journal/reference/`.
 
-## On-hand (photo Nov 6, 2026)
+## On-hand
 
 | Bottle | Facts | Dose in plan |
 |--------|-------|--------------|
@@ -10,24 +10,26 @@
 | Nature’s Bounty Fish Oil 1400 | ~647 EPA + 253 DHA / softgel (980 mg Ω-3), USP, ethyl ester | Gate 1 + dinner — 1 each (~1,800 mg EPA+DHA/day) |
 | Nature’s Bounty Mg Glycinate | 240 mg elemental / **2 capsules**, glycinate | Gate 7 — 2 caps |
 | Kirkland Daily Multi | USP; has iron 18 mg + Ca | Gate 3 lunch only |
+| **Creatine monohydrate** (own tub — reported 2026-11-08) | Micronized mono assumed | **5g daily** — post-GB with WPI or anytime. **Do not buy more** / skip Orgain Collagen+Creatine combo |
+| **Liquid I.V. Hydration Multiplier Sugar-Free** (own) | ~**500–530 mg Na · ~370–380 mg K** / stick · 0 sugar · ~15–20 kcal · allulose + stevia · B-vits + Vit C | **Hard GB / hard MT default:** **1 stick in ~16 oz** with Gate 5 peri (banana + honey). Hits **500–750 mg Na** target |
+| **Propel** powder packets (own) | Typical stick ~**210–260 mg Na · ~65–80 mg K** · 0 sugar · sucralose/Ace-K | **Easy days / teaching / Zone 2:** 1 stick. **Hard GB:** use **2 Propels** (~420–520 mg Na) **or** prefer **1 SF Liquid I.V.** — Propel alone is light for gulag sweat |
 
 ### Quality (researched)
 - **D3 / Multi / Fish oil:** USP Verified — keep.
 - **Fish oil:** ethyl ester — take with meals (already).
 - **Mg glycinate:** correct form/dose; no USP on this SKU — still fine Costco chelate (not oxide).
-- Optional later (not blockers): K2 MK-7, rTG fish oil, Mg L-threonate.
+- **Creatine:** any plain monohydrate 5g is fine — brand doesn’t matter once it’s mono.
+- **SF Liquid I.V. vs sugared LIV:** sugar-free is the correct SKU (sugared LIV was the skip). His SF sticks **replace** needing Kirkland Hydration / LMNT for now.
+- Optional later: K2 MK-7, rTG fish oil, Mg L-threonate.
 
 ## Buy at home Costco (Via Princessa) — exact SKUs
 
 | Role | Exact product | Label / dose in plan | Why this one |
 |------|---------------|----------------------|--------------|
-| **Creatine + collagen (best single tub)** | **Orgain Collagen + Creatine, Unflavored, 1.95 lb** | **1 scoop** = **20g collagen peptides + 5g creatine monohydrate** · 0 sugar | Hits Baar collagen **and** daily creatine in one buy. **Tue/Fri:** scoop in water **30–60 min pre-lift** with Vit C. **Other days:** 1 scoop anytime (or with post-GB WPI). |
-| **Creatine only (if no combo tub)** | **Orgain Micronized Creatine Monohydrate, Unflavored, 1.48 lb** | **5g (1 scoop)** daily | Clean micronized mono; banned-substance tested listing. Skip gummies / creatine HCl. |
-| **Collagen only (if no combo)** | **Orgain Collagen Peptides + Probiotics, Unflavored, 1.6 lb** | **1 scoop ≈ 20g** peptides | Fine if creatine bought separate. Skip Codeage “Platinum” mega-biotin blends; skip konjac jelly (only ~2.5g collagen). |
-| **Vitamin C (Baar)** | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** | **1 tablet** with collagen pre-lift (Tue/Fri) | USP, **lactose-free**. Target for collagen is only 50–200 mg — 1000 mg is still OK once with the scoop. **Do not** buy **Kirkland Chewable C 500 mg** — label includes **lactose**. |
-| **Electrolytes (hard GB / hard MT)** | **Kirkland Signature Hydration, 40 sticks, sugar-free variety** (lemon-lime + strawberry watermelon) | **1 stick in 16 oz water** with Gate 5 peri (banana + honey + salt) | **500 mg Na · 400 mg K · 40 mg Mg · 640 mg Cl** — matches the **500–750 mg Na** peri target. Sugar-free. Has ~100% DV Vit C (bonus, not your Baar tablet). |
-| **Electrolytes alt** | **LMNT Zero Sugar** (48 ct variety) | **½–1 packet** | **1000 mg Na** / packet — fine on very sweaty GB if you tolerate salt; start with **½** or prefer Kirkland sticks. |
-| **Skip** | Liquid I.V. Hydration Multiplier | — | Sugar load; not the Phase default. |
+| **Collagen (need — creatine already owned)** | **Orgain Collagen Peptides + Probiotics, Unflavored, 1.6 lb** (or any plain hydrolyzed collagen 15–20g/scoop) | **15–20g** Tue/Fri pre-lift | Baar tendon protocol. **Skip Orgain Collagen + Creatine combo** — you’d double creatine. |
+| **Vitamin C (Baar)** | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** | **1 tablet** with collagen pre-lift (Tue/Fri) | USP, **lactose-free**. **Do not** buy **Kirkland Chewable C** (lactose). |
+| **Electrolytes** | — | — | **Already covered** by SF Liquid I.V. + Propel. Optional Kirkland Hydration only if those run out. |
+| **Skip buying** | Extra creatine · sugared Liquid I.V. · LMNT unless you want 1000 mg Na days | — | Redundant / wrong SKU |
 | **Psyllium** | **Metamucil Sugar-Free Orange** (Costco often 2×130 / 260 servings) | Gate doses → below | Same SF orange lock. |
 | **Whey / protein powder (his history)** | **Trying next:** **Isopure Zero Carb** (WPI) | Gate 4 / post-GB **1 scoop (~25P, ~0C)** | Lactose-free isolate A/B vs gut. |
 | | **Used before — OK:** **ON Gold Standard** | ~**24P · 3–4C** / scoop | Concentrate blend; fine given milk tolerance. Keep as backup if Isopure is out or you prefer taste. |
@@ -36,12 +38,13 @@
 **Powder rank for Gates:** **Isopure (trial) ≥ ON Gold Standard ≫ Orgain Organic plant.** Finish plant tubs as snack/backup if you like the taste; buy whey for the plan.
 
 ### Baar pre-lift (Tue / Fri)
-1. **Orgain Collagen + Creatine** scoop (or 15–20g collagen + 5g creatine)  
+1. **15–20g collagen peptides** (Orgain collagen-only or equivalent)  
 2. **Kirkland Vit C 1000 mg** ×1  
-3. Water · **30–60 min before** first working set · with Gate 1  
+3. Own **creatine 5g** can go here **or** with post-session WPI — once/day total  
+4. Water · **30–60 min before** first working set · with Gate 1  
 
-### Hard-day salt
-**Kirkland Hydration 1 stick** + banana + honey (Gate 5 clamp). Don’t stack a full LMNT **and** a Kirkland stick unless you know you’re a heavy sweater that session.
+### Hard-day salt (Gate 5)
+**1× SF Liquid I.V.** in ~16 oz **or** **2× Propel** + banana + honey. Don’t stack SF LIV + 2 Propels unless you’re a heavy sweater that session.
 
 ## Psyllium — locked SKU (warehouse often only stocks orange)
 | Bottle | Facts | Dose in plan |
