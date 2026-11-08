@@ -37,7 +37,38 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
 - **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **taste pull = potato + noodle**; Phase default portions below (not maxed)
 - **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
+- **Spitz Cracked Pepper sunflower seeds** (in-shell, driving snack) — see snacks below
 - **Shaved ice / snow-cone style desserts:** loved treat — planned, not nightly — see desserts below
+
+## Snacks — Spitz Cracked Pepper seeds (deep dive)
+**SKU:** Spitz® Cracked Pepper Flavored Sunflower Seeds (Frito-Lay / PepsiCo) — common **6 oz** bag; UPC often **028400096720**. In-shell; you crack & spit shells (typical drive habit).
+
+| Label serving | ≈ **28g** edible (“About 3 Tbsp hulled seeds with seasoning”) |
+|---------------|----------------------------------------------------------------|
+| Calories | **170** |
+| Fat | **13g** (sat **2g**) |
+| Carb | **5g** (fiber **3g**, sugar ~1g) |
+| Protein | **6g** |
+| Sodium | **~610mg** |
+| Servings / 6 oz bag | **~3.5** → whole bag ≈ **~600 kcal · ~45F · ~21P · ~2100mg Na** |
+
+**Ingredients (typical):** sunflower seeds; seasoning (sea salt, salt, corn maltodextrin, yeast extract, black pepper, citric acid, onion, garlic, sugar, gum arabic, natural flavor); vegetable oil. No dairy → **lactose OK**. Not a pickle/mustard conflict.
+
+**Quality:** Standard flavored seed snack — fine food, not a “superfood.” Fat is mostly seed oil (OK type); **problem is dose**. Label serving is **kernels**, not “handful of whole shells” — easy to under-log while driving.
+
+**Phase fit (2,250 / 185P / 215C / 72F):**
+- **1 label serving** = ~**18% of daily fat** for only **6g protein** — expensive fat for weak protein
+- Sodium high per serving; you have **no hard Na cap** (peri needs salt) — still don’t stack a whole bag + salty soup night mindlessly
+- Fiber bump (+3g) is minor vs 45g target
+
+| Strategy | Rule |
+|----------|------|
+| **Phase default** | **≤1 serving (28g kernels / ~⅓ of a small bag’s edible)** on drive days — pre-portion or stop when shells pile ≈ that serving |
+| **Better** | Buy **smaller bags** or portion into a snack bag before the drive; log in Lose It as Spitz Cracked Pepper |
+| **Not** | Whole 6 oz bag as “just seeds while driving” (~half+ of fat budget) |
+| **Role** | Oral-habit / road snack — OK occasional; **does not replace Gate protein** |
+
+**Verdict:** Keep the flavor you like. Treat as a **budgeted fat snack**, not free volume food. Prefer **1 serving**, not bag-finishing.
 
 Milpa rule: 65–75% non-peri carbs from beans/tortillas/veg. Potato beats refined noodle for satiety/fiber; beans beat both. Prefer that order in advice even when he likes noodle piles.
 
