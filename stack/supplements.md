@@ -62,6 +62,14 @@
 - **Rx:** On **sertraline 75 mg** (SSRI). Tyrosine is not an MAOI interaction, but do **not** escalate dose for anxiety/panic spikes — keep ≤1 g unless your MD clears higher. Stop and tell Kaiser if you get jittery, headache, or racing thoughts.
 - **Quality:** single-ingredient free-form; NSF/USP or a clean Costco/Sam’s / known brand when possible. Skip blends with high caffeine stacked on top unless you already tolerate that separately.
 - **Not required** for Phase 1 recomp — optional cognitive tool only.
+- **AM desk/work: yes (optional).** **Hard GB sparring / Flow teaching: not a protocol.** Research on tyrosine is strongest under *acute stress + catecholamine drain* (sleep debt, cold, long cognitive load) — so “under pressure” is the right *category*. That still does not make it a mat or coaching ergogenic for you:
+  - It does **not** raise grip, RFD, lactate clearance, or technical BJJ output (creatine / peri carbs / sleep do that job).
+  - **Hard GB** already runs Gate 5 (T−45 carbs + Na → mats → WPI+creatine). Tyrosine wants an empty stomach; stacking it onto peri food blunts uptake, and taking it fasted then slamming a banana/honey clamp is messy. Keep the clamp.
+  - **Arousal curve:** GAD/panic history → more DA/NE before live rounds can tip you past useful intensity into rushy decisions or body-alarm. Pressure performance needs *controlled* arousal, not max catecholamine.
+  - **Teaching (Flow Adults):** motor-learning job is calm external cues + white-belt tempo (RPE 3–5). Extra sympathetic drive fights coach presence; you want steadiness, not “fight brain.”
+  - No solid BJJ-specific trials — desk-stress data does not auto-transfer to rolling or pedagogy.
+
+**Rule:** tyrosine = optional **wake → work** tool. Mats/teach = sleep, Gate protein, peri carbs, RPE discipline — not tyrosine.
 
 ## Constraints
 - Multi lunch ≠ Mg bedtime (≥9h)
