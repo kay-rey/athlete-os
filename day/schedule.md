@@ -55,7 +55,7 @@ Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — 
 ---
 
 ## Weekly groceries
-Shop **Costco / Sam’s Club** first (you have both), then normal grocery for anything missing. Flavors/avoid → `nutrition/preferences.md`. Chili → `nutrition/recipes/turkey_chili.md`.
+Shop **home Costco first** (Via Princessa / 91387 — `athlete/profile.md`), Sam’s if closer/out-of-stock, then normal grocery. Flavors/avoid → `nutrition/preferences.md`. Chili → `nutrition/recipes/turkey_chili.md`. Tonight’s checklist → `day/costco_tonight.md`.
 
 - 3.5 lbs chicken · 3.5 lbs turkey/flank/sirloin (chili default **99/1 turkey**; swap **96/4 beef** OK; avoid 80/20 chili) · 2 lbs white fish/tuna
 - 2 dozen eggs · 2 cartons egg whites · 2×32oz 0% lactose-free Greek yogurt

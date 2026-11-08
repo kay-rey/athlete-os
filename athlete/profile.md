@@ -7,7 +7,8 @@
 - Chronotype: wake ≈ **11:00 AM**; bed ≈ 2:00–3:00 AM  
   Early exceptions: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00
 - Insurance: **Medi-Cal** (Kaiser Medi-Cal / managed care as applicable) — coverage/formulary limits may affect GLP-1, brand psych meds, travel clinic; confirm with KP pharmacy / member services
-- Warehouse clubs: **Costco + Sam’s Club** memberships — prefer these for protein, beans, Fresca, Kirkland stack (D3/multi/fish oil), rice cakes, etc.
+- Warehouse clubs: **Costco + Sam’s Club** memberships — prefer these for protein, beans, Fresca, Kirkland stack (D3/multi/fish oil), rice cakes, etc.  
+  **Home Costco:** **18649 Via Princessa, Canyon Country, CA 91387** (default shop). Sam’s = backup / whatever’s closer that day.
 - Rx: **Sertraline 75 mg @ 3:00 PM daily**; **allergy med at bedtime**  
   Psyllium ≥2 hrs from sertraline (see Gates in `day/schedule.md`)
 - Mental health (patient-reported / prior care — **not diagnosed by this OS**):

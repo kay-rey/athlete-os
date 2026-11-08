@@ -49,7 +49,7 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 **Where to get them (SCV / LA — you have Costco + Sam’s)**
 | Place | What to grab |
 |-------|----------------|
-| **Costco** | **Guerrero 6" corn / white corn** multipacks (often 100–110 ct) when stocked |
+| **Costco (home: Via Princessa / 91387)** | **Guerrero 6" corn / white corn** multipacks (often 100–110 ct) when stocked |
 | **Sam’s Club** | **Mission Super Soft 6" White Corn** (often ~110 ct) and/or Guerrero |
 | **Vons / Ralphs / Albertsons / Northgate / Vallarta** | Smaller packs of Guerrero, Mission, or **La Banderita** corn |
 | **Local tortillería / Mexican market** | Fresh warm corn tortillas (best texture) |

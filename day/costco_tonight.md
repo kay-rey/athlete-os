@@ -1,5 +1,6 @@
 # Costco list — Sun Nov 8 → Phase 1 ready Mon Nov 9
 
+**Store:** **18649 Via Princessa, Canyon Country, CA 91387** (home Costco — `athlete/profile.md`).  
 One trip. Buy these. Skip anything already full at home.
 
 ## Dispensary (buy if missing — before Tue Lift A)
