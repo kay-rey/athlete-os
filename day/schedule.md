@@ -45,8 +45,8 @@ Doses/brands → `stack/supplements.md`.
 | **3** | ≈1:00 | 50g protein + 150g black beans + veggies + **multi** |
 | **3.5** | **3:00** | **Sertraline 75 mg** |
 | **4** | 4:30 | 25g protein → ≥100g by 5:00 (target 110–125) |
-| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → T+45 psyllium → dinner + fish oil #2 |
-| **6** | Teach-only / easy nights | Psyllium → Milpa + fish oil #2 (+ creatine if unused) |
+| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → T+45 psyllium → **wife’s dinner** (portion/track) + fish oil #2 |
+| **6** | Teach-only / easy nights | Psyllium → **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
 
 ---

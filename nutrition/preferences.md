@@ -2,6 +2,12 @@
 
 Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nutrition/recipes/`. This file owns **likes / dislikes** only.
 
+## Household cooking
+- **Wife cooks all dinners.** Don’t prescribe elaborate self-cooked Gate 5/6 menus as the default.
+- Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made toward Phase macros.
+- Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles / mustard**; chili with **99/1 turkey** is a win when she wants an easy pot (`nutrition/recipes/turkey_chili.md`).
+- Log dinner in Lose It / tell the agent after — estimate plate if needed.
+
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken (tomato-molasses sauce > vinegar Carolina), meat-and-potato plates, oatmeal/banana peri carbs
@@ -21,7 +27,7 @@ Milpa rule still stands: 65–75% of non-peri carbs from beans/tortillas/veg —
 | **1 Breakfast** | Eggs + egg whites, salsa, spinach, corn tortilla **or** lactose-free yogurt + WPI + banana |
 | **3 Lunch** | Chicken or flank + black beans + fajita veg + avocado + multi; tortillas OK in macro budget |
 | **4 Pre-mat** | WPI in water or turkey breast — no deli “with pickle/mustard” kits |
-| **5/6 Dinner** | Steak/chicken/fish + beans + roasted veg + avocado; American night = grilled protein + potato/rice + veg **no pickle spear, no mustard**; **or turkey chili bowl** → `nutrition/recipes/turkey_chili.md` |
+| **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickle/mustard |
 | **Peri carbs** | Banana + honey + salt, or salted rice cakes + honey/jam — not pickle juice folklore |
 
 ## Restaurant / takeout defaults

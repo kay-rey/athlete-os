@@ -14,6 +14,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Pre-start KBBQ / Day-1 flag | `day/weekend_prestart.md` |
 | Taste likes/dislikes + gate flavor examples | `nutrition/preferences.md` |
 | Staple meal deep-dives / batch recipes | `nutrition/recipes/*` |
+| Lose It app setup | `nutrition/loseit_setup.md` |
 | Phase kcal/macros | `nutrition/phases.csv` |
 | Lift programming / RPE / tempos | `strength/lifts.md` |
 | Bottle inventory, quality audit, doses | `stack/supplements.md` |
