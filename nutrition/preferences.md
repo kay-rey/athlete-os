@@ -17,6 +17,7 @@ Constraint: he won’t cook for fun; **sometimes she’s too tired after work** 
 - **Buy a multi-cooker (Instant Pot–style, ~6 qt)** if you don’t have one — slow mode for dump-and-go + pressure for fast chicken/beans when nobody has 6 hours. Prefer over slow-cooker-only. Check Costco/Sam’s.
 - **Best use:** she (or either of you, once) dumps chili / tortilla-soup fixings / chicken + salsa in the morning or on a weekend → dinner exists when she’s wiped. Freeze leftover portions.
 - Crock rules: 99/1 turkey or chicken, rinsed beans, no-salt tomatoes, low-sodium broth; **add noodles late** (or separate) so they don’t mush and get over-scooped.
+- **Recipes:** [`nutrition/recipes/slow_cooker.md`](recipes/slow_cooker.md) — chili, tortilla soup, salsa chicken, chicken noodle, albóndigas-style.
 
 ### Tired-wife / no-cook dinner fallbacks (keep stocked)
 Better than delivery spiral or grazing. Pick one; portion; log.

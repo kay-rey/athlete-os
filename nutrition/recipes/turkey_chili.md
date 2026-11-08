@@ -57,4 +57,6 @@ Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 - **1 packet** chili mix (stretch with extra cumin/chili powder rather than 2 full packets unless you need the salt)
 - Optional: onion, bell pepper, jalapeño for volume
 
+**Slow cooker / multi-cooker:** same ingredients — Low **6–7 h** or High **3–4 h**. Full dump list → [`slow_cooker.md`](slow_cooker.md).
+
 Store 3–4 days fridge or freeze. Reheat for Gate 3 or post-mat dinner. Tortilla on the side only if carbs remain that day.
