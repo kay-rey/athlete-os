@@ -44,12 +44,29 @@ No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine)
 | Plan | Mo | Enroll | What you actually need? |
 |------|-----|--------|-------------------------|
 | **Will Do** | **$15** | **$49.99** | **Home club only** — cardio/strength (+ limited locker sauna). **Enough** if one club covers Tue/Fri and has racks/DBs. |
-| **Will Crush** | **$24.99** | **$1** | **Multi-club** — **use this.** EOS in **Santa Clarita** (Flow days) + EOS near **GB Northridge**. |
+| **Will Crush** | **$24.99** | **$1** | **Multi-club** — **use this.** EOS **Valencia** (SCV / Flow side) + EOS **Northridge** (GB side). |
 | Will Power | $29.99 | $1 | Crush + massage chairs, Evolt scan, Les Mills virtual, Flex deals. **Skip** — fluff for 2× MED. |
 
 † Excludes LUX. “Best value” on Power ≠ best for you.
 
 **Locked:** **Will Crush** — two EOS clubs on your real map. Will Do (home-only) would strand you at the wrong club. Never Power.
+
+### Gyms near **91321** (Newhall) — scan
+**No EOS inside 91321.** Closest chain for the plan:
+
+| Gym | Addr / ZIP | Fit for Lift A/B? |
+|-----|------------|-------------------|
+| **EOS Valencia** | 24445 Town Center Dr #195, **91355** | **Yes — SCV home for Crush** (~short drive from Newhall) |
+| **EOS Northridge** | 9301 Tampa Ave #00575, **91324** | **Yes — GB-side club** |
+| LA Fitness (Golden Valley) | 26455 Golden Valley Rd, **91350** | Viable commercial alt; check trap bar / DBs |
+| LA Fitness (Newhall Ranch) | 28211 Newhall Ranch Rd, **91355** | Same |
+| 24 Hour Fitness | 18645 Via Princessa, **91387** | Farther (Canyon Country); OK if dues win |
+| **1RM Strength** | 23412 Lyons Ave, **91321** | Best iron / 24/7 — **skip on price** (~$90/mo) |
+| Santa Clarita Athletic Club | 24640 Wiley Canyon Rd, **91321** | Local full gym; price/gear unknown — tour if EOS commute sucks |
+| Results / Fitness Excel / Strong 4 Lyfe / Cozmo | Lyons / Walnut / Railroad, **91321** | PT / boutique — **not** for self-directed MED |
+| Planet Fitness | Not in 91321 (Northridge/Granada/Chatsworth) | Weak for heavy compounds; avoid as primary |
+
+**91321 takeaway:** join **EOS Crush** → lift Valencia midweek when in SCV; Northridge when on GB side. Lyons Ave 1RM only if you reverse on cost.
 
 Program needs: bike, DBs + bench, squat/goblet, DL (trap or conventional), row + pulldown/pull-up, back extension or RDL, suitcase path. Bring a **band** for neck.
 
