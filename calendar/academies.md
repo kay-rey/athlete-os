@@ -47,6 +47,10 @@ Levels: **GB1** fundamentals · **GB2** intermediate · **GB3** advanced (blue+;
 
 Evening GB conflicts with Flow teach Mon–Thu — **do not use as primary 2× hits**.
 
+### Never attend
+- **Women’s BJJ** (Mon/Wed 6:00 Mat 2) — skip always
+- **GB1 Mon & Wed 8:00–9:00** — skip always (fundamentals block after GB3; not your class)
+
 ## GB — **≥2× / week (standing goal)**
 
 Floor = 1 (Thu midday). Target = 2. Three is bonus.
