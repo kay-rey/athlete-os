@@ -1,18 +1,30 @@
 # Costco list — Sun Nov 8 → Phase 1 ready Mon Nov 9
 
 **Store:** **18649 Via Princessa, Canyon Country, CA 91387** (home Costco — `athlete/profile.md`).  
-One trip. Buy these. Skip anything already full at home.
+One trip. Buy these. Skip anything already full at home.  
+Exact stack deep-dives → `stack/supplements.md`.
 
-## Dispensary (buy if missing — before Tue Lift A)
-- [ ] Creatine monohydrate
-- [ ] Zero-lactose whey protein isolate (WPI)
-- [ ] **Metamucil Sugar-Free Orange** (not the sugared orange jug)
-- [ ] Collagen peptides
-- [ ] Vitamin C (cheap 50–200 mg tablets/caps fine)
-- [ ] Electrolyte packets (hard GB later this week)
-- [ ] L-Tyrosine free-form — only if you’ll use AM work dose and you’re out
+## Dispensary — exact products
 
-**Already on hand — do not restock:** Kirkland D3 · Daily Multi · fish oil · Mg glycinate
+| Buy | Exact name on the shelf |
+|-----|-------------------------|
+| **#1 collagen + creatine** | **Orgain Collagen + Creatine, Unflavored, 1.95 lb** (1 scoop = 20g collagen + 5g creatine) |
+| **Vit C** | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** — lactose-free tablets. **Not** the orange **chewable** C (has lactose) |
+| **Electrolytes** | **Kirkland Signature Hydration, 40 sticks, sugar-free variety** (500 mg Na/stick). Alt: **LMNT Zero Sugar** 48 ct if Kirkland sticks gone |
+| **Psyllium** | **Metamucil Sugar-Free Orange** (often 260 servings / 2 bottles). **Not** sugared orange |
+| **WPI** | **Isopure Zero Carb** (lactose-free isolate) **if stocked**. Skip Kirkland whey / ON Gold Standard as first pick (concentrate = lactose) |
+| Creatine only | Only if Orgain combo missing: **Orgain Micronized Creatine Monohydrate Unflavored 1.48 lb** |
+| Collagen only | Only if combo missing: **Orgain Collagen Peptides + Probiotics Unflavored 1.6 lb** |
+| Optional | L-Tyrosine free-form if you use it AM and you’re out |
+
+**Already on hand — do not restock:** Kirkland D3 · Daily Multi · fish oil · Mg glycinate  
+
+**Leave on shelf:** Liquid I.V. (sugar) · Codeage multi-collagen mega-biotin · collagen konjac jellies · creatine gummies · Kirkland Chewable C
+
+### How you’ll use them tomorrow / Tue
+- **Tue Lift A:** Orgain Collagen+Creatine scoop + Kirkland Vit C → Gate 1 → lift  
+- **Hard GB:** Kirkland Hydration **1 stick** + banana + honey (Gate 5)  
+- **Psyllium:** ½ tsp SF orange Wk1 before lunch + dinner  
 
 ## Meat / eggs / dairy
 - [ ] Chicken breast ~**3.5 lb**
@@ -53,5 +65,5 @@ One trip. Buy these. Skip anything already full at home.
 ## Do not buy tonight
 Pickles · juice · dried-fruit tubs · zero-net wraps · sugared Metamucil · Sweet Baby Ray’s as staple BBQ · hash browns / turkey sausage / turkey bacon (craving-only; Gate 1 default is eggs/whites + salsa/spinach) · Instant Pot unless you still don’t own a ~6 qt multi-cooker
 
-## If Costco is out (Vons/Ralphs after — not required tonight)
-La Costeña chipotle in adobo · Hellmann’s Light · smaller corn tortillas · store tri-bean if Kirkland beans gone
+## If Costco is out (Vons/Ralphs / order)
+La Costeña chipotle · Hellmann’s Light · smaller corn tortillas · tri-bean · true lactose-free WPI if Isopure missing

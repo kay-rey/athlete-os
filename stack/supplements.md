@@ -17,8 +17,27 @@
 - **Mg glycinate:** correct form/dose; no USP on this SKU — still fine Costco chelate (not oxide).
 - Optional later (not blockers): K2 MK-7, rTG fish oil, Mg L-threonate.
 
-## Still buy / already planned
-Creatine 5g daily · zero-lactose WPI · collagen 15–20g + Vit C 50–200 mg (Tue/Fri pre-lift) · electrolytes (hard GB).
+## Buy at home Costco (Via Princessa) — exact SKUs
+
+| Role | Exact product | Label / dose in plan | Why this one |
+|------|---------------|----------------------|--------------|
+| **Creatine + collagen (best single tub)** | **Orgain Collagen + Creatine, Unflavored, 1.95 lb** | **1 scoop** = **20g collagen peptides + 5g creatine monohydrate** · 0 sugar | Hits Baar collagen **and** daily creatine in one buy. **Tue/Fri:** scoop in water **30–60 min pre-lift** with Vit C. **Other days:** 1 scoop anytime (or with post-GB WPI). |
+| **Creatine only (if no combo tub)** | **Orgain Micronized Creatine Monohydrate, Unflavored, 1.48 lb** | **5g (1 scoop)** daily | Clean micronized mono; banned-substance tested listing. Skip gummies / creatine HCl. |
+| **Collagen only (if no combo)** | **Orgain Collagen Peptides + Probiotics, Unflavored, 1.6 lb** | **1 scoop ≈ 20g** peptides | Fine if creatine bought separate. Skip Codeage “Platinum” mega-biotin blends; skip konjac jelly (only ~2.5g collagen). |
+| **Vitamin C (Baar)** | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** | **1 tablet** with collagen pre-lift (Tue/Fri) | USP, **lactose-free**. Target for collagen is only 50–200 mg — 1000 mg is still OK once with the scoop. **Do not** buy **Kirkland Chewable C 500 mg** — label includes **lactose**. |
+| **Electrolytes (hard GB / hard MT)** | **Kirkland Signature Hydration, 40 sticks, sugar-free variety** (lemon-lime + strawberry watermelon) | **1 stick in 16 oz water** with Gate 5 peri (banana + honey + salt) | **500 mg Na · 400 mg K · 40 mg Mg · 640 mg Cl** — matches the **500–750 mg Na** peri target. Sugar-free. Has ~100% DV Vit C (bonus, not your Baar tablet). |
+| **Electrolytes alt** | **LMNT Zero Sugar** (48 ct variety) | **½–1 packet** | **1000 mg Na** / packet — fine on very sweaty GB if you tolerate salt; start with **½** or prefer Kirkland sticks. |
+| **Skip** | Liquid I.V. Hydration Multiplier | — | Sugar load; not the Phase default. |
+| **Psyllium** | **Metamucil Sugar-Free Orange** (Costco often 2×130 / 260 servings) | Gate doses → below | Same SF orange lock. |
+| **WPI (lactose-free)** | **Isopure Zero Carb** (vanilla/etc.) **if in stock** | **1 scoop (~25g protein)** Gate 4 / post-GB | True isolate, labeled lactose-free. **Kirkland whey** and **ON Gold Standard** are isolate+**concentrate** → more lactose — not first choice for LCT-13910 CC. If Isopure is out: egg whites / LF yogurt bridge today; order WPI online or check Sam’s. |
+
+### Baar pre-lift (Tue / Fri)
+1. **Orgain Collagen + Creatine** scoop (or 15–20g collagen + 5g creatine)  
+2. **Kirkland Vit C 1000 mg** ×1  
+3. Water · **30–60 min before** first working set · with Gate 1  
+
+### Hard-day salt
+**Kirkland Hydration 1 stick** + banana + honey (Gate 5 clamp). Don’t stack a full LMNT **and** a Kirkland stick unless you know you’re a heavy sweater that session.
 
 ## Psyllium — locked SKU (warehouse often only stocks orange)
 | Bottle | Facts | Dose in plan |
