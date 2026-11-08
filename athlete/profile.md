@@ -10,7 +10,7 @@
 - Insurance: **Medi-Cal** (Kaiser Medi-Cal / managed care as applicable) — coverage/formulary limits may affect GLP-1, brand psych meds, travel clinic; confirm with KP pharmacy / member services
 - Warehouse clubs: **Costco + Sam’s Club** memberships — prefer these for protein, beans, Fresca, Kirkland stack (D3/multi/fish oil), rice cakes, etc.  
   **Home Costco:** **18649 Via Princessa, Canyon Country, CA 91387** (default shop). Sam’s = backup / whatever’s closer that day.
-- **Wife:** works at **Walmart** — household gets her **10% employee discount** (confirm current associate rules / excluded categories: often tobacco, alcohol, some clearance; grocery + most GM usually apply). **Shop rule:** for single-item / appliance / brand SKUs stocked at Walmart, **price-check Walmart −10% vs Costco/Sam’s unit price** before buying at the warehouse. Bulk Kirkland multipacks still often win at Costco even after the discount.
+- **Wife:** works at **Walmart** — household gets her **10% employee discount** on eligible associate purchases (spouse card rules as applicable). **Typical exclusions:** most grocery (produce often excepted), tobacco/alcohol/gift cards, **sale / Rollback / clearance**, Marketplace third-party. **Shop rule:** for regular-price GM/appliances, compare **Walmart −10%** vs Costco/Sam’s; for already-sale Instant Pots etc., compare **sticker prices** only. Bulk Kirkland multipacks still often win at Costco.
 - Rx: **Sertraline 75 mg @ 3:00 PM daily**; **allergy med at bedtime**  
   Psyllium ≥2 hrs from sertraline (see Gates in `day/schedule.md`)
 - Mental health (patient-reported / prior care — **not diagnosed by this OS**):

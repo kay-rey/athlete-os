@@ -16,7 +16,12 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 Constraint: he won’t cook for fun; **sometimes she’s too tired after work** → empty kitchen is a binge risk. Appliance value here is **adherence**, not nutrient magic.
 
 - Still: food is only as healthy as what goes in (lean meat, beans, low-sodium broth, moderate starch).
-- **Buy a multi-cooker (Instant Pot–style, ~6 qt)** if you don’t have one — slow mode for dump-and-go + pressure for fast chicken/beans when nobody has 6 hours. Prefer over slow-cooker-only. **Price:** wife’s **Walmart 10%** often beats warehouse on a single Instant Pot — compare Walmart −10% vs Costco/Sam’s before buying.
+- **Buy a multi-cooker if you don’t own ~6 qt:** target **Instant Pot Duo** or **Duo Plus 6 qt** (pressure + slow + sauté). Skip Duo Crisp / air-fryer combos unless you specifically want a second lid. Skip Pro unless same price.
+- **Where (Nov 2026):**  
+  1. **Costco Via Princessa** — if an Instant Pot **RIO / Duo ~6 qt** is on the floor (clearance often ~$50–90), grab it.  
+  2. Else **Walmart** — shelf **Duo / Duo Plus 6 qt** at the lowest sticker (often already ~$80–100). Associate **10% applies to regular-price GM**, usually **not** Rollback/sale/clearance — so buy the cheap sticker; don’t assume −10% stacks on a sale.  
+  3. Sam’s only if both miss.
+- **Black Friday?** **Don’t wait** for Phase adherence. Instant Pots already sit near seasonal lows; BF might save another ~$10–30, not enough to delay dump-dinner capability into late November.
 - **Best use:** she (or either of you, once) dumps chili / tortilla-soup fixings / chicken + salsa in the morning or on a weekend → dinner exists when she’s wiped. Freeze leftover portions.
 - Crock rules: 99/1 turkey or chicken, rinsed beans, no-salt tomatoes, low-sodium broth; **add noodles late** (or separate) so they don’t mush and get over-scooped.
 - **Recipes:** [`recipes/slow_cooker.md`](recipes/slow_cooker.md) (crock) · [`recipes/staples.md`](recipes/staples.md) (tinga, fajitas, bowls, eggs, burgers, BBQ) · [`recipes/turkey_chili.md`](recipes/turkey_chili.md)
