@@ -16,18 +16,18 @@ Wake ≈11 → collagen → Gate 1 (+30g carbs) → **Lift A 11:45–12:33** →
 
 ### Wednesday — Flow AM → energy fork → Flow PM ± MT
 Wake ≈8 (AM teach) → Gate 1 → Flow AM.  
-**Green:** GB ≈12:00 (2× credit) → **no MT**.  
+**Green:** GB **10:45 GB3 No-Gi** or **12:00 + 1:00 open mat** (2× credit) → **no MT**.  
 **Red (tired):** skip GB → Flow PM → **MT optional** (technical only) → chase 2× Sat.  
 GB day: WPI+creatine post; Zone 2 deferred to Sunday.
 
 ### Thursday — GB Gulag + Flow teach
-Wake ≈11 → Gate 1 → clamp → **GB Gulag ≈12:00** (locked 2× credit) → WPI+creatine → sertraline → Gate 4 → Flow PM coach-mode. No MT.
+Wake ≈11 → Gate 1 → clamp → **GB 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if possible) locked 2× credit → WPI+creatine → sertraline → Gate 4 → Flow PM coach-mode. No MT.
 
 ### Friday — Lift B + free evening
-**Lift B 11:45–12:33**. Prefer **no GB**. Fri GB only last resort per `calendar/academies.md`. Gate 6 dinner / family.
+**Lift B 11:45–12:33**. Prefer **no GB**. Last-resort 2×: **11:00 Comp** before lift or **6:00** No-Gi after — see `calendar/academies.md`. Gate 6 dinner / family.
 
 ### Saturday — Flow AM + cleanup → GB if Wed missed
-Flow AM teach → mat cleanup. GB ≈12–2 **only if Wed skipped**. Else done for 2× with Thu.
+Flow AM teach → mat cleanup. GB **12:00–1:00 only if Wed skipped**. Else done for 2× with Thu.
 
 ### Sunday — Off mats
 Audit weigh-in + waist → log `journal/anthro.csv` → Gate 1 → **Zone 2 45 min @ 125–138** → groceries / sleep bank. Milpa carbs.
