@@ -95,4 +95,4 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 - If staying free: track calories at 2,250 and use the Protein dashboard tip / notes to chase ~185g by eye, or tell the agent meals and we’ll estimate.
 
 ## Wife dinner cheat-sheet (for her, optional)
-Aim most nights: **palm+ of lean protein**, **beans or tortilla/potato**, lots of veg, easy on oil/cheese. Mexican/American. No pickles/mustard. Chili with 99/1 turkey = easy batch.
+Aim most nights: **palm+ of lean protein**, **beans or tortilla/potato**, lots of veg, easy on oil/cheese. Mexican/American. No pickles; skip mustard on burgers/dogs. Chili with 99/1 turkey = easy batch.

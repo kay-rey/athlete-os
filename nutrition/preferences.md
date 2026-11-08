@@ -7,7 +7,7 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 ## Household cooking
 - **Wife cooks most dinners** when she has energy. **He does not enjoy cooking** — don’t assign him chef duty or elaborate self-cooked menus.
 - Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made (or the low-effort fallback) toward Phase macros.
-- Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles / mustard**; easy pots = **chili (99/1 turkey)** or **albóndigas / tortilla / fideos / chicken noodle** (see soups).
+- Share with her (simple ask, not a lecture): lean protein + beans/veg often; Mexican/American flavors; **no pickles**; burgers/dogs **without mustard** (mustard OK in BBQ/sauces); easy pots = **chili (99/1 turkey)** or soups.
 - Log dinner in Lose It / tell the agent after — estimate plate if needed.
 
 ### Slow cooker / Instant Pot? → **Yes, worth it for this household**
@@ -34,7 +34,7 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 ## Likes (lean into these)
 - **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
 - **“Carb-free” / zero-net-carb tortillas** (liked) — taste OK; **not the healthiest default** — see wraps below
-- **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun**, eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle/mustard**, BBQ chicken — default sauce **G Hughes SF Sweet & Spicy** (or **Stubb’s Original** for molasses); **never Sweet Baby Ray’s** (mustard flour) — see `recipes/pantry.md`, meat-and-potato plates, oatmeal/banana peri carbs
+- **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun** (ketchup/salsa OK — **skip mustard on burger/dog**), eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle**, BBQ chicken — default **G Hughes SF Sweet & Spicy** (macros) or **Stubb’s** / other tomato-molasses incl. mustard-based BBQ if he likes it — see `recipes/pantry.md`, meat-and-potato plates, oatmeal/banana peri carbs
 - **Chili (staple enjoy):** ground turkey + beans + canned tomatoes + chili mix — recipe SoT → [`nutrition/recipes/turkey_chili.md`](recipes/turkey_chili.md)
 - **Soups (enjoy — wife-friendly pots):** albóndigas, fideos (sopa de fideo), chicken noodle, chicken tortilla — **taste pull = potato + noodle**; Phase default portions below (not maxed)
 - **Fresca** (classic grapefruit citrus / flavors): everyday OK — see drinks below
@@ -190,7 +190,11 @@ A blender **works** for the craving, but it makes **crushed / snow-cone ice**, n
 ## Dislikes (hard avoid)
 - **Pickles / pickle relish** — despise; never put on plates, burgers, bowls, or “add pickles for volume”
 - **Super vinegary foods** — skip pickle brine, vinegar-forward slaws, heavy vinegar hot sauces as the main flavor, vinegar-heavy BBQ (Carolina-style). Mild salsa acidity / citrus lime is OK unless you say otherwise
-- **Mustard** — don’t default to it; use salsa, guac, light mayo/crema, BBQ, or cheese sparingly instead
+
+## Condiment nuance — mustard
+- **Does not hate mustard.** Just **doesn’t prefer it on a burger or hot dog** — skip yellow mustard there; use salsa, ketchup, light mayo, or BBQ instead.
+- **OK:** mustard-based BBQ, sauces, marinades, and dishes where mustard isn’t a blob on a bun.
+- Agent: never treat mustard like pickles (hard ban). Only omit as a **burger/dog topping**.
 
 ## Gate meal examples (Phase 1–shaped)
 
@@ -198,13 +202,13 @@ A blender **works** for the craving, but it makes **crushed / snow-cone ice**, n
 |------|-------------------|
 | **1 Breakfast** | Eggs + egg whites, salsa, spinach, corn tortilla **or** lactose-free yogurt + WPI + banana |
 | **3 Lunch** | Chicken or flank + black beans + fajita veg + avocado + multi; tortillas OK in macro budget |
-| **4 Pre-mat** | WPI in water or turkey breast — no deli “with pickle/mustard” kits |
-| **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickle/mustard |
+| **4 Pre-mat** | WPI in water or turkey breast — no deli **pickle** kits |
+| **5/6 Dinner** | **Wife-cooked** — lean protein + beans/veg when possible; portion to macros; chili staple OK → `nutrition/recipes/turkey_chili.md`; no pickles |
 | **Peri carbs** | Banana + honey + salt, or salted rice cakes + honey/jam — not pickle juice folklore |
 
 ## Restaurant / takeout defaults
 - Mexican spots: bowls/plates with beans, rice portion controlled, fajitas, skip chips-and-salsa bottomless if it blows carbs — ask **no pickles** on anything American-Mex fusion
-- American spots: grilled entrées, burgers without pickle/mustard (say so explicitly), BBQ with sweeter tomato sauce; avoid pickle sides and mustard-heavy dressings
+- American spots: grilled entrées, burgers **no pickle** (and skip mustard on the bun); BBQ tomato/molasses fine even if mustard is in the sauce; avoid pickle sides
 
 ## Binge / overeat firewall (your stated problem)
 This is the main reason the day is gated — not willpower lectures.
@@ -221,4 +225,4 @@ This is the main reason the day is gated — not willpower lectures.
 Hard GB nights: Gate 5 shake **before** you get home hungry. Empty-kitchen arrival is high-risk.
 
 ## Agent rule
-Never suggest pickles, pickle juice, or mustard as a default condiment. Prefer Mexican seasoning profiles and clean American grilled plates that hit Phase protein/bean targets. Log reported meals to `journal/meals.csv`. After binge reports: no scolding, no “earn it” cardio — next Gate + optional Kaiser escalation if binges are frequent.
+Never suggest pickles or pickle juice. Don’t put mustard on burgers/dogs; mustard in BBQ/sauces is fine. Prefer Mexican seasoning + clean American plates that hit Phase protein/bean targets. Log meals to `journal/meals.csv`. After binge reports: no scolding — next Gate + optional Kaiser if frequent.

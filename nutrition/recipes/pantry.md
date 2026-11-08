@@ -4,33 +4,38 @@ Taste rules → `../preferences.md`. Recipes link here instead of vague “BBQ s
 Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check the label (formulas change).
 
 ## BBQ sauce (deep dive)
-**Hate mustard** → never buy a sauce with mustard / mustard flour / mustard seed on the label.
+**Mustard:** OK in BBQ/sauces. **Not** as a blob on burgers/hot dogs (preference).
 
-| Rank | Exact product | Why | Per **2 tbsp** (use this amount) |
-|------|---------------|-----|----------------------------------|
-| **1 — Phase default** | **G Hughes Smokehouse Sugar Free Sweet & Spicy BBQ** (18 oz) | Tomato-based, **no mustard**, ~**10 kcal · 2C · 0 sugar**, common grocery | Brush chicken; don’t drown |
+| Rank | Exact product | Why | Per **2 tbsp** |
+|------|---------------|-----|----------------|
+| **1 — Phase default** | **G Hughes Smokehouse Sugar Free Sweet & Spicy BBQ** (18 oz) | Tomato-based, ~**10 kcal · 2C · 0 sugar** | Brush chicken; don’t drown |
 | **1b milder** | **G Hughes Sugar Free Original BBQ** | Same macros family, less heat | Same portion |
-| **2 — classic molasses taste** | **Stubb’s Original Barbecue Sauce** (US 18 oz; McCormick) | Tomato + molasses + vinegar, **US label has no mustard** (verify your bottle) | ~**30 kcal · 7C · 5 sugar** |
-| **2b sweeter** | **Stubb’s Sticky Sweet** | Brown sugar + molasses; no mustard on US label | ~**60 kcal · 13C · 11 sugar** — still **2 tbsp max** |
-| Costco alt | **Rib Rack Original** (when in stock) | Tomato paste + molasses + brown sugar; no mustard listed | Check current Costco item |
+| **2 — classic molasses** | **Stubb’s Original Barbecue Sauce** (US 18 oz) | Tomato + molasses + vinegar | ~**30 kcal · 7C · 5 sugar** |
+| **2b sweeter** | **Stubb’s Sticky Sweet** | Brown sugar + molasses | ~**60 kcal · 13C · 11 sugar** — **2 tbsp max** |
+| OK if he likes it | Mustard-forward / mustard-based BBQ (e.g. some Carolina-gold styles) | Taste OK — still portion **2 tbsp**; vinegar-bomb Carolina still not daily | Log sugar/sodium |
+| Costco alt | **Rib Rack Original** (when in stock) | Tomato + molasses | Check item |
 
-**Do not buy**
-- **Sweet Baby Ray’s Original** — contains **mustard flour**
-- Carolina / vinegar-forward “eastern” sauces
-- Any bottle listing mustard, mustard seed, or mustard flour
+**Prefer not (macros, not mustard ban)**
+- **Sweet Baby Ray’s Original** — HFCS-heavy (~70 kcal / 17g sugar per 2 tbsp); fine rarely if that’s what’s out, not the staple bottle
+- True vinegar-forward eastern Carolina as the everyday bottle
 
-**Rule:** Phase default = **G Hughes SF Sweet & Spicy**. Want nostalgic molasses? **Stubb’s Original**, still **2 tbsp**.
+**Rule:** Stock **G Hughes SF Sweet & Spicy**. Want molasses? **Stubb’s**. Mustard-based BBQ is allowed — still **2 tbsp**.
 
 ---
 
 ## Salsa / Mexican
 | Need | Buy |
 |------|-----|
-| Jar salsa (everyday / salsa chicken) | **Kirkland Signature Organic Medium Salsa** (Costco, 2×38 oz) — tomatoes, jalapeño, cilantro, lime; ~10 kcal/2 tbsp |
-| Fresh pico vibe (Sam’s) | **Member’s Mark Fresh Cilantro Pico de Gallo Style Salsa** (fridge) |
-| Chipotle for tinga | **La Costeña Chipotle Peppers in Adobo** (7 oz can) — start with **1 pepper** + 1 tsp sauce |
+| Jar salsa (everyday / salsa chicken) | **Kirkland Signature Organic Medium Salsa** (Costco, 2×38 oz) |
+| Fresh pico vibe (Sam’s) | **Member’s Mark Fresh Cilantro Pico de Gallo Style Salsa** |
+| Chipotle for tinga | **La Costeña Chipotle Peppers in Adobo** — start **1 pepper** + 1 tsp sauce |
 | Corn tortillas (default) | **Guerrero** or **Mission white corn** — see nixtamal below |
 | Occasional wrap | **Mission Zero Net Carbs** / **Carb Balance** — not Milpa |
+| Chili packet | **McCormick Original Chili Seasoning** (1.25 oz) — stretch with cumin/chili powder; see `turkey_chili.md` |
+| Beans | **Kirkland Organic Black Beans** or **no-salt-added** black/pinto — **rinse** |
+| Tomatoes | **Hunt’s** or **Kirkland** diced / fire-roasted — prefer **no salt added** |
+| Broth | **Kirkland Signature Chicken Broth** (or low-sodium carton) |
+| Fideo | **La Moderna** / **Don Francisco** fideo, or broken thin spaghetti — portion dry by oz |
 
 ### What is a nixtamal corn tortilla?
 **Nixtamalization** = dried corn cooked/soaked in **limewater** (calcium hydroxide), then ground into masa and pressed into tortillas. That’s the traditional Mesoamerican process (same family as homemade tortillas / tortillerías).
@@ -46,15 +51,10 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 |-------|----------------|
 | **Costco** | **Guerrero 6" corn / white corn** multipacks (often 100–110 ct) when stocked |
 | **Sam’s Club** | **Mission Super Soft 6" White Corn** (often ~110 ct) and/or Guerrero |
-| **Vons / Ralphs / Albertsons / Northgate / Vallarta** | Smaller packs of Guerrero, Mission, or **La Banderita** corn — fridge/bread aisle |
-| **Local tortillería / Mexican market** | Fresh warm corn tortillas (best texture) — still nixtamal if made from masa |
+| **Vons / Ralphs / Albertsons / Northgate / Vallarta** | Smaller packs of Guerrero, Mission, or **La Banderita** corn |
+| **Local tortillería / Mexican market** | Fresh warm corn tortillas (best texture) |
 
 **Buy:** soft **white or yellow corn**, 6" street-taco size. Warm on a dry skillet 20–30 sec/side. Freeze extras flat with parchment if the warehouse pack is huge.
-| Chili packet | **McCormick Original Chili Seasoning** (1.25 oz) — stretch with cumin/chili powder; see `turkey_chili.md` |
-| Beans | **Kirkland Organic Black Beans** or any **no-salt-added** black/pinto — **rinse** |
-| Tomatoes | **Hunt’s** or **Kirkland** diced / fire-roasted — prefer **no salt added** |
-| Broth | **Kirkland Signature Chicken Broth** (or low-sodium carton) |
-| Fideo | **Barilla** thin spaghetti broken, or **Mexican fideo** coils (e.g. **La Moderna** / **Don Francisco**) — portion dry by oz |
 
 ---
 
@@ -63,10 +63,11 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 |------|-----|
 | Ground turkey | **99/1** (Jennie-O / Butterball / store lean) — chili default |
 | Rotisserie | **Kirkland** (Costco) or **Member’s Mark** (Sam’s) — **skin off** |
-| Egg whites | Carton liquid egg whites (Egg Beaters 100% / store brand) |
-| Lactose-free yogurt | **0% lactose-free Greek** (e.g. **Lüq** / **Green Valley** / store LF) |
-| Light mayo (sandwich) | **Hellmann’s Light** or **Best Foods Light** — not Miracle Whip; still **no mustard** |
-| Soft sandwich bread | Soft white/wheat you like — **2 slices**; or corn tortillas |
+| Egg whites | Carton liquid egg whites |
+| Lactose-free yogurt | **0% lactose-free Greek** |
+| Light mayo (sandwich) | **Hellmann’s Light** or **Best Foods Light** |
+| Soft sandwich bread | Soft white/wheat — **2 slices**; or corn tortillas |
+| Burger/dog toppings | Salsa, ketchup, light mayo, BBQ — **skip mustard on the bun** (OK in cooked sauces) |
 
 ---
 
@@ -74,9 +75,10 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 | Need | Buy |
 |------|-----|
 | Soda stand-in | **Fresca** classic cans (warehouse multipack) |
-| SF shaved ice | **Torani Sugar Free** syrup (flavor you like) |
+| SF shaved ice | **Torani Sugar Free** syrup |
 
 ---
 
-## Hard avoid (don’t stock)
-Pickles · pickle relish · mustard (any) · Sweet Baby Ray’s · Carolina vinegar BBQ · condensed-milk dessert toppings as staples
+## Hard avoid (don’t stock as staples)
+Pickles · pickle relish · everyday vinegar-bomb Carolina BBQ · condensed-milk dessert toppings  
+**(Not a ban:** mustard in BBQ/sauces · mustard as burger topping is the only skip)

@@ -3,7 +3,7 @@
 Liked meal deep-dive. Taste rules → `nutrition/preferences.md`. Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`.
 
 ## Your build
-Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle/mustard conflict.
+Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle conflict.
 
 ## Meat choice — default **99/1 turkey**; lean beef OK as a swap
 Phase 1 fat cap is **72g**. Chili tomatoes + beans keep ultra-lean meat moist.

@@ -60,7 +60,7 @@ Shop **Costco / Sam’s Club** first (you have both), then normal grocery for an
 - 5–6 avocados · tomatoes/tomatillos/onion/cilantro/peppers (salsa/fajita) · spinach · bananas · honey · salted rice cakes
 - **Chili staples:** chili seasoning packets · canned diced tomatoes (**no salt added** preferred) · extra cumin/chili powder/garlic powder to stretch mix without double sodium
 - **Tired-night backups** (wife wiped / no cook): rotisserie chicken · frozen cooked chicken strips or lean meatballs · extra canned beans · 1–2 lower-sodium canned soups to *upgrade* with chicken — see `nutrition/preferences.md` fallbacks
-- Condiments (exact → `nutrition/recipes/pantry.md`): **Kirkland Organic Medium Salsa** · **G Hughes SF Sweet & Spicy BBQ** (default) or **Stubb’s Original** · **Hellmann’s Light** · **La Costeña chipotle in adobo** — **do not buy pickles, mustard, or Sweet Baby Ray’s**
+- Condiments (exact → `nutrition/recipes/pantry.md`): **Kirkland Organic Medium Salsa** · **G Hughes SF Sweet & Spicy BBQ** (default) or **Stubb’s** · **Hellmann’s Light** · **La Costeña chipotle** — **no pickles**; mustard OK in BBQ, not as burger topping
 - Tortillas: **Guerrero or Mission white corn** (default); zero-net wraps only occasional
 - Drinks: **Fresca** classic · optional **Torani SF** syrup
 - Dispensary: `stack/supplements.md` (Kirkland D3 / multi / fish oil)

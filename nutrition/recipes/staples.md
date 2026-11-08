@@ -2,7 +2,7 @@
 
 Taste → `../preferences.md`. Exact brands → [`pantry.md`](pantry.md). Chili → `turkey_chili.md`. Crock → `slow_cooker.md`.
 
-**Plate default:** palm+ lean protein (~45–60g) · beans or **1** moderate starch · veg · salsa/lime · light avocado if fat allows · **no pickle/mustard**.
+**Plate default:** palm+ lean protein (~45–60g) · beans or **1** moderate starch · veg · salsa/lime · light avocado if fat allows · **no pickles**; skip mustard on burgers/dogs only.
 
 ---
 
@@ -50,9 +50,9 @@ Taste → `../preferences.md`. Exact brands → [`pantry.md`](pantry.md). Chili 
 | Chicken breast or **Kirkland/Member’s Mark rotisserie** (skin off) | **~6–8 oz** |
 | BBQ | **2 tbsp G Hughes Sugar Free Sweet & Spicy** (Phase default) — *or* **2 tbsp Stubb’s Original** if you want molasses taste |
 | Potato | **1 medium** microwaved/baked |
-| Veg | Broccoli / green beans / salad — dressing = salsa or tiny Hellmann’s Light, **never** pickle/mustard |
+| Veg | Broccoli / green beans / salad — salsa or tiny Hellmann’s Light; **no pickles** |
 
-**Do not use Sweet Baby Ray’s** (mustard flour). Details → `pantry.md`.
+Prefer **G Hughes** over sugary bottles as the staple — details → `pantry.md`.
 
 ---
 
@@ -60,7 +60,7 @@ Taste → `../preferences.md`. Exact brands → [`pantry.md`](pantry.md). Chili 
 | Exact | Amount |
 |-------|--------|
 | **99/1** turkey | **2× ~4 oz** patties (or 1 large) |
-| Toppings | Lettuce, tomato, onion, **Kirkland salsa** — **no pickle/mustard** |
+| Toppings | Lettuce, tomato, onion, **Kirkland salsa** / ketchup / BBQ — **no pickle**; **no mustard on the bun** |
 | Side | Beans **or** 1 small potato — prefer beans |
 | Bun | Optional thin soft bun only if carbs remain |
 
@@ -90,7 +90,7 @@ Target Gate 1 **~45g protein**. **Fresca** OK.
 ---
 
 ## 8. Turkey sandwich
-Soft bread **2 slices** · sliced turkey breast · lettuce/tomato · **Kirkland salsa** or **Hellmann’s Light** — **never pickle/mustard**. Side: apple or carrots, not chips.
+Soft bread **2 slices** · sliced turkey breast · lettuce/tomato · **Kirkland salsa** or **Hellmann’s Light** — **no pickle**. Side: apple or carrots, not chips.
 
 ---
 
