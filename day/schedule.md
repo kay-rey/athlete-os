@@ -40,7 +40,7 @@ Doses/brands → `stack/supplements.md`.
 
 | Gate | Clock (typical) | Action |
 |------|-----------------|--------|
-| **1** | On wake | 45g protein + D3 + fish oil #1 |
+| **1** | On wake | 45g protein + D3 + fish oil #1 — **do not skip for fasting/focus.** If using L-tyrosine for AM work: take it first, then Gate 1 ~20–30 min later (`stack/supplements.md`) |
 | **2** | ≈12:40 | Psyllium (2.5g Wk1 / 5g Wk2+) — ≥2h from sertraline & hard mats |
 | **3** | ≈1:00 | 50g protein + 150g black beans + veggies + **multi** |
 | **3.5** | **3:00** | **Sertraline 75 mg** |

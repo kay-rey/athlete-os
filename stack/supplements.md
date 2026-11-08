@@ -20,7 +20,20 @@
 ## Still buy / already planned
 Creatine 5g daily · zero-lactose WPI · psyllium · collagen 15–20g + Vit C 50–200 mg (Tue/Fri pre-lift) · electrolytes (hard GB).
 
+## Optional — AM work focus
+| Bottle | Facts | Dose in plan |
+|--------|-------|--------------|
+| **L-Tyrosine** (free-form) | Catecholamine precursor (DA/NE). Human data is strongest under **acute stress / sleep debt / cold**, not as a daily nootropic in a fed state. Typical study doses **500–2,000 mg**. Prefer **L-tyrosine** over NALT (N-acetyl) — NALT absorption/conversion is weaker/less consistent. | **500–1,000 mg** on wake with water **20–30 min before Gate 1**, then eat. Cap **≤2,000 mg**. Work block after the meal. Not a Gate 1 substitute. |
+
+### L-Tyrosine — fit for this athlete
+- **Why before food:** large protein meals compete for transporters; empty-stomach timing is the usual practice.
+- **Why still eat:** Gate 1 protein is the anti-binge lever and carries D3 + fish oil #1. Fasting for tyrosine “focus” is a bad trade for you.
+- **Rx:** On **sertraline 75 mg** (SSRI). Tyrosine is not an MAOI interaction, but do **not** escalate dose for anxiety/panic spikes — keep ≤1 g unless your MD clears higher. Stop and tell Kaiser if you get jittery, headache, or racing thoughts.
+- **Quality:** single-ingredient free-form; NSF/USP or a clean Costco/Sam’s / known brand when possible. Skip blends with high caffeine stacked on top unless you already tolerate that separately.
+- **Not required** for Phase 1 recomp — optional cognitive tool only.
+
 ## Constraints
 - Multi lunch ≠ Mg bedtime (≥9h)
 - Psyllium ≥2h from sertraline and hard mats
 - Zero GLP-1 · zero-lactose protein only
+- L-tyrosine before Gate 1, never instead of Gate 1 · ≤2,000 mg
