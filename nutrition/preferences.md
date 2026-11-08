@@ -113,6 +113,28 @@ Common SKUs: **Mission® Zero Net Carbs** (Original), similar “carb balance”
 
 **Verdict:** Corn + beans beat zero-net wraps for health. Wraps are a **liked convenience**, not a fiber upgrade.
 
+## Sandwich bread — including “Carb Balance”
+Same story as zero-net wraps. You are on **Phase 1 · 215g carbs** — you are **not** keto. “Net carb” bread does not improve recomp.
+
+| | Soft whole wheat / soft white (2 slices) | **Mission Carb Balance** / keto-style bread |
+|--|------------------------------------------|-----------------------------------------------|
+| Job | Real starch for the sandwich | Marketing fiber (modified wheat starch, gluten, gums) |
+| Milpa? | No — but honest sandwich carb | No |
+| Fiber | Modest from wheat | Sky-high **added** fiber on top of beans + **psyllium** → bloat risk |
+| Satiety | Normal bread + turkey fills | Easy to think it’s “free” and overbuild |
+| Phase fit | Fits the **215g C** budget on purpose | “Saves” carbs you don’t need to save |
+
+| Rank | Buy | Rule |
+|------|-----|------|
+| **1 — Best** | Soft **whole wheat** sandwich loaf (Kirkland / Oroweat / Nature’s Own 100% WW / similar) | **2 slices** per sandwich |
+| **1b** | Soft white if that’s what you’ll actually eat | Same portion — adherence > perfect grain |
+| **2** | Thin-sliced whole wheat (Dave’s thin, etc.) | Still **2 slices**; log label |
+| **3 — Occasional** | **Carb Balance** / keto bread | Liked texture OK sometimes — log **total** carbs/calories, not “0 net”; not daily |
+| **Alt no loaf** | **2 corn tortillas** as the “bread” | Milpa-friendlier sandwich |
+
+**Skip as the staple:** Carb Balance “for the fiber,” cloud bread every day, double Carb Balance + chips.  
+**Verdict:** Buy a normal soft loaf. Carb Balance is the wrap trick in bread form — fine rare, **not** healthier for you.
+
 ## Soups — healthy to make? (yes — Phase defaults)
 
 Homemade > restaurant/canned. All four fit taste. **Healthiest pattern:** lean protein + veg volume + **moderate** potato *or* noodle (not both piled), low-sodium broth. Taste likes heavy potato/noodle — **do not prescribe heavy as the default**.

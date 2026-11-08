@@ -66,7 +66,7 @@ Shop **Costco / Sam’s** first; grocery for anything missing. Always re-check t
 | Egg whites | Carton liquid egg whites |
 | Lactose-free yogurt | **0% lactose-free Greek** |
 | Light mayo (sandwich) | **Hellmann’s Light** or **Best Foods Light** |
-| Soft sandwich bread | Soft white/wheat — **2 slices**; or corn tortillas |
+| Soft sandwich bread | **Best:** soft **whole wheat** or soft white (**2 slices**) — Kirkland / Oroweat / Nature’s Own / similar. **Also OK:** thin-sliced whole wheat (Dave’s thin, etc.). **Occasional only:** Mission **Carb Balance** / keto bread (same logic as zero-net wraps — not an upgrade). **Or** skip loaf → **2 corn tortillas**. Details → `../preferences.md` bread section |
 | Burger/dog toppings | Salsa, ketchup, light mayo, BBQ — **skip mustard on the bun** (OK in cooked sauces) |
 | Breakfast sausage | **Jennie-O Turkey Breakfast Sausage** patties/links (lean default) |
 | Bacon | **Jennie-O Turkey Bacon** (default) · pork bacon occasional **2 slices** |
