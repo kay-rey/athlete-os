@@ -14,6 +14,20 @@ Research basis: `archive/research/grappler_recomp_playbook.md` (2-day high-tensi
 
 **Do not add** random third lift days, isolation fluff, or failure sets in Weeks 1–4.
 
+## Why not a 3rd lift day?
+Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym stimulus.”
+
+| | 2× MED (default) | Add a 3rd lift day |
+|--|------------------|--------------------|
+| Strength / LBM in a deficit | High % of what’s recoverable | **Small** extra if sleep/GB stay perfect; often **zero** net if GB quality drops |
+| Fatigue | Fits under Thu hard GB + Flow | Stacks CNS/joint tax on elbows/shoulders/spine already used for gi |
+| Schedule | Tue/Fri noon clean | Needs a slot that isn’t Wed GB, Thu GB, or sleep — usually steals from mats or recovery |
+| Tendons (Wk 1–4) | Controlled remodeling | Extra frequency ≠ faster tendon adapt; failure volume raises injury risk |
+
+**Expected gain from +1 day (honest):** maybe a bit more upper-back/leg volume on paper; in practice for a brown belt in a cut with hard GB twice weekly, you’re looking at **marginal strength** (often within noise) and a real chance of **worse Thu/Wed rolls** or nagging elbows. Hard GB already supplies high-tension isometric and pulling work the lift days don’t need to duplicate.
+
+**When to reconsider 3×:** after Phase 1 (or Maintenance) if GB 2× is easy, sleep is solid, waist is moving, and Lift A/B loads are stalling at RPE cap with perfect recovery — then add a short third session, don’t inflate Tue/Fri to 90 min.
+
 ## Session slot
 | | When |
 |--|------|
