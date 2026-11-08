@@ -27,7 +27,7 @@ Shop **Costco / Sam’s** for bulk Kirkland/Member’s Mark; **Walmart (−10% w
 | Need | Buy |
 |------|-----|
 | Jar salsa (everyday / salsa chicken) | **Kirkland Signature Organic Medium Salsa** (Costco, 2×38 oz) |
-| Fresh pico vibe (Sam’s) | **Member’s Mark Fresh Cilantro Pico de Gallo Style Salsa** |
+| Fresh pico vibe | Refrigerated pico **without cilantro** if available · else jar salsa (wife dislikes cilantro) |
 | Chipotle for tinga | **La Costeña Chipotle Peppers in Adobo** — start **1 pepper** + 1 tsp sauce |
 | Corn tortillas (default) | **Guerrero** or **Mission white corn** — see nixtamal below |
 | Satiety wrap | **Mission Carb Balance** / **Zero Net** — OK if gut quiet; keep beans + psyllium |
@@ -81,7 +81,7 @@ Shop **Costco / Sam’s** for bulk Kirkland/Member’s Mark; **Walmart (−10% w
 | Peri + breakfast | **Bananas** (bunch) — hard-GB clamp + oatmeal |
 | Everyday fruit | Berries (fresh or **unsweetened frozen**) · apples · clementines/oranges — **1 serving** at a time |
 | Fat | **Avocados** 5–6 / week |
-| Flavor veg | Spinach · peppers · onion · tomatoes/tomatillos · cilantro · squash · limes |
+| Flavor veg | Spinach · peppers · onion · tomatoes/tomatillos · squash · limes — **no cilantro** (wife) |
 | Peri backup | **Honey** · **salted rice cakes** |
 | Skip | Juice jugs · dried mango/trail tubs · sugar-syrup fruit cups |
 

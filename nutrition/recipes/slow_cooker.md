@@ -38,7 +38,7 @@ Full macros → `turkey_chili.md`. Crock version:
 | Frozen corn (optional) | **1 cup** |
 | Onion + garlic | 1 onion, 3 cloves |
 | Chili powder, cumin, oregano, salt | To taste |
-| Lime + cilantro | Finish at serving |
+| Lime (no cilantro — wife dislike) | Finish at serving |
 
 **Cook:** Low **6–7 h** or High **3–4 h**. Shred chicken in pot; stir.  
 **Serve:** Bowl of soup + **few** baked corn tortilla strips (or 1 warm tortilla on the side if carbs allow). Light avocado OK. Skip sour cream lake.  
@@ -81,7 +81,7 @@ Slightly more work (form balls once). Batch Sunday.
 
 | Meatballs | Broth pot |
 |-----------|-----------|
-| **2 lb 99/1 turkey** + minced onion/garlic + handful rice or masa + salt/cumin/oregano; roll golf-ball size | Low-sodium broth **6 cups** + **1 medium potato** cubed + carrot/zucchini/tomato + cilantro |
+| **2 lb 99/1 turkey** + minced onion/garlic + handful rice or masa + salt/cumin/oregano; roll golf-ball size | Low-sodium broth **6 cups** + **1 medium potato** cubed + carrot/zucchini/tomato (**no cilantro**) |
 
 **Cook:** Drop raw or lightly browned meatballs into simmering broth in cooker; Low **5–6 h** or High **3–4 h**.  
 **Bowl:** Several meatballs + veg + **one** potato portion (~medium across servings — don’t load 2 potatoes per person).

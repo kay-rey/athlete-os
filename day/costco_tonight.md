@@ -59,7 +59,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 | Fat | **Hass avocados** 5–6 | Guacamole cups only if plain avocado out (portion) | Huge guac tub as free food |
 | Greens | **Baby spinach** clamshell/bag | Mixed salad greens · frozen spinach | Creamy salad kits |
 | Fajita veg | **Bell peppers** + **yellow/white onions** | Frozen pepper/onion blend | — |
-| Salsa veg | Tomatoes **or** tomatillos + **cilantro** + **limes** | Extra limes | — |
+| Salsa veg | Tomatoes **or** tomatillos + **limes** + onion (**no cilantro** — wife) | Extra limes | Cilantro bunches |
 | Volume veg | Zucchini / squash | Frozen zucchini · broccoli bags | — |
 | Extra fruit (pick **one**) | Fresh **berries** **or** **apples** **or** **clementines** | **Unsweetened frozen berries** | Juice · dried mango/trail tubs · syrup fruit cups |
 

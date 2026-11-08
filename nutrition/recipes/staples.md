@@ -16,7 +16,7 @@ Taste → `../preferences.md`. Exact brands → [`pantry.md`](pantry.md). Chili 
 | Cumin, oregano, salt | To taste |
 
 **Cook:** Simmer 20–25 min stove, shred; or crock Low 5–6 h / pressure ~12 min.  
-**Bowl:** tinga + **150g rinsed black beans** (Kirkland Organic) + fajita veg + **1–2 Guerrero/Mission white corn tortillas**. Lime/cilantro.
+**Bowl:** tinga + **150g rinsed black beans** (Kirkland Organic) + fajita veg + **1–2 Guerrero/Mission white corn tortillas**. Lime (**no cilantro**).
 
 ---
 

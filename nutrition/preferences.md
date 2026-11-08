@@ -37,7 +37,8 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 
 ## Likes (lean into these)
 - **Chicken cut:** **breast over thighs** — always default boneless skinless breast (fresh, frozen IQF, salsa chicken, fajitas, soups). Thighs only if breast is gone; trim well. Rotisserie OK (skin off).
-- **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico, guacamole, roasted peppers/onions, squash, cilantro-lime (go light on pure vinegar)
+- **Household dislike — cilantro:** **Wife hates cilantro.** Keep it **off all recipes**, grocery lists, and finishes. Use **lime, onion, salsa, cumin, oregano** instead. Skip cilantro pico / cilantro-labeled fresh salsas when jar salsa works.
+- **Mexican / Mesoamerican:** fajitas, carne asada / flank, chicken tinga-style bowls, black/pinto beans, nixtamalized corn tortillas, eggs with salsa, pico (no cilantro), guacamole, roasted peppers/onions, squash, lime (go light on pure vinegar)
 - **“Carb-free” / zero-net-carb / Carb Balance tortillas** (liked) — OK satiety vehicle if gut quiet; keep beans + psyllium — see wraps below
 - **American (recomp-friendly):** grilled chicken/turkey/steak, burgers **lettuce-wrap or thin bun** (ketchup/salsa OK — **skip mustard on burger/dog**), eggs & egg-white scrambles, baked potato / rice (peri or Phase 3), turkey sandwiches on soft bread **without pickle**, BBQ chicken — default **G Hughes SF Sweet & Spicy** (macros) or **Stubb’s** / other tomato-molasses incl. mustard-based BBQ if he likes it — see `recipes/pantry.md`, meat-and-potato plates, oatmeal/banana peri carbs
 - **American breakfast (liked):** eggs, hashbrowns, sausage, bacon — mix with Mexican (salsa, beans, corn tortillas, pico). **Oatmeal** liked. Builds → breakfast section below; brands → `recipes/pantry.md`
@@ -151,9 +152,9 @@ Homemade > restaurant/canned. All four fit taste. **Healthiest pattern:** lean p
 ### Shared Phase rules (tell wife / batch cook)
 - Broth: **low-sodium** chicken broth + salt to taste (or no-salt tomatoes + cumin/chili/oregano/lime)
 - Protein: **lean and generous** — **chicken breast** (preferred), **99/1 turkey** or **96/4** meatballs; drain fat. Target ~**45–60g protein** / bowl
-- Veg: onion, garlic, carrot, celery, zucchini, tomato, cilantro — **this is the volume**, not extra pasta
+- Veg: onion, garlic, carrot, celery, zucchini, tomato — **this is the volume**, not extra pasta (**no cilantro**)
 - Starch: **potato preferred over noodle** when choosing one; Phase default = moderate (table); heavy = occasional, not nightly
-- Finish: lime, cilantro, salsa; light avocado if fat allows; skip sour cream lakes / cheese dumps
+- Finish: lime, salsa; light avocado if fat allows; skip sour cream lakes / cheese dumps / cilantro
 - Costco/Sam’s: rotisserie (skin off), broth, frozen veg, potatoes, fideo/egg noodles, 99/1 turkey
 
 ### Starch defaults (Phase 1) — healthiest first
