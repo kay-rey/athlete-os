@@ -40,14 +40,17 @@ Doses/brands → `stack/supplements.md`.
 
 | Gate | Clock (typical) | Action |
 |------|-----------------|--------|
-| **1** | On wake | 45g protein + D3 + fish oil #1 |
-| **2** | ≈12:40 | Psyllium (2.5g Wk1 / 5g Wk2+) — ≥2h from sertraline & hard mats |
+| **1** | On wake | 45g protein + D3 + fish oil #1 — **do not skip for fasting/focus.** If using L-tyrosine for AM work: take it first, then Gate 1 ~20–30 min later (`stack/supplements.md`) |
+| **2** | ≈12:40 | **Psyllium before lunch** (2.5g Wk1 / 5g Wk2+ in ~12 oz water + chase water) — wait **15–20 min**, then Gate 3. ≥2h from sertraline & hard mats |
 | **3** | ≈1:00 | 50g protein + 150g black beans + veggies + **multi** |
 | **3.5** | **3:00** | **Sertraline 75 mg** |
 | **4** | 4:30 | 25g protein → ≥100g by 5:00 (target 110–125) |
-| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → T+45 psyllium → **wife’s dinner** (portion/track) + fish oil #2 |
-| **6** | Teach-only / easy nights | Psyllium → **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
+| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → T+45 **psyllium → wait 15–20 min →** **wife’s dinner** (portion/track) + fish oil #2 |
+| **6** | Teach-only / easy nights | **Psyllium → wait 15–20 min →** **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
+
+**Psyllium = before lunch + before dinner only — never before Gate 1 and never mixed into / taken with breakfast.**  
+Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — a gel first (or with the eggs) makes that plate harder to finish; (2) D3 + fish oil #1 ride with that meal — soluble fiber taken at the same time can bind fat-soluble nutrients; (3) Tue/Fri lift is ~45 min after breakfast — gelled gut is the wrong prep; (4) tyrosine already owns the empty-stomach slot before Gate 1; (5) binge risk is lunch/dinner, so those are the two doses that earn the gel. Lunch/dinner still get the **15–20 min pre-meal** drink (not stirred into the food).
 
 ---
 
