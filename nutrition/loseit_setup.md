@@ -13,6 +13,17 @@ Tracking app SoT for daily logging. Macros → `nutrition/phases.csv`. Wife cook
 
 Check: 185×4 + 215×4 + 72×9 = 740+860+648 = **2,248** ≈ 2,250.
 
+### Ignore Lose It’s “you’ll hit goal on [date]” banner
+That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Lose It’s own (usually lower/sedentary) TDEE until scale = goal weight. It is **not** this OS timeline.
+
+| | Lose It banner | Athlete-OS |
+|--|----------------|------------|
+| Calories | Flat 2,250 forever | Phases: 2250 → 2200 → 2550 reset → 2150 → **2500** maintenance (`nutrition/phases.csv`) |
+| End date | App math (often slow) | **Week 21 ≈ Apr 4, 2027** → ~172 lb target band |
+| Progress rule | Calendar countdown | **Waist + adherence + GB/lifts**; ICW may stall scale Wk 1–3 |
+
+**Use Lose It only to log food against the budget/macros.** Do not change training or panic-cut because the app says September.
+
 ## Step-by-step (iPhone)
 
 ### 1. Profile & weight
