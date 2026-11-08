@@ -4,6 +4,8 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 
 **Hierarchy:** Likes tell the agent *what flavors you’ll stick with*. They do **not** set portion size. When taste pulls toward heavy starch / binge-prone builds, default advice is whatever is **healthiest for Phase recomp + anti-binge** (protein, Milpa, satiety) — still using foods he enjoys, just not maxed.
 
+**Substitutions:** Always offer a **healthier swap** when a liked food has a cleaner Phase option (e.g. hash browns → veg volume or measured roasted potato; bacon → skip or turkey rare). Don’t wait to be asked.
+
 ## Household cooking
 - **Wife cooks most dinners** when she has energy. **He does not enjoy cooking** — don’t assign him chef duty or elaborate self-cooked menus.
 - Your job: hit Gates **1–4** yourself (breakfast, lunch, pre-mat protein); at dinner **portion/track** what she made (or the low-effort fallback) toward Phase macros.

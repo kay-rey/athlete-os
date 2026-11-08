@@ -74,10 +74,11 @@ Target ~**45g protein**. Brands → `pantry.md`. **Fresca** OK.
 |-------|--------|
 | Whole eggs | **2** |
 | Carton egg whites | **1–1.5 cups** |
-| **Kirkland salsa** / pico / peppers / spinach | Flavor + volume |
-| Hashbrowns (optional) | **¾–1 cup cooked**, air-fry/bake |
-| Corn tortilla | **0–1** |
-| Turkey sausage/bacon | **Omit** unless craving |
+| Peppers / onion / spinach / zucchini | **Hash-brown substitute** — volume |
+| **Kirkland salsa** / pico | Flavor |
+| Black beans (optional) | **½ cup** rinsed |
+| Corn tortilla | **0–1** if you want a starch side |
+| Hash browns / turkey sausage / bacon | **Omit** unless craving |
 
 ### B) Oatmeal protein bowl
 | Exact | Amount |
