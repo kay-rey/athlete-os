@@ -34,8 +34,8 @@ Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals t
 ### 4. Training (rules → `calendar/academies.md` + `strength/lifts.md`)
 | Item | Done | Notes |
 |------|------|-------|
-| Lift A | Y/N | double-progression? |
-| Lift B | Y/N | double-progression? |
+| Lift A (Mon) | Y/N | double-progression? |
+| Lift B (Fri) | Y/N | double-progression? |
 | Thu GB hard midday | Y/N | |
 | Wed GB (if alert) | Y/N/skip | |
 | Sat GB (if Wed skip) | Y/N/n/a | |

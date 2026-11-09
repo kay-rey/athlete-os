@@ -96,13 +96,13 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 ### Suggested focus bias (not rigid)
 | Day | After drop-off / morning block | Afternoon |
 |-----|--------------------------------|-----------|
-| **Tue** | Nap → Gate 1 → short deep work → Lift A | Flow teach |
-| **Wed** | Early morning already — nap if possible; light admin only | GB **only if green**; else recover → Flow PM |
-| **Thu** | Nap → Gate 1 → short work | Gate 5 GB midday → Flow PM light |
-| **Fri** | Nap → deep work → Lift B (Zero-Grinder if sleep trash) | Free / family / light Reyes admin |
-| **Sat** | Nap if needed → Flow AM + cleanup | GB only if Wed missed · else Reyes shoot if booked |
+| **Mon** | **Lift A** (no drop-off — best train day) → deep work after | Flow ± MT evening |
+| **Tue** | Second sleep → Gate 1 → **longest MasterBJJ/Reyes block** | Flow teach |
+| **Wed** | Early morning — second sleep if possible; light admin | GB **only if green**; else recover → Flow PM |
+| **Thu** | Second sleep → Gate 1 → short work | Gate 5 GB midday → Flow PM light |
+| **Fri** | Second sleep → deep work → **Lift B** (Zero-Grinder if sleep trash) | Free / family / light Reyes admin |
+| **Sat** | Second sleep if needed → Flow AM + cleanup | GB only if Wed missed · else Reyes shoot if booked |
 | **Sun** | Weigh + Zone 2 + grocery | Sleep bank · MasterBJJ planning ≤60–90 min |
-| **Mon** | Longest deep-work day (no drop-off) | Flow ± MT evening |
 
 Shoots for Reyes override the table — treat shoot days like hard GB: fuel, don’t stack ego lifting.
 

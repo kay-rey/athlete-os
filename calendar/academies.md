@@ -66,8 +66,9 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 | **2a Try** | **Wed** after Flow AM | Prefer **10:45 GB3 No-Gi**, else **12:00** + open mat | Hit #2 if alert. RPE 7–8. |
 | **2b Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | Hit #2 if Wed skipped. |
 | **3 Last resort** | **Fri** | **11:00 Comp** (before Lift B) or Fri **6:00** No-Gi (Lift B keeps **noon** blocked) | Only to finish 2× if Wed+Sat failed. |
-| Blocked | Tue / Fri **noon** | — | Lift A / Lift B |
-| Avoid as primary | Mon GB | — | Errands + Flow PM ± MT |
+| Blocked | **Mon / Fri noon** | — | **Lift A (Mon)** / **Lift B (Fri)** |
+| Avoid as primary | Mon midday GB | — | Conflicts Lift A; evening GB conflicts Flow teach |
+| Optional MT | **Mon after Flow** | — | Best striking night if hands/energy OK after Lift A + teach |
 
 **Week score:** Thu only = under target. Thu+Wed or Thu+Sat = **goal met**.
 
@@ -75,7 +76,7 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 
 | Day | Do | Skip |
 |-----|----|------|
-| **Mon** | Best MT night (no lift/GB). RPE ≤7.5 | Hands fried / family wins |
+| **Mon** | Still best MT night after Flow if not fried from Lift A. RPE ≤7.5 | Hands fried / family wins / wiped |
 | **Wed** | Only if **Wed GB skipped**; technical RPE ≤7 | After Wed GB; or wiped before Thu hard GB |
 
 MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT. Flow Adults ≠ GB credit and ≠ hard training.
@@ -83,6 +84,6 @@ MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT. Flow Adults ≠ GB credit 
 ## Invariants
 - **GB ≥2×/week** is a standing goal (table above)
 - Flow Adults rolling = light (white belts); hard stimulus lives at GB
-- Lifts Tue + Fri midday only (`strength/lifts.md`)
-- Mon daytime = wife errands (untracked NEAT)
+- Lifts **Mon + Fri** midday (`strength/lifts.md`) — Monday chosen because **no drop-off / best recovery**
+- Mon daytime = Lift A + deep work / errands (wife off — she works Tue–Sat)
 - Sun = Zone 2 + audit (`day/schedule.md`); GB Sun 9:00 exists on flyer but **not** a 2× target (recovery / Flow off)

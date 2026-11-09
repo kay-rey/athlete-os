@@ -10,11 +10,11 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 
 ## 7-day ops
 
-### Monday — Long deep-work day + Flow teach ± MT
-**No drop-off.** Wake ≈10:30–11 → scale → Gate 1 → **Reyes / MasterBJJ deep work** (phone-away) + errands NEAT → sertraline 3:00 → Gate 4 → Flow PM (Adults = white-belt room) → **optional MT** → Gate 6. No lift / no GB.
+### Monday — Lift A (best recovered day) + deep work + Flow ± MT
+**No drop-off · optimal train day.** Wake ≈10:30–11 → scale → Gate 1 (+30g carbs) + collagen → **Lift A 11:45–12:33** → deep work (phone-away) / errands → sertraline 3:00 → Gate 4 → Flow PM (white-belt room) → **optional MT** if not fried → Gate 6. No GB (noon is lift).
 
-### Tuesday — Drop-off → second sleep → Lift A + Flow teach
-**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** (CPAP; intentional, not lazy) → Gate 1 (+30g carbs) + collagen → short deep work → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00** (aim 11:30) + CPAP.
+### Tuesday — Drop-off → second sleep → deep work + Flow teach
+**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** (CPAP; intentional) → Gate 1 → **MasterBJJ / Reyes deep work** (no lift tax) → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00** (aim 11:30) + CPAP.
 
 ### Wednesday — Drop-off / Flow AM → energy fork → Flow PM ± MT
 Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.  
@@ -52,7 +52,7 @@ Doses/brands → `stack/supplements.md`.
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
 
 **Psyllium = before lunch + before dinner only — never before Gate 1 and never mixed into / taken with breakfast.**  
-Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — a gel first (or with the eggs) makes that plate harder to finish; (2) D3 + fish oil #1 ride with that meal — soluble fiber taken at the same time can bind fat-soluble nutrients; (3) Tue/Fri lift is ~45 min after breakfast — gelled gut is the wrong prep; (4) tyrosine already owns the empty-stomach slot before Gate 1; (5) binge risk is lunch/dinner, so those are the two doses that earn the gel. Lunch/dinner still get the **15–20 min pre-meal** drink (not stirred into the food).
+Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — a gel first (or with the eggs) makes that plate harder to finish; (2) D3 + fish oil #1 ride with that meal — soluble fiber taken at the same time can bind fat-soluble nutrients; (3) Mon/Fri lift is ~45 min after breakfast — gelled gut is the wrong prep; (4) tyrosine already owns the empty-stomach slot before Gate 1; (5) binge risk is lunch/dinner, so those are the two doses that earn the gel. Lunch/dinner still get the **15–20 min pre-meal** drink (not stirred into the food).
 
 ---
 

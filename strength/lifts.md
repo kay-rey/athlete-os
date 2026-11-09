@@ -6,6 +6,7 @@ Research basis: `archive/research/grappler_recomp_playbook.md` (2-day high-tensi
 
 ## Why this program (for you)
 - **2×/week, ≤48 min** — enough mechanical tension for recomp/LBM without stealing recovery from GB
+- **Mon + Fri slots** — Monday is the recovered no-drop-off day; Friday after Thu GB uses Zero-Grinder if needed
 - **5–8 rep compounds** — RFD + dense “stocky” look (traps/neck, clavicular shelf, lats, anti-lateral core)
 - **Trap bar + chest-supported row** — high load, lower lumbar shear for a compact 5'5" grappler
 - **Neutral grips / incline press** — spare elbows/shoulders already taxed by gi
@@ -21,29 +22,31 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 |--|------------------|--------------------|
 | Strength / LBM in a deficit | High % of what’s recoverable | **Small** extra if sleep/GB stay perfect; often **zero** net if GB quality drops |
 | Fatigue | Fits under Thu hard GB + Flow | Stacks CNS/joint tax on elbows/shoulders/spine already used for gi |
-| Schedule | Tue/Fri noon clean | Needs a slot that isn’t Wed GB, Thu GB, or sleep — usually steals from mats or recovery |
+| Schedule | Mon/Fri noon clean (Mon = no drop-off) | Needs a slot that isn’t Wed GB, Thu GB, or sleep — usually steals from mats or recovery |
 | Tendons (Wk 1–4) | Controlled remodeling | Extra frequency ≠ faster tendon adapt; failure volume raises injury risk |
 
 **Expected gain from +1 day (honest):** maybe a bit more upper-back/leg volume on paper; in practice for a brown belt in a cut with hard GB twice weekly, you’re looking at **marginal strength** (often within noise) and a real chance of **worse Thu/Wed rolls** or nagging elbows. Hard GB already supplies high-tension isometric and pulling work the lift days don’t need to duplicate.
 
-**When to reconsider 3×:** after Phase 1 (or Maintenance) if GB 2× is easy, sleep is solid, waist is moving, and Lift A/B loads are stalling at RPE cap with perfect recovery — then add a short third session, don’t inflate Tue/Fri to 90 min.
+**When to reconsider 3×:** after Phase 1 (or Maintenance) if GB 2× is easy, sleep is solid, waist is moving, and Lift A/B loads are stalling at RPE cap with perfect recovery — then add a short third session, don’t inflate Mon/Fri to 90 min.
 
 ## Session slot
 | | When |
 |--|------|
-| **Lift A** | **Tuesday 11:45–12:33** |
+| **Lift A** | **Monday 11:45–12:33** |
 | **Lift B** | **Friday 11:45–12:33** |
-| Prep | Wake ≈11 → Gate 1 (+**~30g carbs** on lift days) → **collagen 15–20g + Vit C 50–200 mg** by ≈11:00–11:15 → warm-up 11:45 |
+| Prep | Gate 1 (+**~30g carbs**) → **collagen 15–20g + Vit C** 30–60 min pre → warm-up 11:45 |
 
-No GB at noon Tue/Fri. Flow Adults after Tue lift = light white-belt room (fine). Fri evening = free / recover from Thu GB.
+**Why Lift A on Monday:** no wife drop-off · no forced second sleep · best recovered weekday for high-tension work under apnea. Tuesday stays drop-off → second sleep → deep work + Flow (no lift tax).
+
+No GB at noon **Mon/Fri** (lift blocks). Flow Adults Mon evening after Lift A = light white-belt room (fine). Fri evening = free / recover from Thu GB.
 
 ## Gym choice
-**Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Tue/Fri noon**.
+**Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Mon/Fri noon**.
 
 ### EOS plans (ACH prices from their site — +tax; **$59.99 annual fee** all tiers)
 | Plan | Mo | Enroll | What you actually need? |
 |------|-----|--------|-------------------------|
-| **Will Do** | **$15** | **$49.99** | **Home club only** — cardio/strength (+ limited locker sauna). **Enough** if one club covers Tue/Fri and has racks/DBs. |
+| **Will Do** | **$15** | **$49.99** | **Home club only** — cardio/strength (+ limited locker sauna). **Enough** if one club covers Mon/Fri and has racks/DBs. |
 | **Will Crush** | **$24.99** | **$1** | **Multi-club** — **use this.** EOS **Valencia** (SCV / Flow side) + EOS **Northridge** (GB side). |
 | Will Power | $29.99 | $1 | Crush + massage chairs, Evolt scan, Les Mills virtual, Flex deals. **Skip** — fluff for 2× MED. |
 
@@ -92,7 +95,7 @@ Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
 
 ---
 
-## Lift A — Tuesday (posterior + clavicular shelf + horizontal pull)
+## Lift A — Monday (posterior + clavicular shelf + horizontal pull)
 
 | # | Exercise | Sets × reps | Tempo | Rest | Transfer |
 |---|----------|-------------|-------|------|----------|
@@ -142,7 +145,7 @@ Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
 | Deload | 13 | **6.0–6.5** | ~4 | **2 sets only**, −10–15% load (leptin reset week) |
 | Lock-in | 14–21 | **8.0–8.5** | 1–2 | Dense; never grind failed reps |
 
-## Week 1 load finding (Day 1 / first Tue)
+## Week 1 load finding (Day 1 / first Mon Lift A)
 1. Ramp until a set of the **bottom** of the rep range is **RPE ≈6.5–7** (3–4 RIR).  
 2. That becomes your working weight for 3 sets.  
 3. Log every working set in `journal/lifting.csv` (weight, reps, RPE).  
@@ -154,7 +157,7 @@ Hold weight until you hit the **top** of the rep range on **all 3** working sets
 ## Interference guard
 - Zone 2: **Sunday** 45 min @ 125–138 (not on lift days)
 - No marathon / junk cardio volume
-- ≥4–6 h between Tue lift and Flow PM (already true with noon lift)
+- ≥4–6 h between Mon lift and Flow PM (already true with noon lift)
 - Hard stimulus for BJJ = **GB**; Flow Adults stays light
 
 ## Session checklist

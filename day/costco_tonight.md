@@ -19,7 +19,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 | Tyrosine (optional) | Free-form **L-Tyrosine** if you use it and you’re out | — | NALT-only · tyrosine+mega-caffeine |
 | Already own | Creatine mono · SF Liquid I.V. · Propel · D3 · multi · fish oil · Mg · ON | — | Don’t restock these tonight |
 
-**Use:** Tue/Fri = collagen 15–20g + Vit C (+ own creatine 5g once/day). Hard GB = **1× SF Liquid I.V.** (or **2× Propel**) + banana + honey. Easy days = 1× Propel. Psyllium Wk1 = ½ tsp SF orange ×2.
+**Use:** Mon/Fri = collagen 15–20g + Vit C (+ own creatine 5g once/day). Hard GB = **1× SF Liquid I.V.** (or **2× Propel**) + banana + honey. Easy days = 1× Propel. Psyllium Wk1 = ½ tsp SF orange ×2.
 
 ---
 
