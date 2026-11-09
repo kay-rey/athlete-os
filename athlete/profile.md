@@ -23,7 +23,7 @@
   - Prior therapist said she was **certain of OCD** but **could not formally diagnose** — flag for Kaiser psych/MD evaluation if relevant; do not treat as confirmed OCD in-repo
   - Flight / plane anxiety is a major trigger (**Indonesia + likely Philippines** trip end of Jan)
 - **Primary nutrition failure mode: binge / overeating** (not “forgetting protein”). Often worse with anxiety spikes. Gates blunt food noise; clinical care = Kaiser/MD/therapy. This OS does **not** add GLP-1 by default (see `.cursor/rules/recomp.mdc`).
-- **Sciatica (patient-reported, intermittent):** flares with pain walking / getting up. **Kaiser/MD owns diagnosis & imaging.** During a flare: no hard GB live, no heavy axial loading (trap-bar DL, back extension, loaded squat); Flow = stand/demo only. Escalate to Kaiser same-day if weakness, saddle numbness, or bowel/bladder change.
+- **Sciatica (patient-reported, intermittent):** flares with pain walking / getting up; he can usually still teach, roll, and lift. Manage in-session (see `strength/lifts.md`); don’t force shutdown unless neuro red flags. **Kaiser/MD owns diagnosis & imaging.** Escalate same-day if weakness, saddle numbness, or bowel/bladder change.
 
 ## Phase calendar
 See `nutrition/phases.csv` for kcal/macros. Dates:
