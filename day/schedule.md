@@ -13,8 +13,8 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ### Monday — Long deep-work day + Flow teach ± MT
 **No drop-off.** Wake ≈10:30–11 → scale → Gate 1 → **Reyes / MasterBJJ deep work** (phone-away) + errands NEAT → sertraline 3:00 → Gate 4 → Flow PM (Adults = white-belt room) → **optional MT** → Gate 6. No lift / no GB.
 
-### Tuesday — Drop-off → Lift A + Flow teach
-**Drop-off ~7:40–8:00** → return → **nap 60–90 min** (apnea default) → Gate 1 (+30g carbs) + collagen → short deep work → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00** (aim 11:30) + CPAP.
+### Tuesday — Drop-off → second sleep → Lift A + Flow teach
+**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** (CPAP; intentional, not lazy) → Gate 1 (+30g carbs) + collagen → short deep work → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00** (aim 11:30) + CPAP.
 
 ### Wednesday — Drop-off / Flow AM → energy fork → Flow PM ± MT
 Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.  
@@ -22,11 +22,11 @@ Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.
 **Red (tired):** skip GB → Flow PM → **MT optional** (technical only) → chase 2× Sat.  
 GB day: WPI+creatine post; Zone 2 deferred to Sunday. Protect sleep for Thu GB.
 
-### Thursday — Drop-off → hard GB midday + Flow teach
-Drop-off → return → **nap** → Gate 1 → short work → clamp → **GB 12:00–1:00** (+ open mat if possible) → WPI+creatine → sertraline → Gate 4 → Flow PM light. No MT. Wife pickup ~5:00 as needed.
+### Thursday — Drop-off → second sleep → hard GB midday + Flow teach
+Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** (+ open mat if possible) → WPI+creatine → sertraline → Gate 4 → Flow PM light. No MT. Wife pickup ~5:00 as needed.
 
-### Friday — Drop-off → Lift B + free evening
-Drop-off → **nap** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** (Zero-Grinder if sleep trash). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Evening: family / light admin. Lights out ≤12:00 + CPAP for Sat.
+### Friday — Drop-off → second sleep → Lift B + free evening
+Drop-off → **second sleep** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** (Zero-Grinder if sleep trash). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Evening: family / light admin. Lights out ≤12:00 + CPAP for Sat.
 
 ### Saturday — Drop-off → Flow AM + cleanup → GB if Wed missed
 Drop-off → Flow AM teach → mat cleanup. GB **12:00–1:00 only if Wed skipped**. Else Reyes shoot if booked or done for 2× with Thu.

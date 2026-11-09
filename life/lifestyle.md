@@ -48,8 +48,20 @@ Natural preference: bed ~2:00–3:00 AM · wake ~11:00. That only fully fits **S
 |--|--------|
 | **Lights out** | **11:30 PM–12:00 AM** (Gate 7 = T−60: Mg + allergy med) · CPAP on |
 | **Alarm** | **~7:30 AM** → drop-off |
-| **Sleep goal** | **7.5–8.5 h** in bed with treatment on (not phone-in-bed) |
-| **After return (~8:00–8:15)** | **Default: nap 60–90 min** → Gate 1 → one deep-work block. Skip nap only if unusually sharp. No phone-in-bed “rest.” |
+| **Core night** | Aim **≥7 h** with treatment before the alarm |
+| **After return (~8:00–8:15)** | **Go back to sleep 90–120 min** (CPAP on) → then Gate 1 → one deep-work block |
+
+#### “Wake → drop-off → sleep again” — **not counterproductive for you**
+That pattern is **intentional biphasic sleep**: a short forced wake for a real job (her ride), then a **second sleep** to finish what apnea + early alarm stole. With diagnosed apnea, fighting to “stay up and be productive” right after drop-off usually produces phone scrolling + worse binge later — not deep work.
+
+| Productive version | Counterproductive version |
+|--------------------|---------------------------|
+| Night sleep with **CPAP** · lights out ≤12:00 | Night until 2–3 AM, then 7:30 alarm |
+| Drop-off → **straight back to bed** · mask on · dark room | Drop-off → **phone in bed** for 45 min then doze |
+| Second sleep **90–120 min** · alarm · get up for Gate 1 | “Second sleep” until 1 PM with no Gates / no ship target |
+| After second sleep: food + **one** work block | After second sleep: open feeds until Flow |
+
+**Rule:** second sleep is recovery **equipment**, not failure. Protect it. Kill the phone-in-bed fake version.
 
 **Do not** regularly stay up to 2–3 AM *and* do 7:40 drop-offs. With apnea that is dangerous debt (binge + microsleep risk).
 
