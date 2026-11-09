@@ -34,15 +34,16 @@ Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals t
 ### 4. Training (rules → `calendar/academies.md` + `strength/lifts.md`)
 | Item | Done | Notes |
 |------|------|-------|
-| Lift A (Mon) | Y/N | double-progression? |
+| Lift A (Tue) | Y/N | double-progression? |
 | Lift B (Fri) | Y/N | double-progression? |
 | Thu GB hard midday | Y/N | |
-| Wed GB (if alert) | Y/N/skip | |
-| Sat GB (if Wed skip) | Y/N/n/a | |
+| Mon GB #2 (preferred) | Y/N/skip | |
+| Wed GB (if Mon missed) | Y/N/skip | |
+| Sat GB (if Mon+Wed miss) | Y/N/n/a | |
 | GB ≥2 this week? | Y/N | |
 | Fri GB avoided? | Y/N | |
 | Mon MT optional | Y/N/skip | |
-| Wed MT (no Wed GB) | Y/N/n/a | |
+| Wed MT (only if needed) | Y/N/n/a | |
 | Flow coach-mode | Y/N | |
 | Sun Zone 2 | Y/N | |
 

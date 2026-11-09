@@ -96,8 +96,8 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 ### Suggested focus bias (not rigid)
 | Day | After drop-off / morning block | Afternoon |
 |-----|--------------------------------|-----------|
-| **Mon** | **Lift A** (no drop-off — best train day) → deep work after | Flow ± MT evening |
-| **Tue** | Second sleep → Gate 1 → **longest MasterBJJ/Reyes block** | Flow teach |
+| **Mon** | **GB Northridge #2** (no drop-off — best mat day) → deep work after | Flow ± light MT |
+| **Tue** | Second sleep → Gate 1 + collagen → **Lift A** → short work | Flow teach |
 | **Wed** | Early morning — second sleep if possible; light admin | GB **only if green**; else recover → Flow PM |
 | **Thu** | Second sleep → Gate 1 → short work | Gate 5 GB midday → Flow PM light |
 | **Fri** | Second sleep → deep work → **Lift B** (Zero-Grinder if sleep trash) | Free / family / light Reyes admin |

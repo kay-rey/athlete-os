@@ -10,17 +10,18 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 
 ## 7-day ops
 
-### Monday — Lift A (best recovered day) + deep work + Flow ± MT
-**No drop-off · optimal train day.** Wake ≈10:30–11 → scale → Gate 1 (+30g carbs) + collagen → **Lift A 11:45–12:33** → deep work (phone-away) / errands → sertraline 3:00 → Gate 4 → Flow PM (white-belt room) → **optional MT** if not fried → Gate 6. No GB (noon is lift).
+### Monday — GB Northridge #2 (preferred) + deep work + Flow ± MT
+**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** (+ **1:00–1:30** open mat) *or* **10:45 GB3 No-Gi** → WPI+creatine → deep work / errands → sertraline → Gate 4 → Flow PM → **optional MT** only if not fried → Gate 6.  
+**If skipping Mon GB:** treat as deep-work day; chase #2 Wed or Sat. No Lift A today (bar is Tue/Fri).
 
-### Tuesday — Drop-off → second sleep → deep work + Flow teach
-**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** (CPAP; intentional) → Gate 1 → **MasterBJJ / Reyes deep work** (no lift tax) → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00** (aim 11:30) + CPAP.
+### Tuesday — Drop-off → second sleep → Lift A + Flow teach
+**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** (CPAP) → Gate 1 (+30g carbs) + collagen → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00** + CPAP.
 
-### Wednesday — Drop-off / Flow AM → energy fork → Flow PM ± MT
+### Wednesday — Drop-off / Flow AM → GB only if Mon missed
 Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.  
-**Green:** GB **10:45 GB3 No-Gi** or **12:00 + 1:00 open mat** (2× credit) → **no MT**.  
-**Red (tired):** skip GB → Flow PM → **MT optional** (technical only) → chase 2× Sat.  
-GB day: WPI+creatine post; Zone 2 deferred to Sunday. Protect sleep for Thu GB.
+**If Mon GB done:** recover / light admin → Flow PM → no hard MT.  
+**If Mon missed + green:** GB **10:45** or **12:00 + open mat** (2× credit).  
+**Red:** skip → Flow PM → chase Sat. Protect sleep for Thu GB.
 
 ### Thursday — Drop-off → second sleep → hard GB midday + Flow teach
 Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** (+ open mat if possible) → WPI+creatine → sertraline → Gate 4 → Flow PM light. No MT. Wife pickup ~5:00 as needed.
@@ -52,7 +53,7 @@ Doses/brands → `stack/supplements.md`.
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
 
 **Psyllium = before lunch + before dinner only — never before Gate 1 and never mixed into / taken with breakfast.**  
-Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — a gel first (or with the eggs) makes that plate harder to finish; (2) D3 + fish oil #1 ride with that meal — soluble fiber taken at the same time can bind fat-soluble nutrients; (3) Mon/Fri lift is ~45 min after breakfast — gelled gut is the wrong prep; (4) tyrosine already owns the empty-stomach slot before Gate 1; (5) binge risk is lunch/dinner, so those are the two doses that earn the gel. Lunch/dinner still get the **15–20 min pre-meal** drink (not stirred into the food).
+Why breakfast is excluded: (1) Gate 1’s job is finishing **~45g protein** — a gel first (or with the eggs) makes that plate harder to finish; (2) D3 + fish oil #1 ride with that meal — soluble fiber taken at the same time can bind fat-soluble nutrients; (3) Tue/Fri lift is ~45 min after breakfast — gelled gut is the wrong prep; (4) tyrosine already owns the empty-stomach slot before Gate 1; (5) binge risk is lunch/dinner, so those are the two doses that earn the gel. Lunch/dinner still get the **15–20 min pre-meal** drink (not stirred into the food).
 
 ---
 

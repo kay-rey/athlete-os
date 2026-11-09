@@ -63,27 +63,27 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 | Priority | When | What to attend | Rule |
 |----------|------|----------------|------|
 | **1 Locked** | **Thu 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if you can) | Midday GB1/GB2 → open mat (hard athlete block) | RPE 8–9. **Never skip** if at all possible. |
-| **2a Try** | **Wed** after Flow AM | Prefer **10:45 GB3 No-Gi**, else **12:00** + open mat | Hit #2 if alert. RPE 7–8. |
-| **2b Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | Hit #2 if Wed skipped. |
-| **3 Last resort** | **Fri** | **11:00 Comp** (before Lift B) or Fri **6:00** No-Gi (Lift B keeps **noon** blocked) | Only to finish 2× if Wed+Sat failed. |
-| Blocked | **Mon / Fri noon** | — | **Lift A (Mon)** / **Lift B (Fri)** |
-| Avoid as primary | Mon midday GB | — | Conflicts Lift A; evening GB conflicts Flow teach |
-| Optional MT | **Mon after Flow** | — | Best striking night if hands/energy OK after Lift A + teach |
+| **2a Preferred** | **Mon midday** (no drop-off — best recovered GB day) | Prefer **12:00–1:00** + **1:00–1:30** open mat · or **10:45 GB3 No-Gi** if you want earlier | Hit #2 here when green. RPE 7–8. Gate 5 peri. |
+| **2b Backup** | **Wed** after Flow AM | **10:45 GB3 No-Gi** or **12:00** + open mat | Use if Mon missed. RPE 7–8. |
+| **2c Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Mon+Wed missed. |
+| **3 Last resort** | **Fri** | **11:00 Comp** (before Lift B) or Fri **6:00** No-Gi | Only to finish 2× if Mon/Wed/Sat failed. |
+| Blocked | **Tue / Fri noon** | — | **Lift A (Tue)** / **Lift B (Fri)** |
+| Avoid as primary | Mon **evening** GB | — | Conflicts Flow teach |
 
-**Week score:** Thu only = under target. Thu+Wed or Thu+Sat = **goal met**.
+**Week score:** Thu only = under target. **Thu+Mon** (or Thu+Wed / Thu+Sat) = **goal met**.
 
 ## Muay Thai (optional)
 
 | Day | Do | Skip |
 |-----|----|------|
-| **Mon** | Still best MT night after Flow if not fried from Lift A. RPE ≤7.5 | Hands fried / family wins / wiped |
-| **Wed** | Only if **Wed GB skipped**; technical RPE ≤7 | After Wed GB; or wiped before Thu hard GB |
+| **Mon** | After Flow if Mon GB wasn’t a war. RPE ≤7.5 | Fried from hard Mon GB / family wins |
+| **Wed** | Only if **Wed GB skipped** and Mon already counted #2; technical RPE ≤7 | After Wed GB; or wiped before Thu hard GB |
 
-MT ≠ GB credit. Don’t stack Wed GB + hard Wed MT. Flow Adults ≠ GB credit and ≠ hard training.
+MT ≠ GB credit. Don’t stack hard GB + hard MT same night. Flow Adults ≠ GB credit and ≠ hard training.
 
 ## Invariants
 - **GB ≥2×/week** is a standing goal (table above)
 - Flow Adults rolling = light (white belts); hard stimulus lives at GB
-- Lifts **Mon + Fri** midday (`strength/lifts.md`) — Monday chosen because **no drop-off / best recovery**
-- Mon daytime = Lift A + deep work / errands (wife off — she works Tue–Sat)
+- Lifts **Tue + Fri** midday (`strength/lifts.md`) — Monday’s recovered slot goes to **GB**, not the bar
+- Mon daytime = GB #2 when possible + deep work after (wife off — she works Tue–Sat)
 - Sun = Zone 2 + audit (`day/schedule.md`); GB Sun 9:00 exists on flyer but **not** a 2× target (recovery / Flow off)

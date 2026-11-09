@@ -26,8 +26,8 @@
 
 | Role | Exact product | Label / dose in plan | Why this one |
 |------|---------------|----------------------|--------------|
-| **Collagen (need — creatine already owned)** | **Orgain Collagen Peptides + Probiotics, Unflavored, 1.6 lb** (or any plain hydrolyzed collagen 15–20g/scoop) | **15–20g** Mon/Fri pre-lift | Baar tendon protocol. **Skip Orgain Collagen + Creatine combo** — you’d double creatine. |
-| **Vitamin C (Baar)** | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** | **1 tablet** with collagen pre-lift (Mon/Fri) | USP, **lactose-free**. **Do not** buy **Kirkland Chewable C** (lactose). |
+| **Collagen (need — creatine already owned)** | **Orgain Collagen Peptides + Probiotics, Unflavored, 1.6 lb** (or any plain hydrolyzed collagen 15–20g/scoop) | **15–20g** Tue/Fri pre-lift | Baar tendon protocol. **Skip Orgain Collagen + Creatine combo** — you’d double creatine. |
+| **Vitamin C (Baar)** | **Kirkland Signature Vitamin C 1000 mg, 500 tablets (USP)** | **1 tablet** with collagen pre-lift (Tue/Fri) | USP, **lactose-free**. **Do not** buy **Kirkland Chewable C** (lactose). |
 | **Electrolytes** | — | — | **Already covered** by SF Liquid I.V. + Propel. Optional Kirkland Hydration only if those run out. |
 | **Skip buying** | Extra creatine · sugared Liquid I.V. · LMNT unless you want 1000 mg Na days | — | Redundant / wrong SKU |
 | **Psyllium** | **Metamucil Sugar-Free Orange** (Costco often 2×130 / 260 servings) | Gate doses → below | Same SF orange lock. |
@@ -37,14 +37,14 @@
 
 **Powder rank for Gates:** **Isopure (trial) ≥ ON Gold Standard ≫ Orgain Organic plant.** Finish plant tubs as snack/backup if you like the taste; buy whey for the plan.
 
-### Baar pre-lift (Mon / Fri)
+### Baar pre-lift (Tue / Fri)
 1. **15–20g collagen peptides** (Orgain collagen-only or equivalent)  
 2. **Kirkland Vit C 1000 mg** ×1  
 3. Own **creatine 5g** can go here **or** with post-session WPI — once/day total  
 4. Water · **30–60 min before** first working set · with Gate 1  
 
 ### Emergen-C / daily mega-C?
-**No — not a daily protocol.** Gate Vit C is the **Kirkland 1000 mg tablet with collagen Mon/Fri** (Baar). Daily multi already covers baseline C. Emergen-C (~**1000 mg C + 6g sugar + B’s / light electrolytes** per packet) is optional when you’re getting sick — **don’t** stack Emergen-C + Kirkland tablet the same day, and **don’t** use it as a drink habit (sugar + redundant C).
+**No — not a daily protocol.** Gate Vit C is the **Kirkland 1000 mg tablet with collagen Tue/Fri** (Baar). Daily multi already covers baseline C. Emergen-C (~**1000 mg C + 6g sugar + B’s / light electrolytes** per packet) is optional when you’re getting sick — **don’t** stack Emergen-C + Kirkland tablet the same day, and **don’t** use it as a drink habit (sugar + redundant C).
 
 ### Hard-day salt (Gate 5)
 **1× SF Liquid I.V.** in ~16 oz **or** **2× Propel** + banana + honey. Don’t stack SF LIV + 2 Propels unless you’re a heavy sweater that session.
