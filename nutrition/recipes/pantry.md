@@ -68,7 +68,7 @@ Shop **Costco / Sam’s** for bulk Kirkland/Member’s Mark; **Walmart (−10% w
 | Light mayo (sandwich) | **Hellmann’s Light** or **Best Foods Light** |
 | Soft sandwich bread | **OK for satiety:** Mission **Carb Balance** / keto loaf (**2 slices**) if gut stays quiet — lower kcal density binge tool. **Also fine:** soft WW/white (Kirkland / Oroweat / Nature’s Own) or thin-sliced. **Or** **2 corn tortillas**. Keep psyllium + beans; see `../preferences.md` |
 | Burger/dog toppings | Salsa, ketchup, light mayo, BBQ — **skip mustard on the bun** (OK in cooked sauces) |
-| Breakfast sausage | **Jennie-O Turkey Breakfast Sausage** patties/links (lean default) |
+| Breakfast sausage | **Jennie-O Turkey Breakfast Sausage** patties/links (lean default) · **Also OK:** Jones Dairy Farm Organic Chicken Sausage (Costco) — **2–3 links** craving days (**~2.5F / 3P per link**; 3 links ≈ **100 kcal · 9P · 7F**) — not a Gate protein |
 | Bacon | **Jennie-O Turkey Bacon** (default) · pork bacon occasional **2 slices** |
 | Hashbrowns | Refrigerated shredded potatoes or **Ore-Ida** / similar — bake or air-fry; Costco dehydrated hash only if you’ll portion |
 | Oatmeal | **Quaker Old Fashioned** or **steel-cut** (Kirkland steel-cut if stocked) — not flavored sugar packets |
