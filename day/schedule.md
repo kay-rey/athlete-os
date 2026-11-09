@@ -11,7 +11,7 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ## 7-day ops
 
 ### Monday — GB Northridge #2 (preferred) + deep work + Flow ± MT
-**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** (+ **1:00–1:30** open mat) *or* **10:45 GB3 No-Gi** → WPI+creatine → **lunch (no psyllium yet)** → sertraline **3:00** → Gate 4 → Flow PM → **psyllium pre-dinner (≥2h after Rx)** → dinner + fish oil #2 → optional MT only if not fried.  
+**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch (no psyllium yet)** → sertraline **3:00** → Gate 4 → Flow PM → **psyllium pre-dinner (≥2h after Rx)** → dinner + fish oil #2 → optional MT only if not fried.  
 **If skipping Mon GB:** treat as deep-work day; chase #2 Wed or Sat. No Lift A today (bar is Tue/Fri).
 
 ### Tuesday — Drop-off → second sleep → Lift A + Flow teach
@@ -24,7 +24,7 @@ Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.
 **Red:** skip → Flow PM → chase Sat. Protect sleep for Thu GB.
 
 ### Thursday — Drop-off → second sleep → hard GB midday + Flow teach
-Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** (+ open mat if possible) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥2h after Rx)**. No MT. Wife pickup ~5:00 as needed.
+Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥2h after Rx)**. No MT. Wife pickup ~5:00 as needed.
 
 ### Friday — Drop-off → second sleep → Lift B + free evening
 Drop-off → **second sleep** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** (Zero-Grinder if sleep trash). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Evening: family / light admin. Lights out ≤12:00 + CPAP for Sat.

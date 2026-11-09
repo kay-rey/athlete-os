@@ -62,9 +62,9 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 
 | Priority | When | What to attend | Rule |
 |----------|------|----------------|------|
-| **1 Locked** | **Thu 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if you can) | Midday GB1/GB2 → open mat (hard athlete block) | RPE 8–9. **Never skip** if at all possible. |
-| **2a Preferred** | **Mon midday** (no drop-off — best recovered GB day) | Prefer **12:00–1:00** + **1:00–1:30** open mat · or **10:45 GB3 No-Gi** if you want earlier | Hit #2 here when green. RPE 7–8. Gate 5 peri. |
-| **2b Backup** | **Wed** after Flow AM | **10:45 GB3 No-Gi** or **12:00** + open mat | Use if Mon missed. RPE 7–8. |
+| **1 Locked** | **Thu 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Midday class → **always stay** for open mat (his default) | RPE 8–9. **Never skip** class+OM if at all possible. |
+| **2a Preferred** | **Mon 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Same block — **always stay** for OM | Hit #2 when green. RPE 7–8. Gate 5 peri. (10:45 GB3 only if you can’t do noon+OM) |
+| **2b Backup** | **Wed** after Flow AM | **12:00 + 1:00–1:30 OM** preferred · else **10:45 GB3 No-Gi** | Use if Mon missed. **Stay for OM** when doing noon. |
 | **2c Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Mon+Wed missed. |
 | **3 Last resort** | **Fri** | **11:00 Comp** (before Lift B) or Fri **6:00** No-Gi | Only to finish 2× if Mon/Wed/Sat failed. |
 | Blocked | **Tue / Fri noon** | — | **Lift A (Tue)** / **Lift B (Fri)** |
@@ -83,6 +83,7 @@ MT ≠ GB credit. Don’t stack hard GB + hard MT same night. Flow Adults ≠ GB
 
 ## Invariants
 - **GB ≥2×/week** is a standing goal (table above)
+- **Noon GB3 Open Mat (1:00–1:30) = default stay** whenever he does midday GB — not optional
 - Flow Adults rolling = light (white belts); hard stimulus lives at GB
 - Lifts **Tue + Fri** midday (`strength/lifts.md`) — Monday’s recovered slot goes to **GB**, not the bar
 - Mon daytime = GB #2 when possible + deep work after (wife off — she works Tue–Sat)
