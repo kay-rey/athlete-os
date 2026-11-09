@@ -80,22 +80,26 @@ Target ~**45g protein**. Brands → `pantry.md`. **Fresca** OK.
 | Corn tortilla | **0–1** if you want a starch side |
 | Hash browns / turkey sausage / bacon | **Omit** unless craving |
 
-### B) Oatmeal protein bowl
-| Exact | Amount |
-|-------|--------|
-| Rolled oats (or steel-cut) | **½–¾ cup dry** |
-| Water (or splash lactose-free milk) | Cook |
-| Protein (**required**) | Stir **egg whites** into hot oats *or* **ON/WPI ~1–1½ scoops** when cooler — bowl must land ~**45g P** |
-| Flavor | **Whole Foods Organic Golden Milk** — his usual **~11g** (~3½ tsp) · or label **1 tsp** if dialing down |
-| Top | ½–1 banana **or** berries · optional **1 tbsp** peanut butter if fat room · **skip** sugar packets / syrup lakes |
+### B) Oatmeal protein bowl *(weigh everything)*
+| Exact | Amount (scale) |
+|-------|----------------|
+| Rolled oats (or steel-cut), **dry** | **40–60g** (default **50g**) |
+| Water | Enough to cook (~**200–250g** water to start; adjust) |
+| **ON Gold Standard** (preferred in-bowl) | **~30–32g powder** (1 label scoop ≈ **24P**) — stir in when oats are **warm, not boiling** so it doesn’t clump |
+| Extra protein if under ~45P | Add **~150–200g** liquid egg whites into hot oats *or* another **~15–20g** whey |
+| **Whole Foods Organic Golden Milk** | His usual **~11g** |
+| Banana | **60–120g** edible (½–1 medium) **or** berries **80–100g** |
+| Peanut butter (optional) | **16g** (~1 tbsp) if fat room — lift days OK |
 
-**Golden milk (locked):** Whole Foods Market Organic — label **1 tsp / 3g = 10 kcal · 2C**. His pour **~11g ≈ 35–40 kcal · ~7C** — still fine; log ~11g in Lose It. Spices (turmeric + black pepper, ginger, cinnamon, maca, goji, boswellia) = flavor + small micronutrient bump — **not** a substitute for Daily Multi or Tue/Fri Vit C. Does **not** replace protein.
+**Why whey in the oats:** Yes — that’s the point. Golden milk is flavor/micros; **ON scoop is the Gate 1 protein**. Target bowl **~45g P** (one scoop ≈24P → add whites or a bit more whey).
 
-**Easy oatmeal builds (pick one):**
-1. **Golden default:** oats + golden milk + egg whites stirred in + banana  
-2. **Berry:** oats + golden milk or cinnamon + ON whey stirred cool + frozen berries  
-3. **PB banana:** oats + whey + ½ banana + **1 tbsp** PB (lift days OK)  
-4. **Savory side:** small plain oats + run eggs/whites + salsa on the side (still counts as Gate 1 starch)
+**Golden milk:** label 3g = 10 kcal · 2C; **~11g ≈ 35–40 kcal · ~7C**. Spices ≠ multi / Tue–Fri Vit C.
+
+**Easy weighed builds:**
+1. **Golden whey (default):** **50g** oats + **11g** golden milk + **30–32g** ON + banana **~100g**  
+2. **Berry:** **50g** oats + **11g** golden milk + **30–32g** ON + berries **80–100g**  
+3. **PB banana:** **50g** oats + **30–32g** ON + banana **60–80g** + PB **16g**  
+4. **High protein:** **50g** oats + **32g** ON + **150g** egg whites cooked in + **11g** golden milk
 
 ### C) Add turkey sausage or bacon (craving days only)
 Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bacon **2–3** — not stacked with a huge hash every time.
