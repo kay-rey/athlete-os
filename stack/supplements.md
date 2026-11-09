@@ -31,8 +31,8 @@
 | **Electrolytes** | — | — | **Already covered** by SF Liquid I.V. + Propel. Optional Kirkland Hydration only if those run out. |
 | **Skip buying** | Extra creatine · sugared Liquid I.V. · LMNT unless you want 1000 mg Na days | — | Redundant / wrong SKU |
 | **Psyllium** | **Metamucil Sugar-Free Orange** (Costco often 2×130 / 260 servings) | Gate doses → below | Same SF orange lock. |
-| **Whey / protein powder (his history)** | **Trying next:** **Isopure Zero Carb** (WPI) | Gate 4 / post-GB **1 scoop (~25P, ~0C)** | Lactose-free isolate A/B vs gut. |
-| | **Used before — OK:** **ON Gold Standard** | ~**24P · 3–4C** / scoop | Concentrate blend; fine given milk tolerance. Keep as backup if Isopure is out or you prefer taste. |
+| **Whey / protein powder (his history)** | **Trying next:** **Isopure Zero Carb** (WPI) | Gate 4 / post-GB **1 scoop (~25P, ~0C)** | Lactose-free isolate A/B vs gut — buy when stocked. |
+| | **Used before — OK / buy if Isopure out:** **ON Gold Standard** | ~**120 kcal · 24P · 3–4C · 1–1.5F** / scoop | Concentrate blend; fine given milk tolerance. **Via Princessa often stocks ON not Isopure — buy the big ON bag.** |
 | | **Used before — backup only:** **Orgain Organic Protein** (plant: pea/rice/chia; Costco chocolate ~**2 scoops / 46g**) | Label ≈ **150 kcal · 21P · 15C · 4–4.5F · 6–7 fiber** | Dairy-free and fine occasionally, but **weaker Gate tool**: less protein per scoop than whey, more carbs/fiber/gums, lower leucine density for post-GB repair. **Do not** make this the primary post-mat / Gate 4 powder. Different from **Orgain Collagen + Creatine** (that tub is still the Baar/creatine buy). |
 
 **Powder rank for Gates:** **Isopure (trial) ≥ ON Gold Standard ≫ Orgain Organic plant.** Finish plant tubs as snack/backup if you like the taste; buy whey for the plan.
@@ -42,6 +42,9 @@
 2. **Kirkland Vit C 1000 mg** ×1  
 3. Own **creatine 5g** can go here **or** with post-session WPI — once/day total  
 4. Water · **30–60 min before** first working set · with Gate 1  
+
+### Emergen-C / daily mega-C?
+**No — not a daily protocol.** Gate Vit C is the **Kirkland 1000 mg tablet with collagen Tue/Fri** (Baar). Daily multi already covers baseline C. Emergen-C (~**1000 mg C + 6g sugar + B’s / light electrolytes** per packet) is optional when you’re getting sick — **don’t** stack Emergen-C + Kirkland tablet the same day, and **don’t** use it as a drink habit (sugar + redundant C).
 
 ### Hard-day salt (Gate 5)
 **1× SF Liquid I.V.** in ~16 oz **or** **2× Propel** + banana + honey. Don’t stack SF LIV + 2 Propels unless you’re a heavy sweater that session.
