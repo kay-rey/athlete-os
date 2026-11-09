@@ -242,7 +242,7 @@ Liked: diner-style eggs / hash browns / sausage / bacon **and** oatmeal. Healthi
 | **Hash browns** | Crispy potato side | **Skip most days** — swaps below |
 | **Sausage / bacon** | Diner meat | **Skip most days.** Craving: turkey sausage **2** *or* turkey bacon **2–3** |
 | **Mexican mix** | Salsa, pico, peppers, tortilla, beans | **Default flavor + volume** |
-| **Oatmeal** | Hot bowl | **½–¾ cup dry** + egg whites or WPI; cinnamon; banana OK |
+| **Oatmeal** | Hot bowl + **golden milk powder** (liked) | **½–¾ cup dry** + egg whites or ON/WPI (~**45g P**) + **1 serving** golden milk; banana/berries OK; log coconut fat/sugar on label |
 
 ### Hash browns — healthier substitutions
 | Instead of hash browns | Why better |

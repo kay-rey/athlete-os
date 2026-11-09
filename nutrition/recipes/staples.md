@@ -84,9 +84,18 @@ Target ~**45g protein**. Brands → `pantry.md`. **Fresca** OK.
 | Exact | Amount |
 |-------|--------|
 | Rolled oats (or steel-cut) | **½–¾ cup dry** |
-| Water | Cook |
-| Protein | Stir **egg whites** into hot oats *or* **WPI** when cooler |
-| Top | Cinnamon; optional banana; skip sugar packets |
+| Water (or splash lactose-free milk) | Cook |
+| Protein (**required**) | Stir **egg whites** into hot oats *or* **ON/WPI ~1–1½ scoops** when cooler — bowl must land ~**45g P** |
+| Flavor | **Golden milk powder** (liked) **1 serving** · cinnamon · optional ginger |
+| Top | ½–1 banana **or** berries · optional **1 tbsp** peanut butter if fat room · **skip** sugar packets / syrup lakes |
+
+**Golden milk:** OK daily flavor — log the scoop (often coconut fat + a little sugar). Does **not** replace protein. Check label; if >~5g added sugar/scoop, use **½–1 tsp** not a heaping dump.
+
+**Easy oatmeal builds (pick one):**
+1. **Golden default:** oats + golden milk + egg whites stirred in + banana  
+2. **Berry:** oats + golden milk or cinnamon + ON whey stirred cool + frozen berries  
+3. **PB banana:** oats + whey + ½ banana + **1 tbsp** PB (lift days OK)  
+4. **Savory side:** small plain oats + run eggs/whites + salsa on the side (still counts as Gate 1 starch)
 
 ### C) Add turkey sausage or bacon (craving days only)
 Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bacon **2–3** — not stacked with a huge hash every time.
