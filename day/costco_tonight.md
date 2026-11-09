@@ -72,7 +72,7 @@ Skip anything already full at home. Deep stack notes → `stack/supplements.md` 
 | Oats | **Kirkland steel-cut oats** | **Quaker Old Fashioned** (rolled) | Flavored instant oat packets |
 | Peri carb | **Honey** (Kirkland / any pure) | Jam for rice cakes only | Maple as unlimited pour |
 | Peri backup | **Salted rice cakes** (Quaker / Lundberg / similar) | Unsalted rice cakes + add salt | Sweet frosted rice cakes |
-| Frozen backup | Cooked **chicken breast strips** or **lean turkey meatballs** + **frozen broccoli/veg** | Extra rotisserie | Breaded frozen entrees as default |
+| Frozen backup (easy nights) | **Unbreaded cooked chicken breast strips** and/or **lean turkey meatballs** + **frozen broccoli/veg** | **Just Bare** spicy chunks **or** Kirkland breaded fillets — **occasional** only (1–2 pcs + beans) | Breaded as the *only* freezer protein · breaded + fries + no beans |
 | Drink | **Fresca** classic multipack | Fresca Zero / same aspartame Fresca flavors | Regular soda · juice · sugary sports drinks |
 | Shaved ice (optional) | **Torani Sugar Free** syrup if stocked | SF syrup at grocery | Regular Torani / condensed milk |
 

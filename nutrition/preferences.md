@@ -29,7 +29,8 @@ Better than delivery spiral or grazing. Pick one; portion; log.
 |----------|-----|
 | **Leftover chili / soup** (fridge or frozen pint) | Microwave — best option |
 | **Costco/Sam’s rotisserie chicken** (skin off) + can beans + salsa + 1–2 tortillas or potato | ~10 min |
-| **Frozen cooked chicken / turkey meatballs** + bag steamed veg + beans | Heat + assemble |
+| **Frozen cooked chicken breast strips (unbreaded)** or **lean turkey meatballs** + bag steamed veg + beans | Heat + assemble — best freezer protein |
+| **Breaded frozen chicken** (Just Bare / Kirkland fillets) — **occasional** | 1–2 pieces + beans + salsa/veg — not nightly; high Na |
 | **Canned chicken tortilla / chicken noodle** (lower-sodium if possible) + extra shredded chicken or Greek-yogurt-free add-in protein | Upgrade the can — don’t eat broth-only |
 | **Eggs / egg whites** + beans + salsa (he can tolerate this minimal cook) | Acceptable Gate 6 when pots are empty |
 
