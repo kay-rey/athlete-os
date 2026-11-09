@@ -86,10 +86,10 @@ Target ~**45g protein**. Brands → `pantry.md`. **Fresca** OK.
 | Rolled oats (or steel-cut) | **½–¾ cup dry** |
 | Water (or splash lactose-free milk) | Cook |
 | Protein (**required**) | Stir **egg whites** into hot oats *or* **ON/WPI ~1–1½ scoops** when cooler — bowl must land ~**45g P** |
-| Flavor | **Whole Foods Organic Golden Milk** **1 tsp (3g)** · extra cinnamon OK |
+| Flavor | **Whole Foods Organic Golden Milk** — his usual **~11g** (~3½ tsp) · or label **1 tsp** if dialing down |
 | Top | ½–1 banana **or** berries · optional **1 tbsp** peanut butter if fat room · **skip** sugar packets / syrup lakes |
 
-**Golden milk (locked):** Whole Foods Market Organic — **10 kcal · 2C · 0 sugar added** / tsp (turmeric, maca, goji, cinnamon, ginger, boswellia, cardamom, black pepper + guar). Excellent Phase flavor — use **1 tsp** in oats freely. Does **not** replace protein.
+**Golden milk (locked):** Whole Foods Market Organic — label **1 tsp / 3g = 10 kcal · 2C**. His pour **~11g ≈ 35–40 kcal · ~7C** — still fine; log ~11g in Lose It. Spices (turmeric + black pepper, ginger, cinnamon, maca, goji, boswellia) = flavor + small micronutrient bump — **not** a substitute for Daily Multi or Tue/Fri Vit C. Does **not** replace protein.
 
 **Easy oatmeal builds (pick one):**
 1. **Golden default:** oats + golden milk + egg whites stirred in + banana  
