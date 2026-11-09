@@ -15,6 +15,8 @@ Research basis: `archive/research/grappler_recomp_playbook.md` (2-day high-tensi
 
 **Do not add** random third lift days, isolation fluff, or failure sets in Weeks 1–4.
 
+**Sciatica flare rule:** if walking or getting up hurts, **skip Lift A/B axial loading** that day (trap-bar DL, back extension/RDL, loaded squat). Optional upper-only (incline press + chest-supported row + neck) only if pain stays mild; otherwise full skip. Resume compounds when walk/stand is easy — Kaiser owns progressive/neuro symptoms.
+
 ## Why not a 3rd lift day?
 Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym stimulus.”
 
