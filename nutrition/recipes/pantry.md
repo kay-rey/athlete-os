@@ -63,7 +63,7 @@ Shop **Costco / Sam’s** for bulk Kirkland/Member’s Mark; **Walmart (−10% w
 |------|-----|
 | Ground turkey | **99/1** (Jennie-O / Butterball / store lean) — chili default |
 | Rotisserie | **Kirkland** (Costco) or **Member’s Mark** (Sam’s) — **skin off** |
-| Frozen easy protein | **Best:** unbreaded cooked **chicken breast strips**. **Also OK:** lean turkey meatballs. **Occasional:** Just Bare spicy chunks (~170 kcal · 17P · 11C · 6F / 2 pcs · high Na) or Kirkland breaded fillets (~210 · 22P · 12C · 9F / fillet) — 1–2 pcs + beans/veg, not nightly |
+| Frozen easy protein | **Best:** unbreaded cooked **chicken breast strips**. **Also OK:** lean **turkey** meatballs (Walmart/grocery — Costco often only stocks Italian **beef**). **Occasional:** Just Bare spicy / Kirkland breaded fillets — 1–2 pcs + beans/veg. **Skip:** Kirkland Italian/wedding beef meatballs (~18F·12P / 5) |
 | Egg whites | Carton liquid egg whites |
 | Lactose-free yogurt | **0% lactose-free Greek** |
 | Light mayo (sandwich) | **Hellmann’s Light** or **Best Foods Light** |
