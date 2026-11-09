@@ -58,7 +58,7 @@
 - **Sugar-free orange = correct buy.** Do **not** buy the **real-sugar** orange jug (sucrose — wastes Phase carbs for no benefit).
 - Flavored powder ≠ pure husk grams: plan “2.5g / 5g husk” maps to **½ tsp / 1 tsp** of this powder, not 2.5g/5g of orange mix scooped on a scale.
 - Label “appetite control” lists **2 tsp** before meals — optional later if 1 tsp ×2 isn’t enough satiety; don’t jump there in Week 1 on top of beans.
-- Still **≥2h from sertraline** and hard mats. Aspartame is fine with your Rx at this dose.
+- Still **≥2h from sertraline** and hard mats. **Midday GB (Mon/Thu):** skip ~2:00 post-mat psyllium — it collides with **3:00** sertraline; take gel **pre-dinner** instead. Aspartame is fine with your Rx at this dose.
 - Unflavored husk remains ideal if you ever see it; until then **SF orange is SoT**.
 
 ## Optional — AM work focus
