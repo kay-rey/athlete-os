@@ -2,7 +2,26 @@
 
 Nutrition Gates → `day/schedule.md`. Training → `calendar/academies.md` + `strength/lifts.md`. Identity → `athlete/profile.md`.
 
-**Priority when lifestyle fights the recomp:** clinical safety / sleep debt → GB quality → Gates/plate → client/app output. Phone scrolling loses to all of those.
+**Priority when lifestyle fights the recomp:** clinical safety / sleep apnea treatment / sleep debt → drop-off **driving safety** → GB quality → Gates/plate → client/app output. Phone scrolling loses to all of those.
+
+---
+
+## Sleep apnea (diagnosed)
+
+Patient-reported: **diagnosed sleep apnea** → always tired; feels he needs **more sleep than “normal.”** That is physiologically real — fragmented sleep / low oxygen load does not equal hours in bed for a healthy sleeper.
+
+| Rule | Why |
+|------|-----|
+| **Treatment first** | CPAP / BiPAP / oral appliance / positional therapy — **whatever Kaiser sleep med prescribed**. Use it **every night** you sleep at home. Untreated apnea makes every other rail harder (binge, GB, phone, MasterBJJ). |
+| **Kaiser owns titration** | Mask fit, AHI, pressure changes, sleepy-driving — message sleep clinic / MD. This OS does not retarget apnea care. |
+| **More time in bed is allowed** | Target **7.5–8.5 h** opportunity on drop-off nights (lights out closer to **11:30 PM–12:00 AM**), not a macho 7.0. Sun/Mon bank longer if needed. |
+| **Planned nap after drop-off = default, not weakness** | **60–90 min** nap after return Tue–Sat is **legitimate medical recovery**, then Gate 1. Deep work comes **after** the nap if you’re wiped. |
+| **Don’t stimulants-mask apnea** | Tyrosine / extra caffeine are not a substitute for CPAP + sleep. Caffeine still cut mid-afternoon so nights aren’t worse. |
+| **Driving safety** | Wife drop-off = you are a morning driver. If microsleeps / nodding → **do not drive**; wife rideshare / other ride that day + call Kaiser. |
+| **Recomp helps long-term** | Fat loss (esp. neck/waist) often improves apnea severity — another reason Phase adherence matters. Short-term tiredness can still lag. |
+| **Training autoreg** | Trash sleep / high residual sleepiness → **Wed red fork** (skip GB) · **Fri Zero-Grinder** · never ego-roll. |
+
+**Honest expectation:** with apnea you may always need more recovery than a brown belt without it. Build the day around that instead of fighting it.
 
 ---
 
@@ -24,29 +43,30 @@ This **overrides** a pure “wake at 11 every day” fantasy on Tue–Sat. Those
 
 Natural preference: bed ~2:00–3:00 AM · wake ~11:00. That only fully fits **Sun night → Mon** and sometimes post-pickup evenings. **Tue–Sat need an earlier anchor.**
 
-### Mode A — Drop-off days (Tue–Sat) · default
+### Mode A — Drop-off days (Tue–Sat) · default (apnea-adjusted)
 | | Target |
 |--|--------|
-| **Lights out** | **12:00–12:30 AM** (Gate 7 still T−60: Mg + allergy med) |
+| **Lights out** | **11:30 PM–12:00 AM** (Gate 7 = T−60: Mg + allergy med) · CPAP on |
 | **Alarm** | **~7:30 AM** → drop-off |
-| **Sleep goal** | **≥7 h** in bed (not phone-in-bed) |
-| **After return (~8:00–8:15)** | Option 1: **Gate 1 + deep work** · Option 2: **nap 60–90 min** then Gate 1 (if wiped) — pick one; don’t scroll in bed |
+| **Sleep goal** | **7.5–8.5 h** in bed with treatment on (not phone-in-bed) |
+| **After return (~8:00–8:15)** | **Default: nap 60–90 min** → Gate 1 → one deep-work block. Skip nap only if unusually sharp. No phone-in-bed “rest.” |
 
-**Do not** regularly stay up to 2–3 AM *and* do 7:40 drop-offs. That is chronic debt → worse binge drive, worse GB, worse MasterBJJ focus.
+**Do not** regularly stay up to 2–3 AM *and* do 7:40 drop-offs. With apnea that is dangerous debt (binge + microsleep risk).
 
-### Mode B — No drop-off (Sun night → Mon; optional Sat night if she’s off Sun)
+### Mode B — No drop-off (Sun night → Mon)
 | | Target |
 |--|--------|
-| Bed | Can drift later (**≤2:00 AM** preferred, hard cap **2:30**) |
-| Wake | ~10:30–11:00 · normal Gate 1 |
-| Use | Sleep bank, Zone 2 Sunday, grocery, longer deep-work blocks Monday |
+| Bed | Prefer **≤1:00–1:30 AM** with apnea (hard cap **2:00**); CPAP on |
+| Wake | ~10:30–11:00 · Gate 1 · optional second short nap only if needed |
+| Use | Sleep bank, Zone 2 Sunday, grocery, longer MasterBJJ/Reyes blocks Monday |
 
 ### Sleep rules (all nights)
-1. **Phone charges outside the bedroom** (or across the room face-down) after Gate 7.  
-2. No “one more reel” after Mg — that’s the addiction loop.  
-3. Caffeine cutoff **≥8 h before lights out** (your late schedule → last coffee/energy drink by mid-afternoon).  
-4. Hard GB / late Flow → still protect drop-off sleep the *next* morning; cut phone, not sleep.  
-5. If anxiety spikes at night: breathe / journal 5 min; don’t open the phone as sedative.
+1. **Treatment on** every sleep / nap ≥60 min at home if your device is indicated for that.  
+2. **Phone charges outside the bedroom** after Gate 7.  
+3. No “one more reel” after Mg — revenge bedtime hits apnea harder than normal.  
+4. Caffeine cutoff **≥8 h before lights out** (last coffee/energy mid-afternoon). Alcohol wrecks apnea — keep rare/minimal.  
+5. Hard GB / late Flow → protect next drop-off sleep; cut phone + MasterBJJ, not CPAP time.  
+6. Anxiety at night: 5 min journal/breathe — phone is not a sedative.
 
 ---
 
@@ -64,12 +84,12 @@ Natural preference: bed ~2:00–3:00 AM · wake ~11:00. That only fully fits **S
 ### Suggested focus bias (not rigid)
 | Day | After drop-off / morning block | Afternoon |
 |-----|--------------------------------|-----------|
-| **Tue** | MasterBJJ or Reyes deep work → Lift A | Flow teach |
-| **Wed** | Early Flow AM already — light admin only if energy | GB or recover → Flow PM |
-| **Thu** | Deep work morning (shorter) | Gate 5 GB midday → Flow PM light |
-| **Fri** | Deep work → Lift B | Free / family / light Reyes admin |
-| **Sat** | Flow AM + cleanup | GB only if Wed missed · else Reyes shoot if booked |
-| **Sun** | Weigh + Zone 2 + grocery | Sleep bank · MasterBJJ planning 60–90 min max |
+| **Tue** | Nap → Gate 1 → short deep work → Lift A | Flow teach |
+| **Wed** | Early morning already — nap if possible; light admin only | GB **only if green**; else recover → Flow PM |
+| **Thu** | Nap → Gate 1 → short work | Gate 5 GB midday → Flow PM light |
+| **Fri** | Nap → deep work → Lift B (Zero-Grinder if sleep trash) | Free / family / light Reyes admin |
+| **Sat** | Nap if needed → Flow AM + cleanup | GB only if Wed missed · else Reyes shoot if booked |
+| **Sun** | Weigh + Zone 2 + grocery | Sleep bank · MasterBJJ planning ≤60–90 min |
 | **Mon** | Longest deep-work day (no drop-off) | Flow ± MT evening |
 
 Shoots for Reyes override the table — treat shoot days like hard GB: fuel, don’t stack ego lifting.
@@ -124,9 +144,12 @@ No shame spiral. Log “phone blew the block” in Sunday notes → restart next
 
 ## Sunday lifestyle audit (add to weekly review)
 
-- [ ] Tue–Sat lights out ≤12:30 most nights?  
+- [ ] CPAP/treatment used every home sleep night?  
+- [ ] Tue–Sat lights out ≤12:00 (aim 11:30) most nights?  
+- [ ] Post–drop-off naps taken when wiped (not phone-in-bed)?  
 - [ ] Drop-offs without revenge bedtime scrolling?  
-- [ ] ≥5 deep-work blocks phone-away this week?  
+- [ ] No sleepy-driving incidents / felt safe to drive?  
+- [ ] ≥4–5 phone-away deep-work blocks (quality > quantity with apnea)?  
 - [ ] One primary ship target most days?  
-- [ ] Social app limit hit without override?  
+- [ ] Social app limit held?  
 - [ ] Phone charged outside bedroom?

@@ -47,9 +47,12 @@ Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals t
 | Sun Zone 2 | Y/N | |
 
 ### 5. Lifestyle (`life/lifestyle.md`)
-- [ ] Tue–Sat lights out ≤12:30 most nights?
+- [ ] Sleep apnea treatment used every home night?
+- [ ] Tue–Sat lights out ≤12:00 (aim 11:30)?
+- [ ] Post–drop-off naps when wiped (not phone-in-bed)?
+- [ ] Felt safe to drive for drop-offs?
 - [ ] Drop-offs without revenge bedtime phone?
-- [ ] ≥5 phone-away deep-work blocks?
+- [ ] ≥4–5 phone-away deep-work blocks?
 - [ ] Named one ship target (Reyes or MasterBJJ) most days?
 - [ ] Social app limit held?
 - [ ] Phone charged outside bedroom?
