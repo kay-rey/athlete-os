@@ -14,6 +14,7 @@ SOURCES.md                   # what owns what
 athlete/                     # profile, trajectory, milestones
 calendar/academies.md        # Flow + GB + Muay Thai rules
 day/                         # schedule (Gates) + weekend prestart
+life/                        # sleep, drop-off, Reyes/MasterBJJ, phone rails
 nutrition/                   # phases, preferences, recipes/
 strength/lifts.md            # Lift A/B
 stack/supplements.md         # bottles + doses

@@ -5,12 +5,15 @@
 - Coaches **Flow Jiu Jitsu**; trains athlete BJJ at **Gracie Barra Northridge** (**≥2×/week goal** — see `calendar/academies.md`)
 - Guatemalan descent (SLC16A11, **LCT-13910 CC** = *genetic risk* of adult lactase non-persistence, ABCA1 R230C risk profile)  
   **Phenotype (patient-reported 2026-11-08):** regularly drinks milk and eats lactose dairy **without knowing the gene / without a clear intolerance story**. **Gut symptoms trump the genotype.** Treat CC as a flag to *watch*, not an automatic ban on all lactose. Whey: prefer isolate if easy; **ON / concentrate OK if he stays comfortable** (see `stack/supplements.md`).
-- Chronotype: wake ≈ **11:00 AM**; bed ≈ 2:00–3:00 AM  
-  Early exceptions: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00
+- Chronotype (preference): bed ≈ 2:00–3:00 AM · wake ≈ 11:00 AM — **only fully available Sun→Mon**.  
+  **Operational sleep:** Tue–Sat **drop-off mornings** → lights out **12:00–12:30 AM**, alarm **~7:30**, ≥7 h (`life/lifestyle.md`).  
+  Early teach: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00.
+- **Work:** **Reyes Media** (photography/videography) · **MasterBJJ** (jiu-jitsu instructional app) · Flow coach · GB athlete. Lifestyle/productivity SoT → `life/lifestyle.md`.
+- **Phone:** self-reported addiction that blocks deep work — rails in `life/lifestyle.md` (phone-away blocks, app caps, charge outside bedroom).
 - Insurance: **Medi-Cal** (Kaiser Medi-Cal / managed care as applicable) — coverage/formulary limits may affect GLP-1, brand psych meds, travel clinic; confirm with KP pharmacy / member services
 - Warehouse clubs: **Costco + Sam’s Club** memberships — prefer these for protein, beans, Fresca, Kirkland stack (D3/multi/fish oil), rice cakes, etc.  
   **Home Costco:** **18649 Via Princessa, Canyon Country, CA 91387** (default shop). Sam’s = backup / whatever’s closer that day.
-- **Wife:** works at **Walmart** — household gets her **10% employee discount** on eligible associate purchases (spouse card rules as applicable). **Typical exclusions:** most grocery (produce often excepted), tobacco/alcohol/gift cards, **sale / Rollback / clearance**, Marketplace third-party. **Shop rule:** for regular-price GM/appliances, compare **Walmart −10%** vs Costco/Sam’s; for already-sale Instant Pots etc., compare **sticker prices** only. Bulk Kirkland multipacks still often win at Costco.
+- **Wife:** works **Walmart Stevenson Ranch · Tue–Sat 8:00 AM–5:00 PM** · ~**10 min** drive · **no car** → he **drops her off** every work morning (leave ≈7:40–7:50). Household **10%** associate discount (confirm exclusions: often sale/Rollback/clearance, most grocery, Marketplace). **Shop rule:** regular-price GM → compare Walmart −10% vs Costco/Sam’s; sale stickers compare price-only. Bulk Kirkland often still wins at Costco.
 - Rx: **Sertraline 75 mg @ 3:00 PM daily**; **allergy med at bedtime**  
   Psyllium ≥2 hrs from sertraline (see Gates in `day/schedule.md`)
 - Mental health (patient-reported / prior care — **not diagnosed by this OS**):

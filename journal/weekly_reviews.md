@@ -46,8 +46,16 @@ Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals t
 | Flow coach-mode | Y/N | |
 | Sun Zone 2 | Y/N | |
 
-### 5. Notes
-Sleep / injuries / Zero-Grinder cuts / next week loads:
+### 5. Lifestyle (`life/lifestyle.md`)
+- [ ] Tue–Sat lights out ≤12:30 most nights?
+- [ ] Drop-offs without revenge bedtime phone?
+- [ ] ≥5 phone-away deep-work blocks?
+- [ ] Named one ship target (Reyes or MasterBJJ) most days?
+- [ ] Social app limit held?
+- [ ] Phone charged outside bedroom?
+
+### 6. Notes
+Sleep / phone / injuries / Zero-Grinder cuts / next week loads:
 
 ### 6. Decisions
 Phase hold? Milestone vs `athlete/milestones.csv`? Tier A/B/C? Monday actions:

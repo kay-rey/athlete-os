@@ -1,36 +1,38 @@
 # Day schedule — ops & gates
 
-**SoT links:** locations/priorities → `calendar/academies.md` · who/Rx/phase dates → `athlete/profile.md` · taste → `nutrition/preferences.md` · bottles/doses → `stack/supplements.md` · lifts → `strength/lifts.md` · macros → `nutrition/phases.csv` · journal → `journal/`
+**SoT links:** locations/priorities → `calendar/academies.md` · who/Rx/phase dates → `athlete/profile.md` · taste → `nutrition/preferences.md` · bottles/doses → `stack/supplements.md` · lifts → `strength/lifts.md` · macros → `nutrition/phases.csv` · sleep/work/phone → `life/lifestyle.md` · journal → `journal/`
 
 Class times are not re-listed here — pull from `calendar/academies.md`.
+
+**Household clock:** Wife Walmart Stevenson Ranch **Tue–Sat 8:00–5:00** — **drop-off every of those mornings** (~7:40 leave). Sun/Mon = no drop-off. Full lifestyle rails → `life/lifestyle.md`.
 
 ---
 
 ## 7-day ops
 
-### Monday — Errands + Flow teach ± MT
-Wake ≈11 → scale → Gate 1 → errands (untracked NEAT — no step goal) → sertraline 3:00 → Gate 4 → Flow PM (Adults = white-belt room, light contact) → **optional MT** (best night) → Gate 6. No lift / no GB.
+### Monday — Long deep-work day + Flow teach ± MT
+**No drop-off.** Wake ≈10:30–11 → scale → Gate 1 → **Reyes / MasterBJJ deep work** (phone-away) + errands NEAT → sertraline 3:00 → Gate 4 → Flow PM (Adults = white-belt room) → **optional MT** → Gate 6. No lift / no GB.
 
-### Tuesday — Lift A + Flow teach
-Wake ≈11 → collagen → Gate 1 (+30g carbs) → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults (light / white-belt room). No GB / no MT.
+### Tuesday — Drop-off → Lift A + Flow teach
+**Drop-off ~7:40–8:00** → return → Gate 1 (+30g carbs) + collagen → deep work or short nap then work → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:30** for Wed.
 
-### Wednesday — Flow AM → energy fork → Flow PM ± MT
-Wake ≈8 (AM teach) → Gate 1 → Flow AM.  
+### Wednesday — Drop-off / Flow AM → energy fork → Flow PM ± MT
+Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.  
 **Green:** GB **10:45 GB3 No-Gi** or **12:00 + 1:00 open mat** (2× credit) → **no MT**.  
 **Red (tired):** skip GB → Flow PM → **MT optional** (technical only) → chase 2× Sat.  
-GB day: WPI+creatine post; Zone 2 deferred to Sunday.
+GB day: WPI+creatine post; Zone 2 deferred to Sunday. Protect sleep for Thu GB.
 
-### Thursday — GB hard midday + Flow teach
-Wake ≈11 → Gate 1 → clamp → **GB 12:00–1:00** (+ **1:00–1:30** GB3 Open Mat if possible) locked 2× credit → WPI+creatine → sertraline → Gate 4 → Flow PM Adults (still light / white-belt room — not a second hard session). No MT.
+### Thursday — Drop-off → hard GB midday + Flow teach
+Drop-off → return → Gate 1 → shorter deep work → clamp → **GB 12:00–1:00** (+ **1:00–1:30** open mat if possible) → WPI+creatine → sertraline → Gate 4 → Flow PM light. No MT. Wife pickup ~5:00 as needed.
 
-### Friday — Lift B + free evening
-**Lift B 11:45–12:33**. Prefer **no GB**. Last-resort 2×: **11:00 Comp** before lift or **6:00** No-Gi after — see `calendar/academies.md`. Gate 6 dinner / family.
+### Friday — Drop-off → Lift B + free evening
+Drop-off → Gate 1 + collagen → deep work → **Lift B 11:45–12:33**. Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Evening: family / light admin. Lights out ≤12:30 for Sat drop-off.
 
-### Saturday — Flow AM + cleanup → GB if Wed missed
-Flow AM teach → mat cleanup. GB **12:00–1:00 only if Wed skipped**. Else done for 2× with Thu.
+### Saturday — Drop-off → Flow AM + cleanup → GB if Wed missed
+Drop-off → Flow AM teach → mat cleanup. GB **12:00–1:00 only if Wed skipped**. Else Reyes shoot if booked or done for 2× with Thu.
 
-### Sunday — Off mats
-Audit weigh-in + waist → log `journal/anthro.csv` → Gate 1 → **Zone 2 45 min @ 125–138** → groceries / sleep bank. Milpa carbs.
+### Sunday — Off mats + sleep bank
+**No drop-off.** Audit weigh-in + waist → `journal/anthro.csv` → Gate 1 → **Zone 2 45 min @ 125–138** → groceries → lifestyle audit (`life/lifestyle.md` + `journal/weekly_reviews.md`) → early-ish bed to bank sleep.
 
 ---
 
