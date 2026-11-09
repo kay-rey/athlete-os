@@ -154,6 +154,23 @@ No shame spiral. Log “phone blew the block” in Sunday notes → restart next
 
 ---
 
+## Sitting posture (cross-legged default)
+
+He is **most comfortable sitting cross-legged** — dinner table, TV, desk work. That is allowed; do not “fix” him into Western feet-on-floor all day.
+
+| Rule | Why |
+|------|-----|
+| **Keep the habit** | Comfort → he’ll actually sit through meals / deep work |
+| **Switch sides** | Same-side lock for hours is the sciatica/hip irritant, not the pose itself |
+| **Timer break** | Every **25–40 min** of desk/TV: stand or walk 1–2 min (phone-away blocks already help) |
+| **Flare days** | If the leg lights up in the fold, open the hip (one foot down / long-sit) until it calms — then resume crossed if comfortable |
+| **Desk setup** | Chair/seat that lets him cross without perched edge + slumped lumbar; lumbar cushion OK |
+| **Dinner** | Crossed OK; stand once after the plate if the flare is hot |
+
+Not a ban. Not a personality fix. Just **asymmetry + duration** management next to intermittent sciatica.
+
+---
+
 ## Sunday lifestyle audit (add to weekly review)
 
 - [ ] CPAP/treatment used every home sleep night?  
@@ -164,4 +181,5 @@ No shame spiral. Log “phone blew the block” in Sunday notes → restart next
 - [ ] ≥4–5 phone-away deep-work blocks (quality > quantity with apnea)?  
 - [ ] One primary ship target most days?  
 - [ ] Social app limit held?  
-- [ ] Phone charged outside bedroom?
+- [ ] Phone charged outside bedroom?  
+- [ ] Cross-legged sits: switched sides / stood every ~30 min most long blocks?

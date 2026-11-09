@@ -24,6 +24,7 @@
   - Flight / plane anxiety is a major trigger (**Indonesia + likely Philippines** trip end of Jan)
 - **Primary nutrition failure mode: binge / overeating** (not “forgetting protein”). Often worse with anxiety spikes. Gates blunt food noise; clinical care = Kaiser/MD/therapy. This OS does **not** add GLP-1 by default (see `.cursor/rules/recomp.mdc`).
 - **Sciatica (patient-reported, intermittent):** flares with pain walking / getting up; he can usually still teach, roll, and lift. Manage in-session (see `strength/lifts.md`); don’t force shutdown unless neuro red flags. **Kaiser/MD owns diagnosis & imaging.** Escalate same-day if weakness, saddle numbness, or bowel/bladder change.
+- **Sitting:** defaults to **cross-legged** (table / TV / desk) — preferred comfort. Manage via side-switching + stand breaks (`life/lifestyle.md`); do not ban the posture.
 
 ## Phase calendar
 See `nutrition/phases.csv` for kcal/macros. Dates:
