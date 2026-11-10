@@ -45,16 +45,16 @@ No GB at noon **Tue/Fri** (lift blocks). Fri evening = free / recover from Thu G
 ## Gym choice
 **Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Tue/Fri noon**.
 
-### EOS plans (ACH prices from their site — +tax; **$59.99 annual fee** all tiers)
-| Plan | Mo | Enroll | What you actually need? |
-|------|-----|--------|-------------------------|
-| **Will Do** | **$15** | **$49.99** | **Home club only** — cardio/strength (+ limited locker sauna). **Enough** if one club covers Tue/Fri and has racks/DBs. |
-| **Will Crush** | **$24.99** | **$1** | **Multi-club** — **use this.** EOS **Valencia** (SCV / Flow side) + EOS **Northridge** (GB side). |
-| Will Power | $29.99 | $1 | Crush + massage chairs, Evolt scan, Les Mills virtual, Flex deals. **Skip** — fluff for 2× MED. |
+### EOS plans (ACH prices from their site — +tax; **$59.99 annual fee** all tiers; local stickers vary)
+| Plan | Mo (site “as low as”) | What it is |
+|------|------------------------|------------|
+| Will Do | ~$15 | **Home club only** |
+| Will Crush | ~$24.99 | **Multi-club** — Valencia + Northridge without guest perk |
+| **Will Power** | ~$29.99+ (**his Valencia sticker ~$35**) | Multi-club-class perks + **unlimited VIP guest** (1 guest/visit, 18+, must check in with member) |
 
-† Excludes LUX. “Best value” on Power ≠ best for you.
+† Excludes LUX. Amenities vary by club.
 
-**Locked:** **Will Crush** — two EOS clubs on your real map. Will Do (home-only) would strand you at the wrong club. Never Power.
+**Locked (2026-11-10):** **~$35 Will Power at EOS Valencia** — chose it for the **wife guest pass**, not massage chairs/Evolt. That’s a valid household reason. Ignore the fluff add-ons; still run **Lift A/B only**. Confirm at desk whether this tier still opens **EOS Northridge** on GB days; if home-club-only somehow, lift Valencia Tue/Fri and don’t chase a second dues.
 
 ### Gyms near **91321** (Newhall) — scan
 **No EOS inside 91321.** Closest chain for the plan:
