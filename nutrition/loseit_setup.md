@@ -77,22 +77,23 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 2. Log **WPI / snacks / peri carbs** when you eat them.
 3. **Dinner:** wife cooks — photograph or portion, then log as best match (or custom recipe). Don’t ask her to weigh every gram unless she wants to; estimate honestly.
 4. Create **Custom Foods** for staples: lactose-free WPI scoop, psyllium, chili bowl (from `nutrition/recipes/turkey_chili.md`).
-5. Meals: he has **7 Lose It buckets** — use this map (peri + post combined):
+5. Meals: Lose It allows **up to 7** buckets — **use only what you need**. Default = **6** in **clock order** (hard GB day). Peri and Post stay separate; Gate 3 comes **after** Post because lunch is after the shake.
 
-| # | Name it | What goes here |
-|---|---------|----------------|
-| 1 | **Gate 1** | Wake meal (eggs / oatmeal / breakfast whey) |
-| 2 | **Peri** | Hard GB/MT only: T−45 clamp **and** T+15 WPI+creatine in one bucket (not for Flow) |
-| 3 | **Gate 3** | Midday solid plate (chicken + beans) |
-| 4 | **Gate 4** | ~4:30 protein snack before teach if needed |
-| 5 | **Gate 5/6** | Evening plate (wife dinner / post-teach meal) |
-| 6 | **Top-up** | Intentional calories to finish the 2,250 budget (oatmeal, rice cakes+honey, etc.) |
-| 7 | **Extra** | Unplanned grabs — Chomps, chips, pasta salad, etc. |
+| # | Name it | Clock order | What goes here |
+|---|---------|-------------|----------------|
+| 1 | **Gate 1** | Wake | Eggs / oatmeal / breakfast whey |
+| 2 | **Peri** | T−45 | Hard GB/MT clamp only (banana/honey/rice cakes + SF LIV) — **not Flow** |
+| 3 | **Post** | T+15 | WPI + creatine after hard mats |
+| 4 | **Gate 3** | After Post | Solid lunch (chicken + beans) |
+| 5 | **Gate 4** | ~4:30 | Protein snack before teach if needed |
+| 6 | **Gate 5/6** | Evening | Wife dinner / post-teach plate / planned calorie fill |
 
-Why peri+post together: both are the hard-session fuel block; splitting them wastes a bucket and you’ll mis-file whey anyway.  
+**Optional 7th** (only if you want it): **Extra** — unplanned grabs (Chomps, chips, pasta salad). Or skip #7 and log those under Gate 4 / Gate 5/6 honestly.
+
+Easy / no-GB days: leave **Peri** and **Post** empty — that’s correct, not a miss.  
 **Don’t make buckets for:** psyllium, sertraline, Gate 7 Mg/allergy.
 
-Hard rule: **Gate 5/6** = real evening meal. **Top-up** = planned fill to budget. **Extra** = chaos log — don’t live there.
+Hard rule: empty **Gate 5/6** with a full Extra/snack day still means you skipped the evening plate log.
 
 ### 5. Settings that matter
 1. Units: **lbs**, **grams**.
