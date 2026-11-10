@@ -77,16 +77,18 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 2. Log **WPI / snacks / peri carbs** when you eat them.
 3. **Dinner:** wife cooks — photograph or portion, then log as best match (or custom recipe). Don’t ask her to weigh every gram unless she wants to; estimate honestly.
 4. Create **Custom Foods** for staples: lactose-free WPI scoop, psyllium, chili bowl (from `nutrition/recipes/turkey_chili.md`).
-5. Meals: keep Lose It’s four buckets — map them to Gates (don’t invent five custom names you’ll forget):
+5. Meals: **rename the four Lose It buckets to Gates** (he prefers OS language over breakfast/lunch/dinner):
 
-| Lose It meal | What goes here | Gate |
-|--------------|----------------|------|
-| **Breakfast** | Wake meal (eggs/oatmeal/whey) + AM LIV/creatine if with food | **Gate 1** |
-| **Lunch** | Midday solid plate (chicken + beans) — post-GB lunch lands here | **Gate 3** |
-| **Dinner** | Evening plate after teach / wife food / intentional top-up | **Gate 5/6** |
-| **Snacks** | Gate 4 protein, peri banana/honey, Chomps, rice cakes, hungry coach grabs | **Gate 4 + peri + extras** |
+| Lose It name (rename to) | What goes here |
+|--------------------------|----------------|
+| **Gate 1** | Wake meal (eggs/oatmeal/whey) + AM LIV/creatine if with food |
+| **Gate 3** | Midday solid plate (chicken + beans) — post-GB lunch lands here |
+| **Gate 4 / Snacks** | Gate 4 protein, peri banana/honey/LIV, Chomps, rice cakes, hungry coach grabs |
+| **Gate 5/6** | Evening plate after teach / wife food / intentional calorie top-up |
 
-Hard rule: **Dinner is not optional just because snacks filled calories.** If teach-night food was logged under Snacks, that’s fine for history — next time put the evening plate in **Dinner** so the empty Dinner row doesn’t trick you into thinking you “skipped” a Gate.
+How: Lose It → meal section edit / rename (wording varies by iOS version) — set the four slots to the names above. You only get **four** buckets, so peri + Gate 4 share one row (**Gate 4 / Snacks**). Psyllium/sertraline aren’t food — don’t make empty meal rows for them.
+
+Hard rule: **Gate 5/6 is not optional just because Gate 4 / Snacks filled calories.** Empty Gate 5/6 with a full snack row still means you haven’t logged the evening plate.
 
 ### 5. Settings that matter
 1. Units: **lbs**, **grams**.
