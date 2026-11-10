@@ -77,21 +77,22 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 2. Log **WPI / snacks / peri carbs** when you eat them.
 3. **Dinner:** wife cooks — photograph or portion, then log as best match (or custom recipe). Don’t ask her to weigh every gram unless she wants to; estimate honestly.
 4. Create **Custom Foods** for staples: lactose-free WPI scoop, psyllium, chili bowl (from `nutrition/recipes/turkey_chili.md`).
-5. Meals: he has **7 Lose It buckets** — rename all seven to OS food slots (skip non-food Gates):
+5. Meals: he has **7 Lose It buckets** — use this map (peri + post combined):
 
 | # | Name it | What goes here |
 |---|---------|----------------|
-| 1 | **Gate 1** | Wake meal (eggs / oatmeal / whey with breakfast) |
-| 2 | **Peri** | Hard GB/MT only: T−45 banana/honey/rice cakes + SF LIV (not for Flow) |
-| 3 | **Gate 3** | Midday solid plate (chicken + beans) — post-mat lunch |
-| 4 | **Post** | T+15 WPI + creatine after hard GB (if separate from Gate 1 whey) |
-| 5 | **Gate 4** | ~4:30 protein snack before teach if needed |
-| 6 | **Gate 5/6** | Evening plate (wife dinner / post-teach / calorie top-up) |
-| 7 | **Extra** | Hungry coach grabs, Chomps, chips, late rice cakes — anything that isn’t a Gate |
+| 1 | **Gate 1** | Wake meal (eggs / oatmeal / breakfast whey) |
+| 2 | **Peri** | Hard GB/MT only: T−45 clamp **and** T+15 WPI+creatine in one bucket (not for Flow) |
+| 3 | **Gate 3** | Midday solid plate (chicken + beans) |
+| 4 | **Gate 4** | ~4:30 protein snack before teach if needed |
+| 5 | **Gate 5/6** | Evening plate (wife dinner / post-teach meal) |
+| 6 | **Top-up** | Intentional calories to finish the 2,250 budget (oatmeal, rice cakes+honey, etc.) |
+| 7 | **Extra** | Unplanned grabs — Chomps, chips, pasta salad, etc. |
 
-**Don’t make buckets for:** Gate 2 psyllium, sertraline, Gate 7 Mg/allergy — not food.
+Why peri+post together: both are the hard-session fuel block; splitting them wastes a bucket and you’ll mis-file whey anyway.  
+**Don’t make buckets for:** psyllium, sertraline, Gate 7 Mg/allergy.
 
-Hard rule: **Gate 5/6 stays a real evening plate.** Don’t leave it empty and dump the day into Extra.
+Hard rule: **Gate 5/6** = real evening meal. **Top-up** = planned fill to budget. **Extra** = chaos log — don’t live there.
 
 ### 5. Settings that matter
 1. Units: **lbs**, **grams**.
