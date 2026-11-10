@@ -62,6 +62,7 @@ No GB at noon **Tue/Fri** (lift blocks). Fri evening = free / recover from Thu G
 | Gym | Addr / ZIP | Fit for Lift A/B? |
 |-----|------------|-------------------|
 | **EOS Valencia** | 24445 Town Center Dr #195, **91355** | **Yes — SCV home for Crush** (~short drive from Newhall) |
+| **MEND Cryotherapy** (optional) | 26328 Citrus St, **91355** | On the way home from EOS Valencia — **not** a Phase 1 must. Student ~50% softens Silver (~$57.50/mo, 6-mo min). Prefer **try $20 first**; join only if post-lift stops stick ≥3–4×/mo. Skip cryo right after every Lift A/B if legs feel flat next session — use sore GB days or later same day instead. |
 | **EOS Northridge** | 9301 Tampa Ave #00575, **91324** | **Yes — GB-side club** |
 | LA Fitness (Golden Valley) | 26455 Golden Valley Rd, **91350** | Viable commercial alt; check trap bar / DBs |
 | LA Fitness (Newhall Ranch) | 28211 Newhall Ranch Rd, **91355** | Same |
