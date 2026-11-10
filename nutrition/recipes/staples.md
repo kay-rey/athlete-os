@@ -109,11 +109,24 @@ Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bac
 ## 7. Gate 3 — chicken + bean lunch bowl
 | Exact | ≈ |
 |-------|---|
-| Chicken (salsa chicken / rotisserie / tinga) | **160–180g** |
-| Rinsed black beans | **150g** |
+| Chicken (salsa chicken / rotisserie / tinga) | **160–180g cooked** |
+| Rinsed black beans | **150g** (or **½ can** ≈125–130g) |
 | **Kirkland Organic Medium Salsa** + fajita veg | Volume |
 | Avocado | **~30–40g** if fat budget |
 | Multi | With lunch |
+
+### One breast at a time (his default)
+He cooks **1 breast per cook**. That’s fine — weigh **after** cooking.
+
+| | Typical Costco boneless skinless breast |
+|--|----------------------------------------|
+| **Raw** | often **~250–340g** (big tray breasts) |
+| **Cooked** (~70–75% yield) | often **~180–250g** |
+| **Gate plate** | eat **160–180g cooked** |
+| **If the breast cooks to ~200–250g** | eat **160–180g** now → fridge the rest for **Gate 4** or dinner add-on |
+| **If it’s a small breast (~160–180g cooked)** | eat the whole thing = one Gate |
+
+**Rule:** **1 cooked breast ≈ 1 Gate protein** when it’s in the 160–180g band; oversized breasts = **one plate + leftover**, not force the whole bird down. Air fryer 375°F ~12–16 min to **165°F**, or oven 400°F ~18–22 min, or stove 5–7 min/side.
 
 ---
 
