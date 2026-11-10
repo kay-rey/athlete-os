@@ -49,6 +49,8 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
+**Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist tape** remains the Phase fat-loss SoT, especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
+
 ## Energetics
 - BMR baseline: 1,737 Mifflin / 1,727 Katch-McArdle
 - TDEE baseline ≈ 2,875–2,920 kcal (model assumed NEAT ~480 @ 8.5–10k steps historically; **you are not counting steps** — treat that NEAT figure as uncertain; judge energy balance by **waist + adherence + GB/lift consistency**, not a pedometer)
