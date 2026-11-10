@@ -29,6 +29,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Scale + tape measurements | `journal/anthro.csv` |
 | Food intake logs | `journal/meals.csv` |
 | Lift session logs | `journal/lifting.csv` |
+| Mat / BJJ / Flow / MT session logs | `journal/mats.csv` |
 | Freeform day notes | `journal/entries/` |
 | Sunday audits | `journal/weekly_reviews.md` |
 | Photos / labels | `journal/reference/` |

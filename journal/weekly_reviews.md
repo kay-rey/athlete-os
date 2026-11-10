@@ -1,6 +1,6 @@
 # Weekly review — Sunday on wake
 
-Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals trail → `journal/meals.csv`. Score training against `calendar/academies.md` (don’t reinvent session lists). Macros/phase → `nutrition/phases.csv`. Tiers → `athlete/trajectory.md`.
+Weigh/tape per `day/schedule.md` Sunday block. Log `journal/anthro.csv`. Meals trail → `journal/meals.csv`. Mats → `journal/mats.csv` (GB credit vs Flow). Lifts → `journal/lifting.csv`. Score training against `calendar/academies.md` (don’t reinvent session lists). Macros/phase → `nutrition/phases.csv`. Tiers → `athlete/trajectory.md`.
 
 ## Week __ | Date: ________ | Phase: ________
 
