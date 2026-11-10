@@ -19,7 +19,7 @@
 Household (fine): cabinet light · Oral-B floss · Keurig variety pack.
 
 ## Still need before / early Phase 1
-**Critical:** Metamucil Sugar-Free Orange  
+**Critical:** Metamucil Sugar-Free Orange — **owned** (confirmed 2026-11-09; not a buy gap)  
 
 **Protein / chili:** 99/1 ground turkey · black beans (or tri-bean) · chili seasoning · diced tomatoes · chicken broth · salsa  
 
