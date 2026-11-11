@@ -8,7 +8,7 @@
 - Chronotype (preference): bed ≈ 2:00–3:00 AM · wake ≈ 11:00 AM — **only fully available Sun→Mon**.  
   **Operational sleep:** Tue–Sat **drop-off mornings** → lights out **≤11:30 PM–12:00 AM** preferred with apnea, alarm **~7:30**, **≥7.5–8.5 h** in bed (`life/lifestyle.md`).  
   Early teach: Flow Wed AM ≈8:00; Flow Sat Adults ≈7:30–8:00.
-- **Sleep apnea (diagnosed — patient-reported):** chronic daytime tiredness expected if undertreated. **Treatment adherence (CPAP/oral appliance / whatever Kaiser prescribed) is clinical SoT** — this OS does not replace sleep-medicine care. Recomp / fat loss often *helps* apnea long-term; short-term he may need **more time in bed + planned naps**. Details → `life/lifestyle.md`.
+- **Sleep apnea (diagnosed — patient-reported):** chronic daytime tiredness expected if undertreated. **Not currently using CPAP** (confirmed 2026-11-11). Kaiser/sleep med owns whether oral appliance, positional therapy, or other care applies — this OS does not prescribe devices. Recomp / fat loss often *helps* apnea long-term; short-term he may need **more time in bed + planned naps**. Details → `life/lifestyle.md`.
 - **Work:** **Reyes Media** (photography/videography) · **MasterBJJ** (jiu-jitsu instructional app) · Flow coach · GB athlete. Lifestyle/productivity SoT → `life/lifestyle.md`.
 - **Phone:** self-reported addiction that blocks deep work — rails in `life/lifestyle.md` (phone-away blocks, app caps, charge outside bedroom).
 - Insurance: **Medi-Cal** (Kaiser Medi-Cal / managed care as applicable) — coverage/formulary limits may affect GLP-1, brand psych meds, travel clinic; confirm with KP pharmacy / member services

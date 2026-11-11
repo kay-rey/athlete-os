@@ -12,11 +12,11 @@ Patient-reported: **diagnosed sleep apnea** → always tired; feels he needs **m
 
 | Rule | Why |
 |------|-----|
-| **Treatment first** | CPAP / BiPAP / oral appliance / positional therapy — **whatever Kaiser sleep med prescribed**. Use it **every night** you sleep at home. Untreated apnea makes every other rail harder (binge, GB, phone, MasterBJJ). |
-| **Kaiser owns titration** | Mask fit, AHI, pressure changes, sleepy-driving — message sleep clinic / MD. This OS does not retarget apnea care. |
+| **Treatment status** | **No CPAP currently** (patient-reported). If Kaiser prescribed something else (oral appliance, positional, etc.), that owns the clinical lane — this OS doesn’t invent a device. Untreated/under-treated apnea still means more sleep debt risk. |
+| **Kaiser owns care** | Sleepy-driving, titration, new device trials — message sleep clinic / MD. This OS does not retarget apnea care. |
 | **More time in bed is allowed** | Target **7.5–8.5 h** opportunity on drop-off nights (lights out closer to **11:30 PM–12:00 AM**), not a macho 7.0. Sun/Mon bank longer if needed. |
 | **Planned nap after drop-off = default, not weakness** | **60–90 min** nap after return Tue–Sat is **legitimate medical recovery**, then Gate 1. Deep work comes **after** the nap if you’re wiped. |
-| **Don’t stimulants-mask apnea** | Tyrosine / extra caffeine are not a substitute for CPAP + sleep. Caffeine still cut mid-afternoon so nights aren’t worse. |
+| **Don’t stimulants-mask apnea** | Tyrosine / extra caffeine are not a substitute for sleep-medicine care + sleep. Caffeine still cut mid-afternoon so nights aren’t worse. |
 | **Driving safety** | Wife drop-off = you are a morning driver. If microsleeps / nodding → **do not drive**; wife rideshare / other ride that day + call Kaiser. |
 | **Recomp helps long-term** | Fat loss (esp. neck/waist) often improves apnea severity — another reason Phase adherence matters. Short-term tiredness can still lag. |
 | **Training autoreg** | Trash sleep / high residual sleepiness → **Wed red fork** (skip GB) · **Fri Zero-Grinder** · never ego-roll. |
@@ -46,17 +46,17 @@ Natural preference: bed ~2:00–3:00 AM · wake ~11:00. That only fully fits **S
 ### Mode A — Drop-off days (Tue–Sat) · default (apnea-adjusted)
 | | Target |
 |--|--------|
-| **Lights out** | **11:30 PM–12:00 AM** (Gate 7 = T−60: Mg + allergy med) · CPAP on |
+| **Lights out** | **11:30 PM–12:00 AM** (Gate 7 = T−60: Mg + allergy med) |
 | **Alarm** | **~7:30 AM** → drop-off |
 | **Core night** | Aim **≥7 h** with treatment before the alarm |
-| **After return (~8:00–8:15)** | **Go back to sleep 90–120 min** (CPAP on) → then Gate 1 → one deep-work block |
+| **After return (~8:00–8:15)** | **Go back to sleep 90–120 min** → then Gate 1 → one deep-work block |
 
 #### “Wake → drop-off → sleep again” — **not counterproductive for you**
 That pattern is **intentional biphasic sleep**: a short forced wake for a real job (her ride), then a **second sleep** to finish what apnea + early alarm stole. With diagnosed apnea, fighting to “stay up and be productive” right after drop-off usually produces phone scrolling + worse binge later — not deep work.
 
 | Productive version | Counterproductive version |
 |--------------------|---------------------------|
-| Night sleep with **CPAP** · lights out ≤12:00 | Night until 2–3 AM, then 7:30 alarm |
+| Night sleep · lights out ≤12:00 | Night until 2–3 AM, then 7:30 alarm |
 | Drop-off → **straight back to bed** · mask on · dark room | Drop-off → **phone in bed** for 45 min then doze |
 | Second sleep **90–120 min** · alarm · get up for Gate 1 | “Second sleep” until 1 PM with no Gates / no ship target |
 | After second sleep: food + **one** work block | After second sleep: open feeds until Flow |
@@ -68,7 +68,7 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 ### Mode B — No drop-off (Sun night → Mon)
 | | Target |
 |--|--------|
-| Bed | Prefer **≤1:00–1:30 AM** with apnea (hard cap **2:00**); CPAP on |
+| Bed | Prefer **≤1:00–1:30 AM** with apnea (hard cap **2:00**) |
 | Wake | ~10:30–11:00 · Gate 1 · optional second short nap only if needed |
 | Use | Sleep bank, Zone 2 Sunday, grocery, longer MasterBJJ/Reyes blocks Monday |
 
@@ -77,7 +77,7 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 2. **Phone charges outside the bedroom** after Gate 7.  
 3. No “one more reel” after Mg — revenge bedtime hits apnea harder than normal.  
 4. Caffeine cutoff **≥8 h before lights out** (last coffee/energy mid-afternoon). Alcohol wrecks apnea — keep rare/minimal.  
-5. Hard GB / late Flow → protect next drop-off sleep; cut phone + MasterBJJ, not CPAP time.  
+5. Hard GB / late Flow → protect next drop-off sleep; cut phone + MasterBJJ, not sleep time.  
 6. Anxiety at night: 5 min journal/breathe — phone is not a sedative.
 
 ---
@@ -173,7 +173,7 @@ Not a ban. Not a personality fix. Just **asymmetry + duration** management next 
 
 ## Sunday lifestyle audit (add to weekly review)
 
-- [ ] CPAP/treatment used every home sleep night?  
+- [ ] Sleep opportunity held (lights out / second sleep) despite apnea (no CPAP currently)?  
 - [ ] Tue–Sat lights out ≤12:00 (aim 11:30) most nights?  
 - [ ] Post–drop-off naps taken when wiped (not phone-in-bed)?  
 - [ ] Drop-offs without revenge bedtime scrolling?  
