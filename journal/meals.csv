@@ -71,3 +71,8 @@ date,approx_time,gate,description,est_kcal,est_protein_g,est_carbs_g,est_fat_g,p
 2026-11-10,,preference,Cooks 1 chicken breast at a time — weigh cooked,0,0,0,0,1,Gate target 160-180g cooked; big Costco breast often 180-250g cooked; leftover = Gate4,see staples one-breast rule,chat
 2026-11-09,,shop,Walmart SC #3523 receipt $116.39,0,0,0,0,1,"bought: bananas; choc rice cakes x2; Fresca; Sprite Zero; Propel x2; Chomps; Tyson grilled tenders; deli chicken; Mateo salsa; Tapatio; NSA sauces; onions cukes","Hawaiian rolls = wife; choc rice cakes = his peri 3-4 cakes + SF LIV",receipt
 2026-11-10,,preference,Chocolate rice cakes locked as peri carb,0,0,0,0,1,3 cakes ~36C or 4 ~48C + 1 SF LIV for Na; honey optional,salted nicer next buy not required,chat
+2026-11-10,Gate1,breakfast,2 eggs + 241g whites + banana + Fresca + collagen scoop,475,59,33,10,1,Lift A day Baar in Gate1; Fresca 0kcal,Lose It Gate1,loseit
+2026-11-10,Gate3,lunch,220g chicken breast + 8oz pinto beans,520,79,28,8,1,bigger than 160-180g chicken OK; ~full can beans at lunch,multi if taken,loseit
+2026-11-10,Gate4,snack,2 choc rice cakes + banana,241,3,55,2,1,no hard GB so peri empty OK; cakes used as snack not clamp,loseit
+2026-11-10,Gate5/6,dinner,250g chicken breast + 8oz pinto beans,570,88,28,9,1,second big bean + chicken plate; day P crushed,loseit
+2026-11-10,,day,Lose It Tue total 1806 kcal P229 C144 F29,1806,229,144,29,1,444 under budget; protein over; carbs+fat short,top-up ~400-450 C/F if still awake; 2x 8oz beans = heavy fiber day watch gut,loseit
