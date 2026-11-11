@@ -15,7 +15,7 @@ Patient-reported: **diagnosed sleep apnea** → always tired; feels he needs **m
 | **Treatment status** | **No CPAP currently** (patient-reported). If Kaiser prescribed something else (oral appliance, positional, etc.), that owns the clinical lane — this OS doesn’t invent a device. Untreated/under-treated apnea still means more sleep debt risk. |
 | **Kaiser owns care** | Sleepy-driving, titration, new device trials — message sleep clinic / MD. This OS does not retarget apnea care. |
 | **More time in bed is allowed** | Target **7.5–8.5 h** opportunity on drop-off nights (lights out closer to **11:30 PM–12:00 AM**), not a macho 7.0. Sun/Mon bank longer if needed. |
-| **Planned nap after drop-off = default, not weakness** | **60–90 min** nap after return Tue–Sat is **legitimate medical recovery**, then Gate 1. Deep work comes **after** the nap if you’re wiped. |
+| **Planned nap after drop-off = default, not weakness** | **Tue / Thu / Fri / Sat:** **60–90 min** nap after return is **legitimate medical recovery**, then Gate 1. **Wed exception:** drop-off → **straight to Flow Toddler 9:00** (home only leaves ~15 min) — no second sleep that morning; Gate 1 before/while commuting. |
 | **Don’t stimulants-mask apnea** | Tyrosine / extra caffeine are not a substitute for sleep-medicine care + sleep. Caffeine still cut mid-afternoon so nights aren’t worse. |
 | **Driving safety** | Wife drop-off = you are a morning driver. If microsleeps / nodding → **do not drive**; wife rideshare / other ride that day + call Kaiser. |
 | **Recomp helps long-term** | Fat loss (esp. neck/waist) often improves apnea severity — another reason Phase adherence matters. Short-term tiredness can still lag. |
@@ -98,7 +98,7 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 |-----|--------------------------------|-----------|
 | **Mon** | **GB Northridge #2** (no drop-off — best mat day) → deep work after | Flow ± light MT |
 | **Tue** | Second sleep → Gate 1 + collagen → **Lift A** → short work | Flow teach |
-| **Wed** | Early morning — second sleep if possible; light admin | GB **only if green**; else recover → Flow PM |
+| **Wed** | Drop-off → **straight to Flow 9:00** (no home nap) | GB **only if Mon missed + green**; else recover → Flow PM |
 | **Thu** | Second sleep → Gate 1 → short work | Gate 5 GB midday → Flow PM light |
 | **Fri** | Second sleep → deep work → **Lift B** (Zero-Grinder if sleep trash) | Free / family / light Reyes admin |
 | **Sat** | Second sleep if needed → Flow AM + cleanup | GB only if Wed missed · else Reyes shoot if booked |

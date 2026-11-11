@@ -17,11 +17,13 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ### Tuesday — Drop-off → second sleep → Lift A + Flow teach
 **Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** → Gate 1 (+30g carbs) + collagen → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00**.
 
-### Wednesday — Drop-off / Flow AM → GB only if Mon missed
-Often already early (drop-off and/or Flow AM ≈8). Gate 1 as soon as practical.  
-**If Mon GB done:** recover / light admin → Flow PM → no hard MT.  
-**If Mon missed + green:** GB **10:45** or **12:00 + open mat** (2× credit).  
-**Red:** skip → Flow PM → chase Sat. Protect sleep for Thu GB.
+### Wednesday — Drop-off → straight to Flow AM (no home second sleep)
+**Logistics lock:** after Walmart drop-off he goes **straight to Flow** for **Toddler 9:00** (then Lil Rollers **10:00** as scheduled). Going home only leaves ~**15 min** — **not** worth it. **No post–drop-off nap on Wed.**
+
+**Gate 1:** before leaving / in the car (shake + banana, or eggs if early enough) — don’t wait until after AM classes.  
+**If Mon GB done:** after AM Flow → light admin / nap at home if wiped → Flow PM → no hard MT.  
+**If Mon missed + green:** GB **12:00 + OM** only if AM teach didn’t fry you (10:45 is tight after Toddler/Rollers); else chase Sat.  
+**Red:** skip GB → Flow PM → chase Sat. Protect sleep for Thu GB. Lights out **≤12:00**.
 
 ### Thursday — Drop-off → second sleep → hard GB midday + Flow teach
 Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥2h after Rx)**. No MT. Wife pickup ~5:00 as needed.
