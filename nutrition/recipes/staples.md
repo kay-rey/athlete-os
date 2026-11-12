@@ -110,7 +110,7 @@ Eggs/whites build **plus** Jennie-O turkey sausage **2 patties** *or* turkey bac
 | Exact | ≈ |
 |-------|---|
 | Chicken (salsa chicken / rotisserie / tinga) | **160–180g cooked** |
-| Rinsed black beans | **150g** (or **½ can** ≈125–130g) |
+| Rinsed black/pinto beans | **Default ½ can** (~125–150g) · **Full can OK** if calories/carbs keep landing low (see below) |
 | **Kirkland Organic Medium Salsa** + fajita veg | Volume |
 | Avocado | **~30–40g** if fat budget |
 | Multi | With lunch |
@@ -127,6 +127,17 @@ He cooks **1 breast per cook**. That’s fine — weigh **after** cooking.
 | **If it’s a small breast (~160–180g cooked)** | eat the whole thing = one Gate |
 
 **Rule:** **1 cooked breast ≈ 1 Gate protein** when it’s in the 160–180g band; oversized breasts = **one plate + leftover**, not force the whole bird down. Air fryer 375°F ~12–16 min to **165°F**, or oven 400°F ~18–22 min, or stove 5–7 min/side.
+
+### Beans when under on carbs/calories
+He’s been finishing days **~400–700 under**, mostly carbs/fat short while protein is fine.
+
+| Pattern | When |
+|---------|------|
+| **½ can lunch + ½ can dinner** | Gut sensitive / default |
+| **1 full drained can lunch + 1 full drained can dinner** (~**2 cans/day** rinsed black or pinto) | **Allowed** while under-eating is the failure mode — ~**+660 kcal · ~118C · ~44 fiber** from beans alone |
+| **Refried** | Prefer **not** 2 full cans — denser fat/Na; use rinsed for the 2-can pattern |
+
+**Rules:** rinse well · keep psyllium at Wk1 **½ tsp** (don’t stack more gel) · if bloated/gassy → drop to **1½ cans/day** or half+full · still hit chicken **160–180g** so protein isn’t only beans · log drained amount honestly.
 
 ---
 
