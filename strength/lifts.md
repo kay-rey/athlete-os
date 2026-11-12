@@ -157,6 +157,42 @@ Milestone waypoints (aspirational) → `athlete/milestones.csv` — score them l
 ## Double-progression
 Hold weight until you hit the **top** of the rep range on **all 3** working sets inside the phase RPE cap (e.g. trap bar 6/6/6, presses 8/8/8). Next session: **+10 lb** lower (trap bar / squat) or **+5 lb** total upper (usually +2.5/side on DBs).
 
+## Progressive overload & periodization (why this *is* the science-based plan)
+
+You already have both. They just don’t look like a bodybuilding “hypertrophy block → strength block” Instagram template.
+
+### Progressive overload (locked)
+**Double-progression** above **is** progressive overload: more reps at a load → then more load. Log every working set. No load jumps outside the RPE cap. That is the primary driver of strength and myofibrillar hypertrophy in a deficit.
+
+### Periodization you already run (undulating + block RPE)
+| Weeks | Nutrition phase | Lift emphasis | Science job |
+|-------|-----------------|---------------|-------------|
+| **1–4** | Phase 1 start | RPE 6–7, tempos, 3–4 RIR | Tendon/collagen catch-up after layoff (Baar); protect joints next to GB |
+| **5–12** | Phase 1→2 | RPE 7.5–8, keep adding load | Primary strength + size stimulus (5–8 = both) |
+| **13** | Isoenergetic reset | Deload sets/load | Fatigue dissipation + leptin/kcal reset week |
+| **14–21** | Phase 4 cut | RPE 8–8.5 | Density / retain LBM while fat drops |
+
+That **is** periodization: intensity and recovery demand change across the 21 weeks in sync with calories — not the same RPE forever.
+
+### Why not separate “hypertrophy then strength” mesocycles?
+| Classic BB approach | Why it’s worse *for you* |
+|---------------------|---------------------------|
+| 8–12+ weeks of 8–15 reps / high volume | Steals recovery from **GB ≥2× + Flow**; more elbow/shoulder junk volume |
+| Then a pure 1–5 strength block | In a **cut**, peaking 1RMs is low ROI; BJJ already supplies high-tension isometrics |
+| Exercise churn every block | Breaks load tracking on a 2×/week MED |
+
+**5–8 reps at hard loads** sits in the overlap zone: enough tension for hypertrophy, enough load for strength, short enough for a 48-min session. Evidence for concurrent grappler S&C favors **high mechanical tension, low junk volume**, not marathon pump work beside hard sparring.
+
+### What would be *less* scientific here
+- Adding a 3rd lift day “for hypertrophy” while GB quality drops  
+- Failure sets in Weeks 1–4  
+- Ignoring double-progression / not logging loads  
+- Linear 5% jumps every week regardless of RPE  
+- Aesthetics isolation replacing hinge/press/row/pull-up/neck/carries  
+
+### Maintenance (Wk 22+) — optional later change
+After the cut, if GB is easy and you want more size, *then* consider slightly higher reps (6–10) or a short third session — not during Weeks 1–21.
+
 ## Interference guard
 - Zone 2: **Sunday** 45 min @ 125–138 (not on lift days)
 - No marathon / junk cardio volume
