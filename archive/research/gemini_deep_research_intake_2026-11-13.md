@@ -12,7 +12,7 @@ Use this packet so Deep Research recalibrates kcal, timeline, waist targets, and
 | Phase start | Mon Nov 9, 2026 · ~21-week recomp |
 | Weight | Baseline 189.7 (Nov 6) · 188.3 (Nov 12) · **186.7** (Nov 13 Withings) |
 | Withings Body+ | Muscle% 66.7 · Fat% **29.8** (BIA noisy — trend only) |
-| Navel waist | **~40–41"** first physical tape (provisional; **no tape ≥1 yr**; old 36" retired) |
+| Navel waist | **41.0" Phase SoT baseline** (locked 2026-11-13; no prior tape ≥1 yr; old 36" retired) |
 | Chest (nipple-line) | chat 41.6 → **41 6/8" (41.75")** |
 | Thigh | R chat 22.3 → **22 3/8"** · L 20.6 → **20 6/8"** (right primary) |
 | Neck | chat 15.2 → **15 2/8" (15.25")** |
@@ -38,8 +38,8 @@ Do **post-void, relaxed, inches only**, same session:
 
 | Priority | Site | How |
 |----------|------|-----|
-| **P0** | **Navel waist** | Clean AM redo — becomes official SoT |
-| **P0** | **Neck** | Narrowest below larynx (apnea + McCallum) |
+| Done | **Navel waist** | **41.0" locked** — future tapes for trend |
+| Done | **Neck** | **15 2/8"** logged |
 | **P1** | **Hips** | Widest glute/hip |
 | **P1** | **Flexed upper arm** | Peak biceps, both sides if asymmetric |
 | **P1** | **Calf** | Widest |

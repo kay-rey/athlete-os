@@ -45,7 +45,7 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 | BF% | **~30% direction** (Withings 29.8% 11/13; old 26–27% was too lean for a ~40–41" navel) | **~18–20% Tier A** · ~15–17% Tier B stretch |
 | FM | **~55–57 lbs** @ current (vs old ~50) | ~30–35 Tier A · ~26 Tier B if LBM rises |
 | LBM | **~130–135 lbs** BIA-ish (vs old ~139) — treat as noisy | Preserve first; +3–6 net is optimistic concurrent recomp |
-| Navel waist | **~40–41" provisional** (clean AM inches locks SoT; **36.0" estimate retired**) | **Tier A: ≤35–36" or −5"** · Tier B: 31–33" stretch |
+| Navel waist | **41.0" Phase SoT baseline** (locked 2026-11-13; **36.0" estimate retired**) | **Tier A: ≤36" (−5")** · Tier B: 31–33" stretch · frame ideal ~30.7" |
 | Pants / A1 gi | 34 tight; gaps 1.5" | 32–33 first win; 31–32 / ≥5.5" overlap stretch |
 | Wrist (frame) | **6.6 chat → 6 6/8" (6.75")** — medium frame | skeletal constant |
 
@@ -56,7 +56,7 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 | Site | Chat → eighths | Frame “ideal” | Phase use |
 |------|----------------|---------------|-----------|
 | Chest | 41.6 → **41 6/8" (41.75")** | **~43.9"** | Near; soft fat → leaner look |
-| Navel waist | ~40–41 | **~30.7"** | SoT; Tier A ≤35–36"; Tier B ~31–33" toward this |
+| Navel waist | **41.0" baseline** | **~30.7"** | SoT; Tier A ≤36" (−5); Tier B ~31–33" toward this |
 | Hips | chat 40.1 → **40 1/8"** (horizontal fullest glute) | **~37.3"** | ~+2.8" soft tissue; should fall with navel |
 | Waistband circ | chat 38.4 → **38 4/8"** | pants fit only | Not Phase SoT |
 | Thigh | R 22.3 → **22 3/8"** · L 20.6 → **20 6/8"** | **~23.3"** | **Right** primary; hold muscle |
@@ -67,7 +67,7 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
-**Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist tape (inches, navel, AM)** is Phase fat-loss SoT once the first clean reading is locked — especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
+**Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist SoT = 41.0"** (locked 2026-11-13). Prefer repeat tapes AM post-void for trend; especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
 
 **Bigger-waist math (2026-11-13):** More starting FM does **not** change daily Gates (**2,250 / ~185P**). It means **more fat to lose** for the same end look, so score **Tier A** as the real win and treat **15% / ~30–32" waist** as stretch — **do not deepen the deficit** (binge risk).
 

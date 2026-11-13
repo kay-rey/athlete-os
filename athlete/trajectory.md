@@ -10,7 +10,7 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 |-----------|---------|-----|
 | **Fat loss (~20–25 lbs FM)** | **Realistic** if adherence is high | Bigger start FM (~55+ vs old ~50) = same weekly fat-loss rate, **more total runway**; kcal plan unchanged |
 | **Scale 189.7 → ~170–174** | **Realistic as direction** | Mostly fat + early ECW/gut; Wk 1–3 ICW stall. Hitting 172 @ ~15% needs more LBM gain than median — score composition by waist |
-| **Waist ~40–41" → ≤35–36" (Tier A) / 31–33" (Tier B)** | **Tier A plausible; Tier B aggressive** | ~5–6" drop in 21 wks is a strong win; 31.5" from ~41" is a stretch, not a fail if missed |
+| **Waist 41.0" → ≤36" Tier A / 31–33" Tier B** | **Tier A plausible; Tier B aggressive** | Baseline locked 2026-11-13; −5" = strong win; 31.5" is stretch, not a fail if missed |
 | **A1 gi closes / overlap ↑** | **Realistic** | Follows waist + torso fat loss even before full LBM refill |
 | **Full +6.2 lbs net LBM inside the deficit** | **Optimistic** | Muscle-memory rebound after a 1-yr layoff makes *some* concurrent recomp real; banking the entire +6.2 lbs *while* losing ~24 lbs fat is best-case, not median |
 | **“Stocky” dense look by Wk 21** | **Usually needs longer** | Lean + tighter by Wk 21 is the right expectation. Thick neck/trap yoke, full clavicular shelf, and “hard” muscle fullness typically consolidate in **Wk 22–30+ maintenance** at ~2,500 kcal when glycogen/ICW refill without a deficit |
@@ -20,7 +20,7 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 
 ### Tier A — Floor (still a win)
 - Weight ≈ **176–180 lbs** by Wk 21
-- Waist ≤ **35–36"** (or **−5"** from locked AM baseline)
+- Waist ≤ **36"** (**−5"** from **41.0"** baseline)
 - BF roughly **~18–22%** (directionally down)
 - LBM **preserved or +1–3 lbs**
 - A1 jacket closes; pants ≤ size 33
