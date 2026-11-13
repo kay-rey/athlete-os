@@ -8,9 +8,9 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 
 | Component | Verdict | Why |
 |-----------|---------|-----|
-| **Fat loss (~24 lbs FM / ~1.1 lb fat/wk)** | **Realistic** if adherence is high | Matches a sustained ~580–625 kcal/day deficit across ~147 days; BJJ + Zone 2 + unstructured NEAT (no step counting) support the EAT/NEAT model — if waist stalls with solid Gates/GB, revisit kcal before inventing step quotas |
-| **Scale 189.7 → ~170–174** | **Realistic** | Mostly fat + early ECW/gut loss; expect Wk 1–3 ICW stall (187.5–188.5) |
-| **Waist ~40–41" (first tape) → ~31–33"** | **Aggressive; baseline just locked** | Old 36" was estimate (no tape ≥1 yr). Re-score deltas after clean AM inches SoT; pants 34 + A1 still secondary checks |
+| **Fat loss (~20–25 lbs FM)** | **Realistic** if adherence is high | Bigger start FM (~55+ vs old ~50) = same weekly fat-loss rate, **more total runway**; kcal plan unchanged |
+| **Scale 189.7 → ~170–174** | **Realistic as direction** | Mostly fat + early ECW/gut; Wk 1–3 ICW stall. Hitting 172 @ ~15% needs more LBM gain than median — score composition by waist |
+| **Waist ~40–41" → ≤35–36" (Tier A) / 31–33" (Tier B)** | **Tier A plausible; Tier B aggressive** | ~5–6" drop in 21 wks is a strong win; 31.5" from ~41" is a stretch, not a fail if missed |
 | **A1 gi closes / overlap ↑** | **Realistic** | Follows waist + torso fat loss even before full LBM refill |
 | **Full +6.2 lbs net LBM inside the deficit** | **Optimistic** | Muscle-memory rebound after a 1-yr layoff makes *some* concurrent recomp real; banking the entire +6.2 lbs *while* losing ~24 lbs fat is best-case, not median |
 | **“Stocky” dense look by Wk 21** | **Usually needs longer** | Lean + tighter by Wk 21 is the right expectation. Thick neck/trap yoke, full clavicular shelf, and “hard” muscle fullness typically consolidate in **Wk 22–30+ maintenance** at ~2,500 kcal when glycogen/ICW refill without a deficit |
@@ -20,17 +20,17 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 
 ### Tier A — Floor (still a win)
 - Weight ≈ **176–180 lbs** by Wk 21
-- Waist ≤ **33"**
-- BF roughly **~18–20%** (directionally down)
+- Waist ≤ **35–36"** (or **−5"** from locked AM baseline)
+- BF roughly **~18–22%** (directionally down)
 - LBM **preserved or +1–3 lbs**
 - A1 jacket closes; pants ≤ size 33
 - Training consistency ≥80%; no injury from grinding
 
-### Tier B — Plan target (playbook primary)
+### Tier B — Plan target (playbook primary — stretch from ~41")
 - Weight **170–174 lbs**
-- Waist **31–32"**
-- BF ≈ **15–17%**
-- LBM **+3–6 lbs** net (partial fill of the +6.2 model)
+- Waist **31–33"**
+- BF ≈ **15–18%**
+- LBM **+3–6 lbs** net (partial fill; harder if true start LBM is ~131)
 - Strength progressing under the RPE curve; gi overlap ≥4–5"
 
 ### Tier C — Stocky lock-in (often post-deficit)

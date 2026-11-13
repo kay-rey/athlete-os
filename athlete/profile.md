@@ -40,23 +40,25 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 
 | | Baseline (ref / Day 1) | Week 21 target |
 |--|------------------------|----------------|
-| Weight | 189.7 lbs (86.05 kg) | 172.0 lbs (170–174) |
-| BF% | 26.1–27.0% | 14.9% |
-| FM | 49.5–51.2 lbs | 25.6 lbs (−23.9) |
-| LBM | 138.5–140.2 lbs | 146.4 lbs (+6.2 net) |
-| Navel waist | **Pending first clean AM tape** (old **36.0" was estimate — not taped ≥1 yr; first physical reads ~40–41")** | 31.5" (31–32") stretch; re-anchor delta once baseline locks |
-| Pants / A1 gi | 34 tight; gaps 1.5" | 31–32; ≥5.5" overlap |
+| Weight | 189.7 lbs start · **186.7** (2026-11-13) | 172.0 lbs (170–174) |
+| BF% | **~30% direction** (Withings 29.8% 11/13; old 26–27% was too lean for a ~40–41" navel) | **~18–20% Tier A** · ~15–17% Tier B stretch |
+| FM | **~55–57 lbs** @ current (vs old ~50) | ~30–35 Tier A · ~26 Tier B if LBM rises |
+| LBM | **~130–135 lbs** BIA-ish (vs old ~139) — treat as noisy | Preserve first; +3–6 net is optimistic concurrent recomp |
+| Navel waist | **~40–41" provisional** (clean AM inches locks SoT; **36.0" estimate retired**) | **Tier A: ≤35–36" or −5"** · Tier B: 31–33" stretch |
+| Pants / A1 gi | 34 tight; gaps 1.5" | 32–33 first win; 31–32 / ≥5.5" overlap stretch |
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
 **Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist tape (inches, navel, AM)** is Phase fat-loss SoT once the first clean reading is locked — especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
 
+**Bigger-waist math (2026-11-13):** More starting FM does **not** change daily Gates (**2,250 / ~185P**). It means **more fat to lose** for the same end look, so score **Tier A** as the real win and treat **15% / 31.5"** as stretch — **do not deepen the deficit** (binge risk).
+
 ## Energetics
-- BMR baseline: 1,737 Mifflin / 1,727 Katch-McArdle
+- BMR baseline: Mifflin ~1,737 (height/weight/age — **unchanged by waist**). Katch was ~1,727 on old higher LBM; if true LBM is ~131, Katch ≈ **1,650** — small; **do not retune kcal off one BIA day**
 - TDEE baseline ≈ 2,875–2,920 kcal (model assumed NEAT ~480 @ 8.5–10k steps historically; **you are not counting steps** — treat that NEAT figure as uncertain; judge energy balance by **waist + adherence + GB/lift consistency**, not a pedometer)
 - NEAT practice without tracking: Mon errands on foot when practical, stay on your feet while teaching, Sunday Zone 2 45 min — no step goal, no step logging
-- Week 21: Mifflin ↓1,657; Katch ↑1,791 (+64 from LBM) → maintenance floor **2,500 kcal**
-- Protein 1.23–1.33 g/lb target LBM (180–195 g/day); fat ≥70 g; carbs ≥185 g
+- Week 21: maintenance floor still **~2,500 kcal** (recheck after scale settles)
+- Protein **180–195 g/day stays** (if LBM is ~131 that’s ~1.4 g/lb LBM — still appropriate; do not cut protein)
 
 ## ICW buffer (Weeks 1–3)
 Creatine 5g/day + myonuclear refill ≈ +3.8 lbs ICW. Scale may hold 187.5–188.5 lbs while waist tightens. **Never cut calories Weeks 1–3 if navel waist is moving.**
