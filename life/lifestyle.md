@@ -8,7 +8,9 @@ Nutrition Gates → `day/schedule.md`. Training → `calendar/academies.md` + `s
 
 ## Straight edge (locked)
 
-**No alcohol. No smoking / nicotine.** Permanent identity — not a “Phase rule.” Do not suggest celebratory drinks, “one beer,” social smoking, or moderation experiments. Travel / Indonesia: same zero (no “vacation exception”).
+**No recreational drugs of any kind** — alcohol, smoking/nicotine, cannabis, and all other recreational intoxicants. Permanent identity — not a “Phase rule.” Do not suggest moderation, celebratory drinks, social smoking, or “vacation” exceptions (including Indonesia).
+
+**Caffeine exception:** he **sometimes** uses caffeine but is **careful** — it can flare **anxiety / panic**. Prefer low dose, earlier day, cutoff **≥8 h before lights out**; never use caffeine to mask apnea sleep debt or panic.
 
 ---
 
@@ -82,7 +84,7 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 1. **Treatment on** every sleep / nap ≥60 min at home if your device is indicated for that.  
 2. **Phone charges outside the bedroom** after Gate 7.  
 3. No “one more reel” after Mg — revenge bedtime hits apnea harder than normal.  
-4. Caffeine cutoff **≥8 h before lights out** (last coffee/energy mid-afternoon). Alcohol wrecks apnea — keep rare/minimal.  
+4. Caffeine cutoff **≥8 h before lights out** (last coffee/energy mid-afternoon); keep dose low — anxiety/panic trigger. **Alcohol = never** (straight edge; also wrecks apnea).  
 5. Hard GB / late Flow → protect next drop-off sleep; cut phone + MasterBJJ, not sleep time.  
 6. Anxiety at night: 5 min journal/breathe — phone is not a sedative.
 
