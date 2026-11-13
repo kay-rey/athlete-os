@@ -47,12 +47,24 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 | LBM | **~130–135 lbs** BIA-ish (vs old ~139) — treat as noisy | Preserve first; +3–6 net is optimistic concurrent recomp |
 | Navel waist | **~40–41" provisional** (clean AM inches locks SoT; **36.0" estimate retired**) | **Tier A: ≤35–36" or −5"** · Tier B: 31–33" stretch |
 | Pants / A1 gi | 34 tight; gaps 1.5" | 32–33 first win; 31–32 / ≥5.5" overlap stretch |
+| Wrist (frame) | **6.6"** (2026-11-13) — medium frame | skeletal constant |
+
+**Wrist / McCallum proportion reference** (heuristic only — not a Gate or calorie input):
+
+| Site | Now | Frame “ideal” (× wrist 6.6") | Phase use |
+|------|-----|------------------------------|-----------|
+| Chest | 41.6" | **~42.9"** | Already near; soft fat → leaner look at similar girth |
+| Navel waist | ~40–41" | **~30.0"** (70% of ideal chest) | SoT; Tier A ≤35–36"; Tier B ~31–33" toward this |
+| Hips | — | **~36.5"** | Optional tape |
+| Thigh | 22.3" | **~22.7"** | Hold muscle; already on target |
+| Flexed arm | — | **~15.4"** | Optional |
+| Neck | — | **~15.9"** | Optional (apnea / collar interest) |
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
 **Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist tape (inches, navel, AM)** is Phase fat-loss SoT once the first clean reading is locked — especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
 
-**Bigger-waist math (2026-11-13):** More starting FM does **not** change daily Gates (**2,250 / ~185P**). It means **more fat to lose** for the same end look, so score **Tier A** as the real win and treat **15% / 31.5"** as stretch — **do not deepen the deficit** (binge risk).
+**Bigger-waist math (2026-11-13):** More starting FM does **not** change daily Gates (**2,250 / ~185P**). It means **more fat to lose** for the same end look, so score **Tier A** as the real win and treat **15% / ~30–32" waist** as stretch — **do not deepen the deficit** (binge risk).
 
 ## Energetics
 - BMR baseline: Mifflin ~1,737 (height/weight/age — **unchanged by waist**). Katch was ~1,727 on old higher LBM; if true LBM is ~131, Katch ≈ **1,650** — small; **do not retune kcal off one BIA day**
