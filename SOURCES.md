@@ -19,6 +19,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Lose It app setup | `nutrition/loseit_setup.md` |
 | Phase kcal/macros | `nutrition/phases.csv` |
 | Lift programming / RPE / tempos | `strength/lifts.md` |
+| Wife (Seychelle) gym profile / machine plan | `household/seychelle.md` |
 | Bottle inventory, quality audit, doses | `stack/supplements.md` |
 | Agent hard rules + journal + food deep-dive | `.cursor/rules/recomp.mdc` |
 

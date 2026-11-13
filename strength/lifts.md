@@ -56,6 +56,8 @@ No GB at noon **Tue/Fri** (lift blocks). Fri evening = free / recover from Thu G
 
 **Locked (2026-11-10):** **~$35 Will Power at EOS Valencia** — chose it for the **wife guest pass**, not massage chairs/Evolt. That’s a valid household reason. Ignore the fluff add-ons; still run **Lift A/B only**. Confirm at desk whether this tier still opens **EOS Northridge** on GB days; if home-club-only somehow, lift Valencia Tue/Fri and don’t chase a second dues.
 
+**Partner (Seychelle):** guest ~**1×/week** on his EOS days. She runs **machines alone** (vanity/beginner) while he does Lift A/B — **separate program** → `household/seychelle.md`. Do not add her work into his session clock or RPE.
+
 ### Gyms near **91321** (Newhall) — scan
 **No EOS inside 91321.** Closest chain for the plan:
 
