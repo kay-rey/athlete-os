@@ -6,6 +6,12 @@ Nutrition Gates → `day/schedule.md`. Training → `calendar/academies.md` + `s
 
 ---
 
+## Straight edge (locked)
+
+**No alcohol. No smoking / nicotine.** Permanent identity — not a “Phase rule.” Do not suggest celebratory drinks, “one beer,” social smoking, or moderation experiments. Travel / Indonesia: same zero (no “vacation exception”).
+
+---
+
 ## Sleep apnea (diagnosed)
 
 Patient-reported: **diagnosed sleep apnea** → always tired; feels he needs **more sleep than “normal.”** That is physiologically real — fragmented sleep / low oxygen load does not equal hours in bed for a healthy sleeper.

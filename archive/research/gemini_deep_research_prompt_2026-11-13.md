@@ -16,7 +16,8 @@ You are advising a Brazilian Jiu-Jitsu brown belt on a **21-week body recomposit
 - Coaches kids/adults at **Flow Jiu Jitsu**; trains as athlete at **Gracie Barra Northridge** (goal ≥2 hard sessions/week)
 - Works photography/videography + BJJ app; wife drop-off Tue–Sat ~7:40 AM → constrained sleep (biphasic second sleep most drop-off mornings; Wednesday goes straight to 9 AM Flow class)
 - Diagnosed **sleep apnea**, **not using CPAP**
-- Rx: **sertraline 75 mg at 3:00 PM**; allergy med at bedtime; psyllium must stay ≥2h from sertraline
+- Rx: **sertraline 75 mg at 3:00 PM**; allergy med at bedtime; psyllium must stay ≥**3h** from sertraline either side (midday gel by ~12:00; evening ≥6:00)
+- **Straight edge:** **no alcohol, no smoking/nicotine** — permanent; do not recommend moderation or travel exceptions
 - Mental health (patient-reported): GAD, panic disorder; flight anxiety (Indonesia trip late January — exact dates UNKNOWN)
 - Intermittent **sciatica** (can still teach/roll/lift; manage hinge/back-extension load)
 - Primary nutrition failure mode: **binge / late overeating**, not under-protein
@@ -64,7 +65,7 @@ Parsed locally from DI_CONNECT export (2026-11-13). Cross-check: 2024 MMA minute
 ## Current operating plan (Athlete-OS) — critique and refine, don’t ignore constraints
 - Daily targets now: **~2,250 kcal · 180–195 g protein · ~215 g carbs · ~72 g fat · 45–50 g fiber**
 - Phase calendar: Phase 1 Weeks 1–6 @ 2250; Phase 2 @ 2200; Week 13 reset @ 2550; Phase 4 @ 2150; Maintenance ~2500
-- **Gates / binge control:** front-load **≥100 g protein by 5:00 PM**; Gate meals; Metamucil timing away from sertraline
+- **Gates / binge control:** front-load **≥100 g protein by 5:00 PM**; Gate meals; Metamucil **≥3h** from sertraline
 - Week 1 observed pattern: often **400–700 kcal under** budget while protein is high — allowed full cans of rinsed beans at lunch+dinner while under-eating
 - Creatine **5 g/day steady** (no loading)
 - Strength: **2×/week MED** (Tue Lift A, Fri Lift B), ≤48 min, 5–8 rep compounds, RPE-capped periodization; Fri = Lift B only (**no BJJ stack**); lat pulldown substitutes pull-ups while >180 lb; sciatica → bias chest-supported rows, ease trap-bar / back extension
@@ -77,7 +78,7 @@ Parsed locally from DI_CONNECT export (2026-11-13). Cross-check: 2024 MMA minute
 - Typical hard GB rounds × RPE in Phase 1; Zone 2 feasibility
 - Sleep study AHI / severity; recent labs (lipids, A1c, Vit D, TSH, etc.); BP
 - Indonesia (+ Philippines?) exact travel dates
-- Alcohol frequency; specific binge trigger foods
+- Specific binge trigger foods (alcohol = **never** — straight edge)
 
 ## Research questions — answer all
 1. **Recommend a goal bodyweight** (point or range) for this athlete. Justify from research (health, apnea/central fat, LBM preservation, BJJ performance as a stocky 5'5" brown belt). Explicitly reject or accept BMI-driven targets with citations/reasoning. Do not copy any prior plan’s number.

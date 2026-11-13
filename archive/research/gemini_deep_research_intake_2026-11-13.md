@@ -27,7 +27,8 @@ Use this packet so Deep Research recalibrates kcal, timeline, waist targets, and
 | Current plan kcal | **2,250** · P **180–195** · C ~215 · F ~72 · fiber 45–50 |
 | Failure mode | **Binge / overeating** (not under-protein); Gates front-load ≥100P by 5 PM |
 | Training | Lift A Tue / Lift B Fri ≤48 min; GB hard 2×; teach Flow; Fri = Lift B only (no BJJ stack) |
-| Rx / clinical | Sertraline 75 mg @ 3 PM; allergy med QHS; **diagnosed sleep apnea, no CPAP**; intermittent sciatica; GAD / panic; flight anxiety (Indonesia trip late Jan) |
+| Rx / clinical | Sertraline 75 mg @ 3 PM; allergy med QHS; **psyllium ≥3h from sertraline**; **diagnosed sleep apnea, no CPAP**; intermittent sciatica; GAD / panic; flight anxiety (Indonesia trip late Jan) |
+| Lifestyle | **Straight edge — no alcohol, no smoking/nicotine** |
 | Sleep ops | Wife drop-off Tue–Sat ~7:40; biphasic second sleep most days; Wed straight to Flow 9 AM |
 | Week-1 adherence | Often **400–700 kcal under** target while protein high — bean/carb top-up allowed |
 

@@ -11,7 +11,7 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ## 7-day ops
 
 ### Monday — GB Northridge #2 (preferred) + deep work + Flow ± MT
-**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch (no psyllium yet)** → sertraline **3:00** → Gate 4 → Flow PM → **psyllium pre-dinner (≥2h after Rx)** → dinner + fish oil #2 → optional MT only if not fried.  
+**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch (no psyllium yet)** → sertraline **3:00** → Gate 4 → Flow PM → **psyllium pre-dinner (≥3h after Rx, so ≥6:00)** → dinner + fish oil #2 → optional MT only if not fried.  
 **If skipping Mon GB:** treat as deep-work day; chase #2 Wed or Sat. No Lift A today (bar is Tue/Fri).
 
 ### Tuesday — Drop-off → second sleep → Lift A + Flow teach
@@ -26,7 +26,7 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 **Red:** skip GB → Flow PM → chase Sat. Protect sleep for Thu GB. Lights out **≤12:00**.
 
 ### Thursday — Drop-off → second sleep → hard GB midday + Flow teach
-Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥2h after Rx)**. No MT. Wife pickup ~5:00 as needed.
+Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥3h after Rx, so ≥6:00)**. No MT. Wife pickup ~5:00 as needed.
 
 ### Friday — Drop-off → second sleep → Lift B + free evening
 Drop-off → **second sleep** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** (Zero-Grinder if sleep trash). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Evening: family / light admin. Lights out ≤12:00 for Sat.
@@ -46,14 +46,14 @@ Doses/brands → `stack/supplements.md`.
 | Gate | Clock (typical) | Action |
 |------|-----------------|--------|
 | **1** | On wake | 45g protein + D3 + fish oil #1 — **do not skip for fasting/focus.** If using L-tyrosine for AM work: take it first, then Gate 1 ~20–30 min later (`stack/supplements.md`) |
-| **2** | ≈12:40 | **Psyllium before lunch** — **Metamucil SF Orange** (or store SF orange): **½ rounded tsp Wk1 / 1 rounded tsp Wk2+** in ≥8–12 oz water + chase — wait **15–20 min**, then Gate 3. ≥2h from sertraline & hard mats (`stack/supplements.md`) |
+| **2** | **≤12:00** | **Psyllium before lunch** — **Metamucil SF Orange** (or store SF orange): **½ rounded tsp Wk1 / 1 rounded tsp Wk2+** in ≥8–12 oz water + chase — wait **15–20 min**, then Gate 3. Must finish **≥3h before 3:00 sertraline** (so by ~12:00) and ≥2h from hard mats (`stack/supplements.md`) |
 | **3** | ≈1:00 | 50g protein + 150g black beans + veggies + **multi** |
 | **3.5** | **3:00** | **Sertraline 75 mg** |
 | **4** | 4:30 | 25g protein → ≥100g by 5:00 (target 110–125) |
-| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → **solid lunch/protein soon after** (multi OK) → **sertraline 3:00** → Gate 4 → teach → **psyllium ≥2h after sertraline** (usually pre-dinner) → dinner + fish oil #2 |
+| **5** | Hard GB / hard MT days | T−45 clamp → T+15 WPI+creatine → **solid lunch/protein soon after** (multi OK) → **sertraline 3:00** → Gate 4 → teach → **psyllium ≥3h after sertraline** (earliest **6:00**, usually ~7:30–8:00 pre-dinner) → dinner + fish oil #2 |
 
-**Psyllium vs sertraline (hard rule):** ≥**2 hours** apart either side. Midday GB ending ~1:00–1:30 means **do not** take post-mat psyllium at ~2:00 — that lands inside the 3:00 Rx window. Eat recovery food first; move the gel to **evening pre-dinner** (≥5:00, often ~7:30–8:00 after Flow).
-| **6** | Teach-only / easy nights | **Psyllium → wait 15–20 min →** **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
+**Psyllium vs sertraline (hard rule):** ≥**3 hours** apart either side. With Rx at **3:00 PM**: midday gel **by ~12:00**; evening gel **≥6:00**. Midday GB ending ~1:00–1:30 means **do not** take post-mat psyllium — inside the 3h Rx window. Eat recovery food first; move the gel to **evening pre-dinner** (often ~7:30–8:00 after Flow).
+| **6** | Teach-only / easy nights | **Psyllium (≥6:00 if after sertraline) → wait 15–20 min →** **wife’s dinner** (Milpa-lean if she made it) + fish oil #2 (+ creatine if unused) |
 | **7** | T−60 → bed | Mg glycinate 2 caps → allergy med |
 
 **Psyllium = before lunch + before dinner only — never before Gate 1 and never mixed into / taken with breakfast.**  

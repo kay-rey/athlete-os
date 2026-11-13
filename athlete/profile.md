@@ -16,7 +16,8 @@
   **Home Costco:** **18649 Via Princessa, Canyon Country, CA 91387** (default shop). Sam’s = backup / whatever’s closer that day.
 - **Wife:** works **Walmart Stevenson Ranch · Tue–Sat 8:00 AM–5:00 PM** · ~**10 min** drive · **no car** → he **drops her off** every work morning (leave ≈7:40–7:50). Household **10%** associate discount (confirm exclusions: often sale/Rollback/clearance, most grocery, Marketplace). **Shop rule:** regular-price GM → compare Walmart −10% vs Costco/Sam’s; sale stickers compare price-only. Bulk Kirkland often still wins at Costco.
 - Rx: **Sertraline 75 mg @ 3:00 PM daily**; **allergy med at bedtime**  
-  Psyllium ≥2 hrs from sertraline (see Gates in `day/schedule.md`)
+  Psyllium ≥**3 hours** from sertraline either side (see Gates in `day/schedule.md`)
+- **Straight edge (patient-reported 2026-11-13):** **no alcohol, no smoking/nicotine** — permanent. Do not prescribe “moderation” drinks, celebratory alcohol, or smoking cessation plans; treat as zero.
 - Mental health (patient-reported / prior care — **not diagnosed by this OS**):
   - **Generalized anxiety disorder (GAD)**
   - **Panic disorder**
