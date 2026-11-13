@@ -6,7 +6,9 @@ Copy everything below the line into Gemini Deep Research. Update the **UNKNOWN**
 
 You are advising a Brazilian Jiu-Jitsu brown belt on a **21-week body recomposition** already underway. Produce an evidence-based plan refresh. Prefer peer-reviewed sports nutrition, obesity, sleep apnea / central adiposity, and strength-periodization literature. Do **not** prescribe medications, surgery, or CPAP settings — flag items for his physician (Kaiser) only.
 
-**Primary goal (no specific scale target):** become **healthier** (especially central fat / apnea-relevant markers) while staying **strong and heavy on the mats** — dense, powerful grappler, not a light BMI cut. Do **not** assign a goal bodyweight (no 150 / 160 / 170–174 targets). Judge progress by **navel waist**, mat performance, strength, and how he feels — not a destination weight.
+**Primary goal:** become **healthier** (especially central fat / apnea-relevant markers) while staying **strong and heavy on the mats** — dense, powerful grappler, not a light “skinny for BMI” cut.
+
+**Goal bodyweight:** You **must recommend** a goal bodyweight (or a tight range) **from your own research** for a 5'5" BJJ brown belt with this frame, composition, and mat role. Derive it from physiology / performance / health literature — **do not** adopt any prior playbook number. His old internal docs mentioned various targets; **treat those as irrelevant**. Show your math (LBM assumptions, BF% band, grappling tradeoffs). If evidence conflicts, give a range + confidence.
 
 ## Subject
 - Male, **32** (turns 33 Jan 20, 2027), height **5'5" (165.1 cm)**
@@ -38,7 +40,7 @@ Tape inches side uses **eighths** (chat `N.k` = N + k/8).
 | Ankle (L above malleolus) | **9 1/8"** |
 | Wrist | **6 6/8" (6.75")** medium frame · McCallum waist ideal ~**30.7"** · chest ideal ~**43.9"** |
 
-Do **not** aim for BMI “healthy edge” ~150 lb or any fixed goal weight. Success = healthier composition + **strong / heavy on the mats**.
+Critically evaluate BMI-only “healthy” cutoffs (e.g. ~150 lb at this height) vs muscular grappler norms — then **state your own recommended goal weight** consistent with healthy + strong/heavy on mats.
 
 ## Apple Health history (summarized — do not request raw export)
 - Weight yearly means ~**162 (2024) → 178 (2025) → 187 (2026)**; lifetime low ~**142 lb (Nov 2022)**; peak ~**196 lb (Apr 2026)**; last synced Withings before Phase **183.7 lb / ~28% BF (2026-06-04)**
@@ -55,8 +57,8 @@ Do **not** aim for BMI “healthy edge” ~150 lb or any fixed goal weight. Succ
 - Week 1 observed pattern: often **400–700 kcal under** budget while protein is high — allowed full cans of rinsed beans at lunch+dinner while under-eating
 - Creatine **5 g/day steady** (no loading)
 - Strength: **2×/week MED** (Tue Lift A, Fri Lift B), ≤48 min, 5–8 rep compounds, RPE-capped periodization; Fri = Lift B only (**no BJJ stack**); lat pulldown substitutes pull-ups while >180 lb; sciatica → bias chest-supported rows, ease trap-bar / back extension
-- Progress SoT: **navel waist** (and mat/strength feel); scale noisy Weeks 1–3 from ICW/creatine — **scale weight is not the goal**
-- Prior internal waist checkpoints (optional context only, not weight goals): Tier A ≤**36" (−5" from 41)**; stretch toward ~31–33" / frame ideal ~30.7" — always subordinate to staying strong and heavy on the mats
+- Progress SoT today: **navel waist** + mat/strength feel; scale noisy Weeks 1–3 from ICW/creatine
+- Prior waist checkpoints in his notes (context only — you may revise): ≤**36" (−5" from 41)** as a strong early win; frame McCallum waist ~30.7" as a proportion heuristic, not a mandate
 
 ## UNKNOWN / incomplete (state assumptions explicitly if you must fill gaps)
 - Exact hard-BJJ and lifting layoff duration before Nov 9, 2026
@@ -68,22 +70,24 @@ Do **not** aim for BMI “healthy edge” ~150 lb or any fixed goal weight. Succ
 - Garmin full archive pending (post-2025 HR/sleep may be richer than Apple Health)
 
 ## Research questions — answer all
-1. Given **41" navel**, ~**30% BF direction**, medium frame (wrist 6.75"), and central fat pattern, propose realistic **21-week waist / composition progress** that keeps him **strong and heavy on the mats**. How wrong was a plan built on ~36" / ~26% BF?
-2. Re-estimate **TDEE** under low NEAT + coaching on feet + 2× hard BJJ + 2× lifting. Is **2,250 kcal** still appropriate, too aggressive, or too high — especially given binge risk, recent under-eating, and the need to fuel hard rolling?
-3. Protein: is **180–195 g/day** still optimal if true LBM is closer to ~130–135 lb (BIA)? Any change to carb/fat floors for grappling performance, “heavy on mats” density, and binge control?
-4. Strength: critique a **2-day compound MED** with RPE phases for a brown belt returning from layoff with sciatica — keep, modify volume/exercise selection, or change frequency? Address concurrent recomp realism (preserve/build strength while losing central fat).
-5. Sleep apnea without CPAP + early drop-offs: what training/nutrition timing adjustments are evidence-supported (without prescribing devices)?
-6. What should he **measure monthly** (tape sites, mat/strength performance, labs to request from MD) — **not** a goal-weight checklist?
-7. Travel disruption (late Jan): how to stay healthy and mat-ready for 1–3 weeks abroad without wrecking binge control?
+1. **Recommend a goal bodyweight** (point or range) for this athlete. Justify from research (health, apnea/central fat, LBM preservation, BJJ performance as a stocky 5'5" brown belt). Explicitly reject or accept BMI-driven targets with citations/reasoning. Do not copy any prior plan’s number.
+2. Given **41" navel**, ~**30% BF direction**, medium frame (wrist 6.75"), and central fat pattern, propose realistic **21-week waist / composition / scale progress** toward *your* goal weight while keeping him **strong and heavy on the mats**. How wrong was a plan built on ~36" / ~26% BF?
+3. Re-estimate **TDEE** under low NEAT + coaching on feet + 2× hard BJJ + 2× lifting. Is **2,250 kcal** still appropriate, too aggressive, or too high — especially given binge risk, recent under-eating, and the need to fuel hard rolling?
+4. Protein: is **180–195 g/day** still optimal if true LBM is closer to ~130–135 lb (BIA)? Any change to carb/fat floors for grappling performance, density on the mats, and binge control?
+5. Strength: critique a **2-day compound MED** with RPE phases for a brown belt returning from layoff with sciatica — keep, modify volume/exercise selection, or change frequency? Address concurrent recomp realism.
+6. Sleep apnea without CPAP + early drop-offs: what training/nutrition timing adjustments are evidence-supported (without prescribing devices)?
+7. What should he **measure monthly** (tape, scale vs your goal band, mat/strength, labs to request from MD)?
+8. Travel disruption (late Jan): how to stay on track for 1–3 weeks abroad without wrecking binge control?
 
 ## Required output format
-- Executive verdict (≤10 bullets) centered on **healthy + strong/heavy on mats** (no goal weight)
+- Executive verdict (≤10 bullets) including **your recommended goal bodyweight** and why
+- Evidence section: how you derived that weight (assumptions, BF%/LBM, why not lighter/heavier)
 - Revised energy/macro table by phase (or justification to keep current)
-- **Waist / performance milestone** table (Weeks 6 / 12 / 13 / 21) — scale weight only as optional context, never as the target
+- Milestone table (Weeks 6 / 12 / 13 / 21): waist + scale path toward *your* goal + performance notes
 - S&C weekly template + periodization notes for mat strength
 - Risk flags for Kaiser / what not to DIY
-- Explicit “do not do” list (crash diets, BMI→150 or any fixed goal weight, spot reduction, step quotas, creatine loading, etc.)
-- Confidence + what data would most change your conclusions (Garmin sleep/HR, lift history, AHI, labs)
+- Explicit “do not do” list (crash diets, blind BMI cuts, spot reduction, step quotas, creatine loading, etc.)
+- Confidence + what data would most change your goal-weight conclusion (Garmin sleep/HR, lift history, AHI, labs, DEXA, etc.)
 
 ---
 
