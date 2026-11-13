@@ -14,8 +14,13 @@ Use this packet so Deep Research recalibrates kcal, timeline, waist targets, and
 | Withings Body+ | Muscle% 66.7 · Fat% **29.8** (BIA noisy — trend only) |
 | Navel waist | **~40–41"** first physical tape (provisional; **no tape ≥1 yr**; old 36" retired) |
 | Chest (nipple-line) | **41.6"** |
-| Thigh | **22.3"** |
+| Thigh | **R 22.3" / L 20.6"** (use right as primary) |
+| Neck | **15.2"** |
+| Calf | **15.0"** |
+| Flexed arm | **R 13.5"** |
+| Ankle | **L 9.1"** above malleolus |
 | Wrist | **6.6"** (medium frame; McCallum waist ideal ~30") |
+| Tape scale | Inches side = **8 ticks/inch (eighths)** — not tenths |
 | Fat pattern | Android — belly + soft chest / “man boobs” |
 | Current plan kcal | **2,250** · P **180–195** · C ~215 · F ~72 · fiber 45–50 |
 | Failure mode | **Binge / overeating** (not under-protein); Gates front-load ≥100P by 5 PM |

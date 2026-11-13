@@ -49,16 +49,18 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 | Pants / A1 gi | 34 tight; gaps 1.5" | 32–33 first win; 31–32 / ≥5.5" overlap stretch |
 | Wrist (frame) | **6.6"** (2026-11-13) — medium frame | skeletal constant |
 
-**Wrist / McCallum proportion reference** (heuristic only — not a Gate or calorie input):
+**Wrist / McCallum proportion reference** (heuristic only — not a Gate or calorie input). Tape inches side = **8 ticks = eighths** (not tenths).
 
-| Site | Now | Frame “ideal” (× wrist 6.6") | Phase use |
-|------|-----|------------------------------|-----------|
+| Site | Now (2026-11-13) | Frame “ideal” (× wrist 6.6") | Phase use |
+|------|------------------|------------------------------|-----------|
 | Chest | 41.6" | **~42.9"** | Already near; soft fat → leaner look at similar girth |
 | Navel waist | ~40–41" | **~30.0"** (70% of ideal chest) | SoT; Tier A ≤35–36"; Tier B ~31–33" toward this |
-| Hips | — | **~36.5"** | Optional tape |
-| Thigh | 22.3" | **~22.7"** | Hold muscle; already on target |
-| Flexed arm | — | **~15.4"** | Optional |
-| Neck | — | **~15.9"** | Optional (apnea / collar interest) |
+| Hips | — | **~36.5"** | Still needed |
+| Thigh | **R 22.3" / L 20.6"** | **~22.7"** | Use **right** as primary; hold muscle |
+| Flexed arm | **R 13.5"** | **~15.4"** | Fill under recomp (press/row/pulldown) — not isolation binge |
+| Neck | **15.2"** | **~15.9"** | Close; keep 4-way neck |
+| Calf | **15.0"** | **~14.6"** | Already at/above frame ideal |
+| Ankle | **L 9.1"** (above malleolus) | frame check w/ wrist | Skeletal; no training target |
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
