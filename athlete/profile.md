@@ -25,6 +25,7 @@
 - **Primary nutrition failure mode: binge / overeating** (not “forgetting protein”). Often worse with anxiety spikes. Gates blunt food noise; clinical care = Kaiser/MD/therapy. This OS does **not** add GLP-1 by default (see `.cursor/rules/recomp.mdc`).
 - **Sciatica (patient-reported, intermittent):** flares with pain walking / getting up; he can usually still teach, roll, and lift. Manage in-session (see `strength/lifts.md`); don’t force shutdown unless neuro red flags. **Kaiser/MD owns diagnosis & imaging.** Escalate same-day if weakness, saddle numbness, or bowel/bladder change.
 - **Sitting:** defaults to **cross-legged** (table / TV / desk) — preferred comfort. Manage via side-switching + stand breaks (`life/lifestyle.md`); do not ban the posture.
+- **Fat pattern (patient-reported 2026-11-13):** **android / central** — stores most visibly at **navel belly** and **chest (“man boobs” / soft pec fat)**. Matches why navel tape is SoT and why chest soft tissue often **lags** waist. Prefer optional **chest tape** (nipple-line) every 2–4 wks for a second site — not daily. True glandular gynecomastia vs soft fat = **Kaiser/MD** if a firm button under the nipple; OS treats this as regional fat until then. Incline DB press stays for upper-chest shape under recomp — fat loss is systemic, not spot-reduced.
 
 ## Phase calendar
 See `nutrition/phases.csv` for kcal/macros. Dates:

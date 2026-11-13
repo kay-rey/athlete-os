@@ -43,6 +43,7 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 - Score weekly progress against **Tier A as the non-negotiable floor**.
 - Do **not** deepen the deficit or add random volume if LBM/stockiness lags while waist and adherence are good — that is when you hold the plan and let Maintenance finish the look.
 - Weeks 1–3: waist > scale. Weeks 14–21: expect to look flatter before you look denser.
+- **Central / chest fat pattern:** expect **belly inches first**, chest soft tissue later (often mid–late Phase + maintenance). Do not add pec isolation volume or crash the deficit to “spot-reduce” man-boobs.
 
 ## Bottom line
 **Yes — getting meaningfully leaner, tighter in the gi, and stronger in 21 weeks is a realistic goal.**  
