@@ -35,6 +35,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Photos / labels | `journal/reference/` |
 | Logging conventions | `journal/README.md` |
 | Apple Health / device history (derived) | `journal/imports/apple_health/` (not raw export.xml) |
+| Garmin Connect history (derived) | `journal/imports/garmin/` (not raw GDPR export) |
 
 ## Archive (not live SoT)
 

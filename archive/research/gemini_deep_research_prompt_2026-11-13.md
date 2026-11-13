@@ -1,6 +1,6 @@
 # Gemini Deep Research — paste-ready prompt (2026-11-13)
 
-Copy everything below the line into Gemini Deep Research. Update the **UNKNOWN** section when more data arrives (Garmin, lifts, labs).
+Copy everything below the line into Gemini Deep Research. Update the **UNKNOWN** section when more data arrives (current EOS loads, labs, trip dates).
 
 ---
 
@@ -45,10 +45,21 @@ Critically evaluate BMI-only “healthy” cutoffs (e.g. ~150 lb at this height)
 ## Apple Health history (summarized — do not request raw export)
 - Weight yearly means ~**162 (2024) → 178 (2025) → 187 (2026)**; lifetime low ~**142 lb (Nov 2022)**; peak ~**196 lb (Apr 2026)**; last synced Withings before Phase **183.7 lb / ~28% BF (2026-06-04)**
 - BF% era: ~**20% (2022–24) → ~26% (2025) → ~29% (2026)**
-- Steps/NEAT collapse: ~**7.9k/day (2024) → ~3.2k (2025) → ~2.7k (2026)** — archival only; **no pedometer goals**
-- Workouts logged in Health: **2024** very high martial_arts volume (**110** sessions ≈ **10.7k minutes**) + cycling/strength; **2025** trickle; **2026 = 0** workout objects (BJJ/teaching not in Health). Last Garmin martial_arts in Health: **2025-02-21**
+- Steps/NEAT collapse (Health): ~**7.9k/day (2024) → ~3.2k (2025) → ~2.7k (2026)** — archival only; **no pedometer goals**
+- Workouts logged in Health: **2024** very high martial_arts volume (**110** sessions ≈ **10.7k minutes**) + cycling/strength; **2025** trickle; **2026 = 0** workout objects (BJJ/teaching not in Health)
 - Sparse 2026 Lose It→Health nutrition days (n=13): mean ~**2374 kcal / 222 g protein**; range **900–3297 kcal** — can hit protein but also extreme under/over days
 - Old Health waist **33" (2022)** is stale vs live **41.0"**
+
+## Garmin Connect history (summarized — do not request raw GDPR export)
+Parsed locally from DI_CONNECT export (2026-11-13). Cross-check: 2024 MMA minutes **match Health martial_arts exactly**.
+- **588** activities **2022-11-17 → 2025-05-25**; then wearable/activity cliff (no 2026 Garmin activities)
+- `mixed_martial_arts`: **163** sessions ≈ **15,299 min** total · **2024 alone = 110 / 10,678 min** · 2025 only 8 sessions before May stop
+- Strength sessions: **89**; Apr 2023 Strength-app benchmarks (lb): squat **180×10** (~240 1RM), deadlift **165×8** (~205), bench **135×3** (~143), OHP **60×10** (~80), row **80×10** (~107) — prior floor, not current EOS loads
+- Also heavy **road cycling** era (241 road_biking)
+- UDS daily **1025 days** (2022-10-07 → 2025-12-13): RHR means ~**47 / 46 / 50** (2023/24/25); body-battery daily high ~**83–89**; avg stress ~**25–27** then ~21 in 2025
+- Garmin UDS steps means ~**4.1k / 5.2k / 3.5k** (2023/24/25) — lower than Health phone totals; both show NEAT drop vs peak training year; **still no step goals**
+- Sleep stages: **768** nights with data, mean ~**7.5 h** total sleep · rich coverage through **~2025-05-10**, then thin
+- Garmin biometrics weights mostly **MyFitnessPal** (last **2025-08-23 ≈ 176.5 lb**) — **do not prefer** over Withings / Phase anthro
 
 ## Current operating plan (Athlete-OS) — critique and refine, don’t ignore constraints
 - Daily targets now: **~2,250 kcal · 180–195 g protein · ~215 g carbs · ~72 g fat · 45–50 g fiber**
@@ -61,13 +72,12 @@ Critically evaluate BMI-only “healthy” cutoffs (e.g. ~150 lb at this height)
 - Prior waist checkpoints in his notes (context only — you may revise): ≤**36" (−5" from 41)** as a strong early win; frame McCallum waist ~30.7" as a proportion heuristic, not a mandate
 
 ## UNKNOWN / incomplete (state assumptions explicitly if you must fill gaps)
-- Exact hard-BJJ and lifting layoff duration before Nov 9, 2026
-- Prior and current working sets (trap bar, squat, incline press, row, OHP, pulldown)
-- Typical hard GB rounds × RPE; Zone 2 feasibility
+- Exact calendar months fully off hard BJJ between last Garmin MMA (**2025-05**) and Phase start (**2026-11-09**) — devices silent; athlete may still have coached
+- **Current** EOS working sets (trap bar, squat/goblet, incline press, row, OHP, pulldown) — only 2023 Garmin benchmarks known
+- Typical hard GB rounds × RPE in Phase 1; Zone 2 feasibility
 - Sleep study AHI / severity; recent labs (lipids, A1c, Vit D, TSH, etc.); BP
 - Indonesia (+ Philippines?) exact travel dates
 - Alcohol frequency; specific binge trigger foods
-- Garmin full archive pending (post-2025 HR/sleep may be richer than Apple Health)
 
 ## Research questions — answer all
 1. **Recommend a goal bodyweight** (point or range) for this athlete. Justify from research (health, apnea/central fat, LBM preservation, BJJ performance as a stocky 5'5" brown belt). Explicitly reject or accept BMI-driven targets with citations/reasoning. Do not copy any prior plan’s number.
@@ -87,7 +97,7 @@ Critically evaluate BMI-only “healthy” cutoffs (e.g. ~150 lb at this height)
 - S&C weekly template + periodization notes for mat strength
 - Risk flags for Kaiser / what not to DIY
 - Explicit “do not do” list (crash diets, blind BMI cuts, spot reduction, step quotas, creatine loading, etc.)
-- Confidence + what data would most change your goal-weight conclusion (Garmin sleep/HR, lift history, AHI, labs, DEXA, etc.)
+- Confidence + what data would most change your goal-weight conclusion (current EOS loads, AHI, labs, DEXA, etc.)
 
 ---
 

@@ -56,8 +56,23 @@ Source: `/Users/kayrey/Downloads/apple_health_export/export.xml` + derived `jour
 - Raw HeartRate (1.1M+ samples) dumped into Gemini — summarize only if needed  
 - Committing/uploading `export.xml`
 
-### Still better from athlete dump / Garmin (not in Health cleanly)
-Prior lift maxes, sciatica detail, apnea AHI, Indonesia dates, binge foods, full 2025–26 sleep/HRV (request Garmin export or Personal API later).
+## Garmin Connect export — what to feed Gemini (parsed 2026-11-13 local)
+
+Source: `/Users/kayrey/Downloads/725c71ea-bb56-4fd2-a2fb-9daf38fd927b_1` → derived `journal/imports/garmin/*` + `journal/entries/2026-11-13-garmin-briefing.md`. **Do not upload the raw GDPR dump.**
+
+### USE in the research prompt (high signal)
+| Fact | Why it matters |
+|------|----------------|
+| **588** activities **2022-11-17 → 2025-05-25**; MMA **163 / ~15.3k min**; **2024 = 110 / 10,678 min = Health martial_arts** | Confirmed high EAT year; identical dual-device proof |
+| Strength **89** sessions; Apr 2023 benchmarks (squat 180×10, DL 165×8, bench 135×3, OHP 60×10, row 80×10) | Prior strength floor for recomp realism |
+| Heavy cycling era (241 road_biking) | Extra EAT in 2023–24 beyond mats |
+| Activity cliff May 2025; **no 2026 Garmin activities** | Layoff/logging gap into Phase |
+| UDS RHR ~47→46→50; BB high ~83–89; stress ~25–27 | Conditioning / recovery history when worn |
+| Sleep stages ~7.5 h mean through **~2025-05**; then thin | Fills Health sleep gap for 2023–early 2025 |
+| Garmin weights mostly MFP; last ~176.5 lb (Aug 2025) | **Do not override** Withings / anthro |
+
+### Still better from athlete dump (not in devices)
+Current EOS loads, apnea AHI, Indonesia dates, binge foods, photos.
 
 ## Highest-value gaps (measure / look up before research)
 
@@ -79,8 +94,8 @@ Same light, same distance, morning, underwear/rashguard:
 ### C. Strength history (myonuclear / load realism)
 | Need | Example |
 |------|---------|
-| Layoff length | ~how many months off hard BJJ / lifting before Nov 9 |
-| Best prior working sets | Trap-bar / DL, squat/goblet, incline or bench, row, OHP, pulldown — load × reps @ rough RPE |
+| Layoff length | Devices silent after May 2025 — confirm months off hard BJJ before Nov 9 |
+| Prior working sets | **Garmin 2023 benchmarks logged** — still want trap-bar / incline / current EOS |
 | Current EOS loads | Whatever you used Lift A / orientation |
 | Injuries beyond sciatica | Shoulders, knees, neck, fingers, prior surgeries |
 

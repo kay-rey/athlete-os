@@ -13,6 +13,7 @@ Append-only log of what you **actually** ate, weighed, measured, lifted, and tra
 | `weekly_reviews.md` | Sunday audits |
 | `reference/` | Photos (bottles, labels, scale) |
 | `imports/apple_health/` | Derived CSVs from Apple Health export (history); see folder README |
+| `imports/garmin/` | Derived CSVs from Garmin Connect GDPR export (history); see folder README |
 
 ### Mat logging (how)
 **Default:** after class, tell the agent (or paste a Notes line) → append `mats.csv`.  
