@@ -57,7 +57,7 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 |------|----------------|---------------|-----------|
 | Chest | 41.6 → **41 6/8" (41.75")** | **~43.9"** | Near; soft fat → leaner look |
 | Navel waist | ~40–41 | **~30.7"** | SoT; Tier A ≤35–36"; Tier B ~31–33" toward this |
-| Hips | **pending** (do **horizontal** at fullest glute — not waistband, not butt→waist length) | **~37.3"** | Still needed |
+| Hips | chat 40.1 → **40 1/8"** (horizontal fullest glute) | **~37.3"** | ~+2.8" soft tissue; should fall with navel |
 | Waistband circ | chat 38.4 → **38 4/8"** | pants fit only | Not Phase SoT |
 | Thigh | R 22.3 → **22 3/8"** · L 20.6 → **20 6/8"** | **~23.3"** | **Right** primary; hold muscle |
 | Flexed arm | R 13.5 → **13 5/8"** | **~15.8"** | Fill via compounds |

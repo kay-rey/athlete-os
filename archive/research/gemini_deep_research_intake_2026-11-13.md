@@ -19,6 +19,8 @@ Use this packet so Deep Research recalibrates kcal, timeline, waist targets, and
 | Calf | **15"** |
 | Flexed arm | R chat 13.5 → **13 5/8"** |
 | Ankle | L chat 9.1 → **9 1/8"** above malleolus |
+| Hips | chat 40.1 → **40 1/8"** horizontal fullest glute (ideal ~37.3") |
+| Waistband | chat 38.4 → **38 4/8"** (pants fit only — not SoT) |
 | Wrist | chat 6.6 → **6 6/8" (6.75")** medium; McCallum waist ideal **~30.7"** |
 | Tape scale | Inches = **8 ticks/inch**; chat `N.k` means **k eighths**, not tenths |
 | Fat pattern | Android — belly + soft chest / “man boobs” |
