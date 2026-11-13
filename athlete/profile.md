@@ -44,12 +44,12 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 | BF% | 26.1–27.0% | 14.9% |
 | FM | 49.5–51.2 lbs | 25.6 lbs (−23.9) |
 | LBM | 138.5–140.2 lbs | 146.4 lbs (+6.2 net) |
-| Navel waist | 36.0" | 31.5" (31–32") |
+| Navel waist | **Pending first clean AM tape** (old **36.0" was estimate — not taped ≥1 yr; first physical reads ~40–41")** | 31.5" (31–32") stretch; re-anchor delta once baseline locks |
 | Pants / A1 gi | 34 tight; gaps 1.5" | 31–32; ≥5.5" overlap |
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
-**Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist tape** remains the Phase fat-loss SoT, especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
+**Home scale:** **Withings Body+** (BIA weight + BF%). Use for **daily weight** (same conditions). Treat BF% as a **slow trend only** (weeks, not days) — same class of noise as EOS Evolt. **Navel waist tape (inches, navel, AM)** is Phase fat-loss SoT once the first clean reading is locked — especially Weeks 1–3 ICW. Skip gym scanners if Body+ is already logging.
 
 ## Energetics
 - BMR baseline: 1,737 Mifflin / 1,727 Katch-McArdle

@@ -1,6 +1,7 @@
 date,time_local,weight_lbs,rolling_7day_avg,navel_waist_in,a1_lapel_overlap_in,chest_in,hips_in,thigh_in,arm_in,notes
-2026-11-06,,189.7,189.7,36.0,-1.5,,,,,Pre-start reference; tight size 34 pants; A1 lapels gap 1.5 in; Phase 1 starts Mon Nov 9 after planned KBBQ weekend; Apple Health history → journal/imports/apple_health/ (last Withings 2026-06-04 ~183.7 lb)
-2026-11-12,,188.3,,,,,,Phase1 Day4 morning; -1.4 from 189.7 baseline; feels stuck — ICW/creatine week expect scale noise; waist SoT when taped,chat
-2026-11-13,12:34,186.7,,,,,,Withings Body+; muscle% 66.7 (+0.1) fat% 29.8 (-0.2) — BIA noise; scale -3.0 from 189.7 baseline in ~1wk; still need navel tape,withings
-2026-11-13,,186.7,,41.0?,,,,,USER reported navel~41 and below~102 — likely in+cm same band (~40-41in / ~102-104cm); NOT trusted vs 36.0 baseline; redo AM protocol,chat
+2026-11-06,,189.7,189.7,,,,,,Pre-start weight ref; tight size 34 pants; A1 lapels gap 1.5 in; Phase 1 starts Mon Nov 9; Apple Health history → journal/imports/apple_health/ (last Withings 2026-06-04 ~183.7 lb); waist 36.0 was ESTIMATE not tape — demoted 2026-11-13 (user: no navel tape ≥1yr)
+2026-11-12,,188.3,,,,,,Phase1 Day4 morning; -1.4 from 189.7 baseline; feels stuck — ICW/creatine week expect scale noise; waist SoT when first real tape lands,chat
+2026-11-13,12:34,186.7,,,,,,Withings Body+; muscle% 66.7 (+0.1) fat% 29.8 (-0.2) — BIA noise; scale -3.0 from 189.7 baseline in ~1wk,withings
+2026-11-13,,186.7,,~40-41,,,,,First physical tape day; navel ~41 in / ~102 cm same band; provisional until clean AM inches-only redo; becomes Phase waist SoT (36.0 estimate retired),chat
 2026-11-13,,,,,,,22.3,,Thigh tape first baseline 22.3 in (inches side); same leg + mid-thigh landmark next time; afternoon — prefer AM for trend,chat
+2026-11-13,,note,,,,,,,CLINICAL: user confirmed no navel waist tape in ≥1 year — do not compare progress to old 36.0 estimate; next clean AM inches navel = official baseline,chat

@@ -10,7 +10,7 @@ Week-21 “stocky lock-in” is **best-case**, not guaranteed. Use tiers so a go
 |-----------|---------|-----|
 | **Fat loss (~24 lbs FM / ~1.1 lb fat/wk)** | **Realistic** if adherence is high | Matches a sustained ~580–625 kcal/day deficit across ~147 days; BJJ + Zone 2 + unstructured NEAT (no step counting) support the EAT/NEAT model — if waist stalls with solid Gates/GB, revisit kcal before inventing step quotas |
 | **Scale 189.7 → ~170–174** | **Realistic** | Mostly fat + early ECW/gut loss; expect Wk 1–3 ICW stall (187.5–188.5) |
-| **Waist 36" → ~31–33"** | **Aggressive but plausible** | Visceral-heavy starting point often drops waist faster than scale early; 31.5" exact is a stretch target |
+| **Waist ~40–41" (first tape) → ~31–33"** | **Aggressive; baseline just locked** | Old 36" was estimate (no tape ≥1 yr). Re-score deltas after clean AM inches SoT; pants 34 + A1 still secondary checks |
 | **A1 gi closes / overlap ↑** | **Realistic** | Follows waist + torso fat loss even before full LBM refill |
 | **Full +6.2 lbs net LBM inside the deficit** | **Optimistic** | Muscle-memory rebound after a 1-yr layoff makes *some* concurrent recomp real; banking the entire +6.2 lbs *while* losing ~24 lbs fat is best-case, not median |
 | **“Stocky” dense look by Wk 21** | **Usually needs longer** | Lean + tighter by Wk 21 is the right expectation. Thick neck/trap yoke, full clavicular shelf, and “hard” muscle fullness typically consolidate in **Wk 22–30+ maintenance** at ~2,500 kcal when glycogen/ICW refill without a deficit |
