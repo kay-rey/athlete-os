@@ -13,14 +13,14 @@ Use this packet so Deep Research recalibrates kcal, timeline, waist targets, and
 | Weight | Baseline 189.7 (Nov 6) · 188.3 (Nov 12) · **186.7** (Nov 13 Withings) |
 | Withings Body+ | Muscle% 66.7 · Fat% **29.8** (BIA noisy — trend only) |
 | Navel waist | **~40–41"** first physical tape (provisional; **no tape ≥1 yr**; old 36" retired) |
-| Chest (nipple-line) | **41.6"** |
-| Thigh | **R 22.3" / L 20.6"** (use right as primary) |
-| Neck | **15.2"** |
-| Calf | **15.0"** |
-| Flexed arm | **R 13.5"** |
-| Ankle | **L 9.1"** above malleolus |
-| Wrist | **6.6"** (medium frame; McCallum waist ideal ~30") |
-| Tape scale | Inches side = **8 ticks/inch (eighths)** — not tenths |
+| Chest (nipple-line) | chat 41.6 → **41 6/8" (41.75")** |
+| Thigh | R chat 22.3 → **22 3/8"** · L 20.6 → **20 6/8"** (right primary) |
+| Neck | chat 15.2 → **15 2/8" (15.25")** |
+| Calf | **15"** |
+| Flexed arm | R chat 13.5 → **13 5/8"** |
+| Ankle | L chat 9.1 → **9 1/8"** above malleolus |
+| Wrist | chat 6.6 → **6 6/8" (6.75")** medium; McCallum waist ideal **~30.7"** |
+| Tape scale | Inches = **8 ticks/inch**; chat `N.k` means **k eighths**, not tenths |
 | Fat pattern | Android — belly + soft chest / “man boobs” |
 | Current plan kcal | **2,250** · P **180–195** · C ~215 · F ~72 · fiber 45–50 |
 | Failure mode | **Binge / overeating** (not under-protein); Gates front-load ≥100P by 5 PM |

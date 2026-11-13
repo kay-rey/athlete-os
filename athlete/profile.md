@@ -47,20 +47,22 @@ See `nutrition/phases.csv` for kcal/macros. Dates:
 | LBM | **~130–135 lbs** BIA-ish (vs old ~139) — treat as noisy | Preserve first; +3–6 net is optimistic concurrent recomp |
 | Navel waist | **~40–41" provisional** (clean AM inches locks SoT; **36.0" estimate retired**) | **Tier A: ≤35–36" or −5"** · Tier B: 31–33" stretch |
 | Pants / A1 gi | 34 tight; gaps 1.5" | 32–33 first win; 31–32 / ≥5.5" overlap stretch |
-| Wrist (frame) | **6.6"** (2026-11-13) — medium frame | skeletal constant |
+| Wrist (frame) | **6.6 chat → 6 6/8" (6.75")** — medium frame | skeletal constant |
 
-**Wrist / McCallum proportion reference** (heuristic only — not a Gate or calorie input). Tape inches side = **8 ticks = eighths** (not tenths).
+**Tape chat convention (locked 2026-11-13):** user sends `N.k` (e.g. `15.2`) = **N + k/8 inches** (tick count on the 8-tick inch scale), **not** decimal tenths. Agent stores both.
 
-| Site | Now (2026-11-13) | Frame “ideal” (× wrist 6.6") | Phase use |
-|------|------------------|------------------------------|-----------|
-| Chest | 41.6" | **~42.9"** | Already near; soft fat → leaner look at similar girth |
-| Navel waist | ~40–41" | **~30.0"** (70% of ideal chest) | SoT; Tier A ≤35–36"; Tier B ~31–33" toward this |
-| Hips | — | **~36.5"** | Still needed |
-| Thigh | **R 22.3" / L 20.6"** | **~22.7"** | Use **right** as primary; hold muscle |
-| Flexed arm | **R 13.5"** | **~15.4"** | Fill under recomp (press/row/pulldown) — not isolation binge |
-| Neck | **15.2"** | **~15.9"** | Close; keep 4-way neck |
-| Calf | **15.0"** | **~14.6"** | Already at/above frame ideal |
-| Ankle | **L 9.1"** (above malleolus) | frame check w/ wrist | Skeletal; no training target |
+**Wrist / McCallum proportion reference** (heuristic only — not a Gate or calorie input). Ideals from wrist **6.75"**.
+
+| Site | Chat → eighths | Frame “ideal” | Phase use |
+|------|----------------|---------------|-----------|
+| Chest | 41.6 → **41 6/8" (41.75")** | **~43.9"** | Near; soft fat → leaner look |
+| Navel waist | ~40–41 | **~30.7"** | SoT; Tier A ≤35–36"; Tier B ~31–33" toward this |
+| Hips | — | **~37.3"** | Still needed |
+| Thigh | R 22.3 → **22 3/8"** · L 20.6 → **20 6/8"** | **~23.3"** | **Right** primary; hold muscle |
+| Flexed arm | R 13.5 → **13 5/8"** | **~15.8"** | Fill via compounds |
+| Neck | 15.2 → **15 2/8" (15.25")** | **~16.2"** | Close; keep 4-way neck |
+| Calf | **15"** | **~14.9"** | On target |
+| Ankle | L 9.1 → **9 1/8"** | frame w/ wrist | Skeletal only |
 
 Strength / fit checkpoints → `athlete/milestones.csv`. Realism tiers → `athlete/trajectory.md`. Live scale/tape → `journal/anthro.csv`.
 
