@@ -17,7 +17,7 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 
 ## Goals (vanity / aesthetic — not athlete recomp)
 1. **Show up** ~1×/week with him (consistency > intensity for months 1–3)
-2. **Shape** — glutes, upper back / posture, shoulders, waist-to-hip look (machines + progressive load)
+2. **Shape** — **legs + glutes first** (vanity priority), then upper back / posture + light shoulders (machines + progressive load)
 3. **Confidence** in the gym — learn pin stacks, seat height, controlled reps without him coaching every set
 4. **Clothes / mirror / photos** as progress (not scale obsession; ~100 lb is already light)
 5. **Strength habit** — add a pin or a rep when sets feel easy (RPE ~6–7 after week 2+)
@@ -26,43 +26,45 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 
 **Soft plate habits (no tracking):** when convenient, include a protein food at meals (eggs, chicken, yogurt, fish) — never assign Lose It or calorie targets unless he asks.
 
-## Default session template (~35–45 min) — machines only
+## Programming bias
+**Yes — ~⅔ of the session is legs/glutes** for her vanity goals. Day 1 was deliberately short on lower-body volume so first-session DOMS doesn’t scare her off; the **default** below is the real plan. Keep **one** upper pull for posture (makes the waist look smaller); chest press is optional, not required.
+
+## Default session template (~40–50 min) — **leg/glute bias**, machines only
 Warm-up: 5 min easy bike/elliptical.  
-Rest 60–90s. **2–3 sets × 10–12** (tonight: see Day 1 below). Stop 2–3 reps before failure. Controlled tempo; full range that feels safe.
+Rest 60–90s. **2–3 sets × 10–15**. Stop 2–3 reps before failure. Controlled tempo.
 
-| Order | Machine (EOS typical names) | Why |
-|-------|------------------------------|-----|
-| 1 | Leg press **or** horizontal / hack squat machine | Legs / glutes |
-| 2 | Seated hip abduction (or glute kickback machine) | Glute shape |
-| 3 | Seated / chest-supported row machine | Upper back / posture |
-| 4 | Lat pulldown (neutral or wide) | Back V / arms |
-| 5 | Seated shoulder press machine | Shoulders |
-| 6 | Chest press machine | Chest / push balance |
-| 7 | Cable or machine crunch / abs | Midsection |
+| Order | Machine (EOS typical names) | Sets × reps | Why |
+|-------|------------------------------|-------------|-----|
+| 1 | Leg press (feet mid/high on plate → more glute) | **3 × 10–12** | Main lower builder |
+| 2 | Lying / seated leg curl | **2–3 × 10–12** | Hamstrings / back of leg |
+| 3 | Hip abduction **or** cable/machine glute kickback | **3 × 12–15** | Glute shape |
+| 4 | Hip thrust / glute bridge machine **or** 45° back extension (glute squeeze, light) | **2–3 × 10–12** | Glute peak |
+| 5 | Seated / chest-supported row | **2 × 10–12** | Posture / upper-back frame |
+| 6 | Optional: shoulder press **or** lat pulldown | **2 × 10–12** | Shoulders / back — skip if time |
+| 7 | Optional: machine crunch | **2 × 12** | Abs — skip if wiped |
 
-Skip anything that hurts joints. Swap freely among similar machines. **No free-bar compounds** until she asks and has weeks of machine practice.
+Skip anything that hurts. Swap similar machines freely. **No free-bar compounds** until she asks and has weeks of machine practice.
 
-## Day 1 — tonight 2026-11-13 (first EOS session)
-**Theme:** learn the machines · light pins · leave wanting to come back.  
-**While he does Lift B** — she runs this alone; he can spot seat/pin setup once then leave her to it.
+## Day 1 — tonight 2026-11-13 (first EOS session) — **leg/glute biased, still beginner**
+**Theme:** learn lower-body machines · light pins · leave wanting to come back.  
+**While he does Lift B** — she runs this alone after one seat/pin setup pass.
 
 | # | Exercise | Sets × reps | Load cue |
 |---|----------|-------------|----------|
 | — | Bike or elliptical | 5 min easy | Warm only |
-| 1 | Leg press | **2 × 12** | Pin so last 3 reps are work but form stays clean |
-| 2 | Hip abduction machine | **2 × 12** | Light–moderate; squeeze at end |
-| 3 | Seated row | **2 × 12** | Chest pad set; pull to ribs, don’t yank |
-| 4 | Lat pulldown | **2 × 12** | Knees locked under pad |
-| 5 | Shoulder press machine | **2 × 10–12** | Don’t lock out hard if shoulders crunch |
-| 6 | Chest press machine | **2 × 10–12** | Same |
-| 7 | Machine crunch or cable crunch | **2 × 12** | Easy |
+| 1 | Leg press (feet mid/high) | **3 × 12** | Last 3 reps work; knees track toes |
+| 2 | Leg curl | **2 × 12** | Light–moderate |
+| 3 | Hip abduction | **3 × 12–15** | Squeeze at the end |
+| 4 | Glute kickback machine **or** hip thrust machine | **2 × 12** | Feel glute, not low back |
+| 5 | Seated row | **2 × 12** | Posture only — one upper move |
+| 6 | Skip chest/shoulder press tonight | — | Time goes to legs |
 
-**Tonight rules:** RPE ~**5–6** · rest as needed · log nothing required · if dizzy/nauseous stop · water · no steam/sauna marathon after first session if wiped.
+**Tonight rules:** RPE ~**5–6** · expect **next-day glute/ham DOMS** (normal) · rest as needed · if dizzy/nauseous stop · water.
 
 ## Progression (after Day 1)
-- Same template ~1×/week when she joins him
-- When all sets hit top reps easily → **+1 pin** next time (or +1–2 reps)
-- After **4–6** easy sessions → add a 3rd set on leg press + row + glute machine only
+- Same **leg/glute-biased** template ~1×/week
+- When sets hit top reps easily → **+1 pin** (priority: leg press → kickback/thrust → abduction)
+- After **4–6** easy sessions → 3rd set on leg curl + thrust/kickback
 - Never copy his RPE curve or trap-bar work
 
 ## Agent behavior
