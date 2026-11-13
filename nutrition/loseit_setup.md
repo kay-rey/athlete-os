@@ -77,23 +77,18 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 2. Log **WPI / snacks / peri carbs** when you eat them.
 3. **Dinner:** wife cooks — photograph or portion, then log as best match (or custom recipe). Don’t ask her to weigh every gram unless she wants to; estimate honestly.
 4. Create **Custom Foods** for staples: lactose-free WPI scoop, psyllium, chili bowl (from `nutrition/recipes/turkey_chili.md`).
-5. Meals: Lose It allows **up to 7** buckets — **use only what you need**. Default = **6** in **clock order** (hard GB day). Peri and Post stay separate; Gate 3 comes **after** Post because lunch is after the shake.
+5. Meals: **iPhone app** can rename up to 7 buckets (preferred). **Lose It website** only has default **Breakfast / Lunch / Dinner / Snacks** — that’s fine; map mentally:
 
-| # | Name it | Clock order | What goes here |
-|---|---------|-------------|----------------|
-| 1 | **Gate 1** | Wake | Eggs / oatmeal / breakfast whey |
-| 2 | **Peri** | T−45 | Hard GB/MT clamp only (banana/honey/rice cakes + SF LIV) — **not Flow** |
-| 3 | **Post** | T+15 | WPI + creatine after hard mats |
-| 4 | **Gate 3** | After Post | Solid lunch (chicken + beans) |
-| 5 | **Gate 4** | ~4:30 | Protein snack before teach if needed |
-| 6 | **Gate 5/6** | Evening | Wife dinner / post-teach plate / planned calorie fill |
+| Web name | Use for |
+|----------|---------|
+| **Breakfast** | Gate 1 and/or Post whey |
+| **Lunch** | Gate 3 (or small midday snack if web-sorting is messy) |
+| **Dinner** | Gate 5/6 |
+| **Snacks** | Peri (cakes+LIV), Gate 4, second chicken/bean plate, Extra/PB |
 
-**Optional 7th** (only if you want it): **Extra** — unplanned grabs (Chomps, chips, pasta salad). Or skip #7 and log those under Gate 4 / Gate 5/6 honestly.
+Macros/day total matter more than perfect bucket labels on web. When chatting the agent, say what was peri vs lunch.
 
-Easy / no-GB days: leave **Peri** and **Post** empty — that’s correct, not a miss.  
-**Don’t make buckets for:** psyllium, sertraline, Gate 7 Mg/allergy.
-
-Hard rule: empty **Gate 5/6** with a full Extra/snack day still means you skipped the evening plate log.
+**iPhone rename (when using phone):** Gate 1 · Peri · Post · Gate 3 · Gate 4 · Gate 5/6 · Extra — clock order; Peri/Post empty on easy days OK.
 
 ### 5. Settings that matter
 1. Units: **lbs**, **grams**.
