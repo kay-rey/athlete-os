@@ -22,9 +22,24 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 4. **Clothes / mirror / photos** as progress (not scale obsession; ~100 lb is already light)
 5. **Strength habit** — add a pin or a rep when sets feel easy (RPE ~6–7 after week 2+)
 
-**Not goals:** food weighing, deficit dieting, copying his grappler program, max lifts, cardio punishment.
+**Not goals:** food weighing, deficit dieting, copying his grappler program, max lifts, cardio punishment, chasing a lower BMI from ~100 lb.
 
 **Soft plate habits (no tracking):** when convenient, include a protein food at meals (eggs, chicken, yogurt, fish) — never assign Lose It or calorie targets unless he asks.
+
+## Withings scale (optional — she may track)
+Same Body+ is fine. **Morning post-void** when possible. Treat BF%/LBM as a **slow trend** (weeks), not day-to-day truth — same BIA noise class as his scans. **Mirror / how jeans fit / gym pins** still beat the app for vanity.
+
+### Ideal figures (5'0" · aesthetic beginner — locked 2026-11-13)
+She is already ~**BMI 19.5** at 100 lb (healthy). Ideal is **recomp / slight gain**, not a cut.
+
+| Metric | Now (approx) | Sensible target band | Notes |
+|--------|--------------|----------------------|--------|
+| **Scale weight** | ~**100 lb** | **100–108 lb** (OK up to ~110–112) | Holding or **+2–8 lb** as muscle/glycogen is a win; **do not** chase &lt;95 |
+| **BMI** | ~19.5 | **~19.5–22** | “Healthy” floor ~95 lb (BMI 18.5) — she should stay above that |
+| **LBM (Withings)** | Unknown until first weigh-in | **Direction: up** · rough long-term **~78–85 lb** if BF settles ~20–24% at 100–108 | First reading = baseline; +2–5 lb LBM over months is excellent at 1×/wk |
+| **BF% (Withings)** | Unknown | **~20–26%** athletic-aesthetic band | Ignore single-day jumps; no crash to “teen” BF% |
+
+**Priority order for her:** gym consistency + shape → LBM trend up or stable → weight stable-to-slightly-up → ignore Evolt.
 
 ## Programming bias
 - **Tonight (Day 1):** gentle **full-body intro** — learn machines, low DOMS risk, leave happy  
