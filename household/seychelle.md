@@ -28,6 +28,12 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 
 **Soft plate habits (no tracking):** when convenient, include a protein food at meals (eggs, chicken, yogurt, fish) — never assign Lose It or calorie targets unless he asks.
 
+### Protein powder + creatine
+- **Protein powder:** OK if she likes it — helpful when meals are light; not a hard requirement.
+- **Creatine:** **optional, not required** at **1×/week**. Safe for women; does **not** make her look muscular. Typical benefit = slightly better strength/session quality + a bit of lean fullness.
+- If she tries it: **~3 g/day** monohydrate (no loading), with her shake or any drink, every day — not only gym days.
+- **Scale note:** creatine often adds **~1–3 lb** water inside muscle in the first weeks. Tell her that’s **hydration in muscle**, not fat and not “getting bulky.” If scale anxiety is high, **skip creatine** and keep protein only — the machine plan still works.
+
 ## Withings scale (optional — she may track)
 Same Body+ is fine. **Morning post-void** when possible. Treat BF%/LBM as a **slow trend** (weeks), not day-to-day truth — same BIA noise class as his scans. **Mirror / how jeans fit / gym pins** still beat the app for vanity.
 
