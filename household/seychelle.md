@@ -22,7 +22,9 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 4. **Clothes / mirror / photos** as progress (not scale obsession; ~100 lb is already light)
 5. **Strength habit** — add a pin or a rep when sets feel easy (RPE ~6–7 after week 2+)
 
-**Not goals:** food weighing, deficit dieting, copying his grappler program, max lifts, cardio punishment, chasing a lower BMI from ~100 lb.
+**Fear: “looking muscular / bulky”** — common, and **not realistic** on this plan. At ~**100 lb**, **1×/week** machines, beginner volumes, and no heavy free-bar specialization or PEDs, she will get **firmer / more shaped** (especially glutes), not bodybuilder-muscular. Women have far lower testosterone; “bulky” takes years of aggressive progressive overload, high volume, and usually a calorie surplus aimed at mass. His line is correct: **she will not look muscular** from this. If anything looks “bigger” early, it’s often pump, glycogen, or swelling from new DOMS — temporary. Goal language for her: **toned, shaped, lifted glutes** — not “get big.”
+
+**Not goals:** food weighing, deficit dieting, copying his grappler program, max lifts, cardio punishment, chasing a lower BMI from ~100 lb, or training like a massing bodybuilder.
 
 **Soft plate habits (no tracking):** when convenient, include a protein food at meals (eggs, chicken, yogurt, fish) — never assign Lose It or calorie targets unless he asks.
 
