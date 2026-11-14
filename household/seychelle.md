@@ -28,11 +28,11 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 
 **Soft plate habits (no tracking):** when convenient, include a protein food at meals (eggs, chicken, yogurt, fish) — never assign Lose It or calorie targets unless he asks.
 
-### Protein powder + creatine
-- **Protein powder:** OK if she likes it — helpful when meals are light; not a hard requirement.
-- **Creatine:** **optional, not required** at **1×/week**. Safe for women; does **not** make her look muscular. Typical benefit = slightly better strength/session quality + a bit of lean fullness.
-- If she tries it: **~3 g/day** monohydrate (no loading), with her shake or any drink, every day — not only gym days.
-- **Scale note:** creatine often adds **~1–3 lb** water inside muscle in the first weeks. Tell her that’s **hydration in muscle**, not fat and not “getting bulky.” If scale anxiety is high, **skip creatine** and keep protein only — the machine plan still works.
+### Protein / creatine / collagen
+- **Protein powder:** OK if she likes it — helpful when meals are light.
+- **Creatine:** **Yes — beneficial** for women too (strength, training quality, lean fullness). Safe; does **not** make her look muscular. At 1×/wk the upside is smaller than for him, but still real if she takes it **daily**. Default recommend: **~3 g/day** monohydrate (no loading), with her shake or water, **every day**.
+- **Scale note:** expect possible **+1–3 lb** intracellular water in weeks 1–3 — muscle hydration, not fat/bulk. Prep her for that so she doesn’t quit.
+- **Collagen + Vit C:** **Not required** like his Tue/Fri Baar protocol (that’s for heavy compound tendon loading 2×/wk). Her machine 1×/wk doesn’t need it. **Optional** if she wants (skin/joints/vanity): **~10–15 g collagen + ~500–1000 mg Vit C** only on gym days, ~30–60 min pre-session — nice-to-have, not a Gate. Don’t build her a full copy of his stack.
 
 ## Withings scale (optional — she may track)
 Same Body+ is fine. **Morning post-void** when possible. Treat BF%/LBM as a **slow trend** (weeks), not day-to-day truth — same BIA noise class as his scans. **Mirror / how jeans fit / gym pins** still beat the app for vanity.
