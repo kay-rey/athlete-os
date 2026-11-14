@@ -26,6 +26,14 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 
 **Not goals:** food weighing, deficit dieting, copying his grappler program, max lifts, cardio punishment, chasing a lower BMI from ~100 lb, or training like a massing bodybuilder.
 
+### Why machines / “sculpt” > Pilates or Zumba (locked 2026-11-13)
+His logic is **correct** for *her* stated goals:
+- She wants **vanity shape** (glutes/legs first), not a sweat class hobby she didn’t ask for
+- She **doesn’t really want cardio** — forcing Zumba/Pilates fights adherence
+- **Walmart shifts are already physically demanding** — extra class cardio mostly adds fatigue, not “tone”
+- **Progressive machine load** (pins/reps) is what actually changes glute/leg shape at 1–2×/week; Zumba ≠ sculpt stimulus; mat Pilates is mobility/core, weak for glute hypertrophy
+- Optional later: **1** short easy bike warm-up stays; a fun class is fine *if she asks* — never replace her Session 2+ glute work as the default
+
 **Soft plate habits (no tracking):** when convenient, include a protein food at meals (eggs, chicken, yogurt, fish) — never assign Lose It or calorie targets unless he asks.
 
 ### Protein / creatine / collagen
