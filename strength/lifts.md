@@ -141,7 +141,7 @@ Warm-up add: **McGill Big 3** (curl-up, side plank, bird dog) inside the 8 min w
 **Thu hard GB → Fri Lift B:** if bar speed is slow or sleep is trash, **−5% load** (Zero-Grinder).  
 **Evening partner Fridays:** same template; she does Day 1 / Session 2+ machines alone (`household/seychelle.md`).
 
-**Extra EOS days with Seychelle (Sat / midweek guest):** her Session 2+ is fine **2–3×/week**. **You** default to an **easy partner day** (bike, light machines, core — RPE ≤5), **not** a third MED Lift A/B. Add a real 3rd lift only after Phase 1 if GB/sleep/waist are green (`When to reconsider 3×` above).
+**Extra EOS days with Seychelle (Sat / midweek guest):** she runs **glute/vanity Session 2+** as often as she wants (**2–3×/week** OK). **You** default to an **easy upper day** (incline or machine press, row, pulldown, optional arms — RPE ≤6, ≤35 min) — **not** a third squat/hinge MED. Spare legs/glutes for GB + Tue/Fri. Real 3rd lift only later if GB/sleep/waist are green (`When to reconsider 3×` above).
 
 ### B substitutions
 | Missing | Use instead |

@@ -52,7 +52,7 @@ She is already ~**BMI 19.5** at 100 lb (healthy). Ideal is **recomp / slight gai
 ## Programming bias
 - **Day 1 (done 2026-11-13):** gentle **full-body intro** — learn machines, low DOMS risk, leave happy  
 - **Session 2+ (default):** **~⅔ legs/glutes** for vanity; one upper pull for posture; chest optional  
-- **Back-to-back days (e.g. Fri → Sat):** prefer **upper / posture bias** if Day 1 or Session 2 already hit legs/glutes hard — row, pulldown, shoulder press, chest, light arms, easy bike. Save heavy leg press / thrust / abduction for the next non-consecutive session. If she *insists* on glutes two days in a row: **2 sets only**, RPE **5–6**, skip extras. Consistency over grind.  
+- **Back-to-back days (e.g. Fri → Sat):** she can still run **Session 2+ glute/vanity** (her priority). Keep **2 sets**, RPE **5–6** if sore from Day 1 — consistency over grind. His extra day ≠ her programming.  
 
 ## Day 1 — tonight 2026-11-13 (intro) — full-body machines
 **Theme:** learn the gym · light pins · leave wanting to come back.  
@@ -94,10 +94,11 @@ Skip anything that hurts. Swap similar machines. **No free-bar compounds** until
 - Never copy his RPE curve or trap-bar work
 
 ## His rule when she wants extra EOS days
-**She can go 2–3×/week.** He does **not** auto-add a 3rd hard Lift A/B. On non-Tue/Fri partner days (e.g. Sat):
-- **Default for him:** easy 20–30 min — bike/walk, light machines, McGill/core, optional easy carries — **RPE ≤5**, no trap bar / heavy OHP / failure  
-- **Only if** GB 2× feels easy, sleep is solid, and waist/adherence are good → short 3rd lift (see `strength/lifts.md` “When to reconsider 3×”)  
-- Hierarchy unchanged: **GB skill > plates**; extra EOS is **husband support + her habit**, not a new athlete microcycle
+**She can go 2–3×/week** on **glutes / vanity** (Session 2+). He does **not** auto-add a 3rd hard Lift A/B (no extra heavy squat/trap-bar day). On non-Tue/Fri partner days (e.g. Sat):
+- **Default for him:** **upper-body easy day** (press / row / pulldown / arms, light) — **RPE ≤6**, ≤30–35 min — so legs/glutes/hinge recover for GB + Tue/Fri MED  
+- **Avoid on those days:** trap bar, front/goblet squat, heavy split squats, failure sets  
+- **Only if** GB 2× feels easy, sleep is solid, and waist/adherence are good → consider a real short 3rd lift (see `strength/lifts.md` “When to reconsider 3×”)  
+- Hierarchy unchanged: **GB skill > plates**; extra EOS = **her glute habit + his easy upper**, not a third leg day
 
 ## Agent behavior
 - First session / “intro tonight” → **Day 1**  
