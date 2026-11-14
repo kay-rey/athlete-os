@@ -11,18 +11,18 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 | Height / weight | **~5'0"** · **~100 lb** |
 | Background | Filipina |
 | Gym status | **Complete beginner** · starts **2026-11-13** (EOS Valencia guest) |
-| Frequency | **~1×/week** with him (Will Power guest pass) |
-| Mode | **Machines alone** while he runs Lift A/B |
+| Frequency | **1–2×/week default** · OK **more** if she wants (Will Power guest). Locked soft target was ~1×; **her buy-in > rigid 1×** |
+| Mode | **Machines alone** while he runs Lift A/B **or** an easy partner-day session |
 | Nutrition | **Does not measure / track food** — no macro plan unless he explicitly asks |
 
 ## Goals (vanity / aesthetic — not athlete recomp)
-1. **Show up** ~1×/week with him (consistency > intensity for months 1–3)
+1. **Show up** **1–2×/week** with him (consistency > intensity for months 1–3); more is fine if DOMS/mood stay good
 2. **Shape** — **legs + glutes first** (vanity priority), then upper back / posture + light shoulders (machines + progressive load)
 3. **Confidence** in the gym — learn pin stacks, seat height, controlled reps without him coaching every set
 4. **Clothes / mirror / photos** as progress (not scale obsession; ~100 lb is already light)
 5. **Strength habit** — add a pin or a rep when sets feel easy (RPE ~6–7 after week 2+)
 
-**Fear: “looking muscular / bulky”** — common, and **not realistic** on this plan. At ~**100 lb**, **1×/week** machines, beginner volumes, and no heavy free-bar specialization or PEDs, she will get **firmer / more shaped** (especially glutes), not bodybuilder-muscular. Women have far lower testosterone; “bulky” takes years of aggressive progressive overload, high volume, and usually a calorie surplus aimed at mass. His line is correct: **she will not look muscular** from this. If anything looks “bigger” early, it’s often pump, glycogen, or swelling from new DOMS — temporary. Goal language for her: **toned, shaped, lifted glutes** — not “get big.”
+**Fear: “looking muscular / bulky”** — common, and **not realistic** on this plan. At ~**100 lb**, **1–2×/week** machines (even 3× light), beginner volumes, and no heavy free-bar specialization or PEDs, she will get **firmer / more shaped** (especially glutes), not bodybuilder-muscular. Women have far lower testosterone; “bulky” takes years of aggressive progressive overload, high volume, and usually a calorie surplus aimed at mass. His line is correct: **she will not look muscular** from this. If anything looks “bigger” early, it’s often pump, glycogen, or swelling from new DOMS — temporary. Goal language for her: **toned, shaped, lifted glutes** — not “get big.”
 
 **Not goals:** food weighing, deficit dieting, copying his grappler program, max lifts, cardio punishment, chasing a lower BMI from ~100 lb, or training like a massing bodybuilder.
 
@@ -50,8 +50,9 @@ She is already ~**BMI 19.5** at 100 lb (healthy). Ideal is **recomp / slight gai
 **Priority order for her:** gym consistency + shape → LBM trend up or stable → weight stable-to-slightly-up → ignore Evolt.
 
 ## Programming bias
-- **Tonight (Day 1):** gentle **full-body intro** — learn machines, low DOMS risk, leave happy  
+- **Day 1 (done 2026-11-13):** gentle **full-body intro** — learn machines, low DOMS risk, leave happy  
 - **Session 2+ (default):** **~⅔ legs/glutes** for vanity; one upper pull for posture; chest optional  
+- **Back-to-back days (e.g. Fri → Sat):** still Session 2+ pattern but **drop to 2 sets**, skip optional crunch/press if sore, RPE **5–6** — consistency over grind  
 
 ## Day 1 — tonight 2026-11-13 (intro) — full-body machines
 **Theme:** learn the gym · light pins · leave wanting to come back.  
@@ -92,8 +93,15 @@ Skip anything that hurts. Swap similar machines. **No free-bar compounds** until
 - After **4–6** focused sessions → 3rd set on leg curl + thrust/kickback
 - Never copy his RPE curve or trap-bar work
 
+## His rule when she wants extra EOS days
+**She can go 2–3×/week.** He does **not** auto-add a 3rd hard Lift A/B. On non-Tue/Fri partner days (e.g. Sat):
+- **Default for him:** easy 20–30 min — bike/walk, light machines, McGill/core, optional easy carries — **RPE ≤5**, no trap bar / heavy OHP / failure  
+- **Only if** GB 2× feels easy, sleep is solid, and waist/adherence are good → short 3rd lift (see `strength/lifts.md` “When to reconsider 3×”)  
+- Hierarchy unchanged: **GB skill > plates**; extra EOS is **husband support + her habit**, not a new athlete microcycle
+
 ## Agent behavior
 - First session / “intro tonight” → **Day 1**  
-- “Her workout” after Day 1 done → **Session 2+ leg/glute default**  
+- “Her workout” after Day 1 done → **Session 2+ leg/glute default** (lighter if consecutive day)  
+- Extra weekly sessions she requests → allow; prescribe **her** Session 2+ (or light back-to-back), **his** easy partner day unless he asks for a real 3rd lift  
 - Do not invent injuries, macros, or body-fat targets  
 - Do not ask her questions through him unless he starts that thread
