@@ -352,11 +352,20 @@ Burgers/chicken: **no pickles · no mayo lake · skip mustard on the bun** · ke
 | **Skip** | Western Bacon (onion ring + bacon bomb) · Hand-Breaded Chicken as default · El Diablo as habit · onion rings · milkshakes | — | Worst fat/sodium traps |
 
 ### Chick-fil-A — pick one (kept)
-**Fat-Free Honey Mustard ×1** on salads = **90 · 0F · 22C · ~18g sugar** — keep; don’t double.
+**Go-to (locked 2026-11-13 — app nutrition facts):** **Cobb Salad w/ Spicy Grilled Filet (cold)** · **no grape tomatoes** · **Fat-Free Honey Mustard** · often + **8 ct Grilled Nuggets** · ± **Large Diet Lemonade**.
+
+| Item | kcal | P | C | F | Fiber | Notes |
+|------|------|---|---|---|-------|--------|
+| **Cobb + spicy grilled + FFHM** (no grape tomatoes) | **365** | **31** | **32** | **13** | 4 | 22g sugar (mostly dressing); Na 1420 |
+| **8 ct Grilled Nuggets** | **130** | **25** | **1** | **3** | 0 | Na 440 |
+| **Large Diet Lemonade** | **80** | **0** | **23** | **0** | 0 | 17g sugar; Na 15 |
+| **Full go-to stack** | **575** | **56** | **56** | **16** | 4 | Log these 3 in Lose It |
+
+**Fat-Free Honey Mustard ×1** — keep; don’t double. Salad already includes dressing in the 365.
 
 | # | Exact order | ≈ | When |
 |---|-------------|---|------|
-| **1** | **Cobb + Grilled Nuggets** + FF Honey Mustard | ~720 · **39P** · 38C · 45F | Your salad, best protein |
+| **1** | **Go-to above** (Cobb spicy grilled + FFHM ± 8 grilled nuggets) | **575 / 56P** with lemonade · **495 / 56P** without | Default CFA |
 | **2** | **Market + Grilled Filet** + FFHM | ~640 · **28P** · 64C · 31F | Fruit greens — add nuggets/WPI |
 | **3** | **Southwest + Grilled** + FFHM | ~700–780 · **33–40P** | Bean/corn vibe |
 | **4** | **12 Grilled Nuggets** ± side salad/Kale | ~200 · **38P** | Fat-tight day |
@@ -365,7 +374,7 @@ Burgers/chicken: **no pickles · no mayo lake · skip mustard on the bun** · ke
 | **7** | Grilled + small waffle fries (rare) | +280–360 | Occasional |
 | **Skip** | Fried on salad · ranch drown · 2× FFHM · Cool Wrap default · shakes | — | — |
 
-Salad fat cuts: hold bacon / blue cheese / almonds / granola when needed.
+Salad fat cuts if needed later: hold bacon / blue cheese / almonds — your current go-to is already the right build.
 
 ## Binge / overeat firewall (your stated problem)
 This is the main reason the day is gated — not willpower lectures.
