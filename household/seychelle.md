@@ -52,7 +52,7 @@ She is already ~**BMI 19.5** at 100 lb (healthy). Ideal is **recomp / slight gai
 ## Programming bias
 - **Day 1 (done 2026-11-13):** gentle **full-body intro** — learn machines, low DOMS risk, leave happy  
 - **Session 2+ (default):** **~⅔ legs/glutes** for vanity; one upper pull for posture; chest optional  
-- **Back-to-back days (e.g. Fri → Sat):** still Session 2+ pattern but **drop to 2 sets**, skip optional crunch/press if sore, RPE **5–6** — consistency over grind  
+- **Back-to-back days (e.g. Fri → Sat):** prefer **upper / posture bias** if Day 1 or Session 2 already hit legs/glutes hard — row, pulldown, shoulder press, chest, light arms, easy bike. Save heavy leg press / thrust / abduction for the next non-consecutive session. If she *insists* on glutes two days in a row: **2 sets only**, RPE **5–6**, skip extras. Consistency over grind.  
 
 ## Day 1 — tonight 2026-11-13 (intro) — full-body machines
 **Theme:** learn the gym · light pins · leave wanting to come back.  
