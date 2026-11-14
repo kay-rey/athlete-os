@@ -28,8 +28,8 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 ### Thursday — Drop-off → second sleep → hard GB midday + Flow teach
 Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥3h after Rx, so ≥6:00)**. No MT. Wife pickup ~5:00 as needed.
 
-### Friday — Drop-off → second sleep → Lift B + free evening
-Drop-off → **second sleep** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** (Zero-Grinder if sleep trash). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Evening: family / light admin. Lights out ≤12:00 for Sat.
+### Friday — Drop-off → second sleep → Lift B (noon default · evening OK w/ Seychelle)
+Drop-off → **second sleep** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** default (Zero-Grinder if sleep trash). **Alt:** evening EOS ~**6–7** after wife’s Walmart shift (guest Day 1 / Session 2+) — still ≤48 min Lift B, **fuel hard before** (no 193-kcal days). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Lights out ≤12:00 for Sat.
 
 ### Saturday — Drop-off → Flow AM + cleanup → GB if Wed missed
 Drop-off → Flow AM teach → mat cleanup. GB **12:00–1:00 only if Wed skipped**. Else Reyes shoot if booked or done for 2× with Thu.

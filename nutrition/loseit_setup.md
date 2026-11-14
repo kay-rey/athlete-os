@@ -3,24 +3,26 @@
 Tracking app SoT for daily logging. Macros → `nutrition/phases.csv`. Wife cooks dinners → `nutrition/preferences.md`.
 
 ## Phase 1 targets (enter these — ignore Lose It’s diet suggestion)
+Gemini refresh 2026-11-13 → `nutrition/phases.csv`. **Calories unchanged.** Protein band **170–185** (point **175**).
+
 | | Target | Lose It goal type |
 |--|--------|-------------------|
-| Calories | **2,250** | Daily budget |
-| Protein | **185 g** | Gram goal (minimum / target) |
-| Carbs | **215 g** | Gram goal |
-| Fat | **72 g** | Gram goal |
+| Calories | **2,250** | Daily budget (**floor mentally 2,150** — don’t celebrate big “under”) |
+| Protein | **175 g** | Gram goal (OK if you land **170–185**) |
+| Carbs | **220 g** | Gram goal |
+| Fat | **74 g** | Gram goal |
 | Fiber | **45 g** (range OK **45–50**) | Gram goal — Phase 1 SoT from `nutrition/phases.csv` |
 | Sodium | **No low-sodium cap** — see below | Soft tracking only |
 
 ### Macro math (double-check)
 | Macro | g × kcal/g | kcal |
 |-------|------------|------|
-| Protein | 185 × 4 | **740** |
-| Carbs | 215 × 4 | **860** |
-| Fat | 72 × 9 | **648** |
-| **Sum** | | **2,248** ≈ **2,250** |
+| Protein | 175 × 4 | **700** |
+| Carbs | 220 × 4 | **880** |
+| Fat | 74 × 9 | **666** |
+| **Sum** | | **2,246** ≈ **2,250** |
 
-Yes — macros add up (2 kcal rounding).
+Yes — macros add up (rounding). If you leave protein at **185**, drop carbs ~**10 g** so the sum still ≈ 2,250 — or just hit calories and don’t obsess ±5 g.
 
 ### Fiber goal — **45 g/day** (aim 45–50)
 - Comes from beans, veg, tortillas, chia, + **psyllium** Gates 2/6 (**Metamucil SF Orange**: Wk1 **½ tsp** ×2; Wk2+ **1 tsp** ×2 — see `stack/supplements.md`).
@@ -44,7 +46,7 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 | | Lose It banner | Athlete-OS |
 |--|----------------|------------|
 | Calories | Flat 2,250 forever | Phases: 2250 → 2200 → 2550 reset → 2150 → **2500** maintenance (`nutrition/phases.csv`) |
-| End date | App math (often slow) | **Week 21 ≈ Apr 4, 2027** → ~172 lb target band |
+| End date | App math (often slow) | **Week 21 ≈ Apr 4, 2027** → Stage 1 ~**173 lb** / ~36.8" waist; ultimate **166** = Stage 2 |
 | Progress rule | Calendar countdown | **Waist + adherence + GB/lifts**; ICW may stall scale Wk 1–3 |
 
 **Use Lose It only to log food against the budget/macros.** Do not change training or panic-cut because the app says September.
@@ -55,7 +57,7 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 1. Open **Lose It!**
 2. Profile (top right) → confirm **male**, height **5'5"**, DOB / age **32**.
 3. Goals → **Weight** → current **189.7 lb** (or today’s scale).
-4. Goal weight: **172 lb** (aspirational). Pace: use a **slow** pace or manual calories so the app doesn’t fight 2,250 — you’ll override calories next.
+4. Goal weight: **173 lb** (Stage 1 / Wk 21) — or **166** if the app only allows one end goal (Stage 2; ignore its date). Pace: **slow** / manual calories so it doesn’t fight 2,250.
 
 ### 2. Force the calorie budget to 2,250
 1. **Goals** → tap your **calorie / budget** goal.
@@ -65,9 +67,9 @@ That date (e.g. **Sep 5**) is a **toy linear projection**: fixed calories × Los
 ### 3. Custom macros (Premium)
 1. **Goals** → **Set Another Goal** → **Nutrition**.
 2. Add **gram-based** goals (not %):
-   - Protein **185 g**
-   - Carbohydrates **215 g**
-   - Fat **72 g**
+   - Protein **175 g** (band 170–185 OK)
+   - Carbohydrates **220 g**
+   - Fat **74 g**
    - Fiber **45 g** (optional)
 3. If you see a “Nutrition strategy” / plan picker, choose **Custom** so it doesn’t overwrite with keto/high-carb presets.
 4. Pin **Calories + Protein + Carbs + Fat** on the home dashboard / favorites so you see grams every day.

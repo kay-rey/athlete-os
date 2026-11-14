@@ -2,7 +2,7 @@
 
 SoT for lifting. Calendar → `calendar/academies.md` · day ops → `day/schedule.md` · collagen → `stack/supplements.md` · targets → `athlete/milestones.csv` · log → `journal/lifting.csv`.
 
-Research basis: `archive/research/grappler_recomp_playbook.md` (2-day high-tension MED under 50 min). Clocks remapped to **late wake**; intensity adapted to **Thu hard GB** before Friday Lift B.
+Research basis: `archive/research/grappler_recomp_playbook.md` + Gemini refresh `archive/research/gemini_bjj_recomp_refresh_2026-11-13.md` (2-day high-tension MED under 50 min). Clocks remapped to **late wake**; intensity adapted to **Thu hard GB** before Friday Lift B.
 
 ## Why this program (for you)
 - **2×/week, ≤48 min** — enough mechanical tension for recomp/LBM without stealing recovery from GB
@@ -16,6 +16,10 @@ Research basis: `archive/research/grappler_recomp_playbook.md` (2-day high-tensi
 **Do not add** random third lift days, isolation fluff, or failure sets in Weeks 1–4.
 
 **Sciatica flare rule (he still trains through mild flares):** keep sessions, but **bias load off the nerve** — prefer chest-supported rows over bent-over; shorten DL range / lighter trap-bar; swap back extension → light glute bridge or skip D1 if it lights up the leg. Stop a set if pain shoots down the leg (not just stiff). Kaiser owns weakness / saddle numbness / bowel-bladder change.
+
+**Left thigh asymmetry (locked tapes):** R **22 3/8"** vs L **20 6/8"** (~**−14% CSA**). **Left leg first** on every unilateral set; add **1–2 left-only bonus** sets on Lift B. Prefer DB/KB Bulgarian or step-up over bilateral axial when rebuilding the left.
+
+**Axial load timing:** no heavy trap-bar / squat within **60 min of waking** (incl. after biphasic second sleep) — discs are hydrated and less bend-tolerant. Default noon / evening slots already clear this; if lifting right after nap, extend warm-up + start with unilateral / upper.
 
 ## Why not a 3rd lift day?
 Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym stimulus.”
@@ -34,13 +38,13 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 ## Session slot
 | | When |
 |--|------|
-| **Lift A** | **Tuesday 11:45–12:33** |
-| **Lift B** | **Friday 11:45–12:33** |
-| Prep | Gate 1 (+**~30g carbs**) → **collagen 15–20g + Vit C** 30–60 min pre → warm-up 11:45 |
+| **Lift A** | **Tuesday 11:45–12:33** (default) |
+| **Lift B** | **Friday 11:45–12:33** (default) · **evening EOS OK** when partnering Seychelle (~6–7) — still ≤48 min, no GB stack |
+| Prep | Gate 1 (+**~30g carbs**) → **collagen 15–20g + Vit C** 30–60 min pre → warm-up |
 
 **Why not Lift A on Monday?** Monday’s recovered no-drop-off slot is **better spent at GB Northridge** (GB ≥2× beats bar work when they conflict — hierarchy: GB skill > plate). Lift A sits Tue after second sleep; use Zero-Grinder mindset if still foggy.
 
-No GB at noon **Tue/Fri** (lift blocks). Fri evening = free / recover from Thu GB.
+No GB stacked on **Lift B** day. Fri evening partner session replaces noon when needed — still Zero-Grinder (−5%) if Thu GB fried you.
 
 ## Gym choice
 **Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Tue/Fri noon**.
@@ -100,14 +104,16 @@ Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
 
 ---
 
-## Lift A — Tuesday (posterior + clavicular shelf + horizontal pull)
+## Lift A — Tuesday (unilateral legs + clavicular shelf + horizontal pull)
+
+Warm-up add: **McGill Big 3** (curl-up, side plank, bird dog) inside the 8 min when spine feels sticky.
 
 | # | Exercise | Sets × reps | Tempo | Rest | Transfer |
 |---|----------|-------------|-------|------|----------|
-| A1 | **High-handle trap-bar deadlift** | 3 × 5–6 | `2-1-X-1` dead-stop | 3.0 min | Hip RFD, traps/erectors, takedown finish |
-| B1 | **30° incline DB press** (neutral-ish grip) | 3 × 6–8 | `3-1-X-0` stretch pause | 2.5 min | Clavicular shelf / frames; shoulder-friendly |
-| C1 | **Incline chest-supported DB or T-bar row** | 3 × 6–8 | `2-1-X-2` squeeze | 2.0 min | Lats/mid-back without stacking lumbar after A1 |
-| D1 | **45° weighted back extension** *(or RDL)* | 2 × 8–10 | `2-1-1-1` | 60s w/ D2 | Posterior chain isometric vs guard pressure |
+| A1 | **DB/KB Bulgarian split squat or step-up — Left first** | 3 × 6–8 / leg | `3-1-X-1` | 2.5 min | Rebuild L thigh CSA; low axial load |
+| B1 | **30° incline DB press** (neutral-ish grip) | 3 × 5–8 | `3-1-X-0` stretch pause | 2.5 min | Clavicular shelf / frames; shoulder-friendly |
+| C1 | **Incline chest-supported DB or machine row** | 3 × 6–10 | `2-1-X-2` squeeze | 2.0 min | Lats/mid-back; lumbar-sparing |
+| D1 | **Farmer or suitcase carry** | 3 × ~40s | brisk, no lean | 90s | Anti-lateral + grip |
 | D2 | **4-way neck** (harness / band / manual) | 2 × 12–15 or 20s/angle | controlled | 90s | Cervical armor vs chokes / collar ties |
 
 **48-min clock (approx):** warm-up 8 → A1 ~12 → B1 ~9 → C1 ~8 → D ~6 → buffer.
@@ -115,29 +121,32 @@ Program SoT stays this file — gym brand doesn’t change sets/reps/RPE.
 ### A substitutions
 | Missing | Use instead |
 |---------|-------------|
-| No trap bar | Conventional DL from blocks **or** heavy KB sumo (keep RPE cap) |
+| No split-squat setup | Reverse lunge or step-up — still **Left first** |
 | No neck harness | Band 4-way isometrics against head |
 | No chest-supported row | One-arm DB row, torso braced on bench |
 
 ---
 
-## Lift B — Friday (anterior + vertical pull + OHP + carries)
+## Lift B — Friday (hinge + vertical pull + OHP + left bonus)
 
 | # | Exercise | Sets × reps | Tempo | Rest | Transfer |
 |---|----------|-------------|-------|------|----------|
-| A1 | **Heel-elevated front squat** *(or heavy goblet)* | 3 × 6–8 | `3-1-X-1` pause in hole | 2.5 min | Quads / anterior core / guard elevation |
-| B1 | **Neutral-grip DB OHP** (seated or standing) | 3 × 6–8 | `2-1-X-1` | 2.5 min | Frames / posts; scapular plane |
-| C1 | **Neutral-grip weighted pull-up** *(or heavy neutral pulldown)* | 3 × 6–8 | `2-1-X-1` dead hang | 2.0 min | Lats + brachioradialis; elbow-friendlier than wide pronated |
-| D1 | **Suitcase carry** (1-arm) **+ farmer medley** | 3 × 30m/hand or 40m farmers | brisk, no lean | 90s | Anti-lateral flexion + grip |
+| A1 | **High-handle trap-bar deadlift** | 2–3 × 5–6 | `2-1-X-1` dead-stop | 3.0 min | Hip RFD / traps; RPE ≤8.0 (2–3 RIR) |
+| B1 | **Neutral-grip DB OHP** (seated preferred) *or landmine* | 3 × 6–8 | `2-1-X-1` | 2.5 min | Frames / posts; neutral spine |
+| C1 | **Neutral-grip lat pulldown** *(→ assisted/band pull-up at ≤180 lb)* | 3 × 6–10 | `2-1-X-1` | 2.0 min | Lats; elbow-friendlier than wide pronated |
+| D1 | **Left-only split squat or step-up bonus** | 1–2 × 8–10 (L) | controlled | 90s | Asymmetry closer |
+| D2 | **Suitcase carry** (optional if time) | 2 × 30m/hand | brisk, no lean | 90s | Anti-lateral + grip |
 
-**Thu hard GB → Fri Lift B:** if bar speed is slow or sleep is trash, **−5% load** (Zero-Grinder). Do not ego the squat after hard midday Thursday.
+**Sciatica >2/10 on hinge:** swap A1 → **hip thrust + goblet squat** (same RPE cap).  
+**Thu hard GB → Fri Lift B:** if bar speed is slow or sleep is trash, **−5% load** (Zero-Grinder).  
+**Evening partner Fridays:** same template; she does Day 1 / Session 2+ machines alone (`household/seychelle.md`).
 
 ### B substitutions
 | Missing | Use instead |
 |---------|-------------|
-| Front squat painful / no rack | Goblet squat (DB/KB) — same reps/RPE |
+| No trap bar | Conventional from blocks / sumo KB — or hip thrust + goblet if spine hot |
 | Can’t do 6 pull-ups yet | Neutral pulldown or band-assist; progress to BW then +load |
-| No carry space | Suitcase holds 30–40s/side + plate pinches |
+| No carry space | Suitcase holds 30–40s/side |
 
 ---
 

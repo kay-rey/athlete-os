@@ -4,7 +4,7 @@ Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`. Recipes → `nut
 
 **Hierarchy:** Likes tell the agent *what flavors you’ll stick with*. They do **not** set portion size. When taste pulls toward heavy starch / binge-prone builds, default advice is whatever is **healthiest for Phase recomp + anti-binge** (protein, Milpa, satiety) — still using foods he enjoys, just not maxed.
 
-**Weighing:** He **weighs food on a scale** (not cups). Prefer **grams** in all recipe/portion advice when a food can be weighed. Cups only if the item can’t be weighed sensibly.
+**Portions:** When he’d put it on the **scale**, prescribe **grams** (egg whites, drained beans scooped from a pot, meat, oats, rice, powders, cheese). When it’s a natural unit he won’t weigh, **count is fine** — e.g. **2 eggs**, **1 can** beans (rinsed), **1 tortilla**. Don’t force “100 g eggs” or “240 g = 1 can” unless he’s portioning from bulk. Cups/tsp only for salsa splash, spices, or label doses (psyllium tsp).
 
 **Substitutions:** Always offer a **healthier swap** when a liked food has a cleaner Phase option (e.g. hash browns → veg volume or measured roasted potato; bacon → skip or turkey rare). Don’t wait to be asked.
 
@@ -240,7 +240,7 @@ Liked: diner-style eggs / hash browns / sausage / bacon **and** oatmeal. Healthi
 
 | Piece | Taste pull | Phase default (healthiest) |
 |-------|------------|----------------------------|
-| **Eggs** | Scramble / fried | **2 whole + 1–1.5 cups egg whites** ← enough alone |
+| **Eggs** | Scramble / fried | **2 whole + 350–400 g liquid egg whites** ← enough alone |
 | **Hash browns** | Crispy potato side | **Skip most days** — swaps below |
 | **Sausage / bacon** | Diner meat | **Skip most days.** Craving: turkey sausage **2** *or* turkey bacon **2–3** |
 | **Mexican mix** | Salsa, pico, peppers, tortilla, beans | **Default flavor + volume** |

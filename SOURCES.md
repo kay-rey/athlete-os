@@ -43,3 +43,4 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Concern | Own here |
 |---------|----------|
 | Upstream Gemini playbook (clocks outdated) | `archive/research/*` |
+| Gemini Deep Research refresh (2026-11-13) — Stage 1/2 goals, macros, S&C | `archive/research/gemini_bjj_recomp_refresh_2026-11-13.md` + `.docx` (canonical originals for revisions; `.extract.md` = text-only; folded into profile/trajectory/phases/lifts; archive ≠ live Gates) |
