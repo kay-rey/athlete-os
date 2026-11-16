@@ -5,12 +5,13 @@ Liked meal deep-dive. Taste rules → `nutrition/preferences.md`. Macros → `nu
 ## Your build
 Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle conflict.
 
-## Meat choice — default **99/1 turkey**; lean beef OK as a swap
+## Meat choice — default **99/1 turkey**; **chicken OK**; lean beef OK as a swap
 Phase 1 fat cap is **72g**. Chili tomatoes + beans keep ultra-lean meat moist.
 
 | Per 100g cooked (drained) | kcal | P | F | Chili role |
 |---------------------------|------|---|---|------------|
 | **99/1 turkey** (default) | ~151 | ~32 | **~2.7** | Best protein-per-fat |
+| **Chicken breast** (ground or diced) | ~165 | ~31 | **~3.6** | **Yes — same recipe**; breast only (not thigh default) |
 | **96/4 beef** (best beef) | ~153 | ~28.5 | **~3.8** | Closest beef match to 99/1 |
 | 93/7 beef | ~209 | ~29 | **~9.5** | OK occasionally; costs fat budget |
 | 93/7 turkey | ~213 | ~27 | **~11.6** | Fallback if 99/1 gone |
