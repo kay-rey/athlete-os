@@ -103,7 +103,7 @@ Skip anything that hurts. Swap similar machines. **No free-bar compounds** until
 
 ## Monday partner EOS (locked 2026-11-16)
 **Default weekly:** he takes her **Monday midday** instead of Mon GB. She runs **Session 2+ glutes/vanity**. He runs **Lift A** that day *or* easy/upper if Lift A already hit — see week plan in chat/`day/schedule.md`.  
-**GB #2** moves to **Wed or Sat** (`calendar/academies.md`).
+**GB ≥2×** = **Tue + Thu** (`calendar/academies.md`) — Tue freed because Lift A is Monday.
 
 ## Extra EOS days (Fri evening / Sat / etc.)
 **She can go 2–3×/week** on **glutes / vanity**. He does **not** auto-add extra heavy squat/trap-bar days. On non-lift partner add-ons:

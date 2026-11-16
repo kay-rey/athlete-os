@@ -38,7 +38,8 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 ## Session slot
 | | When |
 |--|------|
-| **Lift A** | **Tuesday 11:45–12:33** (default) · **Monday midday OK** when EOS w/ Seychelle (Mon GB dropped — locked 2026-11-16); if Lift A on Mon, Tue = no second MED |
+| **Lift A** | **Monday midday** (default w/ Seychelle EOS — locked 2026-11-16) · frees **Tue noon for GB** |
+| ~~Old Tue Lift A~~ | Retired as default — Tue = GB #2 when Mon Lift A lands |
 | **Lift B** | **Friday 11:45–12:33** (default) · **evening EOS OK** when partnering Seychelle (~6–7) — still ≤48 min, no GB stack |
 | Prep | Gate 1 (+**~30g carbs**) → **collagen 15–20g + Vit C** 30–60 min pre → warm-up |
 

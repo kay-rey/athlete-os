@@ -62,14 +62,15 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 
 | Priority | When | What to attend | Rule |
 |----------|------|----------------|------|
-| **1 Locked** | **Thu 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Midday class → **always stay** for open mat (his default) | RPE 8–9. **Never skip** class+OM if at all possible. |
-| **2a Preferred** | **Wed** after Flow AM | **12:00 + 1:00–1:30 OM** preferred · else **10:45 GB3 No-Gi** | **Mon = EOS w/ wife** (locked 2026-11-16) — Wed is now the main #2. Stay for OM when doing noon. |
-| **2b Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Wed missed. |
-| **3 Last resort** | **Fri** · or rare **Mon GB** if wife skips EOS | Fri **11:00 Comp** / Fri **6:00** No-Gi · Mon noon+OM only if no partner gym | Finish 2× if Wed/Sat failed. |
-| Blocked | **Tue / Fri noon** (lift) · **Mon noon** (wife EOS default) | — | Lift A/B · Monday partner gym |
+| **1 Locked** | **Thu 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Midday class → **always stay** for open mat | RPE 8–9. **Never skip** class+OM if at all possible. |
+| **2a Preferred** | **Tue 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Same block — always stay for OM | **Lift A sits Monday** with wife EOS → Tue noon is free for GB (locked logic 2026-11-16). RPE 7–8. Gate 5 peri. |
+| **2b Backup** | **Wed** after Flow AM | **12:00 + OM** · else **10:45 GB3 No-Gi** | If Tue missed (sick / travel / ear / etc.). |
+| **2c Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Tue+Wed missed. |
+| **3 Last resort** | **Fri** | **11:00 Comp** or Fri **6:00** No-Gi | Only to finish 2×. |
+| Blocked | **Mon noon** (wife EOS + Lift A) · **Fri noon** (Lift B) | — | Partner gym / Lift B |
 | Avoid as primary | Mon–Thu **evening** GB | — | Conflicts Flow teach |
 
-**Week score:** Thu only = under target. **Thu+Wed** (or Thu+Sat) = **goal met**. Mon EOS with Seychelle does **not** count as GB.
+**Week score:** Thu only = under. **Tue+Thu** = **goal met** (primary). Wed/Sat backups if Tue slips. Mon EOS ≠ GB.
 
 ## Muay Thai (optional)
 

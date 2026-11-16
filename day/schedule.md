@@ -12,10 +12,11 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 
 ### Monday — EOS w/ Seychelle (default) + deep work + Flow (arrive **~4:45** for **5:00**)
 **No drop-off.** Locked **2026-11-16:** Monday midday = **gym with wife** (not GB). Wake ≈10:30–11 → scale → Gate 1 → **EOS with Seychelle** (he: Lift A if Mon is the lift-A slot that week, else easy/upper; she: Session 2+ glutes) → lunch → sertraline **3:00** → Gate 4 → **leave ~4:20 · on mats ~4:45 for 5:00** → rest of PM teach → **psyllium pre-dinner (≥6:00)** → dinner + fish oil #2.  
-**GB ≥2×:** Thu locked + **Wed or Sat** backup (Mon no longer preferred #2). No random 3rd hard hinge day. Optional MT only if not fried.
+**GB ≥2×:** **Tue + Thu** primary (Lift A moved to Mon). Wed/Sat backup if Tue slips. Optional MT only if not fried.
 
-### Tuesday — Drop-off → second sleep → Lift A + Flow teach
-**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** → Gate 1 (+30g carbs) + collagen → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00**.
+### Tuesday — Drop-off → second sleep → GB #2 + Flow teach
+**Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** → Gate 1 → Gate 5 clamp → **GB 12:00–1:00 + 1:00–1:30 OM** → WPI+creatine → lunch → sertraline → Gate 4 → Flow PM. **No Lift A Tue** (Lift A = Monday w/ wife). No MT. Lights out **≤12:00**.  
+**If Tue GB skipped:** chase Wed/Sat.
 
 ### Wednesday — Drop-off → straight to Flow AM (no home second sleep)
 **Logistics lock:** after Walmart drop-off he goes **straight to Flow** for **Toddler 9:00** (then Lil Rollers **10:00** as scheduled). Going home only leaves ~**15 min** — **not** worth it. **No post–drop-off nap on Wed.**
