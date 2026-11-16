@@ -11,8 +11,8 @@ Agent rule: do **not** interview her; update only when he reports changes or ask
 | Height / weight | **~5'0"** · **~100 lb** |
 | Background | Filipina |
 | Gym status | **Complete beginner** · starts **2026-11-13** (EOS Valencia guest) |
-| Frequency | **1–2×/week default** · OK **more** if she wants (Will Power guest). Locked soft target was ~1×; **her buy-in > rigid 1×** |
-| Mode | **Machines alone** while he runs Lift A/B **or** an easy partner-day session |
+| Frequency | **1–2×/week default** · OK **more** if she wants (Will Power guest). **Monday midday EOS with him is default** (replaces his old Mon GB) · plus optional Fri/Sat |
+| Mode | **Machines alone** while he runs Lift A/B **or** Mon partner session |
 | Nutrition | **Does not measure / track food** — no macro plan unless he explicitly asks |
 
 ## Goals (vanity / aesthetic — not athlete recomp)
@@ -101,12 +101,15 @@ Skip anything that hurts. Swap similar machines. **No free-bar compounds** until
 - After **4–6** focused sessions → 3rd set on leg curl + thrust/kickback
 - Never copy his RPE curve or trap-bar work
 
-## His rule when she wants extra EOS days
-**She can go 2–3×/week** on **glutes / vanity** (Session 2+). He does **not** auto-add a 3rd hard Lift A/B (no extra heavy squat/trap-bar day). On non-Tue/Fri partner days (e.g. Sat):
-- **Default for him:** **upper-body easy day** (press / row / pulldown / arms, light) — **RPE ≤6**, ≤30–35 min — so legs/glutes/hinge recover for GB + Tue/Fri MED  
-- **Avoid on those days:** trap bar, front/goblet squat, heavy split squats, failure sets  
-- **Only if** GB 2× feels easy, sleep is solid, and waist/adherence are good → consider a real short 3rd lift (see `strength/lifts.md` “When to reconsider 3×”)  
-- Hierarchy unchanged: **GB skill > plates**; extra EOS = **her glute habit + his easy upper**, not a third leg day
+## Monday partner EOS (locked 2026-11-16)
+**Default weekly:** he takes her **Monday midday** instead of Mon GB. She runs **Session 2+ glutes/vanity**. He runs **Lift A** that day *or* easy/upper if Lift A already hit — see week plan in chat/`day/schedule.md`.  
+**GB #2** moves to **Wed or Sat** (`calendar/academies.md`).
+
+## Extra EOS days (Fri evening / Sat / etc.)
+**She can go 2–3×/week** on **glutes / vanity**. He does **not** auto-add extra heavy squat/trap-bar days. On non-lift partner add-ons:
+- **Default for him:** **upper-body easy day** — **RPE ≤6**, ≤30–35 min  
+- **Avoid:** trap bar, front/goblet squat, heavy split squats, failure  
+- Hierarchy: **GB (Thu+Wed/Sat) > plates**; Mon EOS is household priority over Mon GB
 
 ## Agent behavior
 - First session / “intro tonight” → **Day 1**  

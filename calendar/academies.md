@@ -63,14 +63,13 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 | Priority | When | What to attend | Rule |
 |----------|------|----------------|------|
 | **1 Locked** | **Thu 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Midday class → **always stay** for open mat (his default) | RPE 8–9. **Never skip** class+OM if at all possible. |
-| **2a Preferred** | **Mon 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Same block — **always stay** for OM | Hit #2 when green. RPE 7–8. Gate 5 peri. (10:45 GB3 only if you can’t do noon+OM) |
-| **2b Backup** | **Wed** after Flow AM | **12:00 + 1:00–1:30 OM** preferred · else **10:45 GB3 No-Gi** | Use if Mon missed. **Stay for OM** when doing noon. |
-| **2c Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Mon+Wed missed. |
-| **3 Last resort** | **Fri** | **11:00 Comp** (before Lift B) or Fri **6:00** No-Gi | Only to finish 2× if Mon/Wed/Sat failed. |
-| Blocked | **Tue / Fri noon** | — | **Lift A (Tue)** / **Lift B (Fri)** |
-| Avoid as primary | Mon **evening** GB | — | Conflicts Flow teach |
+| **2a Preferred** | **Wed** after Flow AM | **12:00 + 1:00–1:30 OM** preferred · else **10:45 GB3 No-Gi** | **Mon = EOS w/ wife** (locked 2026-11-16) — Wed is now the main #2. Stay for OM when doing noon. |
+| **2b Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Wed missed. |
+| **3 Last resort** | **Fri** · or rare **Mon GB** if wife skips EOS | Fri **11:00 Comp** / Fri **6:00** No-Gi · Mon noon+OM only if no partner gym | Finish 2× if Wed/Sat failed. |
+| Blocked | **Tue / Fri noon** (lift) · **Mon noon** (wife EOS default) | — | Lift A/B · Monday partner gym |
+| Avoid as primary | Mon–Thu **evening** GB | — | Conflicts Flow teach |
 
-**Week score:** Thu only = under target. **Thu+Mon** (or Thu+Wed / Thu+Sat) = **goal met**.
+**Week score:** Thu only = under target. **Thu+Wed** (or Thu+Sat) = **goal met**. Mon EOS with Seychelle does **not** count as GB.
 
 ## Muay Thai (optional)
 
