@@ -56,21 +56,31 @@ Evening GB conflicts with Flow teach Mon–Thu — **do not use as primary 2× h
 - **Women’s BJJ** (Mon/Wed 6:00 Mat 2) — skip always
 - **GB1 Mon & Wed 8:00–9:00** — skip always (fundamentals block after GB3; not your class)
 
+## GB instructors (locked 2026-11-16 — patient-reported)
+
+| Slot | Who |
+|------|-----|
+| **Tue / Thu noon** (12:00 class) | **Romulo Barral** |
+| **Mon / Wed noon** (12:00 class) | **Victor Silverio** |
+| **Mon / Wed afternoon GB3** (eve grid ~6:45) | **Romulo Barral** — **blocked** (Flow teach) |
+
+**Why Tue+Thu noon is primary:** that’s when **Romulo** teaches the midday class you can actually attend. Mon/Wed noon = Victor (fine backup, not the same priority). Don’t chase Mon/Wed eve Romulo — conflicts Flow.
+
 ## GB — **≥2× / week (standing goal)**
 
 Floor = 1 (Thu midday). Target = 2. Three is bonus.
 
 | Priority | When | What to attend | Rule |
 |----------|------|----------------|------|
-| **1 Locked** | **Thu 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Midday class → **always stay** for open mat | RPE 8–9. **Never skip** class+OM if at all possible. |
-| **2a Preferred** | **Tue 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | Same block — always stay for OM | **Lift A sits Monday** with wife EOS → Tue noon is free for GB (locked logic 2026-11-16). RPE 7–8. Gate 5 peri. |
-| **2b Backup** | **Wed** after Flow AM | **12:00 + OM** · else **10:45 GB3 No-Gi** | If Tue missed (sick / travel / ear / etc.). |
+| **1 Locked** | **Thu 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | **Romulo** noon → always stay OM | RPE 8–9. **Never skip** class+OM if at all possible. |
+| **2a Preferred** | **Tue 12:00–1:00** + **1:00–1:30 GB3 Open Mat** | **Romulo** noon → always stay OM | Lift A = Monday w/ wife → Tue free. RPE 7–8. Gate 5 peri. |
+| **2b Backup** | **Wed** after Flow AM | **Victor** noon **12:00 + OM** · else **10:45 GB3 No-Gi** | If Tue missed (ear / sick / travel). |
 | **2c Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Tue+Wed missed. |
 | **3 Last resort** | **Fri** | **11:00 Comp** or Fri **6:00** No-Gi | Only to finish 2×. |
-| Blocked | **Mon noon** (wife EOS + Lift A) · **Fri noon** (Lift B) | — | Partner gym / Lift B |
+| Blocked | **Mon noon** (wife EOS + Lift A) · **Fri noon** (Lift B) · **Mon/Wed eve GB3** (Romulo, but Flow) | — | Partner gym / Lift B / teach |
 | Avoid as primary | Mon–Thu **evening** GB | — | Conflicts Flow teach |
 
-**Week score:** Thu only = under. **Tue+Thu** = **goal met** (primary). Wed/Sat backups if Tue slips. Mon EOS ≠ GB.
+**Week score:** Thu only = under. **Tue+Thu (Romulo×2)** = **goal met**. Wed Victor / Sat = backup. Mon EOS ≠ GB.
 
 ## Muay Thai (optional)
 
@@ -82,9 +92,9 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 MT ≠ GB credit. Don’t stack hard GB + hard MT same night. Flow Adults ≠ GB credit and ≠ hard training.
 
 ## Invariants
-- **GB ≥2×/week** is a standing goal (table above)
+- **GB ≥2×/week** is a standing goal — primary **Tue+Thu Romulo noon** + OM
 - **Noon GB3 Open Mat (1:00–1:30) = default stay** whenever he does midday GB — not optional
 - Flow Adults rolling = light (white belts); hard stimulus lives at GB
-- Lifts **Tue + Fri** midday (`strength/lifts.md`) — Monday’s recovered slot goes to **GB**, not the bar
-- Mon daytime = GB #2 when possible + deep work after (wife off — she works Tue–Sat)
-- Sun = Zone 2 + audit (`day/schedule.md`); GB Sun 9:00 exists on flyer but **not** a 2× target (recovery / Flow off)
+- Lifts **Mon (A w/ wife) + Fri (B)** (`strength/lifts.md`)
+- Mon daytime = **EOS w/ Seychelle** (not GB); she works Tue–Sat so Mon is the clean partner slot
+- Sun = Zone 2 + audit (`day/schedule.md`); GB Sun 9:00 exists on flyer but **not** a 2× target
