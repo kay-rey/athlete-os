@@ -17,7 +17,7 @@ Website lobby hours still list Mon–Thu 12–9 · Fri 12–7 · Sat 9–2 · **
 
 | Day | Classes |
 |-----|---------|
-| Mon | Kids 5:30–6:15 · Adults 6:30–7:30 · Women’s 6:30 |
+| Mon | **Class 5:00** (arrive **~4:45**) · Kids 5:30–6:15 · Adults 6:30–7:30 · Women’s 6:30 |
 | Tue | Lil Rollers 5:00–5:30 · Kids 5:30–6:15 · Adults 6:30–7:30 |
 | Wed | Toddler 9:00 · Lil Rollers 10:00 **&** 5:00–5:30 · Kids 5:30–6:15 · Adults 6:30–7:30 · Women’s 6:30 |
 | Thu | Lil Rollers 5:00–5:30 · Kids 5:30–6:15 · Adults 6:30–7:30 |

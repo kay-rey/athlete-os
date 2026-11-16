@@ -10,9 +10,9 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 
 ## 7-day ops
 
-### Monday — GB Northridge #2 (preferred) + deep work + Flow ± MT
-**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch (no psyllium yet)** → sertraline **3:00** → Gate 4 → Flow PM → **psyllium pre-dinner (≥3h after Rx, so ≥6:00)** → dinner + fish oil #2 → optional MT only if not fried.  
-**If skipping Mon GB:** treat as deep-work day; chase #2 Wed or Sat. No Lift A today (bar is Tue/Fri).
+### Monday — GB Northridge #2 (preferred) + deep work + Flow (arrive **~4:45** for **5:00**)
+**No drop-off · best recovered GB day.** Wake ≈10:30–11 → scale → Gate 1 → Gate 5 clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch (no psyllium yet)** → sertraline **3:00** → Gate 4 early enough to leave for Flow → **on mats ~4:45 for 5:00 class** → rest of PM teach (Kids/Adults as scheduled) → **psyllium pre-dinner (≥3h after Rx, so ≥6:00)** → dinner + fish oil #2 → optional MT only if not fried.  
+**If skipping Mon GB** (e.g. ear heal week): easy upper ≤35 min or deep work — chase #2 Wed/Sat when mats OK. No Lift A today (bar is Tue/Fri).
 
 ### Tuesday — Drop-off → second sleep → Lift A + Flow teach
 **Drop-off ~7:40–8:00** → return → **second sleep 90–120 min** → Gate 1 (+30g carbs) + collagen → **Lift A 11:45–12:33** → sertraline → Gate 4 → Flow PM Adults. No GB / no MT. Lights out **≤12:00**.
