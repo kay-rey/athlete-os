@@ -64,6 +64,8 @@ Locked from `archive/research/gemini_bjj_recomp_refresh_2026-11-13.md` (independ
 
 **Tape chat convention (locked 2026-11-13):** user sends `N.k` (e.g. `15.2`) = **N + k/8 inches** (tick count on the 8-tick inch scale), **not** decimal tenths. Agent stores both.
 
+**Navel waist method (SoT):** `athlete/tape_protocol.md` — AM post-void, through navel, snug not crushing, normal exhale, average of 2 reads.
+
 **Wrist / McCallum proportion reference** (heuristic only — not a Gate or calorie input). Ideals from wrist **6.75"**.
 
 | Site | Chat → eighths | Frame “ideal” | Phase use |

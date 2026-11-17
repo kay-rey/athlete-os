@@ -7,6 +7,7 @@ Edit **only** the owning file. Everywhere else links here — do not copy tables
 | Concern | Own here |
 |---------|----------|
 | Identity, Rx, chronotype, anthro targets, energetics, phase dates | `athlete/profile.md` |
+| Navel waist / tape measurement method | `athlete/tape_protocol.md` |
 | Tier A/B/C realism | `athlete/trajectory.md` |
 | Strength/anthro benchmarks | `athlete/milestones.csv` |
 | Flow grid, GB hours, GB 2× priority, Muay Thai rules | `calendar/academies.md` |

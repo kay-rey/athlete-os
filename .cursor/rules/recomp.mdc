@@ -14,7 +14,7 @@ globs: *
 4. `nutrition/phases.csv` + `athlete/milestones.csv`
 5. `calendar/academies.md` + `day/schedule.md` + `life/lifestyle.md` (sleep/work/phone)
 6. `stack/supplements.md` + `strength/lifts.md`
-7. `athlete/trajectory.md` (when discussing goals/progress)
+7. `athlete/trajectory.md` (when discussing goals/progress); navel tape method → `athlete/tape_protocol.md`
 8. `nutrition/recipes/*` when meal-specific
 
 ## Hard guardrails
