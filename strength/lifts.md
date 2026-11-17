@@ -21,6 +21,8 @@ Research basis: `archive/research/grappler_recomp_playbook.md` + Gemini refresh 
 
 **Axial load timing:** no heavy trap-bar / squat within **60 min of waking** (incl. after biphasic second sleep) — discs are hydrated and less bend-tolerant. Default noon / evening slots already clear this; if lifting right after nap, extend warm-up + start with unilateral / upper.
 
+**Right shoulder click/catch on press (patient-reported 2026-11-17):** brief tendon-ish stick on chest/incline. Keep **neutral grip**, **~30° not flat**, controlled tempo, no bounce. Swaps: **landmine press**, **neutral machine incline**, or **floor DB press**. Stop the set if pain is sharp, weak, or sticks for more than a second. Kaiser/MD if it worsens, night pain, or strength drops — OS does not diagnose.
+
 ## Why not a 3rd lift day?
 Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym stimulus.”
 
