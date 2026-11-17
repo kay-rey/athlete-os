@@ -17,7 +17,7 @@ Research basis: `archive/research/grappler_recomp_playbook.md` + Gemini refresh 
 
 **Sciatica flare rule (he still trains through mild flares):** keep sessions, but **bias load off the nerve** — prefer chest-supported rows over bent-over; shorten DL range / lighter trap-bar; swap back extension → light glute bridge or skip D1 if it lights up the leg. Stop a set if pain shoots down the leg (not just stiff). Kaiser owns weakness / saddle numbness / bowel-bladder change.
 
-**Left thigh asymmetry (locked tapes):** R **22 3/8"** vs L **20 6/8"** (~**−14% CSA**). **Left leg first** on every unilateral set; add **1–2 left-only bonus** sets on Lift B. Prefer DB/KB Bulgarian or step-up over bilateral axial when rebuilding the left.
+**Left thigh asymmetry:** First tapes R **22 3/8"** vs L **20 6/8"** looked huge; **remeasure 2026-11-17** → R **22.0"** · L **21 5/8"** (~**−0.4"**). Treat prior gap as likely landmark error. **Keep some unilateral** (BJJ + balance); **Left first** still fine habit. **Bilateral OK** now — goblet / EOS squat machine valid on Lift A. Drop mandatory left-only bonus urgency on Lift B unless remeasure widens again.
 
 **Axial load timing:** no heavy trap-bar / squat within **60 min of waking** (incl. after biphasic second sleep) — discs are hydrated and less bend-tolerant. Default noon / evening slots already clear this; if lifting right after nap, extend warm-up + start with unilateral / upper.
 

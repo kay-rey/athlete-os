@@ -72,7 +72,7 @@ Locked from `archive/research/gemini_bjj_recomp_refresh_2026-11-13.md` (independ
 | Navel waist | **41.0" baseline** | **~30.7"** (aesthetic only) | SoT; Stage 1 → **36.5–37"**; Stage 2 → **33–34"**; 30.7" ≠ pass/fail |
 | Hips | chat 40.1 → **40 1/8"** (horizontal fullest glute) | **~37.3"** | ~+2.8" soft tissue; should fall with navel |
 | Waistband circ | chat 38.4 → **38 4/8"** | pants fit only | Not Phase SoT |
-| Thigh | R 22.3 → **22 3/8"** · L 20.6 → **20 6/8"** | **~23.3"** | **Right** primary; hold muscle |
+| Thigh | R **22.0"** · L **21 5/8"** (remeasure 2026-11-17; old L 20 6/8 likely error) | **~23.3"** | Near-even; hold muscle both |
 | Flexed arm | R 13.5 → **13 5/8"** | **~15.8"** | Fill via compounds |
 | Neck | 15.2 → **15 2/8" (15.25")** | **~16.2"** | Close; keep 4-way neck |
 | Calf | **15"** | **~14.9"** | On target |
