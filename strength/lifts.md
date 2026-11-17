@@ -111,7 +111,7 @@ Warm-up add: **McGill Big 3** (curl-up, side plank, bird dog) inside the 8 min w
 
 | # | Exercise | Sets × reps | Tempo | Rest | Transfer |
 |---|----------|-------------|-------|------|----------|
-| A1 | **DB/KB Bulgarian split squat or step-up — Left first** | 3 × 6–8 / leg | `3-1-X-1` | 2.5 min | Rebuild L thigh CSA; low axial load |
+| A1 | **Belt squat** (EOS default) *or* goblet / BSS / hack squat | 3 × 6–8 | `3-1-X-1` | 2.5 min | Hip-loaded; spine-friendly; hack = backup |
 | B1 | **30° incline DB press** (neutral-ish grip) | 3 × 5–8 | `3-1-X-0` stretch pause | 2.5 min | Clavicular shelf / frames; shoulder-friendly |
 | C1 | **Incline chest-supported DB or machine row** | 3 × 6–10 | `2-1-X-2` squeeze | 2.0 min | Lats/mid-back; lumbar-sparing |
 | D1 | **Farmer or suitcase carry** | 3 × ~40s | brisk, no lean | 90s | Anti-lateral + grip |
@@ -122,7 +122,8 @@ Warm-up add: **McGill Big 3** (curl-up, side plank, bird dog) inside the 8 min w
 ### A substitutions
 | Missing | Use instead |
 |---------|-------------|
-| No split-squat setup | Reverse lunge or step-up — still **Left first** |
+| No belt squat | Hack squat · goblet · BSS/step-up (Left first optional) |
+| No split-squat setup | Reverse lunge or step-up |
 | No neck harness | Band 4-way isometrics against head |
 | No chest-supported row | One-arm DB row, torso braced on bench |
 
