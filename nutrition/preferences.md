@@ -240,7 +240,7 @@ Liked: diner-style eggs / hash browns / sausage / bacon **and** oatmeal. Healthi
 
 | Piece | Taste pull | Phase default (healthiest) |
 |-------|------------|----------------------------|
-| **Eggs** | Scramble / fried | **2 whole + 350–400 g liquid egg whites** ← enough alone |
+| **Eggs** | Scramble / fried | **2 whole + ≤200 g liquid egg whites** (his cap) + top up P with turkey/whey if needed |
 | **Hash browns** | Crispy potato side | **Skip most days** — swaps below |
 | **Sausage / bacon** | Diner meat | **Skip most days.** Craving: turkey sausage **2** *or* turkey bacon **2–3** |
 | **Mexican mix** | Salsa, pico, peppers, tortilla, beans | **Default flavor + volume** |
