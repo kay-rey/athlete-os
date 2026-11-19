@@ -174,3 +174,5 @@ date,approx_time,gate,description,est_kcal,est_protein_g,est_carbs_g,est_fat_g,p
 2026-11-19,,gear,Chili pot empty tare locked 832g — subtract from scale when weighing chili,0,0,0,0,1,portion g = reading − 832; recipe SoT turkey_chili.md,chat
 2026-11-19,,recipe,Chili batch weigh: pot+food 2604g − tare 832g = 1772g chili (99/1 + assume 3 cans),1500,160,181,18,1,per 100g ~85/9.0P/10.2C/1.0F; 443g quarter ~375/40P,chat
 2026-11-19,,recipe,Lose It "1 Pound Turkey Chili" KR 1770g — 99/1 + 3 cans beans + tomatoes + seasoning; portion 440g ≈450 kcal / ~50P / 57C / 2.3F / Na 1407,1811,201,229,9,1,use this custom recipe by grams; sodium high — next pot low-Na packet,loseit
+2026-11-19,Gate1,meal,99/1 turkey chili 437g + GV FF mozzarella 24g + light sour cream 24g,514,56,59,4,0,Na 1582; fiber 18; FO#1 if not taken; P 56 OK floor,loseit
+2026-11-19,,day,Lose It Thu mid Food 514 Under 1736 P56 C59 F4,514,56,59,4,0,need ≥100P by 5; fat very low; no GB; sertraline 3pm; skip midday psyllium start evening ≥6,loseit
