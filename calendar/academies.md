@@ -68,6 +68,8 @@ Evening GB conflicts with Flow teach Mon–Thu — **do not use as primary 2× h
 
 ## GB — **≥2× / week (standing goal)**
 
+**Temporary ear pause (locked 2026-11-19):** no athlete GB **through Sun Nov 22** (14 mm stretch heal). Flow teach OK (coach RPE). Resume **Mon Nov 23 or Tue Nov 24** — **prefer Tue Romulo noon + OM** as first hard return; Mon is Lift A w/ wife anyway. Don’t force Fri Comp to “make up” this week.
+
 Floor = 1 (Thu midday). Target = 2. Three is bonus.
 
 | Priority | When | What to attend | Rule |
