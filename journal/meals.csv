@@ -172,3 +172,4 @@ date,approx_time,gate,description,est_kcal,est_protein_g,est_carbs_g,est_fat_g,p
 2026-11-19,,anthro,Withings month dump — today 188.5 (earlier 188.7); range Wk1-2 ~186.7–189.2,188.5,0,0,0,0,scale flat in creatine ICW band; waist SoT; ignore daily BIA fat/muscle %,withings
 2026-11-19,,anthro,Post-nap weigh-in 187.6 (AM was 188.5/188.7); normal intra-day drop,187.6,0,0,0,0,ignore BIA 29% flip; Gate1+FO then rest of Thu plan (no GB),withings
 2026-11-19,,gear,Chili pot empty tare locked 832g — subtract from scale when weighing chili,0,0,0,0,1,portion g = reading − 832; recipe SoT turkey_chili.md,chat
+2026-11-19,,recipe,Chili batch weigh: pot+food 2604g − tare 832g = 1772g chili (99/1 + assume 3 cans),1500,160,181,18,1,per 100g ~85/9.0P/10.2C/1.0F; 443g quarter ~375/40P,chat

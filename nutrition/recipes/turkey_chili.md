@@ -7,6 +7,14 @@ Liked meal deep-dive. Taste rules → `nutrition/preferences.md`. Macros → `nu
 - **Chili portion grams** = (scale reading with pot) − **832**.
 - Prefer logging by **grams of chili** in Lose It custom recipe once the full cooked batch weight is known (finished pot on scale − 832). Quarters are estimates until he does that.
 
+### Batch weigh-in example (2026-11-19)
+- Scale with pot: **2,604 g** → chili = **2,604 − 832 = 1,772 g**
+- Assumed build: **1 lb 99/1 turkey · 3 cans beans rinsed · 1 can diced tomatoes · 1 chili packet** (confirm if different)
+- Whole pot macros (estimate): **~1,500 kcal · 160P · 181C · 18F**
+- **Per 100 g chili:** **~85 kcal · 9.0P · 10.2C · 1.0F**
+- **¼ by weight (443 g):** **~375 kcal · 40P · 45C · 4.5F**
+- **½ by weight (886 g):** **~750 kcal · 80P · 90C · 9F**
+
 ## Your build
 Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle conflict.
 
