@@ -21,6 +21,12 @@
 - **Creatine:** any plain monohydrate 5g is fine — brand doesn’t matter once it’s mono.
 - **SF Liquid I.V. vs sugared LIV:** sugar-free is the correct SKU (sugared LIV was the skip). His SF sticks **replace** needing Kirkland Hydration / LMNT for now.
 - Optional later: K2 MK-7, rTG fish oil, Mg L-threonate.
+- Optional ergogenics (after psyllium habit; **no stim pre-workout** — panic/caffeine risk):
+  - **Beetroot** (already helps him) — juice/powder **~2–3 h pre-GB**
+  - **L-Citrulline** (plain) **6–8 g** or **citrulline malate 2:1 ~8–10 g** — **30–60 min pre-GB / pre-lift**; brands: Nutricost / BulkSupplements / NOW single-ingredient powder (Amazon/iHerb). Prefer **pure L-citrulline** over under-dosed blends.
+  - **Beta-alanine** plain powder **3–5 g/day** (CarnoSyn OK, any pure fine) — **daily**, not only training days; tingles normal. Nutricost / BulkSupplements.
+  - **Skip Costco/Sam’s stim pres** (Mr Hyde, KAGED, RAW CBUM, etc.) — caffeine stacks you don’t need.
+  - **Lifting:** creatine + collagen/Vit C + Gate food already own the lift; citrulline is the optional pump add on Lift A/B.
 
 ## Buy at home Costco (Via Princessa) — exact SKUs
 
