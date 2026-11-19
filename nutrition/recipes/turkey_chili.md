@@ -2,6 +2,11 @@
 
 Liked meal deep-dive. Taste rules → `nutrition/preferences.md`. Macros → `nutrition/phases.csv`. Gates → `day/schedule.md`.
 
+## Weighing (locked 2026-11-19)
+- **Empty chili pot (tare):** **832 g** — always subtract this when he weighs the pot + chili.
+- **Chili portion grams** = (scale reading with pot) − **832**.
+- Prefer logging by **grams of chili** in Lose It custom recipe once the full cooked batch weight is known (finished pot on scale − 832). Quarters are estimates until he does that.
+
 ## Your build
 Ground turkey + beans + chili mix packet + canned tomatoes. Fits **American + bean/Milpa** rules. No pickle conflict.
 
