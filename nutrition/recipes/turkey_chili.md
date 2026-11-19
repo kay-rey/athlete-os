@@ -51,9 +51,21 @@ Target ≈ Gate protein (~50g) + bean carbs. Numbers below assume **99/1**.
 
 **Phase 1 daily budget hit (2,250 / 185P / 215C / 72F):** ~21% kcal · ~34% protein · ~20% carbs · **~11% fat** — leaves fat room for avocado / fish oil. Pair with multi at lunch if Gate 3; light crema optional.
 
-## Batch cook (Sun) — ~4 Gate bowls
+## Batch cook — **1 lb 99/1** (his usual pot) · ~4 quarters
+Default meat: **99/1 turkey**. Beans: **2 cans OK · 3 cans better** for satiety/carbs (bean-heavy).
+
+| Pot (1 lb raw 99/1 + 1 can diced tomatoes + 1 chili packet + rinsed beans) | kcal | P | C | F |
+|----------------------------------------------------------------------------|------|---|---|---|
+| **2 cans** beans — whole pot | **~1,220** | **~143** | **~132** | **~15** |
+| **2 cans** — **¼ pot** | **~305** | **~36** | **~33** | **~4** |
+| **3 cans** beans — whole pot | **~1,500** | **~160** | **~181** | **~18** |
+| **3 cans** — **¼ pot** | **~375** | **~40** | **~45** | **~4.5** |
+
+Meat alone (**1 lb raw 99/1** label-style): ~**485 kcal · 105P · 6F**. Rest is beans/tomatoes/seasoning. Rinse beans. Log a Lose It custom recipe when you weigh the finished pot.
+
+### Big batch (Sun) — ~8 quarters / 2 lb
 - **2.0 lbs** raw **99/1 turkey** (default) **or 96/4 beef** (swap); browned — drain beef well; splash water/broth if turkey sticks
-- **2 cans** (15 oz) black or pinto beans, **rinsed**
+- **4 cans** beans if scaling the 2-can pot · **6 cans** if scaling the 3-can pot — **rinsed**
 - **2 cans** (14.5 oz) diced tomatoes — **no salt added** if available
 - **1 packet McCormick Original Chili Seasoning** (stretch with extra cumin/chili powder rather than 2 full packets unless you need the salt) — beans/tomatoes brands → `pantry.md`
 - Optional: onion, bell pepper, jalapeño for volume
