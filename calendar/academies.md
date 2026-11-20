@@ -79,7 +79,7 @@ Floor = 1 (Thu midday). Target = 2. Three is bonus.
 | **2b Backup** | **Wed** after Flow AM | **Victor** noon **12:00 + OM** · else **10:45 GB3 No-Gi** | If Tue missed (ear / sick / travel). |
 | **2c Backup** | **Sat 12:00–1:00** (after cleanup) | GB1/GB2 midday | If Tue+Wed missed. |
 | **3 Last resort** | **Fri** | **11:00 Comp** or Fri **6:00** No-Gi | Only to finish 2×. |
-| Blocked | **Mon noon** (wife EOS + Lift A) · **Fri noon** (Lift B) · **Mon/Wed eve GB3** (Romulo, but Flow) | — | Partner gym / Lift B / teach |
+| Blocked | **Mon noon** (wife EOS + Lift A) · **Fri evening** (wife EOS + Lift B, locked) · **Mon/Wed eve GB3** (Romulo, but Flow) | — | Partner gym / Lift B / teach |
 | Avoid as primary | Mon–Thu **evening** GB | — | Conflicts Flow teach |
 
 **Week score:** Thu only = under. **Tue+Thu (Romulo×2)** = **goal met**. Wed Victor / Sat = backup. Mon EOS ≠ GB.

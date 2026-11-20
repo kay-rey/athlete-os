@@ -30,9 +30,8 @@ Class times are not re-listed here — pull from `calendar/academies.md`.
 Drop-off → return → **second sleep** → Gate 1 → short work → clamp → **GB 12:00–1:00** → **stay GB3 Open Mat 1:00–1:30** (default) → WPI+creatine → **lunch without psyllium** → sertraline **3:00** → Gate 4 → Flow PM light → **psyllium pre-dinner (≥3h after Rx, so ≥6:00)**. No MT. Wife pickup ~5:00 as needed.  
 **Ear pause (locked 2026-11-19):** **no GB through Sun Nov 22.** Thu = Gate food + Flow teach only (optional easy upper / Zone 2 — not a hard lift). Resume mats **Mon or Tue next week** (prefer **Tue Romulo noon**).
 
-### Friday — Drop-off → second sleep → Lift B (noon default · evening OK w/ Seychelle)
-Drop-off → **second sleep** → Gate 1 + collagen → deep work → **Lift B 11:45–12:33** default (Zero-Grinder if sleep trash). **Alt:** evening EOS ~**6–7** after wife’s Walmart shift (guest Day 1 / Session 2+) — still ≤48 min Lift B, **fuel hard before** (no 193-kcal days). Prefer **no GB**. Last-resort 2× → `calendar/academies.md`. Lights out ≤12:00 for Sat.  
-**This Fri (Nov 20) during ear pause:** still do **Lift B** (EOS noon or eve w/ wife) — gym ≠ lobe snag risk.
+### Friday — Drop-off → second sleep → deep work → **EOS Lift B w/ Seychelle after her shift** (locked 2026-11-20)
+Drop-off → **second sleep** → Gate 1 → deep work / admin → **sertraline 3:00** → Gate 4 → **wife pickup ~5:00** → **EOS ~6–7** (**Lift B** ≤48 min · she **Session 2+ glutes**). **Collagen + Vit C** 30–60 min pre-lift (often with late-afternoon snack). **Fuel hard before gym** (no 193-kcal days). Prefer **no GB**. Noon Lift B only if she can’t go. Lights out ≤12:00 for Sat.
 
 ### Saturday — Drop-off → Flow AM + cleanup → GB if Wed missed
 Drop-off → Flow AM teach → mat cleanup. GB **12:00–1:00 only if Wed skipped**. Else Reyes shoot if booked or done for 2× with Thu.

@@ -101,15 +101,19 @@ Skip anything that hurts. Swap similar machines. **No free-bar compounds** until
 - After **4–6** focused sessions → 3rd set on leg curl + thrust/kickback
 - Never copy his RPE curve or trap-bar work
 
-## Monday partner EOS (locked 2026-11-16)
-**Default weekly:** he takes her **Monday midday** instead of Mon GB. She runs **Session 2+ glutes/vanity**. He runs **Lift A** that day *or* easy/upper if Lift A already hit — see week plan in chat/`day/schedule.md`.  
-**GB ≥2×** = **Tue + Thu** (`calendar/academies.md`) — Tue freed because Lift A is Monday.
+## Partner EOS defaults (locked)
+### Monday midday (locked 2026-11-16)
+He takes her **Monday midday** instead of Mon GB. She **Session 2+ glutes/vanity**. He **Lift A**.  
+**GB ≥2×** = **Tue + Thu** — Tue freed because Lift A is Monday.
 
-## Extra EOS days (Fri evening / Sat / etc.)
-**She can go 2–3×/week** on **glutes / vanity**. He does **not** auto-add extra heavy squat/trap-bar days. On non-lift partner add-ons:
+### Friday evening after her shift (locked 2026-11-20)
+**Regular weekly:** pickup ~**5:00** → EOS ~**6–7**. She **Session 2+ glutes/vanity**. He **Lift B** (≤48 min). This **is** his Friday MED — not an “extra” day. Noon Lift B only if she can’t go.
+
+## Extra EOS days (Sat / midweek add-ons beyond Mon+Fri)
+**She can go 2–3×/week** on **glutes / vanity**. He does **not** auto-add a **third** heavy squat/trap-bar day. On non-MED partner add-ons:
 - **Default for him:** **upper-body easy day** — **RPE ≤6**, ≤30–35 min  
 - **Avoid:** trap bar, front/goblet squat, heavy split squats, failure  
-- Hierarchy: **GB (Thu+Wed/Sat) > plates**; Mon EOS is household priority over Mon GB
+- Hierarchy: **GB (Tue+Thu) > plates**; Mon + Fri EOS are household lift defaults
 
 ## Agent behavior
 - First session / “intro tonight” → **Day 1**  

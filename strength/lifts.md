@@ -42,15 +42,15 @@ Your limiting resource is **recovery for GB ≥2× + coaching**, not “more gym
 |--|------|
 | **Lift A** | **Monday midday** (default w/ Seychelle EOS — locked 2026-11-16) · frees **Tue noon for GB** |
 | ~~Old Tue Lift A~~ | Retired as default — Tue = GB #2 when Mon Lift A lands |
-| **Lift B** | **Friday 11:45–12:33** (default) · **evening EOS OK** when partnering Seychelle (~6–7) — still ≤48 min, no GB stack |
-| Prep | Gate 1 (+**~30g carbs**) → **collagen 15–20g + Vit C** 30–60 min pre → warm-up |
+| **Lift B** | **Friday evening EOS ~6–7** after Seychelle’s Walmart shift (**locked 2026-11-20**) — ≤48 min, no GB stack · noon only if she can’t go |
+| Prep | Gate 1 (+**~30g carbs** earlier) → **collagen 15–20g + Vit C** 30–60 min pre → warm-up |
 
-**Why not Lift A on Monday?** Monday’s recovered no-drop-off slot is **better spent at GB Northridge** (GB ≥2× beats bar work when they conflict — hierarchy: GB skill > plate). Lift A sits Tue after second sleep; use Zero-Grinder mindset if still foggy.
+**Partner week defaults:** **Mon midday Lift A** + **Fri evening Lift B** with Seychelle. GB stays **Tue + Thu**.
 
-No GB stacked on **Lift B** day. Fri evening partner session replaces noon when needed — still Zero-Grinder (−5%) if Thu GB fried you.
+No GB stacked on **Lift B** day. Zero-Grinder (−5%) if sleep trash or residual fatigue (ear week / hard Thu when GB resumes).
 
 ## Gym choice
-**Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Tue/Fri noon**.
+**Default: EOS Fitness** (or LA Fitness). Fancy PL gyms (~$90/mo) not required. Further drive OK if dues stay low and you hit **Mon midday Lift A + Fri evening Lift B**.
 
 ### EOS plans (ACH prices from their site — +tax; **$59.99 annual fee** all tiers; local stickers vary)
 | Plan | Mo (site “as low as”) | What it is |
@@ -143,7 +143,7 @@ Warm-up add: **McGill Big 3** (curl-up, side plank, bird dog) inside the 8 min w
 
 **Sciatica >2/10 on hinge:** swap A1 → **hip thrust + goblet squat** (same RPE cap).  
 **Thu hard GB → Fri Lift B:** if bar speed is slow or sleep is trash, **−5% load** (Zero-Grinder).  
-**Evening partner Fridays:** same template; she does Day 1 / Session 2+ machines alone (`household/seychelle.md`).
+**Friday evening (default):** same Lift B template; she does **Session 2+** machines alone (`household/seychelle.md`).
 
 **Extra EOS days with Seychelle (Sat / midweek guest):** she runs **glute/vanity Session 2+** as often as she wants (**2–3×/week** OK). **You** default to an **easy upper day** (incline or machine press, row, pulldown, optional arms — RPE ≤6, ≤35 min) — **not** a third squat/hinge MED. Spare legs/glutes for GB + Tue/Fri. Real 3rd lift only later if GB/sleep/waist are green (`When to reconsider 3×` above).
 
