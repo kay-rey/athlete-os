@@ -108,7 +108,7 @@ That pattern is **intentional biphasic sleep**: a short forced wake for a real j
 | **Tue** | Second sleep → Gate 1 + collagen → **Lift A** → short work | Flow teach |
 | **Wed** | Drop-off → **straight to Flow 9:00** (no home nap) | GB **only if Mon missed + green**; else recover → Flow PM |
 | **Thu** | Second sleep → Gate 1 → short work | Gate 5 GB midday → Flow PM light |
-| **Fri** | Second sleep → deep work → **Lift B** (Zero-Grinder if sleep trash) | Free / family / light Reyes admin |
+| **Fri** | Second sleep → deep work → **EOS Lift B w/ Seychelle ~6–7** after her shift | Family / light Reyes admin earlier |
 | **Sat** | Second sleep if needed → Flow AM + cleanup | GB only if Wed missed · else Reyes shoot if booked |
 | **Sun** | Weigh + Zone 2 + grocery | Sleep bank · MasterBJJ planning ≤60–90 min |
 
