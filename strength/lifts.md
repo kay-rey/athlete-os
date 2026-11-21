@@ -137,7 +137,7 @@ Warm-up add: **McGill Big 3** (curl-up, side plank, bird dog) inside the 8 min w
 |---|----------|-------------|-------|------|----------|
 | A1 | **High-handle trap-bar deadlift** | 2–3 × 5–6 | `2-1-X-1` dead-stop | 3.0 min | Hip RFD / traps; RPE ≤8.0 (2–3 RIR) |
 | B1 | **Neutral-grip DB OHP** (seated preferred) *or landmine* | 3 × 6–8 | `2-1-X-1` | 2.5 min | Frames / posts; neutral spine |
-| C1 | **Neutral-grip lat pulldown** *(→ assisted/band pull-up at ≤180 lb)* | 3 × 6–10 | `2-1-X-1` | 2.0 min | Lats; elbow-friendlier than wide pronated |
+| C1 | **Neutral-grip lat pulldown** *(→ band-assist / chest-to-bar pull-up as BW drops — calisthenics track)* | 3 × 6–10 | `2-1-X-1` | 2.0 min | Lats + pull-up runway; elbow-friendlier than wide pronated |
 | D1 | **Left-only split squat or step-up bonus** | 1–2 × 8–10 (L) | controlled | 90s | Asymmetry closer |
 | D2 | **Suitcase carry** (optional if time) | 2 × 30m/hand | brisk, no lean | 90s | Anti-lateral + grip |
 
