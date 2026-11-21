@@ -3,7 +3,7 @@
 ## Subject
 - 32yo male BJJ brown belt (turns 33 Jan 20, 2027), 5'5" (165.1 cm)
 - Coaches **Flow Jiu Jitsu**; trains athlete BJJ at **Gracie Barra Northridge** (**≥2×/week goal** — see `calendar/academies.md`)
-- **Competition:** does **not** plan to compete in BJJ (locked 2026-11-20) — mats = skill / fun / conditioning + coaching. Gym goals alongside recomp: **high relative strength** + **calisthenics** (pull-ups, etc.) at goal bodyweight.
+- **Competition:** does **not** plan to compete (locked 2026-11-20) — still aims to be **elite as a non-competitor**: high-level brown-belt skill, timing, pressure, and mat IQ at GB + as a Flow coach. Mats ≠ “just hobby cardio.” Gym alongside recomp: **high relative strength** + **calisthenics** at goal bodyweight (supports that mat standard).
 - Guatemalan descent (SLC16A11, **LCT-13910 CC** = *genetic risk* of adult lactase non-persistence, ABCA1 R230C risk profile)  
   **Phenotype (patient-reported 2026-11-08):** regularly drinks milk and eats lactose dairy **without knowing the gene / without a clear intolerance story**. **Gut symptoms trump the genotype.** Treat CC as a flag to *watch*, not an automatic ban on all lactose. Whey: prefer isolate if easy; **ON / concentrate OK if he stays comfortable** (see `stack/supplements.md`).
 - Chronotype (preference): bed ≈ 2:00–3:00 AM · wake ≈ 11:00 AM — **only fully available Sun→Mon**.  
