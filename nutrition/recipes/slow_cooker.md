@@ -29,19 +29,21 @@ Full macros → `turkey_chili.md`. Crock version:
 ---
 
 ## 2. Chicken tortilla soup (best Milpa pot)
+**Full recipe (no strips):** → [`chicken_tortilla_soup.md`](chicken_tortilla_soup.md)
+
 | In the pot | Amount |
 |------------|--------|
 | Chicken breast (his preference — not thighs) | **1.5–2 lb** |
-| Low-sodium chicken broth | **4–6 cups** |
+| Low-sodium chicken broth | **6 cups** |
 | Diced tomatoes | **1–2 cans** |
-| Black beans, rinsed | **1–2 cans** |
+| Black beans, rinsed | **2 cans** |
 | Frozen corn (optional) | **1 cup** |
-| Onion + garlic | 1 onion, 3 cloves |
+| Onion + garlic | 1 onion, 3–4 cloves |
 | Chili powder, cumin, oregano, salt | To taste |
 | Lime (no cilantro — wife dislike) | Finish at serving |
 
 **Cook:** Low **6–7 h** or High **3–4 h**. Shred chicken in pot; stir.  
-**Serve:** Bowl of soup + **few** baked corn tortilla strips (or 1 warm tortilla on the side if carbs allow). Light avocado OK. Skip sour cream lake.  
+**Serve:** Bowl only — **no tortilla strips**. Optional 1 warm corn tortilla or light avocado. Skip sour cream lake.  
 **Pressure (multi-cooker):** ~12–15 min high pressure + natural release 10 min, then shred.
 
 **Target bowl:** ~45–55P · beans for carbs · not a chip mountain.
